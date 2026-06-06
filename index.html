@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="de">
+<html lang="en">
 <head>
 <meta charset="utf-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1" />
@@ -67,33 +67,33 @@
 <div class="wrap">
   <header>
     <h1><span class="tag" id="prefix">[YCY]</span> <span id="gname">YuChaYuan</span> · TNA Tracker</h1>
-    <span class="sub" id="updated">lädt…</span>
+    <span class="sub" id="updated">loading…</span>
   </header>
-  <div class="sub" id="tagline">Wer spielt mit wem? — abgeleitet aus TNA-Completions im selben Zeitfenster (alle 96 Member, auch offline/versteckt). Server-Übereinstimmung bestätigt das Paar zusätzlich.</div>
+  <div class="sub" id="tagline">Who plays with whom? — inferred from TNA completions rising in the same window (all 96 members, including offline/hidden). A matching server additionally confirms the pair.</div>
 
   <div class="stats" id="stats"></div>
 
   <div class="tabs">
-    <div class="tab active" data-view="pairs">Wer mit wem</div>
-    <div class="tab" data-view="explorer">Partner-Explorer</div>
-    <div class="tab" data-view="grinders">TNA-Grinder</div>
-    <div class="tab" data-view="runs">Letzte Runs</div>
+    <div class="tab active" data-view="pairs">Who with whom</div>
+    <div class="tab" data-view="explorer">Partner explorer</div>
+    <div class="tab" data-view="grinders">TNA grinders</div>
+    <div class="tab" data-view="runs">Recent runs</div>
   </div>
 
   <div class="panel">
     <div class="view active" id="view-pairs">
-      <div class="hint">Paare sortiert nach gemeinsam erkannten TNA-Runs (stärkstes Signal), dann gemeinsamer Server-Zeit. Klick auf eine Spaltenüberschrift zum Umsortieren.</div>
+      <div class="hint">Pairs sorted by detected TNA runs together (strongest signal), then shared server time. Click a column header to re-sort.</div>
       <table id="pairsTable"></table>
     </div>
     <div class="view" id="view-explorer">
       <div class="explorer-head">
-        <label for="memberSel">Mitglied:</label>
+        <label for="memberSel">Member:</label>
         <select id="memberSel"></select>
       </div>
       <table id="explorerTable"></table>
     </div>
     <div class="view" id="view-grinders">
-      <div class="hint">TNA-Completions seit Tracking-Start (gained) und gesamt — für alle Member (online wie offline), gelesen aus dem Gilden-Endpunkt.</div>
+      <div class="hint">TNA completions since tracking start (gained) and total — for all members (online and offline), read from the guild endpoint.</div>
       <table id="grindersTable"></table>
     </div>
     <div class="view" id="view-runs">
@@ -107,13 +107,13 @@
 <script>
 const $ = (s) => document.querySelector(s);
 const bust = () => "?t=" + Date.now();
-const fmtTs = (ts) => { const d = new Date(ts); return d.toLocaleString("de-DE", { dateStyle: "short", timeStyle: "short" }); };
+const fmtTs = (ts) => { const d = new Date(ts); return d.toLocaleString("en-GB", { dateStyle: "short", timeStyle: "short" }); };
 const ago = (ts) => {
   const s = (Date.now() - new Date(ts).getTime()) / 1000;
-  if (s < 90) return "gerade eben";
-  if (s < 3600) return Math.round(s/60) + " min";
-  if (s < 86400) return Math.round(s/3600) + " h";
-  return Math.round(s/86400) + " d";
+  if (s < 90) return "just now";
+  if (s < 3600) return Math.round(s/60) + " min ago";
+  if (s < 86400) return Math.round(s/3600) + " h ago";
+  return Math.round(s/86400) + " d ago";
 };
 
 let STATE = null, PAIRS = null, RUNS = null;
@@ -134,21 +134,21 @@ function nameOf(uuid) { return MEMBERS[uuid]?.username || uuid.slice(0,8); }
 function onlineOf(uuid) { return !!MEMBERS[uuid]?.online; }
 
 function render() {
-  if (!STATE) { $("#updated").textContent = "keine Daten"; return; }
+  if (!STATE) { $("#updated").textContent = "no data"; return; }
   const g = STATE.guild || {};
   $("#prefix").textContent = "[" + (g.prefix || "YCY") + "]";
   $("#gname").textContent = g.name || "YuChaYuan";
-  $("#updated").textContent = "Stand: " + fmtTs(STATE.updated) + " (" + ago(STATE.updated) + ")";
+  $("#updated").textContent = "Updated: " + fmtTs(STATE.updated) + " (" + ago(STATE.updated) + ")";
 
   const mem = Object.values(MEMBERS);
   const withTna = mem.filter(m => m.tna != null);
   const totalGained = withTna.reduce((a, m) => a + (m.gained || 0), 0);
   const stats = [
-    ["Mitglieder", STATE.memberCount],
+    ["Members", STATE.memberCount],
     ["Online", STATE.online],
-    ["TNA-Runs erkannt", (RUNS.runs||[]).length],
-    ["Paare erkannt", Object.keys(PAIRS.tna||{}).length],
-    ["TNA seit Start", totalGained],
+    ["TNA runs detected", (RUNS.runs||[]).length],
+    ["Pairs detected", Object.keys(PAIRS.tna||{}).length],
+    ["TNA since start", totalGained],
   ];
   $("#stats").innerHTML = stats.map(([k,v]) => `<div class="stat"><b>${v}</b><span>${k}</span></div>`).join("");
 
@@ -156,7 +156,7 @@ function render() {
   renderExplorer();
   renderGrinders();
   renderRuns();
-  $("#footer").textContent = "Aktualisiert alle paar Minuten via GitHub Actions · Alle Member über den Gilden-Endpunkt (online + offline) · Signal: gemeinsame TNA-Completions pro Zeitfenster, per Server bestätigt.";
+  $("#footer").textContent = "Updated every few minutes via GitHub Actions · All members via the guild endpoint (online + offline) · Signal: shared TNA completions per window, confirmed by server.";
 }
 
 // ── combined pair list ───────────────────────────────────────
@@ -181,7 +181,7 @@ function pairRows() {
 let pairsSort = { key: "runs", dir: -1 };
 function renderPairs() {
   const rows = pairRows();
-  if (!rows.length) { $("#pairsTable").innerHTML = `<tbody><tr><td class="empty">Noch keine Paare erkannt — kommt sobald Member zusammen TNA spielen.</td></tr></tbody>`; return; }
+  if (!rows.length) { $("#pairsTable").innerHTML = `<tbody><tr><td class="empty">No pairs detected yet — they'll show up as members run TNA together.</td></tr></tbody>`; return; }
   rows.sort((x, y) => {
     const k = pairsSort.key;
     let d = (y[k] > x[k]) ? 1 : (y[k] < x[k] ? -1 : 0);
@@ -190,11 +190,11 @@ function renderPairs() {
   });
   const maxRuns = Math.max(1, ...rows.map(r => r.runs));
   const head = `<thead><tr>
-    <th>#</th><th>Paar</th>
-    <th class="num sortable" data-k="runs">TNA-Runs</th>
-    <th class="num sortable" data-k="confirmed" title="Runs mit beiden auf demselben Server bestätigt">✓ Server</th>
-    <th class="num sortable" data-k="samples">Server-Samples</th>
-    <th class="num sortable" data-k="lastTs">zuletzt</th>
+    <th>#</th><th>Pair</th>
+    <th class="num sortable" data-k="runs">TNA runs</th>
+    <th class="num sortable" data-k="confirmed" title="Runs confirmed with both on the same server">✓ server</th>
+    <th class="num sortable" data-k="samples">Server samples</th>
+    <th class="num sortable" data-k="lastTs">last</th>
   </tr></thead>`;
   const body = rows.slice(0, 100).map((r, i) => `<tr>
     <td class="num muted">${i+1}</td>
@@ -231,18 +231,18 @@ function renderExplorer() {
 }
 
 function renderPartners(uuid) {
-  if (!uuid) { $("#explorerTable").innerHTML = `<tbody><tr><td class="empty">Kein Mitglied gewählt.</td></tr></tbody>`; return; }
+  if (!uuid) { $("#explorerTable").innerHTML = `<tbody><tr><td class="empty">No member selected.</td></tr></tbody>`; return; }
   const rows = pairRows().filter(r => r.a === uuid || r.b === uuid).map(r => {
     const other = r.a === uuid ? r.b : r.a;
     return { other, runs: r.runs, confirmed: r.confirmed, samples: r.samples, lastTs: r.lastTs };
   });
   rows.sort((x, y) => (y.runs - x.runs) || (y.samples - x.samples));
   const m = MEMBERS[uuid];
-  const meta = m ? `<span class="badge">TNA gesamt: ${m.tna ?? "–"}</span> <span class="badge">seit Start: +${m.gained || 0}</span> <span class="badge">${m.online ? "online · " + (m.server||"") : "offline"}</span>` : "";
+  const meta = m ? `<span class="badge">TNA total: ${m.tna ?? "–"}</span> <span class="badge">since start: +${m.gained || 0}</span> <span class="badge">${m.online ? "online · " + (m.server||"") : "offline"}</span>` : "";
   $(".explorer-head").querySelectorAll(".badge").forEach(b => b.remove());
   $(".explorer-head").insertAdjacentHTML("beforeend", meta);
-  if (!rows.length) { $("#explorerTable").innerHTML = `<tbody><tr><td class="empty">Noch keine Partner für ${nameOf(uuid)} erkannt.</td></tr></tbody>`; return; }
-  const head = `<thead><tr><th>#</th><th>Partner</th><th class="num">TNA-Runs</th><th class="num">✓ Server</th><th class="num">Server-Samples</th><th class="num">zuletzt</th></tr></thead>`;
+  if (!rows.length) { $("#explorerTable").innerHTML = `<tbody><tr><td class="empty">No partners detected for ${nameOf(uuid)} yet.</td></tr></tbody>`; return; }
+  const head = `<thead><tr><th>#</th><th>Partner</th><th class="num">TNA runs</th><th class="num">✓ server</th><th class="num">Server samples</th><th class="num">last</th></tr></thead>`;
   const body = rows.map((r, i) => `<tr>
     <td class="num muted">${i+1}</td>
     <td>${dot(r.other)}${nameOf(r.other)}</td>
@@ -258,7 +258,7 @@ function renderPartners(uuid) {
 let grindSort = { key: "gained", dir: -1 };
 function renderGrinders() {
   const rows = Object.values(MEMBERS).filter(m => m.tna != null);
-  if (!rows.length) { $("#grindersTable").innerHTML = `<tbody><tr><td class="empty">Noch keine TNA-Daten.</td></tr></tbody>`; return; }
+  if (!rows.length) { $("#grindersTable").innerHTML = `<tbody><tr><td class="empty">No TNA data yet.</td></tr></tbody>`; return; }
   rows.sort((x, y) => {
     const k = grindSort.key;
     let d;
@@ -267,10 +267,10 @@ function renderGrinders() {
     return grindSort.dir < 0 ? d : -d;
   });
   const head = `<thead><tr>
-    <th class="sortable" data-k="username">Mitglied</th>
-    <th class="sortable" data-k="rank">Rang</th>
-    <th class="num sortable" data-k="gained">+ seit Start</th>
-    <th class="num sortable" data-k="tna">TNA gesamt</th>
+    <th class="sortable" data-k="username">Member</th>
+    <th class="sortable" data-k="rank">Rank</th>
+    <th class="num sortable" data-k="gained">+ since start</th>
+    <th class="num sortable" data-k="tna">TNA total</th>
     <th>Status</th>
   </tr></thead>`;
   const body = rows.map(m => `<tr>
@@ -278,7 +278,7 @@ function renderGrinders() {
     <td class="rank">${m.rank}</td>
     <td class="num gain">${m.gained ? "+" + m.gained : "0"}</td>
     <td class="num">${m.tna}</td>
-    <td>${m.online ? `<span class="srv">${m.server || "online"}</span>` : `<span class="muted">${m.lastSeen ? ago(m.lastSeen)+" her" : "offline"}</span>`}</td>
+    <td>${m.online ? `<span class="srv">${m.server || "online"}</span>` : `<span class="muted">${m.lastSeen ? ago(m.lastSeen) : "offline"}</span>`}</td>
   </tr>`).join("");
   $("#grindersTable").innerHTML = head + `<tbody>${body}</tbody>`;
   $("#grindersTable").querySelectorAll("th.sortable").forEach(th => th.onclick = () => {
@@ -292,12 +292,12 @@ function dot2(m) { return `<span class="dot ${m.online ? "on" : ""}"></span>`; }
 // ── recent runs ──────────────────────────────────────────────
 function renderRuns() {
   const runs = (RUNS.runs || []).slice().reverse();
-  if (!runs.length) { $("#runsTable").innerHTML = `<tbody><tr><td class="empty">Noch keine TNA-Runs erkannt.</td></tr></tbody>`; return; }
-  const head = `<thead><tr><th>Wann</th><th>Quelle</th><th>Konfidenz</th><th>Spieler (TNA-Zuwachs)</th></tr></thead>`;
+  if (!runs.length) { $("#runsTable").innerHTML = `<tbody><tr><td class="empty">No TNA runs detected yet.</td></tr></tbody>`; return; }
+  const head = `<thead><tr><th>When</th><th>Source</th><th>Confidence</th><th>Players (TNA gain)</th></tr></thead>`;
   const body = runs.slice(0, 150).map(r => `<tr class="runline">
     <td class="muted">${fmtTs(r.ts)}</td>
-    <td>${r.server ? `<span class="srv">${r.server}</span>` : '<span class="muted">offline/versteckt</span>'}</td>
-    <td>${r.confirmed ? '<span class="conf s">Server ✓</span>' : '<span class="conf w">window</span>'}${r.crowded ? ' <span class="conf w">crowded</span>' : ''}</td>
+    <td>${r.server ? `<span class="srv">${r.server}</span>` : '<span class="muted">offline/hidden</span>'}</td>
+    <td>${r.confirmed ? '<span class="conf s">server ✓</span>' : '<span class="conf w">window</span>'}${r.crowded ? ' <span class="conf w">crowded</span>' : ''}</td>
     <td class="who">${r.players.map(p => `${p.username} <span class="muted">+${p.delta}</span>`).join(", ")}</td>
   </tr>`).join("");
   $("#runsTable").innerHTML = head + `<tbody>${body}</tbody>`;
