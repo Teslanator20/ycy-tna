@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-06T18:38:49.334Z",
+  "updated": "2026-06-06T18:47:42.183Z",
   "guild": {
     "name": "YuChaYuan",
     "prefix": "YCY",
@@ -15,25 +15,27 @@
       "rank": "owner",
       "online": false,
       "server": null,
-      "lastServer": null,
-      "tna": null,
-      "baselineTna": null,
-      "baselineTs": null,
+      "tna": 59,
+      "baselineTna": 59,
+      "baselineTs": "2026-06-06T18:47:42.183Z",
       "gained": 0,
       "lastSeen": null,
-      "byDay": {}
+      "lastRaid": null,
+      "byDay": {
+        "2026-06-06": 59
+      }
     },
     "4791eb57-3607-4647-8d4f-59aaa879c5a4": {
       "username": "0110jimmy",
       "rank": "chief",
       "online": true,
       "server": "AS13",
-      "lastServer": "AS13",
       "tna": 1502,
       "baselineTna": 1502,
-      "baselineTs": "2026-06-06T18:37:03.672Z",
+      "baselineTs": "2026-06-06T18:47:42.183Z",
       "gained": 0,
-      "lastSeen": "2026-06-06T18:38:49.334Z",
+      "lastSeen": "2026-06-06T18:47:42.183Z",
+      "lastRaid": null,
       "byDay": {
         "2026-06-06": 1502
       }
@@ -43,25 +45,27 @@
       "rank": "chief",
       "online": false,
       "server": null,
-      "lastServer": null,
-      "tna": null,
-      "baselineTna": null,
-      "baselineTs": null,
+      "tna": 1570,
+      "baselineTna": 1570,
+      "baselineTs": "2026-06-06T18:47:42.183Z",
       "gained": 0,
       "lastSeen": null,
-      "byDay": {}
+      "lastRaid": null,
+      "byDay": {
+        "2026-06-06": 1570
+      }
     },
     "497f4a05-e2e7-4e0b-97f5-bc1fdf4c7522": {
       "username": "MrMud8033112",
       "rank": "chief",
       "online": true,
       "server": "AS13",
-      "lastServer": "AS13",
       "tna": 242,
       "baselineTna": 242,
-      "baselineTs": "2026-06-06T18:37:03.672Z",
+      "baselineTs": "2026-06-06T18:47:42.183Z",
       "gained": 0,
-      "lastSeen": "2026-06-06T18:38:49.334Z",
+      "lastSeen": "2026-06-06T18:47:42.183Z",
+      "lastRaid": null,
       "byDay": {
         "2026-06-06": 242
       }
@@ -71,25 +75,27 @@
       "rank": "chief",
       "online": false,
       "server": null,
-      "lastServer": null,
-      "tna": null,
-      "baselineTna": null,
-      "baselineTs": null,
+      "tna": 72,
+      "baselineTna": 72,
+      "baselineTs": "2026-06-06T18:47:42.183Z",
       "gained": 0,
       "lastSeen": null,
-      "byDay": {}
+      "lastRaid": null,
+      "byDay": {
+        "2026-06-06": 72
+      }
     },
     "efb02768-2b6e-401c-844a-6119804bc4d2": {
       "username": "_Reynold",
       "rank": "chief",
       "online": false,
       "server": null,
-      "lastServer": null,
       "tna": null,
       "baselineTna": null,
       "baselineTs": null,
       "gained": 0,
       "lastSeen": null,
+      "lastRaid": null,
       "byDay": {}
     },
     "facc3dda-b70a-40db-a028-fe723bb53c88": {
@@ -97,12 +103,12 @@
       "rank": "chief",
       "online": false,
       "server": null,
-      "lastServer": null,
       "tna": null,
       "baselineTna": null,
       "baselineTs": null,
       "gained": 0,
       "lastSeen": null,
+      "lastRaid": null,
       "byDay": {}
     },
     "eb02d5fe-dca7-4cf7-8c9d-546e588f5957": {
@@ -110,12 +116,12 @@
       "rank": "chief",
       "online": false,
       "server": null,
-      "lastServer": null,
       "tna": null,
       "baselineTna": null,
       "baselineTs": null,
       "gained": 0,
       "lastSeen": null,
+      "lastRaid": null,
       "byDay": {}
     },
     "2f160f8d-dbaa-456d-b40d-78cbbd5bd0b8": {
@@ -123,25 +129,27 @@
       "rank": "chief",
       "online": false,
       "server": null,
-      "lastServer": null,
-      "tna": null,
-      "baselineTna": null,
-      "baselineTs": null,
+      "tna": 307,
+      "baselineTna": 307,
+      "baselineTs": "2026-06-06T18:47:42.183Z",
       "gained": 0,
       "lastSeen": null,
-      "byDay": {}
+      "lastRaid": null,
+      "byDay": {
+        "2026-06-06": 307
+      }
     },
     "0aef2f69-7099-4658-ba4a-c8227e3ee974": {
       "username": "NOT_Joker",
       "rank": "chief",
       "online": false,
       "server": null,
-      "lastServer": null,
       "tna": null,
       "baselineTna": null,
       "baselineTs": null,
       "gained": 0,
       "lastSeen": null,
+      "lastRaid": null,
       "byDay": {}
     },
     "4bdebe53-2d09-4802-8ef2-b75991422221": {
@@ -149,12 +157,12 @@
       "rank": "chief",
       "online": false,
       "server": null,
-      "lastServer": null,
       "tna": null,
       "baselineTna": null,
       "baselineTs": null,
       "gained": 0,
       "lastSeen": null,
+      "lastRaid": null,
       "byDay": {}
     },
     "065d17fa-2e8c-4251-87b9-b0265e4d74eb": {
@@ -162,12 +170,12 @@
       "rank": "chief",
       "online": false,
       "server": null,
-      "lastServer": null,
       "tna": null,
       "baselineTna": null,
       "baselineTs": null,
       "gained": 0,
       "lastSeen": null,
+      "lastRaid": null,
       "byDay": {}
     },
     "980fea49-754f-4e5c-8456-a70ad4bfa4b7": {
@@ -175,12 +183,12 @@
       "rank": "chief",
       "online": false,
       "server": null,
-      "lastServer": null,
       "tna": null,
       "baselineTna": null,
       "baselineTs": null,
       "gained": 0,
       "lastSeen": null,
+      "lastRaid": null,
       "byDay": {}
     },
     "b0a8412c-644c-4782-b3c1-7450388a9245": {
@@ -188,12 +196,12 @@
       "rank": "chief",
       "online": false,
       "server": null,
-      "lastServer": null,
       "tna": null,
       "baselineTna": null,
       "baselineTs": null,
       "gained": 0,
       "lastSeen": null,
+      "lastRaid": null,
       "byDay": {}
     },
     "72a0d7d4-13c8-49c6-8296-2a699fabd89a": {
@@ -201,64 +209,72 @@
       "rank": "strategist",
       "online": false,
       "server": null,
-      "lastServer": null,
-      "tna": null,
-      "baselineTna": null,
-      "baselineTs": null,
+      "tna": 45,
+      "baselineTna": 45,
+      "baselineTs": "2026-06-06T18:47:42.183Z",
       "gained": 0,
       "lastSeen": null,
-      "byDay": {}
+      "lastRaid": null,
+      "byDay": {
+        "2026-06-06": 45
+      }
     },
     "b2af2238-7cdb-48ea-bc81-93e2edaac822": {
       "username": "Marvel_jesus",
       "rank": "strategist",
       "online": false,
       "server": null,
-      "lastServer": null,
-      "tna": null,
-      "baselineTna": null,
-      "baselineTs": null,
+      "tna": 1,
+      "baselineTna": 1,
+      "baselineTs": "2026-06-06T18:47:42.183Z",
       "gained": 0,
       "lastSeen": null,
-      "byDay": {}
+      "lastRaid": null,
+      "byDay": {
+        "2026-06-06": 1
+      }
     },
     "bec6afe4-daee-4c2f-9a8a-3d7ff0445304": {
       "username": "Fish_3310",
       "rank": "captain",
       "online": false,
       "server": null,
-      "lastServer": null,
-      "tna": null,
-      "baselineTna": null,
-      "baselineTs": null,
+      "tna": 80,
+      "baselineTna": 80,
+      "baselineTs": "2026-06-06T18:47:42.183Z",
       "gained": 0,
       "lastSeen": null,
-      "byDay": {}
+      "lastRaid": null,
+      "byDay": {
+        "2026-06-06": 80
+      }
     },
     "5a8759de-669b-477c-ad86-9d80eb8ff504": {
       "username": "Nightstar_TW",
       "rank": "captain",
       "online": false,
       "server": null,
-      "lastServer": null,
-      "tna": null,
-      "baselineTna": null,
-      "baselineTs": null,
+      "tna": 42,
+      "baselineTna": 42,
+      "baselineTs": "2026-06-06T18:47:42.183Z",
       "gained": 0,
       "lastSeen": null,
-      "byDay": {}
+      "lastRaid": null,
+      "byDay": {
+        "2026-06-06": 42
+      }
     },
     "bf571ddc-2e68-4805-a32a-1d1503ef0ab4": {
       "username": "Brokeboys_",
       "rank": "captain",
       "online": false,
       "server": null,
-      "lastServer": null,
       "tna": null,
       "baselineTna": null,
       "baselineTs": null,
       "gained": 0,
       "lastSeen": null,
+      "lastRaid": null,
       "byDay": {}
     },
     "1977ba0b-2c0c-4274-bf99-5d51519f06f4": {
@@ -266,51 +282,57 @@
       "rank": "captain",
       "online": false,
       "server": null,
-      "lastServer": null,
-      "tna": null,
-      "baselineTna": null,
-      "baselineTs": null,
+      "tna": 55,
+      "baselineTna": 55,
+      "baselineTs": "2026-06-06T18:47:42.183Z",
       "gained": 0,
       "lastSeen": null,
-      "byDay": {}
+      "lastRaid": null,
+      "byDay": {
+        "2026-06-06": 55
+      }
     },
     "83c577d7-eb13-40b8-ac6c-8c5f113c5485": {
       "username": "EliteEG",
       "rank": "captain",
       "online": false,
       "server": null,
-      "lastServer": null,
-      "tna": null,
-      "baselineTna": null,
-      "baselineTs": null,
+      "tna": 17,
+      "baselineTna": 17,
+      "baselineTs": "2026-06-06T18:47:42.183Z",
       "gained": 0,
       "lastSeen": null,
-      "byDay": {}
+      "lastRaid": null,
+      "byDay": {
+        "2026-06-06": 17
+      }
     },
     "e877fdfd-1e0f-4667-8463-f580d5e67cd8": {
       "username": "meowmeow0510",
       "rank": "captain",
       "online": false,
       "server": null,
-      "lastServer": null,
-      "tna": null,
-      "baselineTna": null,
-      "baselineTs": null,
+      "tna": 38,
+      "baselineTna": 38,
+      "baselineTs": "2026-06-06T18:47:42.183Z",
       "gained": 0,
       "lastSeen": null,
-      "byDay": {}
+      "lastRaid": null,
+      "byDay": {
+        "2026-06-06": 38
+      }
     },
     "38bab5e1-b631-4528-aa34-2a89ff4ce2de": {
       "username": "Rabbit_flower",
       "rank": "captain",
       "online": false,
       "server": null,
-      "lastServer": null,
       "tna": null,
       "baselineTna": null,
       "baselineTs": null,
       "gained": 0,
       "lastSeen": null,
+      "lastRaid": null,
       "byDay": {}
     },
     "98b71318-132d-4fd5-98ad-33469386d4f3": {
@@ -318,64 +340,72 @@
       "rank": "captain",
       "online": false,
       "server": null,
-      "lastServer": null,
-      "tna": null,
-      "baselineTna": null,
-      "baselineTs": null,
+      "tna": 63,
+      "baselineTna": 63,
+      "baselineTs": "2026-06-06T18:47:42.183Z",
       "gained": 0,
       "lastSeen": null,
-      "byDay": {}
+      "lastRaid": null,
+      "byDay": {
+        "2026-06-06": 63
+      }
     },
     "de565e18-44cb-40e2-bbe8-7b3a73436a3b": {
       "username": "TPY_Ayase",
       "rank": "captain",
       "online": false,
       "server": null,
-      "lastServer": null,
-      "tna": null,
-      "baselineTna": null,
-      "baselineTs": null,
+      "tna": 12,
+      "baselineTna": 12,
+      "baselineTs": "2026-06-06T18:47:42.183Z",
       "gained": 0,
       "lastSeen": null,
-      "byDay": {}
+      "lastRaid": null,
+      "byDay": {
+        "2026-06-06": 12
+      }
     },
     "af835487-9537-444c-8948-dce3d24b69d8": {
       "username": "FengLingYu_7563",
       "rank": "captain",
       "online": false,
       "server": null,
-      "lastServer": null,
-      "tna": null,
-      "baselineTna": null,
-      "baselineTs": null,
+      "tna": 5,
+      "baselineTna": 5,
+      "baselineTs": "2026-06-06T18:47:42.183Z",
       "gained": 0,
       "lastSeen": null,
-      "byDay": {}
+      "lastRaid": null,
+      "byDay": {
+        "2026-06-06": 5
+      }
     },
     "97e4b46e-2c29-4628-8778-bb68011944b2": {
       "username": "Hyedam_0712",
       "rank": "captain",
       "online": false,
       "server": null,
-      "lastServer": null,
-      "tna": null,
-      "baselineTna": null,
-      "baselineTs": null,
+      "tna": 695,
+      "baselineTna": 695,
+      "baselineTs": "2026-06-06T18:47:42.183Z",
       "gained": 0,
       "lastSeen": null,
-      "byDay": {}
+      "lastRaid": null,
+      "byDay": {
+        "2026-06-06": 695
+      }
     },
     "dee2dace-d0b6-4347-a063-58d3c6b164aa": {
       "username": "Ace_TheKing",
       "rank": "captain",
       "online": false,
       "server": null,
-      "lastServer": null,
       "tna": null,
       "baselineTna": null,
       "baselineTs": null,
       "gained": 0,
       "lastSeen": null,
+      "lastRaid": null,
       "byDay": {}
     },
     "5ae0cb76-5816-43b7-aadd-89fc3c3ff1f8": {
@@ -383,38 +413,40 @@
       "rank": "captain",
       "online": false,
       "server": null,
-      "lastServer": null,
-      "tna": null,
-      "baselineTna": null,
-      "baselineTs": null,
+      "tna": 6,
+      "baselineTna": 6,
+      "baselineTs": "2026-06-06T18:47:42.183Z",
       "gained": 0,
       "lastSeen": null,
-      "byDay": {}
+      "lastRaid": null,
+      "byDay": {
+        "2026-06-06": 6
+      }
     },
     "fb41e523-edef-4b0b-ac32-d96139f8e64e": {
       "username": "Smellybird_",
       "rank": "captain",
       "online": false,
       "server": null,
-      "lastServer": null,
       "tna": null,
       "baselineTna": null,
       "baselineTs": null,
       "gained": 0,
       "lastSeen": null,
+      "lastRaid": null,
       "byDay": {}
     },
     "d12455ec-9194-492d-8e6e-6794b678e8f4": {
       "username": "5411",
       "rank": "recruiter",
       "online": true,
-      "server": "NA8",
-      "lastServer": "NA8",
+      "server": "AS9",
       "tna": 14,
       "baselineTna": 14,
-      "baselineTs": "2026-06-06T18:37:03.672Z",
+      "baselineTs": "2026-06-06T18:47:42.183Z",
       "gained": 0,
-      "lastSeen": "2026-06-06T18:38:49.334Z",
+      "lastSeen": "2026-06-06T18:47:42.183Z",
+      "lastRaid": null,
       "byDay": {
         "2026-06-06": 14
       }
@@ -424,38 +456,42 @@
       "rank": "recruiter",
       "online": false,
       "server": null,
-      "lastServer": null,
-      "tna": null,
-      "baselineTna": null,
-      "baselineTs": null,
+      "tna": 256,
+      "baselineTna": 256,
+      "baselineTs": "2026-06-06T18:47:42.183Z",
       "gained": 0,
       "lastSeen": null,
-      "byDay": {}
+      "lastRaid": null,
+      "byDay": {
+        "2026-06-06": 256
+      }
     },
     "657bf211-002f-4f67-baa8-993c272b9208": {
       "username": "Totaliu",
       "rank": "recruiter",
       "online": false,
       "server": null,
-      "lastServer": null,
-      "tna": null,
-      "baselineTna": null,
-      "baselineTs": null,
+      "tna": 72,
+      "baselineTna": 72,
+      "baselineTs": "2026-06-06T18:47:42.183Z",
       "gained": 0,
       "lastSeen": null,
-      "byDay": {}
+      "lastRaid": null,
+      "byDay": {
+        "2026-06-06": 72
+      }
     },
     "e4a23668-57d7-4f17-b58f-4a0fd17870ec": {
       "username": "woody123_is_god",
       "rank": "recruiter",
       "online": true,
       "server": "AS8",
-      "lastServer": "AS8",
       "tna": null,
       "baselineTna": null,
       "baselineTs": null,
       "gained": 0,
-      "lastSeen": "2026-06-06T18:38:49.334Z",
+      "lastSeen": "2026-06-06T18:47:42.183Z",
+      "lastRaid": null,
       "byDay": {}
     },
     "b9c2e93b-7902-4b2a-af5b-e743f514a073": {
@@ -463,64 +499,72 @@
       "rank": "recruiter",
       "online": false,
       "server": null,
-      "lastServer": null,
-      "tna": null,
-      "baselineTna": null,
-      "baselineTs": null,
+      "tna": 455,
+      "baselineTna": 455,
+      "baselineTs": "2026-06-06T18:47:42.183Z",
       "gained": 0,
       "lastSeen": null,
-      "byDay": {}
+      "lastRaid": null,
+      "byDay": {
+        "2026-06-06": 455
+      }
     },
     "7e3b9974-0d35-4de2-9c02-1f2fe1204471": {
       "username": "CodeEatter",
       "rank": "recruiter",
       "online": false,
       "server": null,
-      "lastServer": null,
-      "tna": null,
-      "baselineTna": null,
-      "baselineTs": null,
+      "tna": 30,
+      "baselineTna": 30,
+      "baselineTs": "2026-06-06T18:47:42.183Z",
       "gained": 0,
       "lastSeen": null,
-      "byDay": {}
+      "lastRaid": null,
+      "byDay": {
+        "2026-06-06": 30
+      }
     },
     "9984b190-a88e-492c-8831-fcf2699b98f4": {
       "username": "FireMan9534",
       "rank": "recruiter",
       "online": false,
       "server": null,
-      "lastServer": null,
-      "tna": null,
-      "baselineTna": null,
-      "baselineTs": null,
+      "tna": 360,
+      "baselineTna": 360,
+      "baselineTs": "2026-06-06T18:47:42.183Z",
       "gained": 0,
       "lastSeen": null,
-      "byDay": {}
+      "lastRaid": null,
+      "byDay": {
+        "2026-06-06": 360
+      }
     },
     "15e14bd5-d40c-41f4-a30e-a571a2669e10": {
       "username": "BingShang",
       "rank": "recruiter",
       "online": false,
       "server": null,
-      "lastServer": null,
-      "tna": null,
-      "baselineTna": null,
-      "baselineTs": null,
+      "tna": 10,
+      "baselineTna": 10,
+      "baselineTs": "2026-06-06T18:47:42.183Z",
       "gained": 0,
       "lastSeen": null,
-      "byDay": {}
+      "lastRaid": null,
+      "byDay": {
+        "2026-06-06": 10
+      }
     },
     "d3062613-f674-46dd-b5d7-9e75c39d8f31": {
       "username": "Coffee96357412",
       "rank": "recruiter",
       "online": false,
       "server": null,
-      "lastServer": null,
       "tna": null,
       "baselineTna": null,
       "baselineTs": null,
       "gained": 0,
       "lastSeen": null,
+      "lastRaid": null,
       "byDay": {}
     },
     "26c4a541-d892-453b-8684-01e76be804d3": {
@@ -528,12 +572,12 @@
       "rank": "recruiter",
       "online": true,
       "server": "AS4",
-      "lastServer": "AS4",
       "tna": 6,
       "baselineTna": 6,
-      "baselineTs": "2026-06-06T18:37:03.672Z",
+      "baselineTs": "2026-06-06T18:47:42.183Z",
       "gained": 0,
-      "lastSeen": "2026-06-06T18:38:49.334Z",
+      "lastSeen": "2026-06-06T18:47:42.183Z",
+      "lastRaid": null,
       "byDay": {
         "2026-06-06": 6
       }
@@ -543,25 +587,27 @@
       "rank": "recruiter",
       "online": false,
       "server": null,
-      "lastServer": null,
-      "tna": null,
-      "baselineTna": null,
-      "baselineTs": null,
+      "tna": 94,
+      "baselineTna": 94,
+      "baselineTs": "2026-06-06T18:47:42.183Z",
       "gained": 0,
       "lastSeen": null,
-      "byDay": {}
+      "lastRaid": null,
+      "byDay": {
+        "2026-06-06": 94
+      }
     },
     "8a627a71-d7eb-4ad8-9942-dd1ac02eeba3": {
       "username": "sweetFish0411",
       "rank": "recruiter",
       "online": false,
       "server": null,
-      "lastServer": null,
       "tna": null,
       "baselineTna": null,
       "baselineTs": null,
       "gained": 0,
       "lastSeen": null,
+      "lastRaid": null,
       "byDay": {}
     },
     "28192360-eee7-412f-9ba9-478ae88c4fba": {
@@ -569,25 +615,27 @@
       "rank": "recruiter",
       "online": false,
       "server": null,
-      "lastServer": null,
-      "tna": null,
-      "baselineTna": null,
-      "baselineTs": null,
+      "tna": 27,
+      "baselineTna": 27,
+      "baselineTs": "2026-06-06T18:47:42.183Z",
       "gained": 0,
       "lastSeen": null,
-      "byDay": {}
+      "lastRaid": null,
+      "byDay": {
+        "2026-06-06": 27
+      }
     },
     "a6f71271-e425-4158-930d-83aa8b6ae38e": {
       "username": "Ka_Coffee",
       "rank": "recruiter",
       "online": false,
       "server": null,
-      "lastServer": null,
       "tna": null,
       "baselineTna": null,
       "baselineTs": null,
       "gained": 0,
       "lastSeen": null,
+      "lastRaid": null,
       "byDay": {}
     },
     "3f263734-0c26-4abd-ad1f-d44b5a9151de": {
@@ -595,51 +643,57 @@
       "rank": "recruiter",
       "online": false,
       "server": null,
-      "lastServer": null,
-      "tna": null,
-      "baselineTna": null,
-      "baselineTs": null,
+      "tna": 5,
+      "baselineTna": 5,
+      "baselineTs": "2026-06-06T18:47:42.183Z",
       "gained": 0,
       "lastSeen": null,
-      "byDay": {}
+      "lastRaid": null,
+      "byDay": {
+        "2026-06-06": 5
+      }
     },
     "b6a718f0-c580-4d11-9fa3-e0c7b8c908c4": {
       "username": "OCcar321",
       "rank": "recruiter",
       "online": false,
       "server": null,
-      "lastServer": null,
-      "tna": null,
-      "baselineTna": null,
-      "baselineTs": null,
+      "tna": 38,
+      "baselineTna": 38,
+      "baselineTs": "2026-06-06T18:47:42.183Z",
       "gained": 0,
       "lastSeen": null,
-      "byDay": {}
+      "lastRaid": null,
+      "byDay": {
+        "2026-06-06": 38
+      }
     },
     "60c7b35d-56ce-40a8-b90c-076f7b888d04": {
       "username": "SpaceMeowOWO",
       "rank": "recruiter",
       "online": false,
       "server": null,
-      "lastServer": null,
-      "tna": null,
-      "baselineTna": null,
-      "baselineTs": null,
+      "tna": 4,
+      "baselineTna": 4,
+      "baselineTs": "2026-06-06T18:47:42.183Z",
       "gained": 0,
       "lastSeen": null,
-      "byDay": {}
+      "lastRaid": null,
+      "byDay": {
+        "2026-06-06": 4
+      }
     },
     "54ccea8a-1783-45c5-9bdf-c2b32802aee0": {
       "username": "Jelly114514",
       "rank": "recruiter",
       "online": false,
       "server": null,
-      "lastServer": null,
       "tna": null,
       "baselineTna": null,
       "baselineTs": null,
       "gained": 0,
       "lastSeen": null,
+      "lastRaid": null,
       "byDay": {}
     },
     "a3fd2992-cc9d-44d0-b33c-f1e31b922147": {
@@ -647,25 +701,27 @@
       "rank": "recruiter",
       "online": false,
       "server": null,
-      "lastServer": null,
-      "tna": null,
-      "baselineTna": null,
-      "baselineTs": null,
+      "tna": 387,
+      "baselineTna": 387,
+      "baselineTs": "2026-06-06T18:47:42.183Z",
       "gained": 0,
       "lastSeen": null,
-      "byDay": {}
+      "lastRaid": null,
+      "byDay": {
+        "2026-06-06": 387
+      }
     },
     "fc00f304-03c4-47fc-ae34-2d23ad8b8a4d": {
       "username": "Rainshoes_uwu_",
       "rank": "recruiter",
       "online": false,
       "server": null,
-      "lastServer": null,
       "tna": null,
       "baselineTna": null,
       "baselineTs": null,
       "gained": 0,
       "lastSeen": null,
+      "lastRaid": null,
       "byDay": {}
     },
     "b9648bbe-781b-4663-88be-43f909958f38": {
@@ -673,51 +729,57 @@
       "rank": "recruiter",
       "online": false,
       "server": null,
-      "lastServer": null,
-      "tna": null,
-      "baselineTna": null,
-      "baselineTs": null,
+      "tna": 41,
+      "baselineTna": 41,
+      "baselineTs": "2026-06-06T18:47:42.183Z",
       "gained": 0,
       "lastSeen": null,
-      "byDay": {}
+      "lastRaid": null,
+      "byDay": {
+        "2026-06-06": 41
+      }
     },
     "5f4b29c2-d54b-471a-b728-e311d8a3fb8a": {
       "username": "3SaUsageaday",
       "rank": "recruiter",
       "online": false,
       "server": null,
-      "lastServer": null,
-      "tna": null,
-      "baselineTna": null,
-      "baselineTs": null,
+      "tna": 1,
+      "baselineTna": 1,
+      "baselineTs": "2026-06-06T18:47:42.183Z",
       "gained": 0,
       "lastSeen": null,
-      "byDay": {}
+      "lastRaid": null,
+      "byDay": {
+        "2026-06-06": 1
+      }
     },
     "fa40c035-1309-43f0-bbec-2423a4044650": {
       "username": "dyLLLLan",
       "rank": "recruiter",
       "online": false,
       "server": null,
-      "lastServer": null,
-      "tna": null,
-      "baselineTna": null,
-      "baselineTs": null,
+      "tna": 58,
+      "baselineTna": 58,
+      "baselineTs": "2026-06-06T18:47:42.183Z",
       "gained": 0,
       "lastSeen": null,
-      "byDay": {}
+      "lastRaid": null,
+      "byDay": {
+        "2026-06-06": 58
+      }
     },
     "55976aa8-d942-49f5-98cc-634d0c2d032f": {
       "username": "Kurt_24K",
       "rank": "recruiter",
       "online": false,
       "server": null,
-      "lastServer": null,
       "tna": null,
       "baselineTna": null,
       "baselineTs": null,
       "gained": 0,
       "lastSeen": null,
+      "lastRaid": null,
       "byDay": {}
     },
     "563b1bac-17e9-4ce9-95b1-3504cb9525ec": {
@@ -725,12 +787,12 @@
       "rank": "recruiter",
       "online": false,
       "server": null,
-      "lastServer": null,
       "tna": null,
       "baselineTna": null,
       "baselineTs": null,
       "gained": 0,
       "lastSeen": null,
+      "lastRaid": null,
       "byDay": {}
     },
     "98bcab33-168c-4e00-b5ad-d2fd0d3ed2b3": {
@@ -738,38 +800,42 @@
       "rank": "recruiter",
       "online": false,
       "server": null,
-      "lastServer": null,
-      "tna": null,
-      "baselineTna": null,
-      "baselineTs": null,
+      "tna": 18,
+      "baselineTna": 18,
+      "baselineTs": "2026-06-06T18:47:42.183Z",
       "gained": 0,
       "lastSeen": null,
-      "byDay": {}
+      "lastRaid": null,
+      "byDay": {
+        "2026-06-06": 18
+      }
     },
     "1706b5f6-7570-43e3-972c-e7af666c7276": {
       "username": "PhantomXN",
       "rank": "recruit",
       "online": false,
       "server": null,
-      "lastServer": null,
-      "tna": null,
-      "baselineTna": null,
-      "baselineTs": null,
+      "tna": 177,
+      "baselineTna": 177,
+      "baselineTs": "2026-06-06T18:47:42.183Z",
       "gained": 0,
       "lastSeen": null,
-      "byDay": {}
+      "lastRaid": null,
+      "byDay": {
+        "2026-06-06": 177
+      }
     },
     "4ae3e4ea-8bed-4031-bb19-e1f74b6012f8": {
       "username": "Benny888999",
       "rank": "recruit",
       "online": false,
       "server": null,
-      "lastServer": null,
       "tna": null,
       "baselineTna": null,
       "baselineTs": null,
       "gained": 0,
       "lastSeen": null,
+      "lastRaid": null,
       "byDay": {}
     },
     "2d1fdceb-1310-43dd-96a4-681c20d3e1ed": {
@@ -777,77 +843,87 @@
       "rank": "recruit",
       "online": false,
       "server": null,
-      "lastServer": null,
-      "tna": null,
-      "baselineTna": null,
-      "baselineTs": null,
+      "tna": 48,
+      "baselineTna": 48,
+      "baselineTs": "2026-06-06T18:47:42.183Z",
       "gained": 0,
       "lastSeen": null,
-      "byDay": {}
+      "lastRaid": null,
+      "byDay": {
+        "2026-06-06": 48
+      }
     },
     "e8ca4f14-ffab-4d39-9fbc-913ce8b1459c": {
       "username": "uwubear_3y",
       "rank": "recruit",
       "online": false,
       "server": null,
-      "lastServer": null,
-      "tna": null,
-      "baselineTna": null,
-      "baselineTs": null,
+      "tna": 14,
+      "baselineTna": 14,
+      "baselineTs": "2026-06-06T18:47:42.183Z",
       "gained": 0,
       "lastSeen": null,
-      "byDay": {}
+      "lastRaid": null,
+      "byDay": {
+        "2026-06-06": 14
+      }
     },
     "7bab959e-f740-41f7-bd64-5fbd7fae259f": {
       "username": "Yoyo66666XDXD",
       "rank": "recruit",
       "online": false,
       "server": null,
-      "lastServer": null,
-      "tna": null,
-      "baselineTna": null,
-      "baselineTs": null,
+      "tna": 3,
+      "baselineTna": 3,
+      "baselineTs": "2026-06-06T18:47:42.183Z",
       "gained": 0,
       "lastSeen": null,
-      "byDay": {}
+      "lastRaid": null,
+      "byDay": {
+        "2026-06-06": 3
+      }
     },
     "e2b6e8e4-0265-44c6-8892-a63733adc7fa": {
       "username": "YoyoBreaker",
       "rank": "recruit",
       "online": false,
       "server": null,
-      "lastServer": null,
-      "tna": null,
-      "baselineTna": null,
-      "baselineTs": null,
+      "tna": 53,
+      "baselineTna": 53,
+      "baselineTs": "2026-06-06T18:47:42.183Z",
       "gained": 0,
       "lastSeen": null,
-      "byDay": {}
+      "lastRaid": null,
+      "byDay": {
+        "2026-06-06": 53
+      }
     },
     "47032840-05a0-446b-939b-7d2bb614424e": {
       "username": "wDinding0312",
       "rank": "recruit",
       "online": false,
       "server": null,
-      "lastServer": null,
-      "tna": null,
-      "baselineTna": null,
-      "baselineTs": null,
+      "tna": 27,
+      "baselineTna": 27,
+      "baselineTs": "2026-06-06T18:47:42.183Z",
       "gained": 0,
       "lastSeen": null,
-      "byDay": {}
+      "lastRaid": null,
+      "byDay": {
+        "2026-06-06": 27
+      }
     },
     "92feba43-316f-47ad-a1b0-726de83940db": {
       "username": "transfe",
       "rank": "recruit",
       "online": false,
       "server": null,
-      "lastServer": null,
       "tna": null,
       "baselineTna": null,
       "baselineTs": null,
       "gained": 0,
       "lastSeen": null,
+      "lastRaid": null,
       "byDay": {}
     },
     "b1d348da-29e8-4468-823b-bea3aec09807": {
@@ -855,25 +931,27 @@
       "rank": "recruit",
       "online": false,
       "server": null,
-      "lastServer": null,
-      "tna": null,
-      "baselineTna": null,
-      "baselineTs": null,
+      "tna": 19,
+      "baselineTna": 19,
+      "baselineTs": "2026-06-06T18:47:42.183Z",
       "gained": 0,
       "lastSeen": null,
-      "byDay": {}
+      "lastRaid": null,
+      "byDay": {
+        "2026-06-06": 19
+      }
     },
     "dc3b2aad-2940-4bb6-87f9-09cf6aed8ef9": {
       "username": "ShinyYeecat",
       "rank": "recruit",
       "online": false,
       "server": null,
-      "lastServer": null,
       "tna": null,
       "baselineTna": null,
       "baselineTs": null,
       "gained": 0,
       "lastSeen": null,
+      "lastRaid": null,
       "byDay": {}
     },
     "810f85bb-463d-4e7d-a327-576cb5a9a41a": {
@@ -881,12 +959,12 @@
       "rank": "recruit",
       "online": false,
       "server": null,
-      "lastServer": null,
       "tna": null,
       "baselineTna": null,
       "baselineTs": null,
       "gained": 0,
       "lastSeen": null,
+      "lastRaid": null,
       "byDay": {}
     },
     "8ebb144a-289f-49b0-b5bb-80c0050ce9da": {
@@ -894,25 +972,27 @@
       "rank": "recruit",
       "online": false,
       "server": null,
-      "lastServer": null,
-      "tna": null,
-      "baselineTna": null,
-      "baselineTs": null,
+      "tna": 37,
+      "baselineTna": 37,
+      "baselineTs": "2026-06-06T18:47:42.183Z",
       "gained": 0,
       "lastSeen": null,
-      "byDay": {}
+      "lastRaid": null,
+      "byDay": {
+        "2026-06-06": 37
+      }
     },
     "c2c7576c-75e3-46ab-bec6-3c0f5c4c2bfe": {
       "username": "0o_Maple_o0",
       "rank": "recruit",
       "online": false,
       "server": null,
-      "lastServer": null,
       "tna": null,
       "baselineTna": null,
       "baselineTs": null,
       "gained": 0,
       "lastSeen": null,
+      "lastRaid": null,
       "byDay": {}
     },
     "be8eddee-3d2b-4947-99c8-f70db39bee1c": {
@@ -920,12 +1000,12 @@
       "rank": "recruit",
       "online": false,
       "server": null,
-      "lastServer": null,
       "tna": null,
       "baselineTna": null,
       "baselineTs": null,
       "gained": 0,
       "lastSeen": null,
+      "lastRaid": null,
       "byDay": {}
     },
     "39496ba0-dcd0-4805-a9a3-2dfbf630dce3": {
@@ -933,12 +1013,12 @@
       "rank": "recruit",
       "online": false,
       "server": null,
-      "lastServer": null,
       "tna": null,
       "baselineTna": null,
       "baselineTs": null,
       "gained": 0,
       "lastSeen": null,
+      "lastRaid": null,
       "byDay": {}
     },
     "69548b17-a02c-498e-a930-8fb08c0ad50f": {
@@ -946,12 +1026,12 @@
       "rank": "recruit",
       "online": false,
       "server": null,
-      "lastServer": null,
       "tna": null,
       "baselineTna": null,
       "baselineTs": null,
       "gained": 0,
       "lastSeen": null,
+      "lastRaid": null,
       "byDay": {}
     },
     "8cd7b0e9-bc48-439e-b84e-732296be756c": {
@@ -959,38 +1039,42 @@
       "rank": "recruit",
       "online": false,
       "server": null,
-      "lastServer": null,
-      "tna": null,
-      "baselineTna": null,
-      "baselineTs": null,
+      "tna": 301,
+      "baselineTna": 301,
+      "baselineTs": "2026-06-06T18:47:42.183Z",
       "gained": 0,
       "lastSeen": null,
-      "byDay": {}
+      "lastRaid": null,
+      "byDay": {
+        "2026-06-06": 301
+      }
     },
     "554a15df-02de-454b-88dd-6ed9bb7a9b4a": {
       "username": "ez_bc",
       "rank": "recruit",
       "online": false,
       "server": null,
-      "lastServer": null,
-      "tna": null,
-      "baselineTna": null,
-      "baselineTs": null,
+      "tna": 29,
+      "baselineTna": 29,
+      "baselineTs": "2026-06-06T18:47:42.183Z",
       "gained": 0,
       "lastSeen": null,
-      "byDay": {}
+      "lastRaid": null,
+      "byDay": {
+        "2026-06-06": 29
+      }
     },
     "584c85c3-5424-4e59-8be1-5f3e97ba9f96": {
       "username": "Jennifer1008_",
       "rank": "recruit",
       "online": false,
       "server": null,
-      "lastServer": null,
       "tna": null,
       "baselineTna": null,
       "baselineTs": null,
       "gained": 0,
       "lastSeen": null,
+      "lastRaid": null,
       "byDay": {}
     },
     "c1c7d2de-e109-48bc-80e1-1a84e7083762": {
@@ -998,12 +1082,12 @@
       "rank": "recruit",
       "online": false,
       "server": null,
-      "lastServer": null,
       "tna": null,
       "baselineTna": null,
       "baselineTs": null,
       "gained": 0,
       "lastSeen": null,
+      "lastRaid": null,
       "byDay": {}
     },
     "79359c82-0422-43d0-9e83-82df10d7dccb": {
@@ -1011,38 +1095,42 @@
       "rank": "recruit",
       "online": false,
       "server": null,
-      "lastServer": null,
-      "tna": null,
-      "baselineTna": null,
-      "baselineTs": null,
+      "tna": 61,
+      "baselineTna": 61,
+      "baselineTs": "2026-06-06T18:47:42.183Z",
       "gained": 0,
       "lastSeen": null,
-      "byDay": {}
+      "lastRaid": null,
+      "byDay": {
+        "2026-06-06": 61
+      }
     },
     "2e2fc10a-7dc1-4766-9147-a806b79df324": {
       "username": "_Xrrc",
       "rank": "recruit",
       "online": false,
       "server": null,
-      "lastServer": null,
-      "tna": null,
-      "baselineTna": null,
-      "baselineTs": null,
+      "tna": 117,
+      "baselineTna": 117,
+      "baselineTs": "2026-06-06T18:47:42.183Z",
       "gained": 0,
       "lastSeen": null,
-      "byDay": {}
+      "lastRaid": null,
+      "byDay": {
+        "2026-06-06": 117
+      }
     },
     "35fed1f0-7819-454c-912f-6d3827ad4e83": {
       "username": "LegendxLove",
       "rank": "recruit",
       "online": false,
       "server": null,
-      "lastServer": null,
       "tna": null,
       "baselineTna": null,
       "baselineTs": null,
       "gained": 0,
       "lastSeen": null,
+      "lastRaid": null,
       "byDay": {}
     },
     "ebb863f2-2289-4d86-9e91-a2c653e84168": {
@@ -1050,12 +1138,12 @@
       "rank": "recruit",
       "online": false,
       "server": null,
-      "lastServer": null,
       "tna": null,
       "baselineTna": null,
       "baselineTs": null,
       "gained": 0,
       "lastSeen": null,
+      "lastRaid": null,
       "byDay": {}
     },
     "86ae2e2d-bcab-4373-9ede-6819ce1e206e": {
@@ -1063,77 +1151,87 @@
       "rank": "recruit",
       "online": false,
       "server": null,
-      "lastServer": null,
-      "tna": null,
-      "baselineTna": null,
-      "baselineTs": null,
+      "tna": 21,
+      "baselineTna": 21,
+      "baselineTs": "2026-06-06T18:47:42.183Z",
       "gained": 0,
       "lastSeen": null,
-      "byDay": {}
+      "lastRaid": null,
+      "byDay": {
+        "2026-06-06": 21
+      }
     },
     "1882f0bf-dda7-4d95-b8fc-fc4865ca0711": {
       "username": "NeVerL0sEs",
       "rank": "recruit",
       "online": false,
       "server": null,
-      "lastServer": null,
-      "tna": null,
-      "baselineTna": null,
-      "baselineTs": null,
+      "tna": 88,
+      "baselineTna": 88,
+      "baselineTs": "2026-06-06T18:47:42.183Z",
       "gained": 0,
       "lastSeen": null,
-      "byDay": {}
+      "lastRaid": null,
+      "byDay": {
+        "2026-06-06": 88
+      }
     },
     "f3e67661-a4eb-44e1-a4fb-5eb925dbf18f": {
       "username": "Jerry_0919",
       "rank": "recruit",
       "online": false,
       "server": null,
-      "lastServer": null,
-      "tna": null,
-      "baselineTna": null,
-      "baselineTs": null,
+      "tna": 1,
+      "baselineTna": 1,
+      "baselineTs": "2026-06-06T18:47:42.183Z",
       "gained": 0,
       "lastSeen": null,
-      "byDay": {}
+      "lastRaid": null,
+      "byDay": {
+        "2026-06-06": 1
+      }
     },
     "6f4f9f1b-e1a9-48ca-8bd1-5e46fb688fef": {
       "username": "ChocoCookies_322",
       "rank": "recruit",
       "online": false,
       "server": null,
-      "lastServer": null,
-      "tna": null,
-      "baselineTna": null,
-      "baselineTs": null,
+      "tna": 1,
+      "baselineTna": 1,
+      "baselineTs": "2026-06-06T18:47:42.183Z",
       "gained": 0,
       "lastSeen": null,
-      "byDay": {}
+      "lastRaid": null,
+      "byDay": {
+        "2026-06-06": 1
+      }
     },
     "3fa3336a-dcfc-49e6-9b5f-469322883009": {
       "username": "Lin87_zs",
       "rank": "recruit",
       "online": false,
       "server": null,
-      "lastServer": null,
-      "tna": null,
-      "baselineTna": null,
-      "baselineTs": null,
+      "tna": 40,
+      "baselineTna": 40,
+      "baselineTs": "2026-06-06T18:47:42.183Z",
       "gained": 0,
       "lastSeen": null,
-      "byDay": {}
+      "lastRaid": null,
+      "byDay": {
+        "2026-06-06": 40
+      }
     },
     "b223c20c-1615-45fe-85cd-4e85a782b161": {
       "username": "Hectoooooor",
       "rank": "recruit",
       "online": false,
       "server": null,
-      "lastServer": null,
       "tna": null,
       "baselineTna": null,
       "baselineTs": null,
       "gained": 0,
       "lastSeen": null,
+      "lastRaid": null,
       "byDay": {}
     },
     "9c6cd580-1a8d-4465-a647-645f86c148fe": {
@@ -1141,51 +1239,57 @@
       "rank": "recruit",
       "online": false,
       "server": null,
-      "lastServer": null,
-      "tna": null,
-      "baselineTna": null,
-      "baselineTs": null,
+      "tna": 4,
+      "baselineTna": 4,
+      "baselineTs": "2026-06-06T18:47:42.183Z",
       "gained": 0,
       "lastSeen": null,
-      "byDay": {}
+      "lastRaid": null,
+      "byDay": {
+        "2026-06-06": 4
+      }
     },
     "2b4be507-abf6-4172-99d9-29e88ff231b0": {
       "username": "ANTONY_71",
       "rank": "recruit",
       "online": false,
       "server": null,
-      "lastServer": null,
-      "tna": null,
-      "baselineTna": null,
-      "baselineTs": null,
+      "tna": 23,
+      "baselineTna": 23,
+      "baselineTs": "2026-06-06T18:47:42.183Z",
       "gained": 0,
       "lastSeen": null,
-      "byDay": {}
+      "lastRaid": null,
+      "byDay": {
+        "2026-06-06": 23
+      }
     },
     "19e9fdb1-0753-4195-ade2-9887c21d277c": {
       "username": "PuddingNeko_OxO",
       "rank": "recruit",
       "online": false,
       "server": null,
-      "lastServer": null,
-      "tna": null,
-      "baselineTna": null,
-      "baselineTs": null,
+      "tna": 9,
+      "baselineTna": 9,
+      "baselineTs": "2026-06-06T18:47:42.183Z",
       "gained": 0,
       "lastSeen": null,
-      "byDay": {}
+      "lastRaid": null,
+      "byDay": {
+        "2026-06-06": 9
+      }
     },
     "dc89c75d-1803-4076-8b6a-f8c42559f78a": {
       "username": "8gus",
       "rank": "recruit",
       "online": false,
       "server": null,
-      "lastServer": null,
       "tna": null,
       "baselineTna": null,
       "baselineTs": null,
       "gained": 0,
       "lastSeen": null,
+      "lastRaid": null,
       "byDay": {}
     },
     "6c13e0b2-c58e-4287-9286-7d8a197fc582": {
@@ -1193,51 +1297,57 @@
       "rank": "recruit",
       "online": false,
       "server": null,
-      "lastServer": null,
-      "tna": null,
-      "baselineTna": null,
-      "baselineTs": null,
+      "tna": 417,
+      "baselineTna": 417,
+      "baselineTs": "2026-06-06T18:47:42.183Z",
       "gained": 0,
       "lastSeen": null,
-      "byDay": {}
+      "lastRaid": null,
+      "byDay": {
+        "2026-06-06": 417
+      }
     },
     "ca475f71-8fb5-408f-aa69-0667a7c98ecf": {
       "username": "DENISDKT",
       "rank": "recruit",
       "online": false,
       "server": null,
-      "lastServer": null,
-      "tna": null,
-      "baselineTna": null,
-      "baselineTs": null,
+      "tna": 19,
+      "baselineTna": 19,
+      "baselineTs": "2026-06-06T18:47:42.183Z",
       "gained": 0,
       "lastSeen": null,
-      "byDay": {}
+      "lastRaid": null,
+      "byDay": {
+        "2026-06-06": 19
+      }
     },
     "171e4ef3-9382-47c5-bfd8-e1c8ac97d50c": {
       "username": "r1chsh1h",
       "rank": "recruit",
       "online": false,
       "server": null,
-      "lastServer": null,
-      "tna": null,
-      "baselineTna": null,
-      "baselineTs": null,
+      "tna": 15,
+      "baselineTna": 15,
+      "baselineTs": "2026-06-06T18:47:42.183Z",
       "gained": 0,
       "lastSeen": null,
-      "byDay": {}
+      "lastRaid": null,
+      "byDay": {
+        "2026-06-06": 15
+      }
     },
     "17ad7f8d-b7b3-4c96-be92-b44bfe1c1117": {
       "username": "Weizil",
       "rank": "recruit",
       "online": false,
       "server": null,
-      "lastServer": null,
       "tna": null,
       "baselineTna": null,
       "baselineTs": null,
       "gained": 0,
       "lastSeen": null,
+      "lastRaid": null,
       "byDay": {}
     },
     "b1afd812-1262-425d-809b-34943d9fc8f5": {
@@ -1245,12 +1355,12 @@
       "rank": "recruit",
       "online": false,
       "server": null,
-      "lastServer": null,
       "tna": null,
       "baselineTna": null,
       "baselineTs": null,
       "gained": 0,
       "lastSeen": null,
+      "lastRaid": null,
       "byDay": {}
     },
     "409bbbe1-1d9e-42ab-bfab-66884539869d": {
@@ -1258,13 +1368,15 @@
       "rank": "recruit",
       "online": false,
       "server": null,
-      "lastServer": null,
-      "tna": null,
-      "baselineTna": null,
-      "baselineTs": null,
+      "tna": 9,
+      "baselineTna": 9,
+      "baselineTs": "2026-06-06T18:47:42.183Z",
       "gained": 0,
       "lastSeen": null,
-      "byDay": {}
+      "lastRaid": null,
+      "byDay": {
+        "2026-06-06": 9
+      }
     }
   }
 }

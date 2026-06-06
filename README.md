@@ -6,25 +6,30 @@ Es gibt kein offizielles "Party"-API von Wynncraft, also wird die Zusammensetzun
 zwei unabhängigen Signalen:
 
 1. **TNA-Co-Runs** (Hauptsignal, TNA-spezifisch) — wenn der TNA-Completion-Zähler mehrerer Member
-   im selben Poll-Fenster steigt *und* sie auf demselben Server (Welt) sind, haben sie sehr
-   wahrscheinlich zusammen geraidet. Über viele Runs kristallisieren sich stabile Paare/Gruppen raus.
+   im selben Poll-Fenster steigt, haben sie sehr wahrscheinlich zusammen geraidet. Über viele Runs
+   kristallisieren sich stabile Paare/Gruppen raus.
+   - Stimmt zusätzlich der **Server** überein, gilt der Run als *server-bestätigt* (höhere Konfidenz).
+   - **Offline/versteckte** Member werden trotzdem erfasst: ihr TNA-Zähler steigt auch wenn sie
+     offline gestellt sind. Finished in einem Fenster genau **eine** Server-Party, werden offline
+     Raider dieser Party zugerechnet; sonst landen sie als *window-only* (niedrigere Konfidenz).
 2. **Server-Co-Anwesenheit** (Korroboration) — wie oft zwei Member gleichzeitig auf derselben Welt
    online gesehen werden.
 
 ## Dateien
 
 - `guild.json` — Gilden-Config (Prefix YCY, getrackter Raid)
-- `poll.js` — pollt Gildenroster (1 Call) + Spielerdaten **nur der online Member** (PLAYER-Limit = 50/min)
-- `state.json` — letzter Stand pro Member (TNA gesamt, gained seit Start, Server, online)
-- `pairs.json` — Paar-Matrizen: `tna` (gemeinsame Runs) + `copresence` (gemeinsame Server-Samples)
-- `runs.json` — Log erkannter TNA-Runs (30 Tage)
+- `poll.js` — pollt **nur den Gilden-Endpunkt** (1 Call); der liefert pro Member die komplette
+  `globalData.raids.list` inkl. TNA-Zähler — für **alle** Member, online wie offline
+- `state.json` — letzter Stand pro Member (TNA gesamt, gained seit Start, Server, online, lastRaid)
+- `pairs.json` — Paar-Matrizen: `tna` (gemeinsame Runs, mit `confirmed`-Zähler) + `copresence`
+- `runs.json` — Log erkannter TNA-Runs (30 Tage), je Run `confirmed`/`crowded`-Flags
 - `index.html` — Dashboard (GitHub Pages)
 
-## Rate Limits
+## Warum nur ein Call
 
-Die Wynncraft-`PLAYER`-API erlaubt nur **50 Requests/Minute**. Darum werden Spielerdaten nur für
-aktuell online Member geholt — TNA-Zähler steigen ohnehin nur online, es geht also kein Increment
-verloren. Der Poller ist 429-aware und wartet bei Bedarf das Reset-Fenster ab.
+Der Gilden-Endpunkt trägt pro Member bereits die vollständigen Raid-Totals (`globalData.raids.list`).
+Damit brauchen wir den `PLAYER`-Endpunkt (Limit 50/min) gar nicht: ein einziger Call pro Poll deckt
+alle 96 Member ab, inklusive offline/versteckter Spieler — und nichts läuft ins Rate-Limit.
 
 ## Workflow
 
@@ -34,8 +39,10 @@ verbessert die zeitliche Zuordnung der TNA-Runs. Optional zuverlässiger Trigger
 
 ## Genauigkeit / Caveats
 
-- Die Wynncraft-API cached Spielerdaten leicht verzögert → gelegentlich landen Partner in
-  benachbarten Fenstern. Das macht etwas Rauschen, aber echte Paare dominieren über Zeit.
-- Nur Member, die seit Tracking-Start mind. einmal online waren, haben TNA-Daten.
-- "Server" = Wynncraft-Welt (z.B. `AS13`); mehrere Partys können auf derselben Welt sein, daher ist
-  das TNA-Increment-Signal stärker als reine Co-Anwesenheit.
+- Die Wynncraft-API cached Daten leicht verzögert → gelegentlich landen Partner in benachbarten
+  Fenstern. Das macht etwas Rauschen, aber echte Paare dominieren über Zeit.
+- Member, die noch nie TNA gespielt haben, haben keinen TNA-Eintrag → `tna: null` (kein Tracking nötig).
+- "Server" = Wynncraft-Welt (z.B. `AS13`); mehrere Partys können auf derselben Welt sein. Häufiges
+  Polling (3 Min) hält die Fenster kurz, sodass meist nur eine Party pro Fenster fertig wird.
+- Finishen in einem Fenster mehr als ~6 Member gemeinsam, wird der Run als *crowded* geloggt aber
+  nicht verpaart (zu mehrdeutig).
