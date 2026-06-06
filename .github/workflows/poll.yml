@@ -2,7 +2,7 @@ name: Poll YCY TNA
 
 on:
   schedule:
-    - cron: "*/3 * * * *"
+    - cron: "*/5 * * * *"   # unreliable fallback only — real trigger is cron-job.org → workflow_dispatch
   workflow_dispatch:
 
 permissions:
