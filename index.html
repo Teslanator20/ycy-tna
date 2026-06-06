@@ -1,0 +1,309 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>YCY · TNA Tracker</title>
+<style>
+  :root {
+    --bg: #0d1117; --panel: #161b22; --panel2: #1c232c; --border: #2a323c;
+    --text: #e6edf3; --muted: #8b949e; --accent: #2ca089; --accent2: #3fb6c9;
+    --gold: #d4af37; --online: #3fb950; --offline: #5a626c;
+  }
+  * { box-sizing: border-box; }
+  body {
+    margin: 0; background: var(--bg); color: var(--text);
+    font: 14px/1.5 system-ui, -apple-system, Segoe UI, Roboto, sans-serif;
+  }
+  a { color: var(--accent2); }
+  .wrap { max-width: 1100px; margin: 0 auto; padding: 18px 16px 60px; }
+  header { display: flex; align-items: baseline; gap: 12px; flex-wrap: wrap; margin-bottom: 4px; }
+  h1 { font-size: 22px; margin: 0; }
+  h1 .tag { color: var(--accent); }
+  .sub { color: var(--muted); font-size: 13px; }
+  .stats { display: flex; gap: 18px; flex-wrap: wrap; margin: 12px 0 18px; }
+  .stat { background: var(--panel); border: 1px solid var(--border); border-radius: 10px; padding: 10px 14px; }
+  .stat b { font-size: 20px; display: block; }
+  .stat span { color: var(--muted); font-size: 12px; text-transform: uppercase; letter-spacing: .04em; }
+  .tabs { display: flex; gap: 6px; margin-bottom: 14px; flex-wrap: wrap; }
+  .tab {
+    background: var(--panel); border: 1px solid var(--border); color: var(--muted);
+    padding: 8px 14px; border-radius: 8px; cursor: pointer; font-weight: 600; font-size: 13px;
+  }
+  .tab.active { background: var(--accent); color: #06231e; border-color: var(--accent); }
+  .panel { background: var(--panel); border: 1px solid var(--border); border-radius: 12px; padding: 4px 0; overflow: hidden; }
+  .view { display: none; }
+  .view.active { display: block; }
+  table { width: 100%; border-collapse: collapse; }
+  th, td { text-align: left; padding: 8px 14px; border-bottom: 1px solid var(--border); white-space: nowrap; }
+  th { color: var(--muted); font-size: 12px; text-transform: uppercase; letter-spacing: .03em; cursor: pointer; user-select: none; position: sticky; top: 0; background: var(--panel); }
+  th.sortable:hover { color: var(--text); }
+  tr:last-child td { border-bottom: none; }
+  tbody tr:hover { background: var(--panel2); }
+  td.num, th.num { text-align: right; font-variant-numeric: tabular-nums; }
+  .rank { color: var(--muted); font-size: 12px; text-transform: capitalize; }
+  .dot { display: inline-block; width: 8px; height: 8px; border-radius: 50%; background: var(--offline); margin-right: 6px; vertical-align: middle; }
+  .dot.on { background: var(--online); box-shadow: 0 0 6px var(--online); }
+  .srv { color: var(--accent2); font-size: 12px; }
+  .gain { color: var(--accent); font-weight: 700; }
+  .muted { color: var(--muted); }
+  .bar { height: 4px; background: var(--accent); border-radius: 2px; display: inline-block; vertical-align: middle; margin-left: 8px; opacity: .6; }
+  .pairnames { font-weight: 600; }
+  .pairnames .x { color: var(--muted); font-weight: 400; margin: 0 6px; }
+  select { background: var(--panel2); color: var(--text); border: 1px solid var(--border); border-radius: 8px; padding: 8px 12px; font-size: 14px; }
+  .explorer-head { padding: 14px; display: flex; align-items: center; gap: 10px; flex-wrap: wrap; }
+  .badge { background: var(--panel2); border: 1px solid var(--border); border-radius: 20px; padding: 2px 10px; font-size: 12px; color: var(--muted); }
+  .empty { padding: 30px 14px; color: var(--muted); text-align: center; }
+  .runline .who { font-weight: 600; }
+  .footer { margin-top: 22px; color: var(--muted); font-size: 12px; }
+  .hint { color: var(--muted); font-size: 12px; padding: 8px 14px 14px; }
+</style>
+</head>
+<body>
+<div class="wrap">
+  <header>
+    <h1><span class="tag" id="prefix">[YCY]</span> <span id="gname">YuChaYuan</span> · TNA Tracker</h1>
+    <span class="sub" id="updated">lädt…</span>
+  </header>
+  <div class="sub" id="tagline">Wer spielt mit wem? — abgeleitet aus TNA-Completions im selben Zeitfenster + gleicher Server.</div>
+
+  <div class="stats" id="stats"></div>
+
+  <div class="tabs">
+    <div class="tab active" data-view="pairs">Wer mit wem</div>
+    <div class="tab" data-view="explorer">Partner-Explorer</div>
+    <div class="tab" data-view="grinders">TNA-Grinder</div>
+    <div class="tab" data-view="runs">Letzte Runs</div>
+  </div>
+
+  <div class="panel">
+    <div class="view active" id="view-pairs">
+      <div class="hint">Paare sortiert nach gemeinsam erkannten TNA-Runs (stärkstes Signal), dann gemeinsamer Server-Zeit. Klick auf eine Spaltenüberschrift zum Umsortieren.</div>
+      <table id="pairsTable"></table>
+    </div>
+    <div class="view" id="view-explorer">
+      <div class="explorer-head">
+        <label for="memberSel">Mitglied:</label>
+        <select id="memberSel"></select>
+      </div>
+      <table id="explorerTable"></table>
+    </div>
+    <div class="view" id="view-grinders">
+      <div class="hint">TNA-Completions seit Tracking-Start (gained) und gesamt. Nur Member, die seit Start online waren, haben Daten.</div>
+      <table id="grindersTable"></table>
+    </div>
+    <div class="view" id="view-runs">
+      <table id="runsTable"></table>
+    </div>
+  </div>
+
+  <div class="footer" id="footer"></div>
+</div>
+
+<script>
+const $ = (s) => document.querySelector(s);
+const bust = () => "?t=" + Date.now();
+const fmtTs = (ts) => { const d = new Date(ts); return d.toLocaleString("de-DE", { dateStyle: "short", timeStyle: "short" }); };
+const ago = (ts) => {
+  const s = (Date.now() - new Date(ts).getTime()) / 1000;
+  if (s < 90) return "gerade eben";
+  if (s < 3600) return Math.round(s/60) + " min";
+  if (s < 86400) return Math.round(s/3600) + " h";
+  return Math.round(s/86400) + " d";
+};
+
+let STATE = null, PAIRS = null, RUNS = null;
+let MEMBERS = {}; // uuid -> member
+
+async function load() {
+  const [s, p, r] = await Promise.all([
+    fetch("state.json" + bust()).then(x => x.json()).catch(() => null),
+    fetch("pairs.json" + bust()).then(x => x.json()).catch(() => ({ tna:{}, copresence:{} })),
+    fetch("runs.json"  + bust()).then(x => x.json()).catch(() => ({ runs: [] })),
+  ]);
+  STATE = s; PAIRS = p; RUNS = r;
+  MEMBERS = (s && s.members) || {};
+  render();
+}
+
+function nameOf(uuid) { return MEMBERS[uuid]?.username || uuid.slice(0,8); }
+function onlineOf(uuid) { return !!MEMBERS[uuid]?.online; }
+
+function render() {
+  if (!STATE) { $("#updated").textContent = "keine Daten"; return; }
+  const g = STATE.guild || {};
+  $("#prefix").textContent = "[" + (g.prefix || "YCY") + "]";
+  $("#gname").textContent = g.name || "YuChaYuan";
+  $("#updated").textContent = "Stand: " + fmtTs(STATE.updated) + " (" + ago(STATE.updated) + ")";
+
+  const mem = Object.values(MEMBERS);
+  const withTna = mem.filter(m => m.tna != null);
+  const totalGained = withTna.reduce((a, m) => a + (m.gained || 0), 0);
+  const stats = [
+    ["Mitglieder", STATE.memberCount],
+    ["Online", STATE.online],
+    ["TNA-Runs erkannt", (RUNS.runs||[]).length],
+    ["Paare erkannt", Object.keys(PAIRS.tna||{}).length],
+    ["TNA seit Start", totalGained],
+  ];
+  $("#stats").innerHTML = stats.map(([k,v]) => `<div class="stat"><b>${v}</b><span>${k}</span></div>`).join("");
+
+  renderPairs();
+  renderExplorer();
+  renderGrinders();
+  renderRuns();
+  $("#footer").textContent = "Aktualisiert alle paar Minuten via GitHub Actions · Signal: TNA-Completion-Increments (selber Server) + Server-Co-Anwesenheit.";
+}
+
+// ── combined pair list ───────────────────────────────────────
+function pairRows() {
+  const tna = PAIRS.tna || {}, cop = PAIRS.copresence || {};
+  const keys = new Set([...Object.keys(tna), ...Object.keys(cop)]);
+  const rows = [];
+  for (const k of keys) {
+    const t = tna[k], c = cop[k];
+    const a = (t || c).a, b = (t || c).b;
+    rows.push({
+      a, b,
+      runs: t ? (t.count || 0) : 0,
+      samples: c ? (c.samples || 0) : 0,
+      lastTs: [t?.lastTs, c?.lastTs].filter(Boolean).sort().pop(),
+    });
+  }
+  return rows;
+}
+
+let pairsSort = { key: "runs", dir: -1 };
+function renderPairs() {
+  const rows = pairRows();
+  if (!rows.length) { $("#pairsTable").innerHTML = `<tbody><tr><td class="empty">Noch keine Paare erkannt — kommt sobald Member zusammen TNA spielen.</td></tr></tbody>`; return; }
+  rows.sort((x, y) => {
+    const k = pairsSort.key;
+    let d = (y[k] > x[k]) ? 1 : (y[k] < x[k] ? -1 : 0);
+    if (k === "lastTs") d = (new Date(y.lastTs) - new Date(x.lastTs));
+    return pairsSort.dir < 0 ? d : -d;
+  });
+  const maxRuns = Math.max(1, ...rows.map(r => r.runs));
+  const head = `<thead><tr>
+    <th>#</th><th>Paar</th>
+    <th class="num sortable" data-k="runs">TNA-Runs</th>
+    <th class="num sortable" data-k="samples">Server-Samples</th>
+    <th class="num sortable" data-k="lastTs">zuletzt</th>
+  </tr></thead>`;
+  const body = rows.slice(0, 100).map((r, i) => `<tr>
+    <td class="num muted">${i+1}</td>
+    <td class="pairnames">${dot(r.a)}${nameOf(r.a)} <span class="x">×</span> ${dot(r.b)}${nameOf(r.b)}</td>
+    <td class="num"><b>${r.runs}</b><span class="bar" style="width:${Math.round(r.runs/maxRuns*40)}px"></span></td>
+    <td class="num muted">${r.samples}</td>
+    <td class="num muted">${r.lastTs ? ago(r.lastTs) : "–"}</td>
+  </tr>`).join("");
+  $("#pairsTable").innerHTML = head + `<tbody>${body}</tbody>`;
+  $("#pairsTable").querySelectorAll("th.sortable").forEach(th => th.onclick = () => {
+    const k = th.dataset.k;
+    pairsSort = { key: k, dir: pairsSort.key === k ? -pairsSort.dir : -1 };
+    renderPairs();
+  });
+}
+function dot(uuid) { return `<span class="dot ${onlineOf(uuid) ? "on" : ""}"></span>`; }
+
+// ── partner explorer ─────────────────────────────────────────
+function renderExplorer() {
+  const sel = $("#memberSel");
+  const opts = Object.entries(MEMBERS)
+    .filter(([,m]) => m.tna != null)
+    .map(([uuid, m]) => ({ uuid, name: m.username, online: m.online }));
+  // include anyone appearing in pairs even if no tna data yet
+  const seen = new Set(opts.map(o => o.uuid));
+  for (const r of pairRows()) for (const u of [r.a, r.b]) if (!seen.has(u)) { seen.add(u); opts.push({ uuid: u, name: nameOf(u), online: onlineOf(u) }); }
+  opts.sort((a,b) => a.name.localeCompare(b.name));
+  const cur = sel.value;
+  sel.innerHTML = opts.map(o => `<option value="${o.uuid}">${o.name}${o.online ? " ●" : ""}</option>`).join("");
+  if (cur && seen.has(cur)) sel.value = cur;
+  sel.onchange = () => renderPartners(sel.value);
+  renderPartners(sel.value || opts[0]?.uuid);
+}
+
+function renderPartners(uuid) {
+  if (!uuid) { $("#explorerTable").innerHTML = `<tbody><tr><td class="empty">Kein Mitglied gewählt.</td></tr></tbody>`; return; }
+  const rows = pairRows().filter(r => r.a === uuid || r.b === uuid).map(r => {
+    const other = r.a === uuid ? r.b : r.a;
+    return { other, runs: r.runs, samples: r.samples, lastTs: r.lastTs };
+  });
+  rows.sort((x, y) => (y.runs - x.runs) || (y.samples - x.samples));
+  const m = MEMBERS[uuid];
+  const meta = m ? `<span class="badge">TNA gesamt: ${m.tna ?? "–"}</span> <span class="badge">seit Start: +${m.gained || 0}</span> <span class="badge">${m.online ? "online · " + (m.server||"") : "offline"}</span>` : "";
+  $(".explorer-head").querySelectorAll(".badge").forEach(b => b.remove());
+  $(".explorer-head").insertAdjacentHTML("beforeend", meta);
+  if (!rows.length) { $("#explorerTable").innerHTML = `<tbody><tr><td class="empty">Noch keine Partner für ${nameOf(uuid)} erkannt.</td></tr></tbody>`; return; }
+  const head = `<thead><tr><th>#</th><th>Partner</th><th class="num">TNA-Runs</th><th class="num">Server-Samples</th><th class="num">zuletzt</th></tr></thead>`;
+  const body = rows.map((r, i) => `<tr>
+    <td class="num muted">${i+1}</td>
+    <td>${dot(r.other)}${nameOf(r.other)}</td>
+    <td class="num"><b>${r.runs}</b></td>
+    <td class="num muted">${r.samples}</td>
+    <td class="num muted">${r.lastTs ? ago(r.lastTs) : "–"}</td>
+  </tr>`).join("");
+  $("#explorerTable").innerHTML = head + `<tbody>${body}</tbody>`;
+}
+
+// ── grinders ─────────────────────────────────────────────────
+let grindSort = { key: "gained", dir: -1 };
+function renderGrinders() {
+  const rows = Object.values(MEMBERS).filter(m => m.tna != null);
+  if (!rows.length) { $("#grindersTable").innerHTML = `<tbody><tr><td class="empty">Noch keine TNA-Daten.</td></tr></tbody>`; return; }
+  rows.sort((x, y) => {
+    const k = grindSort.key;
+    let d;
+    if (k === "username") d = x.username.localeCompare(y.username);
+    else d = (y[k]||0) - (x[k]||0);
+    return grindSort.dir < 0 ? d : -d;
+  });
+  const head = `<thead><tr>
+    <th class="sortable" data-k="username">Mitglied</th>
+    <th class="sortable" data-k="rank">Rang</th>
+    <th class="num sortable" data-k="gained">+ seit Start</th>
+    <th class="num sortable" data-k="tna">TNA gesamt</th>
+    <th>Status</th>
+  </tr></thead>`;
+  const body = rows.map(m => `<tr>
+    <td>${dot2(m)}${m.username}</td>
+    <td class="rank">${m.rank}</td>
+    <td class="num gain">${m.gained ? "+" + m.gained : "0"}</td>
+    <td class="num">${m.tna}</td>
+    <td>${m.online ? `<span class="srv">${m.server || "online"}</span>` : `<span class="muted">${m.lastSeen ? ago(m.lastSeen)+" her" : "offline"}</span>`}</td>
+  </tr>`).join("");
+  $("#grindersTable").innerHTML = head + `<tbody>${body}</tbody>`;
+  $("#grindersTable").querySelectorAll("th.sortable").forEach(th => th.onclick = () => {
+    const k = th.dataset.k;
+    grindSort = { key: k, dir: grindSort.key === k ? -grindSort.dir : -1 };
+    renderGrinders();
+  });
+}
+function dot2(m) { return `<span class="dot ${m.online ? "on" : ""}"></span>`; }
+
+// ── recent runs ──────────────────────────────────────────────
+function renderRuns() {
+  const runs = (RUNS.runs || []).slice().reverse();
+  if (!runs.length) { $("#runsTable").innerHTML = `<tbody><tr><td class="empty">Noch keine TNA-Runs erkannt.</td></tr></tbody>`; return; }
+  const head = `<thead><tr><th>Wann</th><th>Server</th><th>Spieler (TNA-Zuwachs)</th></tr></thead>`;
+  const body = runs.slice(0, 150).map(r => `<tr class="runline">
+    <td class="muted">${fmtTs(r.ts)}</td>
+    <td class="srv">${r.server || "?"}</td>
+    <td class="who">${r.players.map(p => `${p.username} <span class="muted">+${p.delta}</span>`).join(", ")}</td>
+  </tr>`).join("");
+  $("#runsTable").innerHTML = head + `<tbody>${body}</tbody>`;
+}
+
+// ── tabs ─────────────────────────────────────────────────────
+document.querySelectorAll(".tab").forEach(t => t.onclick = () => {
+  document.querySelectorAll(".tab").forEach(x => x.classList.remove("active"));
+  document.querySelectorAll(".view").forEach(x => x.classList.remove("active"));
+  t.classList.add("active");
+  $("#view-" + t.dataset.view).classList.add("active");
+});
+
+load();
+setInterval(load, 120000);
+</script>
+</body>
+</html>
