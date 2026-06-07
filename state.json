@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-07T13:25:19.769Z",
+  "updated": "2026-06-07T13:30:36.343Z",
   "guild": {
     "name": "YuChaYuan",
     "prefix": "YCY",
@@ -35,7 +35,7 @@
       "baselineTna": 1502,
       "baselineTs": "2026-06-06T18:47:42.183Z",
       "gained": 0,
-      "lastSeen": "2026-06-07T13:25:19.769Z",
+      "lastSeen": "2026-06-07T13:30:36.343Z",
       "lastRaid": null,
       "byDay": {
         "2026-06-06": 1502,
@@ -463,7 +463,7 @@
       "baselineTna": 14,
       "baselineTs": "2026-06-06T18:47:42.183Z",
       "gained": 0,
-      "lastSeen": "2026-06-07T13:25:19.769Z",
+      "lastSeen": "2026-06-07T13:30:36.343Z",
       "lastRaid": null,
       "byDay": {
         "2026-06-06": 14,
@@ -473,13 +473,13 @@
     "5e04e4ff-d051-4125-983b-d42b214dac80": {
       "username": "Reisen_U_Inaba",
       "rank": "recruiter",
-      "online": false,
-      "server": null,
+      "online": true,
+      "server": "AS1",
       "tna": 256,
       "baselineTna": 256,
       "baselineTs": "2026-06-06T18:47:42.183Z",
       "gained": 0,
-      "lastSeen": "2026-06-07T08:25:20.524Z",
+      "lastSeen": "2026-06-07T13:30:36.343Z",
       "lastRaid": null,
       "byDay": {
         "2026-06-06": 256,
@@ -511,7 +511,7 @@
       "baselineTna": null,
       "baselineTs": null,
       "gained": 0,
-      "lastSeen": "2026-06-07T13:25:19.769Z",
+      "lastSeen": "2026-06-07T13:30:36.343Z",
       "lastRaid": null,
       "byDay": {}
     },
@@ -601,7 +601,7 @@
       "baselineTna": 6,
       "baselineTs": "2026-06-06T18:47:42.183Z",
       "gained": 0,
-      "lastSeen": "2026-06-07T13:25:19.769Z",
+      "lastSeen": "2026-06-07T13:30:36.343Z",
       "lastRaid": null,
       "byDay": {
         "2026-06-06": 6,
@@ -1264,8 +1264,8 @@
     "b223c20c-1615-45fe-85cd-4e85a782b161": {
       "username": "Hectoooooor",
       "rank": "recruit",
-      "online": true,
-      "server": "AS15",
+      "online": false,
+      "server": null,
       "tna": null,
       "baselineTna": null,
       "baselineTs": null,
