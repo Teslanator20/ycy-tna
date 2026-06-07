@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-07T14:05:21.686Z",
+  "updated": "2026-06-07T14:10:25.201Z",
   "guild": {
     "name": "YuChaYuan",
     "prefix": "YCY",
@@ -35,7 +35,7 @@
       "baselineTna": 1502,
       "baselineTs": "2026-06-06T18:47:42.183Z",
       "gained": 0,
-      "lastSeen": "2026-06-07T14:05:21.686Z",
+      "lastSeen": "2026-06-07T14:10:25.201Z",
       "lastRaid": null,
       "byDay": {
         "2026-06-06": 1502,
@@ -463,7 +463,7 @@
       "baselineTna": 14,
       "baselineTs": "2026-06-06T18:47:42.183Z",
       "gained": 0,
-      "lastSeen": "2026-06-07T14:05:21.686Z",
+      "lastSeen": "2026-06-07T14:10:25.201Z",
       "lastRaid": null,
       "byDay": {
         "2026-06-06": 14,
@@ -506,12 +506,12 @@
       "username": "woody123_is_god",
       "rank": "recruiter",
       "online": true,
-      "server": "AS8",
+      "server": "AS2",
       "tna": null,
       "baselineTna": null,
       "baselineTs": null,
       "gained": 0,
-      "lastSeen": "2026-06-07T14:05:21.686Z",
+      "lastSeen": "2026-06-07T14:10:25.201Z",
       "lastRaid": null,
       "byDay": {}
     },
@@ -596,12 +596,12 @@
       "username": "Charlotte_Cute",
       "rank": "recruiter",
       "online": true,
-      "server": "EU29",
+      "server": "NA8",
       "tna": 6,
       "baselineTna": 6,
       "baselineTs": "2026-06-06T18:47:42.183Z",
       "gained": 0,
-      "lastSeen": "2026-06-07T14:05:21.686Z",
+      "lastSeen": "2026-06-07T14:10:25.201Z",
       "lastRaid": null,
       "byDay": {
         "2026-06-06": 6,
