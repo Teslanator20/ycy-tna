@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-07T18:25:21.743Z",
+  "updated": "2026-06-07T18:30:30.971Z",
   "guild": {
     "name": "YuChaYuan",
     "prefix": "YCY",
@@ -7,7 +7,7 @@
     "raidShort": "TNA",
     "color": "#2ca089"
   },
-  "online": 3,
+  "online": 1,
   "memberCount": 95,
   "members": {
     "01ca79a1-7805-4458-b52d-cfb7f809a808": {
@@ -473,8 +473,8 @@
     "5e04e4ff-d051-4125-983b-d42b214dac80": {
       "username": "Reisen_U_Inaba",
       "rank": "recruiter",
-      "online": true,
-      "server": "EU1",
+      "online": false,
+      "server": null,
       "tna": 256,
       "baselineTna": 256,
       "baselineTs": "2026-06-06T18:47:42.183Z",
@@ -596,12 +596,12 @@
       "username": "Charlotte_Cute",
       "rank": "recruiter",
       "online": true,
-      "server": "AS4",
+      "server": "NA29",
       "tna": 6,
       "baselineTna": 6,
       "baselineTs": "2026-06-06T18:47:42.183Z",
       "gained": 0,
-      "lastSeen": "2026-06-07T18:25:21.743Z",
+      "lastSeen": "2026-06-07T18:30:30.971Z",
       "lastRaid": null,
       "byDay": {
         "2026-06-06": 6,
@@ -717,8 +717,8 @@
     "a3fd2992-cc9d-44d0-b33c-f1e31b922147": {
       "username": "Tletur",
       "rank": "recruiter",
-      "online": true,
-      "server": "AS4",
+      "online": false,
+      "server": null,
       "tna": 387,
       "baselineTna": 387,
       "baselineTs": "2026-06-06T18:47:42.183Z",
