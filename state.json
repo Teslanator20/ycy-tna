@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-07T07:15:23.305Z",
+  "updated": "2026-06-07T07:20:26.484Z",
   "guild": {
     "name": "YuChaYuan",
     "prefix": "YCY",
@@ -35,7 +35,7 @@
       "baselineTna": 1502,
       "baselineTs": "2026-06-06T18:47:42.183Z",
       "gained": 0,
-      "lastSeen": "2026-06-07T07:15:23.305Z",
+      "lastSeen": "2026-06-07T07:20:26.484Z",
       "lastRaid": null,
       "byDay": {
         "2026-06-06": 1502,
@@ -67,7 +67,7 @@
       "baselineTna": 242,
       "baselineTs": "2026-06-06T18:47:42.183Z",
       "gained": 0,
-      "lastSeen": "2026-06-07T07:15:23.305Z",
+      "lastSeen": "2026-06-07T07:20:26.484Z",
       "lastRaid": null,
       "byDay": {
         "2026-06-06": 242,
@@ -511,7 +511,7 @@
       "baselineTna": null,
       "baselineTs": null,
       "gained": 0,
-      "lastSeen": "2026-06-07T07:15:23.305Z",
+      "lastSeen": "2026-06-07T07:20:26.484Z",
       "lastRaid": null,
       "byDay": {}
     },
@@ -601,7 +601,7 @@
       "baselineTna": 6,
       "baselineTs": "2026-06-06T18:47:42.183Z",
       "gained": 0,
-      "lastSeen": "2026-06-07T07:15:23.305Z",
+      "lastSeen": "2026-06-07T07:20:26.484Z",
       "lastRaid": null,
       "byDay": {
         "2026-06-06": 6,
@@ -1262,12 +1262,12 @@
       "username": "Lin87_zs",
       "rank": "recruit",
       "online": true,
-      "server": "AS3",
+      "server": "AS14",
       "tna": 40,
       "baselineTna": 40,
       "baselineTs": "2026-06-06T18:47:42.183Z",
       "gained": 0,
-      "lastSeen": "2026-06-07T07:15:23.305Z",
+      "lastSeen": "2026-06-07T07:20:26.484Z",
       "lastRaid": null,
       "byDay": {
         "2026-06-06": 40,
