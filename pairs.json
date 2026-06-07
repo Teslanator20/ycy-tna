@@ -4,10 +4,10 @@
     "4791eb57-3607-4647-8d4f-59aaa879c5a4|497f4a05-e2e7-4e0b-97f5-bc1fdf4c7522": {
       "a": "4791eb57-3607-4647-8d4f-59aaa879c5a4",
       "b": "497f4a05-e2e7-4e0b-97f5-bc1fdf4c7522",
-      "samples": 30,
+      "samples": 31,
       "usernameA": "0110jimmy",
       "usernameB": "MrMud8033112",
-      "lastTs": "2026-06-07T08:55:22.990Z"
+      "lastTs": "2026-06-07T09:00:40.454Z"
     },
     "4791eb57-3607-4647-8d4f-59aaa879c5a4|b223c20c-1615-45fe-85cd-4e85a782b161": {
       "a": "4791eb57-3607-4647-8d4f-59aaa879c5a4",
@@ -80,7 +80,15 @@
       "usernameA": "Reisen_U_Inaba",
       "usernameB": "Hectoooooor",
       "lastTs": "2026-06-07T08:25:20.524Z"
+    },
+    "d3062613-f674-46dd-b5d7-9e75c39d8f31|e4a23668-57d7-4f17-b58f-4a0fd17870ec": {
+      "a": "d3062613-f674-46dd-b5d7-9e75c39d8f31",
+      "b": "e4a23668-57d7-4f17-b58f-4a0fd17870ec",
+      "samples": 1,
+      "usernameA": "Coffee96357412",
+      "usernameB": "woody123_is_god",
+      "lastTs": "2026-06-07T09:00:40.454Z"
     }
   },
-  "updated": "2026-06-07T08:55:22.990Z"
+  "updated": "2026-06-07T09:00:40.454Z"
 }
