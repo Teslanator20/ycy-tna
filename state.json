@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-07T05:50:25.199Z",
+  "updated": "2026-06-07T05:55:20.874Z",
   "guild": {
     "name": "YuChaYuan",
     "prefix": "YCY",
@@ -7,7 +7,7 @@
     "raidShort": "TNA",
     "color": "#2ca089"
   },
-  "online": 3,
+  "online": 6,
   "memberCount": 96,
   "members": {
     "01ca79a1-7805-4458-b52d-cfb7f809a808": {
@@ -29,13 +29,13 @@
     "4791eb57-3607-4647-8d4f-59aaa879c5a4": {
       "username": "0110jimmy",
       "rank": "chief",
-      "online": false,
-      "server": null,
+      "online": true,
+      "server": "AS9",
       "tna": 1502,
       "baselineTna": 1502,
       "baselineTs": "2026-06-06T18:47:42.183Z",
       "gained": 0,
-      "lastSeen": "2026-06-07T05:45:23.806Z",
+      "lastSeen": "2026-06-07T05:55:20.874Z",
       "lastRaid": null,
       "byDay": {
         "2026-06-06": 1502,
@@ -457,13 +457,13 @@
     "d12455ec-9194-492d-8e6e-6794b678e8f4": {
       "username": "5411",
       "rank": "recruiter",
-      "online": false,
-      "server": null,
+      "online": true,
+      "server": "NA6",
       "tna": 14,
       "baselineTna": 14,
       "baselineTs": "2026-06-06T18:47:42.183Z",
       "gained": 0,
-      "lastSeen": "2026-06-07T05:20:26.604Z",
+      "lastSeen": "2026-06-07T05:55:20.874Z",
       "lastRaid": null,
       "byDay": {
         "2026-06-06": 14,
@@ -511,7 +511,7 @@
       "baselineTna": null,
       "baselineTs": null,
       "gained": 0,
-      "lastSeen": "2026-06-07T05:50:25.199Z",
+      "lastSeen": "2026-06-07T05:55:20.874Z",
       "lastRaid": null,
       "byDay": {}
     },
@@ -601,7 +601,7 @@
       "baselineTna": 6,
       "baselineTs": "2026-06-06T18:47:42.183Z",
       "gained": 0,
-      "lastSeen": "2026-06-07T05:50:25.199Z",
+      "lastSeen": "2026-06-07T05:55:20.874Z",
       "lastRaid": null,
       "byDay": {
         "2026-06-06": 6,
@@ -900,7 +900,7 @@
       "baselineTna": 14,
       "baselineTs": "2026-06-06T18:47:42.183Z",
       "gained": 1,
-      "lastSeen": "2026-06-07T05:50:25.199Z",
+      "lastSeen": "2026-06-07T05:55:20.874Z",
       "lastRaid": "2026-06-07T03:20:26.001Z",
       "byDay": {
         "2026-06-06": 14,
@@ -1277,13 +1277,13 @@
     "b223c20c-1615-45fe-85cd-4e85a782b161": {
       "username": "Hectoooooor",
       "rank": "recruit",
-      "online": false,
-      "server": null,
+      "online": true,
+      "server": "AS25",
       "tna": null,
       "baselineTna": null,
       "baselineTs": null,
       "gained": 0,
-      "lastSeen": "2026-06-07T05:40:26.210Z",
+      "lastSeen": "2026-06-07T05:55:20.874Z",
       "lastRaid": null,
       "byDay": {}
     },
