@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-08T13:00:44.788Z",
+  "updated": "2026-06-08T13:05:27.130Z",
   "guild": {
     "name": "YuChaYuan",
     "prefix": "YCY",
@@ -7,7 +7,7 @@
     "raidShort": "TNA",
     "color": "#2ca089"
   },
-  "online": 4,
+  "online": 5,
   "memberCount": 95,
   "members": {
     "01ca79a1-7805-4458-b52d-cfb7f809a808": {
@@ -36,7 +36,7 @@
       "baselineTna": 1502,
       "baselineTs": "2026-06-06T18:47:42.183Z",
       "gained": 0,
-      "lastSeen": "2026-06-08T13:00:44.788Z",
+      "lastSeen": "2026-06-08T13:05:27.130Z",
       "lastRaid": null,
       "byDay": {
         "2026-06-06": 1502,
@@ -476,12 +476,12 @@
       "username": "5411",
       "rank": "recruiter",
       "online": true,
-      "server": "AS14",
+      "server": "AS17",
       "tna": 14,
       "baselineTna": 14,
       "baselineTs": "2026-06-06T18:47:42.183Z",
       "gained": 0,
-      "lastSeen": "2026-06-08T13:00:44.788Z",
+      "lastSeen": "2026-06-08T13:05:27.130Z",
       "lastRaid": null,
       "byDay": {
         "2026-06-06": 14,
@@ -532,7 +532,7 @@
       "baselineTna": null,
       "baselineTs": null,
       "gained": 0,
-      "lastSeen": "2026-06-08T13:00:44.788Z",
+      "lastSeen": "2026-06-08T13:05:27.130Z",
       "lastRaid": null,
       "byDay": {}
     },
@@ -608,12 +608,12 @@
       "username": "Coffee96357412",
       "rank": "recruiter",
       "online": true,
-      "server": "AS9",
+      "server": "AS20",
       "tna": null,
       "baselineTna": null,
       "baselineTs": null,
       "gained": 0,
-      "lastSeen": "2026-06-08T13:00:44.788Z",
+      "lastSeen": "2026-06-08T13:05:27.130Z",
       "lastRaid": null,
       "byDay": {}
     },
@@ -1159,13 +1159,13 @@
     "c1c7d2de-e109-48bc-80e1-1a84e7083762": {
       "username": "AlwaysNegative",
       "rank": "recruit",
-      "online": false,
-      "server": null,
+      "online": true,
+      "server": "AS20",
       "tna": null,
       "baselineTna": null,
       "baselineTs": null,
       "gained": 0,
-      "lastSeen": null,
+      "lastSeen": "2026-06-08T13:05:27.130Z",
       "lastRaid": null,
       "byDay": {}
     },
