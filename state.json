@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-08T12:15:25.693Z",
+  "updated": "2026-06-08T12:20:28.888Z",
   "guild": {
     "name": "YuChaYuan",
     "prefix": "YCY",
@@ -36,7 +36,7 @@
       "baselineTna": 1502,
       "baselineTs": "2026-06-06T18:47:42.183Z",
       "gained": 0,
-      "lastSeen": "2026-06-08T12:15:25.693Z",
+      "lastSeen": "2026-06-08T12:20:28.888Z",
       "lastRaid": null,
       "byDay": {
         "2026-06-06": 1502,
@@ -481,7 +481,7 @@
       "baselineTna": 14,
       "baselineTs": "2026-06-06T18:47:42.183Z",
       "gained": 0,
-      "lastSeen": "2026-06-08T12:15:25.693Z",
+      "lastSeen": "2026-06-08T12:20:28.888Z",
       "lastRaid": null,
       "byDay": {
         "2026-06-06": 14,
@@ -532,7 +532,7 @@
       "baselineTna": null,
       "baselineTs": null,
       "gained": 0,
-      "lastSeen": "2026-06-08T12:15:25.693Z",
+      "lastSeen": "2026-06-08T12:20:28.888Z",
       "lastRaid": null,
       "byDay": {}
     },
@@ -626,7 +626,7 @@
       "baselineTna": 6,
       "baselineTs": "2026-06-06T18:47:42.183Z",
       "gained": 1,
-      "lastSeen": "2026-06-08T12:15:25.693Z",
+      "lastSeen": "2026-06-08T12:20:28.888Z",
       "lastRaid": "2026-06-07T19:05:23.084Z",
       "byDay": {
         "2026-06-06": 6,
@@ -925,7 +925,7 @@
       "baselineTna": 14,
       "baselineTs": "2026-06-06T18:47:42.183Z",
       "gained": 1,
-      "lastSeen": "2026-06-08T12:15:25.693Z",
+      "lastSeen": "2026-06-08T12:20:28.888Z",
       "lastRaid": "2026-06-07T03:20:26.001Z",
       "byDay": {
         "2026-06-06": 14,
@@ -1306,7 +1306,7 @@
       "baselineTna": 40,
       "baselineTs": "2026-06-06T18:47:42.183Z",
       "gained": 0,
-      "lastSeen": "2026-06-08T12:15:25.693Z",
+      "lastSeen": "2026-06-08T12:20:28.888Z",
       "lastRaid": null,
       "byDay": {
         "2026-06-06": 40,
@@ -1323,7 +1323,7 @@
       "baselineTna": null,
       "baselineTs": null,
       "gained": 0,
-      "lastSeen": "2026-06-08T12:15:25.693Z",
+      "lastSeen": "2026-06-08T12:20:28.888Z",
       "lastRaid": null,
       "byDay": {}
     },
