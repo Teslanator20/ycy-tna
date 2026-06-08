@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-08T06:05:21.009Z",
+  "updated": "2026-06-08T06:10:25.392Z",
   "guild": {
     "name": "YuChaYuan",
     "prefix": "YCY",
@@ -7,7 +7,7 @@
     "raidShort": "TNA",
     "color": "#2ca089"
   },
-  "online": 4,
+  "online": 3,
   "memberCount": 95,
   "members": {
     "01ca79a1-7805-4458-b52d-cfb7f809a808": {
@@ -36,7 +36,7 @@
       "baselineTna": 1502,
       "baselineTs": "2026-06-06T18:47:42.183Z",
       "gained": 0,
-      "lastSeen": "2026-06-08T06:05:21.009Z",
+      "lastSeen": "2026-06-08T06:10:25.392Z",
       "lastRaid": null,
       "byDay": {
         "2026-06-06": 1502,
@@ -236,8 +236,8 @@
     "b2af2238-7cdb-48ea-bc81-93e2edaac822": {
       "username": "Marvel_jesus",
       "rank": "strategist",
-      "online": true,
-      "server": "AS15",
+      "online": false,
+      "server": null,
       "tna": 1,
       "baselineTna": 1,
       "baselineTs": "2026-06-06T18:47:42.183Z",
@@ -481,7 +481,7 @@
       "baselineTna": 14,
       "baselineTs": "2026-06-06T18:47:42.183Z",
       "gained": 0,
-      "lastSeen": "2026-06-08T06:05:21.009Z",
+      "lastSeen": "2026-06-08T06:10:25.392Z",
       "lastRaid": null,
       "byDay": {
         "2026-06-06": 14,
@@ -613,7 +613,7 @@
       "baselineTna": null,
       "baselineTs": null,
       "gained": 0,
-      "lastSeen": "2026-06-08T06:05:21.009Z",
+      "lastSeen": "2026-06-08T06:10:25.392Z",
       "lastRaid": null,
       "byDay": {}
     },
