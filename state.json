@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-08T06:00:39.291Z",
+  "updated": "2026-06-08T06:05:21.009Z",
   "guild": {
     "name": "YuChaYuan",
     "prefix": "YCY",
@@ -36,7 +36,7 @@
       "baselineTna": 1502,
       "baselineTs": "2026-06-06T18:47:42.183Z",
       "gained": 0,
-      "lastSeen": "2026-06-08T06:00:39.291Z",
+      "lastSeen": "2026-06-08T06:05:21.009Z",
       "lastRaid": null,
       "byDay": {
         "2026-06-06": 1502,
@@ -242,7 +242,7 @@
       "baselineTna": 1,
       "baselineTs": "2026-06-06T18:47:42.183Z",
       "gained": 0,
-      "lastSeen": "2026-06-08T06:00:39.291Z",
+      "lastSeen": "2026-06-08T06:05:21.009Z",
       "lastRaid": null,
       "byDay": {
         "2026-06-06": 1,
@@ -476,12 +476,12 @@
       "username": "5411",
       "rank": "recruiter",
       "online": true,
-      "server": "NA36",
+      "server": "NA28",
       "tna": 14,
       "baselineTna": 14,
       "baselineTs": "2026-06-06T18:47:42.183Z",
       "gained": 0,
-      "lastSeen": "2026-06-08T06:00:39.291Z",
+      "lastSeen": "2026-06-08T06:05:21.009Z",
       "lastRaid": null,
       "byDay": {
         "2026-06-06": 14,
@@ -608,12 +608,12 @@
       "username": "Coffee96357412",
       "rank": "recruiter",
       "online": true,
-      "server": "NA36",
+      "server": "NA28",
       "tna": null,
       "baselineTna": null,
       "baselineTs": null,
       "gained": 0,
-      "lastSeen": "2026-06-08T06:00:39.291Z",
+      "lastSeen": "2026-06-08T06:05:21.009Z",
       "lastRaid": null,
       "byDay": {}
     },
