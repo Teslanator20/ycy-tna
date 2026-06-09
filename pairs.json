@@ -374,11 +374,27 @@
     "b223c20c-1615-45fe-85cd-4e85a782b161|c1c7d2de-e109-48bc-80e1-1a84e7083762": {
       "a": "b223c20c-1615-45fe-85cd-4e85a782b161",
       "b": "c1c7d2de-e109-48bc-80e1-1a84e7083762",
-      "samples": 1,
+      "samples": 2,
       "usernameA": "Hectoooooor",
       "usernameB": "AlwaysNegative",
-      "lastTs": "2026-06-09T12:20:28.825Z"
+      "lastTs": "2026-06-09T12:25:22.251Z"
+    },
+    "c1c7d2de-e109-48bc-80e1-1a84e7083762|d12455ec-9194-492d-8e6e-6794b678e8f4": {
+      "a": "c1c7d2de-e109-48bc-80e1-1a84e7083762",
+      "b": "d12455ec-9194-492d-8e6e-6794b678e8f4",
+      "samples": 1,
+      "usernameA": "AlwaysNegative",
+      "usernameB": "5411",
+      "lastTs": "2026-06-09T12:25:22.251Z"
+    },
+    "b223c20c-1615-45fe-85cd-4e85a782b161|d12455ec-9194-492d-8e6e-6794b678e8f4": {
+      "a": "b223c20c-1615-45fe-85cd-4e85a782b161",
+      "b": "d12455ec-9194-492d-8e6e-6794b678e8f4",
+      "samples": 1,
+      "usernameA": "Hectoooooor",
+      "usernameB": "5411",
+      "lastTs": "2026-06-09T12:25:22.251Z"
     }
   },
-  "updated": "2026-06-09T12:20:28.825Z"
+  "updated": "2026-06-09T12:25:22.251Z"
 }
