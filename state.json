@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-09T09:50:29.826Z",
+  "updated": "2026-06-09T09:55:24.553Z",
   "guild": {
     "name": "YuChaYuan",
     "prefix": "YCY",
@@ -7,7 +7,7 @@
     "raidShort": "TNA",
     "color": "#2ca089"
   },
-  "online": 6,
+  "online": 5,
   "memberCount": 95,
   "members": {
     "01ca79a1-7805-4458-b52d-cfb7f809a808": {
@@ -37,7 +37,7 @@
       "baselineTna": 1502,
       "baselineTs": "2026-06-06T18:47:42.183Z",
       "gained": 0,
-      "lastSeen": "2026-06-09T09:50:29.826Z",
+      "lastSeen": "2026-06-09T09:55:24.553Z",
       "lastRaid": null,
       "byDay": {
         "2026-06-06": 1502,
@@ -73,7 +73,7 @@
       "baselineTna": 242,
       "baselineTs": "2026-06-06T18:47:42.183Z",
       "gained": 0,
-      "lastSeen": "2026-06-09T09:50:29.826Z",
+      "lastSeen": "2026-06-09T09:55:24.553Z",
       "lastRaid": null,
       "byDay": {
         "2026-06-06": 242,
@@ -499,7 +499,7 @@
       "baselineTna": 14,
       "baselineTs": "2026-06-06T18:47:42.183Z",
       "gained": 1,
-      "lastSeen": "2026-06-09T09:50:29.826Z",
+      "lastSeen": "2026-06-09T09:55:24.553Z",
       "lastRaid": "2026-06-08T15:55:27.800Z",
       "byDay": {
         "2026-06-06": 14,
@@ -614,8 +614,8 @@
     "d3062613-f674-46dd-b5d7-9e75c39d8f31": {
       "username": "Coffee96357412",
       "rank": "recruiter",
-      "online": true,
-      "server": "AS10",
+      "online": false,
+      "server": null,
       "tna": null,
       "baselineTna": null,
       "baselineTs": null,
@@ -1198,7 +1198,7 @@
       "baselineTna": null,
       "baselineTs": null,
       "gained": 0,
-      "lastSeen": "2026-06-09T09:50:29.826Z",
+      "lastSeen": "2026-06-09T09:55:24.553Z",
       "lastRaid": null,
       "byDay": {}
     },
@@ -1376,7 +1376,7 @@
       "baselineTna": null,
       "baselineTs": null,
       "gained": 0,
-      "lastSeen": "2026-06-09T09:50:29.826Z",
+      "lastSeen": "2026-06-09T09:55:24.553Z",
       "lastRaid": null,
       "byDay": {}
     },
