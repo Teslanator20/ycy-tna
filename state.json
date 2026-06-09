@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-09T13:00:45.766Z",
+  "updated": "2026-06-09T13:05:25.107Z",
   "guild": {
     "name": "YuChaYuan",
     "prefix": "YCY",
@@ -7,7 +7,7 @@
     "raidShort": "TNA",
     "color": "#2ca089"
   },
-  "online": 7,
+  "online": 6,
   "memberCount": 95,
   "members": {
     "01ca79a1-7805-4458-b52d-cfb7f809a808": {
@@ -37,7 +37,7 @@
       "baselineTna": 1502,
       "baselineTs": "2026-06-06T18:47:42.183Z",
       "gained": 0,
-      "lastSeen": "2026-06-09T13:00:45.766Z",
+      "lastSeen": "2026-06-09T13:05:25.107Z",
       "lastRaid": null,
       "byDay": {
         "2026-06-06": 1502,
@@ -91,7 +91,7 @@
       "baselineTna": 72,
       "baselineTs": "2026-06-06T18:47:42.183Z",
       "gained": 0,
-      "lastSeen": "2026-06-09T13:00:45.766Z",
+      "lastSeen": "2026-06-09T13:05:25.107Z",
       "lastRaid": null,
       "byDay": {
         "2026-06-06": 72,
@@ -377,8 +377,8 @@
     "98b71318-132d-4fd5-98ad-33469386d4f3": {
       "username": "shinyo1357",
       "rank": "captain",
-      "online": true,
-      "server": "AS11",
+      "online": false,
+      "server": null,
       "tna": 63,
       "baselineTna": 63,
       "baselineTs": "2026-06-06T18:47:42.183Z",
@@ -494,12 +494,12 @@
       "username": "5411",
       "rank": "recruiter",
       "online": true,
-      "server": "AS25",
+      "server": "AS16",
       "tna": 16,
       "baselineTna": 14,
       "baselineTs": "2026-06-06T18:47:42.183Z",
       "gained": 2,
-      "lastSeen": "2026-06-09T13:00:45.766Z",
+      "lastSeen": "2026-06-09T13:05:25.107Z",
       "lastRaid": "2026-06-09T10:55:20.884Z",
       "byDay": {
         "2026-06-06": 14,
@@ -620,7 +620,7 @@
       "baselineTna": null,
       "baselineTs": null,
       "gained": 0,
-      "lastSeen": "2026-06-09T13:00:45.766Z",
+      "lastSeen": "2026-06-09T13:05:25.107Z",
       "lastRaid": null,
       "byDay": {}
     },
@@ -958,12 +958,12 @@
       "username": "uwubear_3y",
       "rank": "recruit",
       "online": true,
-      "server": "AS25",
+      "server": "AS16",
       "tna": 16,
       "baselineTna": 14,
       "baselineTs": "2026-06-06T18:47:42.183Z",
       "gained": 2,
-      "lastSeen": "2026-06-09T13:00:45.766Z",
+      "lastSeen": "2026-06-09T13:05:25.107Z",
       "lastRaid": "2026-06-09T07:40:26.019Z",
       "byDay": {
         "2026-06-06": 14,
@@ -999,7 +999,7 @@
       "baselineTna": 53,
       "baselineTs": "2026-06-06T18:47:42.183Z",
       "gained": 2,
-      "lastSeen": "2026-06-09T13:00:45.766Z",
+      "lastSeen": "2026-06-09T13:05:25.107Z",
       "lastRaid": "2026-06-09T09:25:26.742Z",
       "byDay": {
         "2026-06-06": 53,
