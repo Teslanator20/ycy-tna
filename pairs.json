@@ -1,5 +1,15 @@
 {
-  "tna": {},
+  "tna": {
+    "2b4be507-abf6-4172-99d9-29e88ff231b0|e2b6e8e4-0265-44c6-8892-a63733adc7fa": {
+      "a": "2b4be507-abf6-4172-99d9-29e88ff231b0",
+      "b": "e2b6e8e4-0265-44c6-8892-a63733adc7fa",
+      "count": 1,
+      "confirmed": 1,
+      "usernameA": "ANTONY_71",
+      "usernameB": "YoyoBreaker",
+      "lastTs": "2026-06-09T09:25:26.742Z"
+    }
+  },
   "copresence": {
     "4791eb57-3607-4647-8d4f-59aaa879c5a4|497f4a05-e2e7-4e0b-97f5-bc1fdf4c7522": {
       "a": "4791eb57-3607-4647-8d4f-59aaa879c5a4",
@@ -338,5 +348,5 @@
       "lastTs": "2026-06-09T09:10:29.847Z"
     }
   },
-  "updated": "2026-06-09T09:20:28.103Z"
+  "updated": "2026-06-09T09:25:26.742Z"
 }
