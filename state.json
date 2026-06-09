@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-09T22:45:27.201Z",
+  "updated": "2026-06-09T22:48:40.145Z",
   "guild": {
     "name": "YuChaYuan",
     "prefix": "YCY",
@@ -646,12 +646,12 @@
       "username": "Charlotte_Cute",
       "rank": "recruiter",
       "online": true,
-      "server": "AS11",
+      "server": "AS13",
       "tna": 8,
       "baselineTna": 6,
       "baselineTs": "2026-06-06T18:47:42.183Z",
       "gained": 2,
-      "lastSeen": "2026-06-09T22:45:27.201Z",
+      "lastSeen": "2026-06-09T22:48:40.145Z",
       "lastRaid": "2026-06-09T16:42:43.169Z",
       "byDay": {
         "2026-06-06": 6,
