@@ -370,7 +370,15 @@
       "usernameA": "Jennifer1008_",
       "usernameB": "dyLLLLan",
       "lastTs": "2026-06-09T11:30:35.264Z"
+    },
+    "b223c20c-1615-45fe-85cd-4e85a782b161|c1c7d2de-e109-48bc-80e1-1a84e7083762": {
+      "a": "b223c20c-1615-45fe-85cd-4e85a782b161",
+      "b": "c1c7d2de-e109-48bc-80e1-1a84e7083762",
+      "samples": 1,
+      "usernameA": "Hectoooooor",
+      "usernameB": "AlwaysNegative",
+      "lastTs": "2026-06-09T12:20:28.825Z"
     }
   },
-  "updated": "2026-06-09T12:15:29.313Z"
+  "updated": "2026-06-09T12:20:28.825Z"
 }
