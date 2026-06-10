@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-10T14:00:47.857Z",
+  "updated": "2026-06-10T14:05:28.286Z",
   "guild": {
     "name": "YuChaYuan",
     "prefix": "YCY",
@@ -7,7 +7,7 @@
     "raidShort": "TNA",
     "color": "#2ca089"
   },
-  "online": 6,
+  "online": 4,
   "memberCount": 95,
   "members": {
     "01ca79a1-7805-4458-b52d-cfb7f809a808": {
@@ -32,8 +32,8 @@
     "4791eb57-3607-4647-8d4f-59aaa879c5a4": {
       "username": "0110jimmy",
       "rank": "chief",
-      "online": true,
-      "server": "AS7",
+      "online": false,
+      "server": null,
       "tna": 1502,
       "baselineTna": 1502,
       "baselineTs": "2026-06-06T18:47:42.183Z",
@@ -76,7 +76,7 @@
       "baselineTna": 242,
       "baselineTs": "2026-06-06T18:47:42.183Z",
       "gained": 0,
-      "lastSeen": "2026-06-10T14:00:47.857Z",
+      "lastSeen": "2026-06-10T14:05:28.286Z",
       "lastRaid": null,
       "byDay": {
         "2026-06-06": 242,
@@ -517,7 +517,7 @@
       "baselineTna": 14,
       "baselineTs": "2026-06-06T18:47:42.183Z",
       "gained": 2,
-      "lastSeen": "2026-06-10T14:00:47.857Z",
+      "lastSeen": "2026-06-10T14:05:28.286Z",
       "lastRaid": "2026-06-09T10:55:20.884Z",
       "byDay": {
         "2026-06-06": 14,
@@ -568,8 +568,8 @@
     "e4a23668-57d7-4f17-b58f-4a0fd17870ec": {
       "username": "woody123_is_god",
       "rank": "recruiter",
-      "online": true,
-      "server": "AS3",
+      "online": false,
+      "server": null,
       "tna": null,
       "baselineTna": null,
       "baselineTs": null,
@@ -676,7 +676,7 @@
       "baselineTna": 6,
       "baselineTs": "2026-06-06T18:47:42.183Z",
       "gained": 2,
-      "lastSeen": "2026-06-10T14:00:47.857Z",
+      "lastSeen": "2026-06-10T14:05:28.286Z",
       "lastRaid": "2026-06-09T16:42:43.169Z",
       "byDay": {
         "2026-06-06": 6,
@@ -1429,7 +1429,7 @@
       "baselineTna": null,
       "baselineTs": null,
       "gained": 0,
-      "lastSeen": "2026-06-10T14:00:47.857Z",
+      "lastSeen": "2026-06-10T14:05:28.286Z",
       "lastRaid": null,
       "byDay": {}
     },
