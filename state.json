@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-11T06:05:25.690Z",
+  "updated": "2026-06-11T06:10:28.047Z",
   "guild": {
     "name": "YuChaYuan",
     "prefix": "YCY",
@@ -79,7 +79,7 @@
       "baselineTna": 242,
       "baselineTs": "2026-06-06T18:47:42.183Z",
       "gained": 0,
-      "lastSeen": "2026-06-11T06:05:25.690Z",
+      "lastSeen": "2026-06-11T06:10:28.047Z",
       "lastRaid": null,
       "byDay": {
         "2026-06-06": 242,
@@ -535,7 +535,7 @@
       "baselineTna": 14,
       "baselineTs": "2026-06-06T18:47:42.183Z",
       "gained": 4,
-      "lastSeen": "2026-06-11T06:05:25.690Z",
+      "lastSeen": "2026-06-11T06:10:28.047Z",
       "lastRaid": "2026-06-10T14:40:32.301Z",
       "byDay": {
         "2026-06-06": 14,
@@ -1034,12 +1034,12 @@
       "username": "uwubear_3y",
       "rank": "recruit",
       "online": true,
-      "server": "AS21",
+      "server": "AS15",
       "tna": 16,
       "baselineTna": 14,
       "baselineTs": "2026-06-06T18:47:42.183Z",
       "gained": 2,
-      "lastSeen": "2026-06-11T06:05:25.690Z",
+      "lastSeen": "2026-06-11T06:10:28.047Z",
       "lastRaid": "2026-06-09T07:40:26.019Z",
       "byDay": {
         "2026-06-06": 14,
@@ -1284,8 +1284,8 @@
     "584c85c3-5424-4e59-8be1-5f3e97ba9f96": {
       "username": "Jennifer1008_",
       "rank": "recruit",
-      "online": true,
-      "server": "AS17",
+      "online": false,
+      "server": null,
       "tna": null,
       "baselineTna": null,
       "baselineTs": null,
@@ -1476,13 +1476,13 @@
     "b223c20c-1615-45fe-85cd-4e85a782b161": {
       "username": "Hectoooooor",
       "rank": "recruit",
-      "online": false,
-      "server": null,
+      "online": true,
+      "server": "AS17",
       "tna": null,
       "baselineTna": null,
       "baselineTs": null,
       "gained": 0,
-      "lastSeen": "2026-06-10T16:05:29.003Z",
+      "lastSeen": "2026-06-11T06:10:28.047Z",
       "lastRaid": null,
       "byDay": {}
     },
