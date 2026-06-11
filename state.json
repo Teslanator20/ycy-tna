@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-11T15:05:28.345Z",
+  "updated": "2026-06-11T15:10:31.383Z",
   "guild": {
     "name": "YuChaYuan",
     "prefix": "YCY",
@@ -7,7 +7,7 @@
     "raidShort": "TNA",
     "color": "#2ca089"
   },
-  "online": 6,
+  "online": 5,
   "memberCount": 95,
   "members": {
     "01ca79a1-7805-4458-b52d-cfb7f809a808": {
@@ -39,7 +39,7 @@
       "baselineTna": 1502,
       "baselineTs": "2026-06-06T18:47:42.183Z",
       "gained": 0,
-      "lastSeen": "2026-06-11T15:05:28.345Z",
+      "lastSeen": "2026-06-11T15:10:31.383Z",
       "lastRaid": null,
       "byDay": {
         "2026-06-06": 1502,
@@ -79,7 +79,7 @@
       "baselineTna": 242,
       "baselineTs": "2026-06-06T18:47:42.183Z",
       "gained": 0,
-      "lastSeen": "2026-06-11T15:05:28.345Z",
+      "lastSeen": "2026-06-11T15:10:31.383Z",
       "lastRaid": null,
       "byDay": {
         "2026-06-06": 242,
@@ -535,7 +535,7 @@
       "baselineTna": 14,
       "baselineTs": "2026-06-06T18:47:42.183Z",
       "gained": 4,
-      "lastSeen": "2026-06-11T15:05:28.345Z",
+      "lastSeen": "2026-06-11T15:10:31.383Z",
       "lastRaid": "2026-06-10T14:40:32.301Z",
       "byDay": {
         "2026-06-06": 14,
@@ -555,7 +555,7 @@
       "baselineTna": 256,
       "baselineTs": "2026-06-06T18:47:42.183Z",
       "gained": 0,
-      "lastSeen": "2026-06-11T15:05:28.345Z",
+      "lastSeen": "2026-06-11T15:10:31.383Z",
       "lastRaid": null,
       "byDay": {
         "2026-06-06": 256,
@@ -1013,8 +1013,8 @@
     "e8ca4f14-ffab-4d39-9fbc-913ce8b1459c": {
       "username": "uwubear_3y",
       "rank": "recruit",
-      "online": true,
-      "server": "AS6",
+      "online": false,
+      "server": null,
       "tna": 16,
       "baselineTna": 14,
       "baselineTs": "2026-06-06T18:47:42.183Z",
@@ -1482,7 +1482,7 @@
       "baselineTna": null,
       "baselineTs": null,
       "gained": 0,
-      "lastSeen": "2026-06-11T15:05:28.345Z",
+      "lastSeen": "2026-06-11T15:10:31.383Z",
       "lastRaid": null,
       "byDay": {}
     },
