@@ -175,10 +175,10 @@
     "4791eb57-3607-4647-8d4f-59aaa879c5a4|d3062613-f674-46dd-b5d7-9e75c39d8f31": {
       "a": "4791eb57-3607-4647-8d4f-59aaa879c5a4",
       "b": "d3062613-f674-46dd-b5d7-9e75c39d8f31",
-      "samples": 56,
+      "samples": 57,
       "usernameA": "0110jimmy",
       "usernameB": "Coffee96357412",
-      "lastTs": "2026-06-12T06:10:29.557Z"
+      "lastTs": "2026-06-12T06:30:34.249Z"
     },
     "497f4a05-e2e7-4e0b-97f5-bc1fdf4c7522|d3062613-f674-46dd-b5d7-9e75c39d8f31": {
       "a": "497f4a05-e2e7-4e0b-97f5-bc1fdf4c7522",
@@ -311,10 +311,10 @@
     "d12455ec-9194-492d-8e6e-6794b678e8f4|e8ca4f14-ffab-4d39-9fbc-913ce8b1459c": {
       "a": "d12455ec-9194-492d-8e6e-6794b678e8f4",
       "b": "e8ca4f14-ffab-4d39-9fbc-913ce8b1459c",
-      "samples": 73,
+      "samples": 74,
       "usernameA": "5411",
       "usernameB": "uwubear_3y",
-      "lastTs": "2026-06-12T06:25:26.355Z"
+      "lastTs": "2026-06-12T06:30:34.249Z"
     },
     "26c4a541-d892-453b-8684-01e76be804d3|e2b6e8e4-0265-44c6-8892-a63733adc7fa": {
       "a": "26c4a541-d892-453b-8684-01e76be804d3",
@@ -463,10 +463,10 @@
     "26c4a541-d892-453b-8684-01e76be804d3|d3062613-f674-46dd-b5d7-9e75c39d8f31": {
       "a": "26c4a541-d892-453b-8684-01e76be804d3",
       "b": "d3062613-f674-46dd-b5d7-9e75c39d8f31",
-      "samples": 10,
+      "samples": 11,
       "usernameA": "Charlotte_Cute",
       "usernameB": "Coffee96357412",
-      "lastTs": "2026-06-10T17:05:26.646Z"
+      "lastTs": "2026-06-12T06:30:34.249Z"
     },
     "497f4a05-e2e7-4e0b-97f5-bc1fdf4c7522|584c85c3-5424-4e59-8be1-5f3e97ba9f96": {
       "a": "497f4a05-e2e7-4e0b-97f5-bc1fdf4c7522",
@@ -587,7 +587,15 @@
       "usernameA": "OCcar321",
       "usernameB": "5411",
       "lastTs": "2026-06-11T19:10:33.658Z"
+    },
+    "26c4a541-d892-453b-8684-01e76be804d3|4791eb57-3607-4647-8d4f-59aaa879c5a4": {
+      "a": "26c4a541-d892-453b-8684-01e76be804d3",
+      "b": "4791eb57-3607-4647-8d4f-59aaa879c5a4",
+      "samples": 1,
+      "usernameA": "Charlotte_Cute",
+      "usernameB": "0110jimmy",
+      "lastTs": "2026-06-12T06:30:34.249Z"
     }
   },
-  "updated": "2026-06-12T06:25:26.355Z"
+  "updated": "2026-06-12T06:30:34.249Z"
 }
