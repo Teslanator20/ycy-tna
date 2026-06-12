@@ -17,7 +17,25 @@
           "delta": 1
         }
       ]
+    },
+    {
+      "ts": "2026-06-12T05:35:21.786Z",
+      "server": "NA9",
+      "confirmed": true,
+      "crowded": false,
+      "players": [
+        {
+          "uuid": "d12455ec-9194-492d-8e6e-6794b678e8f4",
+          "username": "5411",
+          "delta": 1
+        },
+        {
+          "uuid": "e8ca4f14-ffab-4d39-9fbc-913ce8b1459c",
+          "username": "uwubear_3y",
+          "delta": 1
+        }
+      ]
     }
   ],
-  "updated": "2026-06-12T05:30:34.816Z"
+  "updated": "2026-06-12T05:35:21.786Z"
 }

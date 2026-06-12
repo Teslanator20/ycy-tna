@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-12T05:30:34.816Z",
+  "updated": "2026-06-12T05:35:21.786Z",
   "guild": {
     "name": "YuChaYuan",
     "prefix": "YCY",
@@ -7,7 +7,7 @@
     "raidShort": "TNA",
     "color": "#2ca089"
   },
-  "online": 4,
+  "online": 3,
   "memberCount": 95,
   "members": {
     "01ca79a1-7805-4458-b52d-cfb7f809a808": {
@@ -40,7 +40,7 @@
       "baselineTna": 1502,
       "baselineTs": "2026-06-06T18:47:42.183Z",
       "gained": 0,
-      "lastSeen": "2026-06-12T05:30:34.816Z",
+      "lastSeen": "2026-06-12T05:35:21.786Z",
       "lastRaid": null,
       "byDay": {
         "2026-06-06": 1502,
@@ -548,13 +548,13 @@
       "username": "5411",
       "rank": "recruiter",
       "online": true,
-      "server": "AS20",
-      "tna": 18,
+      "server": "NA9",
+      "tna": 19,
       "baselineTna": 14,
       "baselineTs": "2026-06-06T18:47:42.183Z",
-      "gained": 4,
-      "lastSeen": "2026-06-12T05:30:34.816Z",
-      "lastRaid": "2026-06-10T14:40:32.301Z",
+      "gained": 5,
+      "lastSeen": "2026-06-12T05:35:21.786Z",
+      "lastRaid": "2026-06-12T05:35:21.786Z",
       "byDay": {
         "2026-06-06": 14,
         "2026-06-07": 14,
@@ -562,7 +562,7 @@
         "2026-06-09": 16,
         "2026-06-10": 18,
         "2026-06-11": 18,
-        "2026-06-12": 18
+        "2026-06-12": 19
       }
     },
     "5e04e4ff-d051-4125-983b-d42b214dac80": {
@@ -720,8 +720,8 @@
     "26c4a541-d892-453b-8684-01e76be804d3": {
       "username": "Charlotte_Cute",
       "rank": "recruiter",
-      "online": true,
-      "server": "NA21",
+      "online": false,
+      "server": null,
       "tna": 10,
       "baselineTna": 6,
       "baselineTs": "2026-06-06T18:47:42.183Z",
@@ -1051,13 +1051,13 @@
       "username": "uwubear_3y",
       "rank": "recruit",
       "online": true,
-      "server": "AS20",
-      "tna": 16,
+      "server": "NA9",
+      "tna": 17,
       "baselineTna": 14,
       "baselineTs": "2026-06-06T18:47:42.183Z",
-      "gained": 2,
-      "lastSeen": "2026-06-12T05:30:34.816Z",
-      "lastRaid": "2026-06-09T07:40:26.019Z",
+      "gained": 3,
+      "lastSeen": "2026-06-12T05:35:21.786Z",
+      "lastRaid": "2026-06-12T05:35:21.786Z",
       "byDay": {
         "2026-06-06": 14,
         "2026-06-07": 15,
@@ -1065,7 +1065,7 @@
         "2026-06-09": 16,
         "2026-06-10": 16,
         "2026-06-11": 16,
-        "2026-06-12": 16
+        "2026-06-12": 17
       }
     },
     "2d1fdceb-1310-43dd-96a4-681c20d3e1ed": {
