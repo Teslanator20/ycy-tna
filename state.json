@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-14T09:55:25.555Z",
+  "updated": "2026-06-14T10:00:47.504Z",
   "guild": {
     "name": "YuChaYuan",
     "prefix": "YCY",
@@ -42,7 +42,7 @@
       "baselineTna": 1502,
       "baselineTs": "2026-06-06T18:47:42.183Z",
       "gained": 0,
-      "lastSeen": "2026-06-14T09:55:25.555Z",
+      "lastSeen": "2026-06-14T10:00:47.504Z",
       "lastRaid": null,
       "byDay": {
         "2026-06-06": 1502,
@@ -407,12 +407,12 @@
       "username": "meowmeow0510",
       "rank": "captain",
       "online": true,
-      "server": "AS14",
+      "server": "AS1",
       "tna": 38,
       "baselineTna": 38,
       "baselineTs": "2026-06-06T18:47:42.183Z",
       "gained": 0,
-      "lastSeen": "2026-06-14T09:55:25.555Z",
+      "lastSeen": "2026-06-14T10:00:47.504Z",
       "lastRaid": null,
       "byDay": {
         "2026-06-06": 38,
@@ -589,7 +589,7 @@
       "baselineTna": 14,
       "baselineTs": "2026-06-06T18:47:42.183Z",
       "gained": 18,
-      "lastSeen": "2026-06-14T09:55:25.555Z",
+      "lastSeen": "2026-06-14T10:00:47.504Z",
       "lastRaid": "2026-06-13T18:50:26.601Z",
       "byDay": {
         "2026-06-06": 14,
@@ -1431,7 +1431,7 @@
       "baselineTna": null,
       "baselineTs": null,
       "gained": 0,
-      "lastSeen": "2026-06-14T09:55:25.555Z",
+      "lastSeen": "2026-06-14T10:00:47.504Z",
       "lastRaid": null,
       "byDay": {}
     },
@@ -1639,12 +1639,12 @@
       "username": "Hectoooooor",
       "rank": "recruit",
       "online": true,
-      "server": "NA2",
+      "server": "NA3",
       "tna": 17,
       "baselineTna": 1,
       "baselineTs": "2026-06-13T06:45:26.634Z",
       "gained": 16,
-      "lastSeen": "2026-06-14T09:55:25.555Z",
+      "lastSeen": "2026-06-14T10:00:47.504Z",
       "lastRaid": "2026-06-14T09:40:34.033Z",
       "byDay": {
         "2026-06-13": 14,
