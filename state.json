@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-14T10:00:47.504Z",
+  "updated": "2026-06-14T10:05:23.636Z",
   "guild": {
     "name": "YuChaYuan",
     "prefix": "YCY",
@@ -7,7 +7,7 @@
     "raidShort": "TNA",
     "color": "#2ca089"
   },
-  "online": 5,
+  "online": 6,
   "memberCount": 95,
   "members": {
     "01ca79a1-7805-4458-b52d-cfb7f809a808": {
@@ -42,7 +42,7 @@
       "baselineTna": 1502,
       "baselineTs": "2026-06-06T18:47:42.183Z",
       "gained": 0,
-      "lastSeen": "2026-06-14T10:00:47.504Z",
+      "lastSeen": "2026-06-14T10:05:23.636Z",
       "lastRaid": null,
       "byDay": {
         "2026-06-06": 1502,
@@ -412,7 +412,7 @@
       "baselineTna": 38,
       "baselineTs": "2026-06-06T18:47:42.183Z",
       "gained": 0,
-      "lastSeen": "2026-06-14T10:00:47.504Z",
+      "lastSeen": "2026-06-14T10:05:23.636Z",
       "lastRaid": null,
       "byDay": {
         "2026-06-06": 38,
@@ -589,7 +589,7 @@
       "baselineTna": 14,
       "baselineTs": "2026-06-06T18:47:42.183Z",
       "gained": 18,
-      "lastSeen": "2026-06-14T10:00:47.504Z",
+      "lastSeen": "2026-06-14T10:05:23.636Z",
       "lastRaid": "2026-06-13T18:50:26.601Z",
       "byDay": {
         "2026-06-06": 14,
@@ -891,13 +891,13 @@
     "b6a718f0-c580-4d11-9fa3-e0c7b8c908c4": {
       "username": "OCcar321",
       "rank": "recruiter",
-      "online": false,
-      "server": null,
+      "online": true,
+      "server": "AS13",
       "tna": 38,
       "baselineTna": 38,
       "baselineTs": "2026-06-06T18:47:42.183Z",
       "gained": 0,
-      "lastSeen": "2026-06-14T09:15:29.972Z",
+      "lastSeen": "2026-06-14T10:05:23.636Z",
       "lastRaid": null,
       "byDay": {
         "2026-06-06": 38,
@@ -1431,7 +1431,7 @@
       "baselineTna": null,
       "baselineTs": null,
       "gained": 0,
-      "lastSeen": "2026-06-14T10:00:47.504Z",
+      "lastSeen": "2026-06-14T10:05:23.636Z",
       "lastRaid": null,
       "byDay": {}
     },
@@ -1644,7 +1644,7 @@
       "baselineTna": 1,
       "baselineTs": "2026-06-13T06:45:26.634Z",
       "gained": 16,
-      "lastSeen": "2026-06-14T10:00:47.504Z",
+      "lastSeen": "2026-06-14T10:05:23.636Z",
       "lastRaid": "2026-06-14T09:40:34.033Z",
       "byDay": {
         "2026-06-13": 14,
