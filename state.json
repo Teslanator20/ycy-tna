@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-14T09:45:30.729Z",
+  "updated": "2026-06-14T09:50:33.031Z",
   "guild": {
     "name": "YuChaYuan",
     "prefix": "YCY",
@@ -7,7 +7,7 @@
     "raidShort": "TNA",
     "color": "#2ca089"
   },
-  "online": 4,
+  "online": 5,
   "memberCount": 95,
   "members": {
     "01ca79a1-7805-4458-b52d-cfb7f809a808": {
@@ -42,7 +42,7 @@
       "baselineTna": 1502,
       "baselineTs": "2026-06-06T18:47:42.183Z",
       "gained": 0,
-      "lastSeen": "2026-06-14T09:45:30.729Z",
+      "lastSeen": "2026-06-14T09:50:33.031Z",
       "lastRaid": null,
       "byDay": {
         "2026-06-06": 1502,
@@ -406,13 +406,13 @@
     "e877fdfd-1e0f-4667-8463-f580d5e67cd8": {
       "username": "meowmeow0510",
       "rank": "captain",
-      "online": false,
-      "server": null,
+      "online": true,
+      "server": "AS14",
       "tna": 38,
       "baselineTna": 38,
       "baselineTs": "2026-06-06T18:47:42.183Z",
       "gained": 0,
-      "lastSeen": "2026-06-13T16:10:35.004Z",
+      "lastSeen": "2026-06-14T09:50:33.031Z",
       "lastRaid": null,
       "byDay": {
         "2026-06-06": 38,
@@ -584,12 +584,12 @@
       "username": "5411",
       "rank": "recruiter",
       "online": true,
-      "server": "NA2",
+      "server": "EU19",
       "tna": 32,
       "baselineTna": 14,
       "baselineTs": "2026-06-06T18:47:42.183Z",
       "gained": 18,
-      "lastSeen": "2026-06-14T09:45:30.729Z",
+      "lastSeen": "2026-06-14T09:50:33.031Z",
       "lastRaid": "2026-06-13T18:50:26.601Z",
       "byDay": {
         "2026-06-06": 14,
@@ -1431,7 +1431,7 @@
       "baselineTna": null,
       "baselineTs": null,
       "gained": 0,
-      "lastSeen": "2026-06-14T09:45:30.729Z",
+      "lastSeen": "2026-06-14T09:50:33.031Z",
       "lastRaid": null,
       "byDay": {}
     },
@@ -1644,7 +1644,7 @@
       "baselineTna": 1,
       "baselineTs": "2026-06-13T06:45:26.634Z",
       "gained": 16,
-      "lastSeen": "2026-06-14T09:45:30.729Z",
+      "lastSeen": "2026-06-14T09:50:33.031Z",
       "lastRaid": "2026-06-14T09:40:34.033Z",
       "byDay": {
         "2026-06-13": 14,
