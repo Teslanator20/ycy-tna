@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-15T17:50:37.610Z",
+  "updated": "2026-06-15T17:55:33.802Z",
   "guild": {
     "name": "YuChaYuan",
     "prefix": "YCY",
@@ -7,7 +7,7 @@
     "raidShort": "TNA",
     "color": "#2ca089"
   },
-  "online": 7,
+  "online": 10,
   "memberCount": 95,
   "members": {
     "01ca79a1-7805-4458-b52d-cfb7f809a808": {
@@ -43,7 +43,7 @@
       "baselineTna": 1502,
       "baselineTs": "2026-06-06T18:47:42.183Z",
       "gained": 0,
-      "lastSeen": "2026-06-15T17:50:37.610Z",
+      "lastSeen": "2026-06-15T17:55:33.802Z",
       "lastRaid": null,
       "byDay": {
         "2026-06-06": 1502,
@@ -91,7 +91,7 @@
       "baselineTna": 242,
       "baselineTs": "2026-06-06T18:47:42.183Z",
       "gained": 0,
-      "lastSeen": "2026-06-15T17:50:37.610Z",
+      "lastSeen": "2026-06-15T17:55:33.802Z",
       "lastRaid": null,
       "byDay": {
         "2026-06-06": 242,
@@ -456,12 +456,12 @@
       "username": "shinyo1357",
       "rank": "captain",
       "online": true,
-      "server": "NA9",
+      "server": "EU38",
       "tna": 63,
       "baselineTna": 63,
       "baselineTs": "2026-06-06T18:47:42.183Z",
       "gained": 0,
-      "lastSeen": "2026-06-15T17:50:37.610Z",
+      "lastSeen": "2026-06-15T17:55:33.802Z",
       "lastRaid": null,
       "byDay": {
         "2026-06-06": 63,
@@ -607,7 +607,7 @@
       "baselineTna": 14,
       "baselineTs": "2026-06-06T18:47:42.183Z",
       "gained": 18,
-      "lastSeen": "2026-06-15T17:50:37.610Z",
+      "lastSeen": "2026-06-15T17:55:33.802Z",
       "lastRaid": "2026-06-13T18:50:26.601Z",
       "byDay": {
         "2026-06-06": 14,
@@ -631,7 +631,7 @@
       "baselineTna": 256,
       "baselineTs": "2026-06-06T18:47:42.183Z",
       "gained": 0,
-      "lastSeen": "2026-06-15T17:50:37.610Z",
+      "lastSeen": "2026-06-15T17:55:33.802Z",
       "lastRaid": null,
       "byDay": {
         "2026-06-06": 256,
@@ -922,12 +922,12 @@
       "username": "OCcar321",
       "rank": "recruiter",
       "online": true,
-      "server": "AS18",
+      "server": "EU6",
       "tna": 38,
       "baselineTna": 38,
       "baselineTs": "2026-06-06T18:47:42.183Z",
       "gained": 0,
-      "lastSeen": "2026-06-15T17:50:37.610Z",
+      "lastSeen": "2026-06-15T17:55:33.802Z",
       "lastRaid": null,
       "byDay": {
         "2026-06-06": 38,
@@ -969,13 +969,13 @@
     "e2b6e8e4-0265-44c6-8892-a63733adc7fa": {
       "username": "YoyoBreaker",
       "rank": "recruiter",
-      "online": false,
-      "server": null,
+      "online": true,
+      "server": "AS4",
       "tna": 56,
       "baselineTna": 53,
       "baselineTs": "2026-06-06T18:47:42.183Z",
       "gained": 3,
-      "lastSeen": "2026-06-15T15:00:48.609Z",
+      "lastSeen": "2026-06-15T17:55:33.802Z",
       "lastRaid": "2026-06-12T05:12:42.960Z",
       "byDay": {
         "2026-06-06": 53,
@@ -1078,13 +1078,13 @@
     "fa40c035-1309-43f0-bbec-2423a4044650": {
       "username": "dyLLLLan",
       "rank": "recruiter",
-      "online": false,
-      "server": null,
+      "online": true,
+      "server": "AS9",
       "tna": 58,
       "baselineTna": 58,
       "baselineTs": "2026-06-06T18:47:42.183Z",
       "gained": 0,
-      "lastSeen": "2026-06-15T07:30:40.120Z",
+      "lastSeen": "2026-06-15T17:55:33.802Z",
       "lastRaid": null,
       "byDay": {
         "2026-06-06": 58,
@@ -1698,7 +1698,7 @@
       "baselineTna": 1,
       "baselineTs": "2026-06-13T06:45:26.634Z",
       "gained": 18,
-      "lastSeen": "2026-06-15T17:50:37.610Z",
+      "lastSeen": "2026-06-15T17:55:33.802Z",
       "lastRaid": "2026-06-14T10:15:34.811Z",
       "byDay": {
         "2026-06-13": 14,
@@ -1733,13 +1733,13 @@
     "2b4be507-abf6-4172-99d9-29e88ff231b0": {
       "username": "ANTONY_71",
       "rank": "recruit",
-      "online": false,
-      "server": null,
+      "online": true,
+      "server": "AS3",
       "tna": 24,
       "baselineTna": 23,
       "baselineTs": "2026-06-06T18:47:42.183Z",
       "gained": 1,
-      "lastSeen": "2026-06-12T16:55:22.324Z",
+      "lastSeen": "2026-06-15T17:55:33.802Z",
       "lastRaid": "2026-06-09T09:25:26.742Z",
       "byDay": {
         "2026-06-06": 23,
