@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-15T08:55:33.169Z",
+  "updated": "2026-06-15T09:00:51.630Z",
   "guild": {
     "name": "YuChaYuan",
     "prefix": "YCY",
@@ -7,7 +7,7 @@
     "raidShort": "TNA",
     "color": "#2ca089"
   },
-  "online": 6,
+  "online": 3,
   "memberCount": 95,
   "members": {
     "01ca79a1-7805-4458-b52d-cfb7f809a808": {
@@ -43,7 +43,7 @@
       "baselineTna": 1502,
       "baselineTs": "2026-06-06T18:47:42.183Z",
       "gained": 0,
-      "lastSeen": "2026-06-15T08:55:33.169Z",
+      "lastSeen": "2026-06-15T09:00:51.630Z",
       "lastRaid": null,
       "byDay": {
         "2026-06-06": 1502,
@@ -533,7 +533,7 @@
       "baselineTna": 695,
       "baselineTs": "2026-06-06T18:47:42.183Z",
       "gained": 0,
-      "lastSeen": "2026-06-15T08:55:33.169Z",
+      "lastSeen": "2026-06-15T09:00:51.630Z",
       "lastRaid": null,
       "byDay": {
         "2026-06-06": 695,
@@ -625,8 +625,8 @@
     "5e04e4ff-d051-4125-983b-d42b214dac80": {
       "username": "Reisen_U_Inaba",
       "rank": "recruiter",
-      "online": true,
-      "server": "AS1",
+      "online": false,
+      "server": null,
       "tna": 256,
       "baselineTna": 256,
       "baselineTs": "2026-06-06T18:47:42.183Z",
@@ -711,12 +711,12 @@
       "username": "Coffee96357412",
       "rank": "recruiter",
       "online": true,
-      "server": "NA9",
+      "server": "AS2",
       "tna": 2,
       "baselineTna": 2,
       "baselineTs": "2026-06-13T10:50:26.428Z",
       "gained": 0,
-      "lastSeen": "2026-06-15T08:55:33.169Z",
+      "lastSeen": "2026-06-15T09:00:51.630Z",
       "lastRaid": null,
       "byDay": {
         "2026-06-13": 2,
@@ -964,6 +964,30 @@
         "2026-06-13": 4,
         "2026-06-14": 4,
         "2026-06-15": 4
+      }
+    },
+    "e2b6e8e4-0265-44c6-8892-a63733adc7fa": {
+      "username": "YoyoBreaker",
+      "rank": "recruiter",
+      "online": false,
+      "server": null,
+      "tna": 56,
+      "baselineTna": 53,
+      "baselineTs": "2026-06-06T18:47:42.183Z",
+      "gained": 3,
+      "lastSeen": "2026-06-15T08:55:33.169Z",
+      "lastRaid": "2026-06-12T05:12:42.960Z",
+      "byDay": {
+        "2026-06-06": 53,
+        "2026-06-07": 53,
+        "2026-06-08": 53,
+        "2026-06-09": 55,
+        "2026-06-10": 55,
+        "2026-06-11": 55,
+        "2026-06-12": 56,
+        "2026-06-13": 56,
+        "2026-06-14": 56,
+        "2026-06-15": 56
       }
     },
     "a3fd2992-cc9d-44d0-b33c-f1e31b922147": {
@@ -1234,30 +1258,6 @@
         "2026-06-15": 3
       }
     },
-    "e2b6e8e4-0265-44c6-8892-a63733adc7fa": {
-      "username": "YoyoBreaker",
-      "rank": "recruit",
-      "online": true,
-      "server": "AS4",
-      "tna": 56,
-      "baselineTna": 53,
-      "baselineTs": "2026-06-06T18:47:42.183Z",
-      "gained": 3,
-      "lastSeen": "2026-06-15T08:55:33.169Z",
-      "lastRaid": "2026-06-12T05:12:42.960Z",
-      "byDay": {
-        "2026-06-06": 53,
-        "2026-06-07": 53,
-        "2026-06-08": 53,
-        "2026-06-09": 55,
-        "2026-06-10": 55,
-        "2026-06-11": 55,
-        "2026-06-12": 56,
-        "2026-06-13": 56,
-        "2026-06-14": 56,
-        "2026-06-15": 56
-      }
-    },
     "47032840-05a0-446b-939b-7d2bb614424e": {
       "username": "wDinding0312",
       "rank": "recruit",
@@ -1472,8 +1472,8 @@
     "584c85c3-5424-4e59-8be1-5f3e97ba9f96": {
       "username": "Jennifer1008_",
       "rank": "recruit",
-      "online": true,
-      "server": "NA41",
+      "online": false,
+      "server": null,
       "tna": null,
       "baselineTna": null,
       "baselineTs": null,
