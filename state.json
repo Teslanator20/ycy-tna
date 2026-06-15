@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-15T04:40:36.240Z",
+  "updated": "2026-06-15T04:45:29.251Z",
   "guild": {
     "name": "YuChaYuan",
     "prefix": "YCY",
@@ -1165,13 +1165,13 @@
     "e8ca4f14-ffab-4d39-9fbc-913ce8b1459c": {
       "username": "uwubear_3y",
       "rank": "recruit",
-      "online": false,
-      "server": null,
+      "online": true,
+      "server": "NA10",
       "tna": 20,
       "baselineTna": 14,
       "baselineTs": "2026-06-06T18:47:42.183Z",
       "gained": 6,
-      "lastSeen": "2026-06-14T12:55:29.745Z",
+      "lastSeen": "2026-06-15T04:45:29.251Z",
       "lastRaid": "2026-06-12T06:55:21.000Z",
       "byDay": {
         "2026-06-06": 14,
@@ -1243,7 +1243,7 @@
       "baselineTna": 53,
       "baselineTs": "2026-06-06T18:47:42.183Z",
       "gained": 3,
-      "lastSeen": "2026-06-15T04:40:36.240Z",
+      "lastSeen": "2026-06-15T04:45:29.251Z",
       "lastRaid": "2026-06-12T05:12:42.960Z",
       "byDay": {
         "2026-06-06": 53,
@@ -1692,8 +1692,8 @@
     "b223c20c-1615-45fe-85cd-4e85a782b161": {
       "username": "Hectoooooor",
       "rank": "recruit",
-      "online": true,
-      "server": "AS7",
+      "online": false,
+      "server": null,
       "tna": 19,
       "baselineTna": 1,
       "baselineTs": "2026-06-13T06:45:26.634Z",
