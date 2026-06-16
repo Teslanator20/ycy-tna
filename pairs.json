@@ -191,10 +191,10 @@
     "5e04e4ff-d051-4125-983b-d42b214dac80|d3062613-f674-46dd-b5d7-9e75c39d8f31": {
       "a": "5e04e4ff-d051-4125-983b-d42b214dac80",
       "b": "d3062613-f674-46dd-b5d7-9e75c39d8f31",
-      "samples": 67,
+      "samples": 68,
       "usernameA": "Reisen_U_Inaba",
       "usernameB": "Coffee96357412",
-      "lastTs": "2026-06-16T04:25:32.154Z"
+      "lastTs": "2026-06-16T04:30:37.995Z"
     },
     "26c4a541-d892-453b-8684-01e76be804d3|a3fd2992-cc9d-44d0-b33c-f1e31b922147": {
       "a": "26c4a541-d892-453b-8684-01e76be804d3",
@@ -623,10 +623,10 @@
     "5e04e4ff-d051-4125-983b-d42b214dac80|e2b6e8e4-0265-44c6-8892-a63733adc7fa": {
       "a": "5e04e4ff-d051-4125-983b-d42b214dac80",
       "b": "e2b6e8e4-0265-44c6-8892-a63733adc7fa",
-      "samples": 6,
+      "samples": 7,
       "usernameA": "Reisen_U_Inaba",
       "usernameB": "YoyoBreaker",
-      "lastTs": "2026-06-16T04:25:32.154Z"
+      "lastTs": "2026-06-16T04:30:37.995Z"
     },
     "3fa3336a-dcfc-49e6-9b5f-469322883009|d12455ec-9194-492d-8e6e-6794b678e8f4": {
       "a": "3fa3336a-dcfc-49e6-9b5f-469322883009",
@@ -799,11 +799,11 @@
     "d3062613-f674-46dd-b5d7-9e75c39d8f31|e2b6e8e4-0265-44c6-8892-a63733adc7fa": {
       "a": "d3062613-f674-46dd-b5d7-9e75c39d8f31",
       "b": "e2b6e8e4-0265-44c6-8892-a63733adc7fa",
-      "samples": 1,
+      "samples": 2,
       "usernameA": "Coffee96357412",
       "usernameB": "YoyoBreaker",
-      "lastTs": "2026-06-16T04:25:32.154Z"
+      "lastTs": "2026-06-16T04:30:37.995Z"
     }
   },
-  "updated": "2026-06-16T04:25:32.154Z"
+  "updated": "2026-06-16T04:30:37.995Z"
 }
