@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-16T15:10:43.544Z",
+  "updated": "2026-06-16T15:15:38.337Z",
   "guild": {
     "name": "YuChaYuan",
     "prefix": "YCY",
@@ -7,7 +7,7 @@
     "raidShort": "TNA",
     "color": "#2ca089"
   },
-  "online": 6,
+  "online": 5,
   "memberCount": 95,
   "members": {
     "01ca79a1-7805-4458-b52d-cfb7f809a808": {
@@ -44,7 +44,7 @@
       "baselineTna": 1502,
       "baselineTs": "2026-06-06T18:47:42.183Z",
       "gained": 0,
-      "lastSeen": "2026-06-16T15:10:43.544Z",
+      "lastSeen": "2026-06-16T15:15:38.337Z",
       "lastRaid": null,
       "byDay": {
         "2026-06-06": 1502,
@@ -94,7 +94,7 @@
       "baselineTna": 242,
       "baselineTs": "2026-06-06T18:47:42.183Z",
       "gained": 0,
-      "lastSeen": "2026-06-16T15:10:43.544Z",
+      "lastSeen": "2026-06-16T15:15:38.337Z",
       "lastRaid": null,
       "byDay": {
         "2026-06-06": 242,
@@ -620,12 +620,12 @@
       "username": "5411",
       "rank": "recruiter",
       "online": true,
-      "server": "AS23",
+      "server": "AS1",
       "tna": 32,
       "baselineTna": 14,
       "baselineTs": "2026-06-06T18:47:42.183Z",
       "gained": 18,
-      "lastSeen": "2026-06-16T15:10:43.544Z",
+      "lastSeen": "2026-06-16T15:15:38.337Z",
       "lastRaid": "2026-06-13T18:50:26.601Z",
       "byDay": {
         "2026-06-06": 14,
@@ -650,7 +650,7 @@
       "baselineTna": 256,
       "baselineTs": "2026-06-06T18:47:42.183Z",
       "gained": 0,
-      "lastSeen": "2026-06-16T15:10:43.544Z",
+      "lastSeen": "2026-06-16T15:15:38.337Z",
       "lastRaid": null,
       "byDay": {
         "2026-06-06": 256,
@@ -919,7 +919,7 @@
       "baselineTna": 53,
       "baselineTs": "2026-06-06T18:47:42.183Z",
       "gained": 3,
-      "lastSeen": "2026-06-16T15:10:43.544Z",
+      "lastSeen": "2026-06-16T15:15:38.337Z",
       "lastRaid": "2026-06-12T05:12:42.960Z",
       "byDay": {
         "2026-06-06": 53,
@@ -1519,8 +1519,8 @@
     "584c85c3-5424-4e59-8be1-5f3e97ba9f96": {
       "username": "Jennifer1008_",
       "rank": "recruit",
-      "online": true,
-      "server": "AS6",
+      "online": false,
+      "server": null,
       "tna": null,
       "baselineTna": null,
       "baselineTs": null,
