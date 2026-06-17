@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-17T15:55:31.668Z",
+  "updated": "2026-06-17T16:00:47.738Z",
   "guild": {
     "name": "YuChaYuan",
     "prefix": "YCY",
@@ -7,7 +7,7 @@
     "raidShort": "TNA",
     "color": "#2ca089"
   },
-  "online": 4,
+  "online": 3,
   "memberCount": 95,
   "members": {
     "01ca79a1-7805-4458-b52d-cfb7f809a808": {
@@ -39,13 +39,13 @@
     "4791eb57-3607-4647-8d4f-59aaa879c5a4": {
       "username": "0110jimmy",
       "rank": "chief",
-      "online": false,
-      "server": null,
+      "online": true,
+      "server": "AS24",
       "tna": 1502,
       "baselineTna": 1502,
       "baselineTs": "2026-06-06T18:47:42.183Z",
       "gained": 0,
-      "lastSeen": "2026-06-17T15:50:34.548Z",
+      "lastSeen": "2026-06-17T16:00:47.738Z",
       "lastRaid": null,
       "byDay": {
         "2026-06-06": 1502,
@@ -643,7 +643,7 @@
       "baselineTna": 14,
       "baselineTs": "2026-06-06T18:47:42.183Z",
       "gained": 19,
-      "lastSeen": "2026-06-17T15:55:31.668Z",
+      "lastSeen": "2026-06-17T16:00:47.738Z",
       "lastRaid": "2026-06-16T15:30:52.037Z",
       "byDay": {
         "2026-06-06": 14,
@@ -669,7 +669,7 @@
       "baselineTna": 256,
       "baselineTs": "2026-06-06T18:47:42.183Z",
       "gained": 0,
-      "lastSeen": "2026-06-17T15:55:31.668Z",
+      "lastSeen": "2026-06-17T16:00:47.738Z",
       "lastRaid": null,
       "byDay": {
         "2026-06-06": 256,
@@ -942,8 +942,8 @@
     "e2b6e8e4-0265-44c6-8892-a63733adc7fa": {
       "username": "YoyoBreaker",
       "rank": "recruiter",
-      "online": true,
-      "server": "NA26",
+      "online": false,
+      "server": null,
       "tna": 56,
       "baselineTna": 53,
       "baselineTs": "2026-06-06T18:47:42.183Z",
@@ -1150,8 +1150,8 @@
     "fa40c035-1309-43f0-bbec-2423a4044650": {
       "username": "dyLLLLan",
       "rank": "recruiter",
-      "online": true,
-      "server": "NA26",
+      "online": false,
+      "server": null,
       "tna": 58,
       "baselineTna": 58,
       "baselineTs": "2026-06-06T18:47:42.183Z",
