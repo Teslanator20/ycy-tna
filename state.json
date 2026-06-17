@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-17T12:00:48.349Z",
+  "updated": "2026-06-17T12:05:29.273Z",
   "guild": {
     "name": "YuChaYuan",
     "prefix": "YCY",
@@ -45,7 +45,7 @@
       "baselineTna": 1502,
       "baselineTs": "2026-06-06T18:47:42.183Z",
       "gained": 0,
-      "lastSeen": "2026-06-17T12:00:48.349Z",
+      "lastSeen": "2026-06-17T12:05:29.273Z",
       "lastRaid": null,
       "byDay": {
         "2026-06-06": 1502,
@@ -638,12 +638,12 @@
       "username": "5411",
       "rank": "recruiter",
       "online": true,
-      "server": "NA25",
+      "server": "NA32",
       "tna": 33,
       "baselineTna": 14,
       "baselineTs": "2026-06-06T18:47:42.183Z",
       "gained": 19,
-      "lastSeen": "2026-06-17T12:00:48.349Z",
+      "lastSeen": "2026-06-17T12:05:29.273Z",
       "lastRaid": "2026-06-16T15:30:52.037Z",
       "byDay": {
         "2026-06-06": 14,
@@ -664,12 +664,12 @@
       "username": "Reisen_U_Inaba",
       "rank": "recruiter",
       "online": true,
-      "server": "AS2",
+      "server": "AS13",
       "tna": 256,
       "baselineTna": 256,
       "baselineTs": "2026-06-06T18:47:42.183Z",
       "gained": 0,
-      "lastSeen": "2026-06-17T12:00:48.349Z",
+      "lastSeen": "2026-06-17T12:05:29.273Z",
       "lastRaid": null,
       "byDay": {
         "2026-06-06": 256,
@@ -852,12 +852,12 @@
       "username": "Charlotte_Cute",
       "rank": "recruiter",
       "online": true,
-      "server": "NA5",
+      "server": "NA10",
       "tna": 13,
       "baselineTna": 6,
       "baselineTs": "2026-06-06T18:47:42.183Z",
       "gained": 7,
-      "lastSeen": "2026-06-17T12:00:48.349Z",
+      "lastSeen": "2026-06-17T12:05:29.273Z",
       "lastRaid": "2026-06-17T11:25:25.818Z",
       "byDay": {
         "2026-06-06": 6,
@@ -1273,7 +1273,7 @@
       "baselineTna": 14,
       "baselineTs": "2026-06-06T18:47:42.183Z",
       "gained": 6,
-      "lastSeen": "2026-06-17T12:00:48.349Z",
+      "lastSeen": "2026-06-17T12:05:29.273Z",
       "lastRaid": "2026-06-12T06:55:21.000Z",
       "byDay": {
         "2026-06-06": 14,
@@ -1572,7 +1572,7 @@
       "baselineTna": null,
       "baselineTs": null,
       "gained": 0,
-      "lastSeen": "2026-06-17T12:00:48.349Z",
+      "lastSeen": "2026-06-17T12:05:29.273Z",
       "lastRaid": null,
       "byDay": {}
     },
@@ -1780,7 +1780,7 @@
       "baselineTna": 40,
       "baselineTs": "2026-06-06T18:47:42.183Z",
       "gained": 0,
-      "lastSeen": "2026-06-17T12:00:48.349Z",
+      "lastSeen": "2026-06-17T12:05:29.273Z",
       "lastRaid": null,
       "byDay": {
         "2026-06-06": 40,
