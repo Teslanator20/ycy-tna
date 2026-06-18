@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-18T15:25:33.536Z",
+  "updated": "2026-06-18T15:30:44.720Z",
   "guild": {
     "name": "YuChaYuan",
     "prefix": "YCY",
@@ -7,7 +7,7 @@
     "raidShort": "TNA",
     "color": "#2ca089"
   },
-  "online": 3,
+  "online": 2,
   "memberCount": 95,
   "members": {
     "01ca79a1-7805-4458-b52d-cfb7f809a808": {
@@ -46,7 +46,7 @@
       "baselineTna": 1502,
       "baselineTs": "2026-06-06T18:47:42.183Z",
       "gained": 0,
-      "lastSeen": "2026-06-18T15:25:33.536Z",
+      "lastSeen": "2026-06-18T15:30:44.720Z",
       "lastRaid": null,
       "byDay": {
         "2026-06-06": 1502,
@@ -94,13 +94,13 @@
     "497f4a05-e2e7-4e0b-97f5-bc1fdf4c7522": {
       "username": "MrMud8033112",
       "rank": "chief",
-      "online": false,
-      "server": null,
+      "online": true,
+      "server": "AS1",
       "tna": 242,
       "baselineTna": 242,
       "baselineTs": "2026-06-06T18:47:42.183Z",
       "gained": 0,
-      "lastSeen": "2026-06-18T08:55:26.851Z",
+      "lastSeen": "2026-06-18T15:30:44.720Z",
       "lastRaid": null,
       "byDay": {
         "2026-06-06": 242,
@@ -548,8 +548,8 @@
     "97e4b46e-2c29-4628-8778-bb68011944b2": {
       "username": "Hyedam_0712",
       "rank": "captain",
-      "online": true,
-      "server": "AS17",
+      "online": false,
+      "server": null,
       "tna": 695,
       "baselineTna": 695,
       "baselineTs": "2026-06-06T18:47:42.183Z",
@@ -655,8 +655,8 @@
     "d12455ec-9194-492d-8e6e-6794b678e8f4": {
       "username": "5411",
       "rank": "recruiter",
-      "online": true,
-      "server": "NA18",
+      "online": false,
+      "server": null,
       "tna": 33,
       "baselineTna": 14,
       "baselineTs": "2026-06-06T18:47:42.183Z",
