@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-18T05:40:32.160Z",
+  "updated": "2026-06-18T05:45:29.365Z",
   "guild": {
     "name": "YuChaYuan",
     "prefix": "YCY",
@@ -661,7 +661,7 @@
       "baselineTna": 14,
       "baselineTs": "2026-06-06T18:47:42.183Z",
       "gained": 19,
-      "lastSeen": "2026-06-18T05:40:32.160Z",
+      "lastSeen": "2026-06-18T05:45:29.365Z",
       "lastRaid": "2026-06-16T15:30:52.037Z",
       "byDay": {
         "2026-06-06": 14,
@@ -883,7 +883,7 @@
       "baselineTna": 6,
       "baselineTs": "2026-06-06T18:47:42.183Z",
       "gained": 7,
-      "lastSeen": "2026-06-18T05:40:32.160Z",
+      "lastSeen": "2026-06-18T05:45:29.365Z",
       "lastRaid": "2026-06-17T11:25:25.818Z",
       "byDay": {
         "2026-06-06": 6,
@@ -977,7 +977,7 @@
       "baselineTna": 53,
       "baselineTs": "2026-06-06T18:47:42.183Z",
       "gained": 3,
-      "lastSeen": "2026-06-18T05:40:32.160Z",
+      "lastSeen": "2026-06-18T05:45:29.365Z",
       "lastRaid": "2026-06-12T05:12:42.960Z",
       "byDay": {
         "2026-06-06": 53,
@@ -1188,12 +1188,12 @@
       "rank": "recruiter",
       "online": true,
       "server": "NA5",
-      "tna": 58,
+      "tna": 59,
       "baselineTna": 58,
       "baselineTs": "2026-06-06T18:47:42.183Z",
-      "gained": 0,
-      "lastSeen": "2026-06-18T05:40:32.160Z",
-      "lastRaid": null,
+      "gained": 1,
+      "lastSeen": "2026-06-18T05:45:29.365Z",
+      "lastRaid": "2026-06-18T05:45:29.365Z",
       "byDay": {
         "2026-06-06": 58,
         "2026-06-07": 58,
@@ -1207,7 +1207,7 @@
         "2026-06-15": 58,
         "2026-06-16": 58,
         "2026-06-17": 58,
-        "2026-06-18": 58
+        "2026-06-18": 59
       }
     },
     "55976aa8-d942-49f5-98cc-634d0c2d032f": {
@@ -1614,12 +1614,12 @@
       "username": "Jennifer1008_",
       "rank": "recruit",
       "online": true,
-      "server": "AS4",
+      "server": "NA27",
       "tna": null,
       "baselineTna": null,
       "baselineTs": null,
       "gained": 0,
-      "lastSeen": "2026-06-18T05:40:32.160Z",
+      "lastSeen": "2026-06-18T05:45:29.365Z",
       "lastRaid": null,
       "byDay": {}
     },
