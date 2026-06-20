@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-20T05:40:29.839Z",
+  "updated": "2026-06-20T05:45:30.998Z",
   "guild": {
     "name": "YuChaYuan",
     "prefix": "YCY",
@@ -7,7 +7,7 @@
     "raidShort": "TNA",
     "color": "#2ca089"
   },
-  "online": 3,
+  "online": 2,
   "memberCount": 95,
   "members": {
     "01ca79a1-7805-4458-b52d-cfb7f809a808": {
@@ -701,7 +701,7 @@
       "baselineTna": 14,
       "baselineTs": "2026-06-06T18:47:42.183Z",
       "gained": 19,
-      "lastSeen": "2026-06-20T05:40:29.839Z",
+      "lastSeen": "2026-06-20T05:45:30.998Z",
       "lastRaid": "2026-06-16T15:30:52.037Z",
       "byDay": {
         "2026-06-06": 14,
@@ -933,14 +933,14 @@
     "26c4a541-d892-453b-8684-01e76be804d3": {
       "username": "Charlotte_Cute",
       "rank": "recruiter",
-      "online": true,
-      "server": "NA9",
-      "tna": 15,
+      "online": false,
+      "server": null,
+      "tna": 16,
       "baselineTna": 6,
       "baselineTs": "2026-06-06T18:47:42.183Z",
-      "gained": 9,
+      "gained": 10,
       "lastSeen": "2026-06-20T05:40:29.839Z",
-      "lastRaid": "2026-06-19T12:35:28.432Z",
+      "lastRaid": "2026-06-20T05:45:30.998Z",
       "byDay": {
         "2026-06-06": 6,
         "2026-06-07": 7,
@@ -956,7 +956,7 @@
         "2026-06-17": 13,
         "2026-06-18": 14,
         "2026-06-19": 15,
-        "2026-06-20": 15
+        "2026-06-20": 16
       }
     },
     "7d16186c-abd8-4320-9be6-91418106adaa": {
@@ -1943,7 +1943,7 @@
       "baselineTna": 40,
       "baselineTs": "2026-06-06T18:47:42.183Z",
       "gained": 0,
-      "lastSeen": "2026-06-20T05:40:29.839Z",
+      "lastSeen": "2026-06-20T05:45:30.998Z",
       "lastRaid": null,
       "byDay": {
         "2026-06-06": 40,
