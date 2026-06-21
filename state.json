@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-21T06:50:29.010Z",
+  "updated": "2026-06-21T06:55:25.707Z",
   "guild": {
     "name": "YuChaYuan",
     "prefix": "YCY",
@@ -7,7 +7,7 @@
     "raidShort": "TNA",
     "color": "#2ca089"
   },
-  "online": 3,
+  "online": 5,
   "memberCount": 95,
   "members": {
     "01ca79a1-7805-4458-b52d-cfb7f809a808": {
@@ -715,12 +715,12 @@
       "username": "5411",
       "rank": "recruiter",
       "online": true,
-      "server": "NA29",
+      "server": "NA16",
       "tna": 34,
       "baselineTna": 14,
       "baselineTs": "2026-06-06T18:47:42.183Z",
       "gained": 20,
-      "lastSeen": "2026-06-21T06:50:29.010Z",
+      "lastSeen": "2026-06-21T06:55:25.707Z",
       "lastRaid": "2026-06-20T09:30:41.054Z",
       "byDay": {
         "2026-06-06": 14,
@@ -961,12 +961,12 @@
       "username": "Charlotte_Cute",
       "rank": "recruiter",
       "online": true,
-      "server": "NA31",
+      "server": "NA19",
       "tna": 17,
       "baselineTna": 6,
       "baselineTs": "2026-06-06T18:47:42.183Z",
       "gained": 11,
-      "lastSeen": "2026-06-21T06:50:29.010Z",
+      "lastSeen": "2026-06-21T06:55:25.707Z",
       "lastRaid": "2026-06-21T03:00:45.455Z",
       "byDay": {
         "2026-06-06": 6,
@@ -1063,13 +1063,13 @@
     "e2b6e8e4-0265-44c6-8892-a63733adc7fa": {
       "username": "YoyoBreaker",
       "rank": "recruiter",
-      "online": false,
-      "server": null,
+      "online": true,
+      "server": "NA28",
       "tna": 57,
       "baselineTna": 53,
       "baselineTs": "2026-06-06T18:47:42.183Z",
       "gained": 4,
-      "lastSeen": "2026-06-21T06:45:28.005Z",
+      "lastSeen": "2026-06-21T06:55:25.707Z",
       "lastRaid": "2026-06-18T06:20:32.390Z",
       "byDay": {
         "2026-06-06": 53,
@@ -1299,13 +1299,13 @@
     "fa40c035-1309-43f0-bbec-2423a4044650": {
       "username": "dyLLLLan",
       "rank": "recruiter",
-      "online": false,
-      "server": null,
+      "online": true,
+      "server": "NA28",
       "tna": 59,
       "baselineTna": 58,
       "baselineTs": "2026-06-06T18:47:42.183Z",
       "gained": 1,
-      "lastSeen": "2026-06-18T06:10:42.300Z",
+      "lastSeen": "2026-06-21T06:55:25.707Z",
       "lastRaid": "2026-06-18T05:45:29.365Z",
       "byDay": {
         "2026-06-06": 58,
@@ -1429,12 +1429,12 @@
       "username": "uwubear_3y",
       "rank": "recruit",
       "online": true,
-      "server": "NA29",
+      "server": "NA16",
       "tna": 20,
       "baselineTna": 14,
       "baselineTs": "2026-06-06T18:47:42.183Z",
       "gained": 6,
-      "lastSeen": "2026-06-21T06:50:29.010Z",
+      "lastSeen": "2026-06-21T06:55:25.707Z",
       "lastRaid": "2026-06-12T06:55:21.000Z",
       "byDay": {
         "2026-06-06": 14,
