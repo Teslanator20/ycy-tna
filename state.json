@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-22T10:00:47.442Z",
+  "updated": "2026-06-22T10:05:29.388Z",
   "guild": {
     "name": "YuChaYuan",
     "prefix": "YCY",
@@ -7,7 +7,7 @@
     "raidShort": "TNA",
     "color": "#2ca089"
   },
-  "online": 3,
+  "online": 4,
   "memberCount": 95,
   "members": {
     "01ca79a1-7805-4458-b52d-cfb7f809a808": {
@@ -739,7 +739,7 @@
       "baselineTna": 14,
       "baselineTs": "2026-06-06T18:47:42.183Z",
       "gained": 22,
-      "lastSeen": "2026-06-22T10:00:47.442Z",
+      "lastSeen": "2026-06-22T10:05:29.388Z",
       "lastRaid": "2026-06-21T15:35:27.885Z",
       "byDay": {
         "2026-06-06": 14,
@@ -770,7 +770,7 @@
       "baselineTna": 256,
       "baselineTs": "2026-06-06T18:47:42.183Z",
       "gained": 0,
-      "lastSeen": "2026-06-22T10:00:47.442Z",
+      "lastSeen": "2026-06-22T10:05:29.388Z",
       "lastRaid": null,
       "byDay": {
         "2026-06-06": 256,
@@ -870,13 +870,13 @@
     "d3062613-f674-46dd-b5d7-9e75c39d8f31": {
       "username": "Coffee96357412",
       "rank": "recruiter",
-      "online": false,
-      "server": null,
+      "online": true,
+      "server": "NA9",
       "tna": 2,
       "baselineTna": 2,
       "baselineTs": "2026-06-13T10:50:26.428Z",
       "gained": 0,
-      "lastSeen": "2026-06-19T14:55:26.742Z",
+      "lastSeen": "2026-06-22T10:05:29.388Z",
       "lastRaid": null,
       "byDay": {
         "2026-06-13": 2,
@@ -2046,12 +2046,12 @@
       "username": "Lin87_zs",
       "rank": "recruit",
       "online": true,
-      "server": "AS22",
+      "server": "AS6",
       "tna": 40,
       "baselineTna": 40,
       "baselineTs": "2026-06-06T18:47:42.183Z",
       "gained": 0,
-      "lastSeen": "2026-06-22T10:00:47.442Z",
+      "lastSeen": "2026-06-22T10:05:29.388Z",
       "lastRaid": null,
       "byDay": {
         "2026-06-06": 40,
