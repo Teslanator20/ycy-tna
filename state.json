@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-23T15:10:40.190Z",
+  "updated": "2026-06-23T15:13:52.821Z",
   "guild": {
     "name": "YuChaYuan",
     "prefix": "YCY",
@@ -758,7 +758,7 @@
       "baselineTna": 14,
       "baselineTs": "2026-06-06T18:47:42.183Z",
       "gained": 42,
-      "lastSeen": "2026-06-23T15:10:40.190Z",
+      "lastSeen": "2026-06-23T15:13:52.821Z",
       "lastRaid": "2026-06-23T13:50:34.492Z",
       "byDay": {
         "2026-06-06": 14,
@@ -1601,6 +1601,19 @@
         "2026-06-23": 3
       }
     },
+    "92feba43-316f-47ad-a1b0-726de83940db": {
+      "username": "transfe",
+      "rank": "recruit",
+      "online": true,
+      "server": "EU3",
+      "tna": null,
+      "baselineTna": null,
+      "baselineTs": null,
+      "gained": 0,
+      "lastSeen": "2026-06-23T15:13:52.821Z",
+      "lastRaid": null,
+      "byDay": {}
+    },
     "47032840-05a0-446b-939b-7d2bb614424e": {
       "username": "wDinding0312",
       "rank": "recruit",
@@ -1632,19 +1645,6 @@
         "2026-06-22": 27,
         "2026-06-23": 27
       }
-    },
-    "92feba43-316f-47ad-a1b0-726de83940db": {
-      "username": "transfe",
-      "rank": "recruit",
-      "online": true,
-      "server": "EU3",
-      "tna": null,
-      "baselineTna": null,
-      "baselineTs": null,
-      "gained": 0,
-      "lastSeen": "2026-06-23T15:10:40.190Z",
-      "lastRaid": null,
-      "byDay": {}
     },
     "b1d348da-29e8-4468-823b-bea3aec09807": {
       "username": "the_chosen_mew",
