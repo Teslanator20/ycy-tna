@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-24T10:55:24.927Z",
+  "updated": "2026-06-24T11:00:50.837Z",
   "guild": {
     "name": "YuChaYuan",
     "prefix": "YCY",
@@ -1648,12 +1648,12 @@
       "username": "transfe",
       "rank": "recruit",
       "online": true,
-      "server": "AS17",
+      "server": "EU16",
       "tna": null,
       "baselineTna": null,
       "baselineTs": null,
       "gained": 0,
-      "lastSeen": "2026-06-24T10:55:24.927Z",
+      "lastSeen": "2026-06-24T11:00:50.837Z",
       "lastRaid": null,
       "byDay": {}
     },
