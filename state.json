@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-28T11:40:28.225Z",
+  "updated": "2026-06-28T11:45:27.865Z",
   "guild": {
     "name": "YuChaYuan",
     "prefix": "YCY",
@@ -7,7 +7,7 @@
     "raidShort": "TNA",
     "color": "#2ca089"
   },
-  "online": 4,
+  "online": 5,
   "memberCount": 96,
   "members": {
     "01ca79a1-7805-4458-b52d-cfb7f809a808": {
@@ -555,7 +555,7 @@
       "baselineTna": 6,
       "baselineTs": "2026-06-06T18:47:42.183Z",
       "gained": 18,
-      "lastSeen": "2026-06-28T11:40:28.225Z",
+      "lastSeen": "2026-06-28T11:45:27.865Z",
       "lastRaid": "2026-06-27T06:00:44.937Z",
       "byDay": {
         "2026-06-06": 6,
@@ -890,7 +890,7 @@
       "baselineTna": 14,
       "baselineTs": "2026-06-06T18:47:42.183Z",
       "gained": 75,
-      "lastSeen": "2026-06-28T11:40:28.225Z",
+      "lastSeen": "2026-06-28T11:45:27.865Z",
       "lastRaid": "2026-06-27T04:45:28.119Z",
       "byDay": {
         "2026-06-06": 14,
@@ -927,7 +927,7 @@
       "baselineTna": 256,
       "baselineTs": "2026-06-06T18:47:42.183Z",
       "gained": 5,
-      "lastSeen": "2026-06-28T11:40:28.225Z",
+      "lastSeen": "2026-06-28T11:45:27.865Z",
       "lastRaid": "2026-06-27T10:25:23.317Z",
       "byDay": {
         "2026-06-06": 256,
@@ -1621,13 +1621,13 @@
     "98bcab33-168c-4e00-b5ad-d2fd0d3ed2b3": {
       "username": "WeiWei60706",
       "rank": "recruiter",
-      "online": false,
-      "server": null,
+      "online": true,
+      "server": "AS20",
       "tna": 18,
       "baselineTna": 18,
       "baselineTs": "2026-06-06T18:47:42.183Z",
       "gained": 0,
-      "lastSeen": "2026-06-21T13:10:30.125Z",
+      "lastSeen": "2026-06-28T11:45:27.865Z",
       "lastRaid": null,
       "byDay": {
         "2026-06-06": 18,
@@ -2114,7 +2114,7 @@
       "baselineTna": 40,
       "baselineTs": "2026-06-06T18:47:42.183Z",
       "gained": 1,
-      "lastSeen": "2026-06-28T11:40:28.225Z",
+      "lastSeen": "2026-06-28T11:45:27.865Z",
       "lastRaid": "2026-06-27T14:15:31.158Z",
       "byDay": {
         "2026-06-06": 40,
