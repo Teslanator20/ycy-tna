@@ -160,10 +160,10 @@
     "5e04e4ff-d051-4125-983b-d42b214dac80|d12455ec-9194-492d-8e6e-6794b678e8f4": {
       "a": "5e04e4ff-d051-4125-983b-d42b214dac80",
       "b": "d12455ec-9194-492d-8e6e-6794b678e8f4",
-      "samples": 295,
+      "samples": 296,
       "usernameA": "Reisen_U_Inaba",
       "usernameB": "5411",
-      "lastTs": "2026-06-30T16:30:41.938Z"
+      "lastTs": "2026-06-30T16:35:26.460Z"
     },
     "26c4a541-d892-453b-8684-01e76be804d3|5e04e4ff-d051-4125-983b-d42b214dac80": {
       "a": "26c4a541-d892-453b-8684-01e76be804d3",
@@ -944,10 +944,10 @@
     "5e04e4ff-d051-4125-983b-d42b214dac80|92feba43-316f-47ad-a1b0-726de83940db": {
       "a": "5e04e4ff-d051-4125-983b-d42b214dac80",
       "b": "92feba43-316f-47ad-a1b0-726de83940db",
-      "samples": 1,
+      "samples": 2,
       "usernameA": "Reisen_U_Inaba",
       "usernameB": "transfe",
-      "lastTs": "2026-06-25T08:40:30.911Z"
+      "lastTs": "2026-06-30T16:35:26.460Z"
     },
     "5e04e4ff-d051-4125-983b-d42b214dac80|ca475f71-8fb5-408f-aa69-0667a7c98ecf": {
       "a": "5e04e4ff-d051-4125-983b-d42b214dac80",
@@ -1020,7 +1020,15 @@
       "usernameA": "Charlotte_Cute",
       "usernameB": "ggyyman120",
       "lastTs": "2026-06-30T16:10:32.187Z"
+    },
+    "92feba43-316f-47ad-a1b0-726de83940db|d12455ec-9194-492d-8e6e-6794b678e8f4": {
+      "a": "92feba43-316f-47ad-a1b0-726de83940db",
+      "b": "d12455ec-9194-492d-8e6e-6794b678e8f4",
+      "samples": 1,
+      "usernameA": "transfe",
+      "usernameB": "5411",
+      "lastTs": "2026-06-30T16:35:26.460Z"
     }
   },
-  "updated": "2026-06-30T16:30:41.938Z"
+  "updated": "2026-06-30T16:35:26.460Z"
 }
