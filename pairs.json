@@ -996,7 +996,15 @@
       "usernameA": "ggyyman120",
       "usernameB": "transfe",
       "lastTs": "2026-06-29T18:00:43.913Z"
+    },
+    "6b02c37b-bbe1-433b-ac21-5217b28337e5|ca475f71-8fb5-408f-aa69-0667a7c98ecf": {
+      "a": "6b02c37b-bbe1-433b-ac21-5217b28337e5",
+      "b": "ca475f71-8fb5-408f-aa69-0667a7c98ecf",
+      "samples": 1,
+      "usernameA": "ggyyman120",
+      "usernameB": "DENISDKT",
+      "lastTs": "2026-06-30T14:40:32.959Z"
     }
   },
-  "updated": "2026-06-30T14:35:51.568Z"
+  "updated": "2026-06-30T14:40:32.959Z"
 }
