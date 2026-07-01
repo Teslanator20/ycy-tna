@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-01T17:05:28.027Z",
+  "updated": "2026-07-01T17:10:35.487Z",
   "guild": {
     "name": "YuChaYuan",
     "prefix": "YCY",
@@ -7,7 +7,7 @@
     "raidShort": "TNA",
     "color": "#2ca089"
   },
-  "online": 5,
+  "online": 6,
   "memberCount": 96,
   "members": {
     "01ca79a1-7805-4458-b52d-cfb7f809a808": {
@@ -586,12 +586,12 @@
       "username": "Charlotte_Cute",
       "rank": "captain",
       "online": true,
-      "server": "AS21",
+      "server": "AS8",
       "tna": 26,
       "baselineTna": 6,
       "baselineTs": "2026-06-06T18:47:42.183Z",
       "gained": 20,
-      "lastSeen": "2026-07-01T17:05:28.027Z",
+      "lastSeen": "2026-07-01T17:10:35.487Z",
       "lastRaid": "2026-07-01T11:55:25.533Z",
       "byDay": {
         "2026-06-06": 6,
@@ -944,13 +944,13 @@
     "d12455ec-9194-492d-8e6e-6794b678e8f4": {
       "username": "5411",
       "rank": "recruiter",
-      "online": false,
-      "server": null,
+      "online": true,
+      "server": "NA22",
       "tna": 90,
       "baselineTna": 14,
       "baselineTs": "2026-06-06T18:47:42.183Z",
       "gained": 76,
-      "lastSeen": "2026-07-01T16:25:28.716Z",
+      "lastSeen": "2026-07-01T17:10:35.487Z",
       "lastRaid": "2026-06-29T16:25:23.804Z",
       "byDay": {
         "2026-06-06": 14,
@@ -990,7 +990,7 @@
       "baselineTna": 256,
       "baselineTs": "2026-06-06T18:47:42.183Z",
       "gained": 12,
-      "lastSeen": "2026-07-01T17:05:28.027Z",
+      "lastSeen": "2026-07-01T17:10:35.487Z",
       "lastRaid": "2026-06-30T08:20:34.791Z",
       "byDay": {
         "2026-06-06": 256,
@@ -1065,12 +1065,12 @@
       "username": "woody123_is_god",
       "rank": "recruiter",
       "online": true,
-      "server": "AS21",
+      "server": "AS8",
       "tna": null,
       "baselineTna": null,
       "baselineTs": null,
       "gained": 0,
-      "lastSeen": "2026-07-01T17:05:28.027Z",
+      "lastSeen": "2026-07-01T17:10:35.487Z",
       "lastRaid": null,
       "byDay": {}
     },
@@ -1949,12 +1949,12 @@
       "username": "transfe",
       "rank": "recruit",
       "online": true,
-      "server": "AS21",
+      "server": "AS8",
       "tna": null,
       "baselineTna": null,
       "baselineTs": null,
       "gained": 0,
-      "lastSeen": "2026-07-01T17:05:28.027Z",
+      "lastSeen": "2026-07-01T17:10:35.487Z",
       "lastRaid": null,
       "byDay": {}
     },
@@ -2003,18 +2003,18 @@
       "rank": "recruit",
       "online": true,
       "server": "NA7",
-      "tna": 4,
+      "tna": 5,
       "baselineTna": 2,
       "baselineTs": "2026-06-27T10:50:27.301Z",
-      "gained": 2,
-      "lastSeen": "2026-07-01T17:05:28.027Z",
-      "lastRaid": "2026-06-29T16:35:25.070Z",
+      "gained": 3,
+      "lastSeen": "2026-07-01T17:10:35.487Z",
+      "lastRaid": "2026-07-01T17:10:35.487Z",
       "byDay": {
         "2026-06-27": 2,
         "2026-06-28": 3,
         "2026-06-29": 4,
         "2026-06-30": 4,
-        "2026-07-01": 4
+        "2026-07-01": 5
       }
     },
     "b1d348da-29e8-4468-823b-bea3aec09807": {
