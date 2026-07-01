@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-01T11:50:38.233Z",
+  "updated": "2026-07-01T11:55:25.533Z",
   "guild": {
     "name": "YuChaYuan",
     "prefix": "YCY",
@@ -7,7 +7,7 @@
     "raidShort": "TNA",
     "color": "#2ca089"
   },
-  "online": 3,
+  "online": 4,
   "memberCount": 96,
   "members": {
     "01ca79a1-7805-4458-b52d-cfb7f809a808": {
@@ -587,12 +587,12 @@
       "rank": "captain",
       "online": true,
       "server": "EU14",
-      "tna": 25,
+      "tna": 26,
       "baselineTna": 6,
       "baselineTs": "2026-06-06T18:47:42.183Z",
-      "gained": 19,
-      "lastSeen": "2026-07-01T11:50:38.233Z",
-      "lastRaid": "2026-06-29T06:25:24.011Z",
+      "gained": 20,
+      "lastSeen": "2026-07-01T11:55:25.533Z",
+      "lastRaid": "2026-07-01T11:55:25.533Z",
       "byDay": {
         "2026-06-06": 6,
         "2026-06-07": 7,
@@ -619,7 +619,7 @@
         "2026-06-28": 24,
         "2026-06-29": 25,
         "2026-06-30": 25,
-        "2026-07-01": 25
+        "2026-07-01": 26
       }
     },
     "83c577d7-eb13-40b8-ac6c-8c5f113c5485": {
@@ -950,7 +950,7 @@
       "baselineTna": 14,
       "baselineTs": "2026-06-06T18:47:42.183Z",
       "gained": 76,
-      "lastSeen": "2026-07-01T11:50:38.233Z",
+      "lastSeen": "2026-07-01T11:55:25.533Z",
       "lastRaid": "2026-06-29T16:25:23.804Z",
       "byDay": {
         "2026-06-06": 14,
@@ -985,12 +985,12 @@
       "username": "Reisen_U_Inaba",
       "rank": "recruiter",
       "online": true,
-      "server": "AS18",
+      "server": "AS26",
       "tna": 268,
       "baselineTna": 256,
       "baselineTs": "2026-06-06T18:47:42.183Z",
       "gained": 12,
-      "lastSeen": "2026-07-01T11:50:38.233Z",
+      "lastSeen": "2026-07-01T11:55:25.533Z",
       "lastRaid": "2026-06-30T08:20:34.791Z",
       "byDay": {
         "2026-06-06": 256,
@@ -2152,13 +2152,13 @@
     "3fa3336a-dcfc-49e6-9b5f-469322883009": {
       "username": "Lin87_zs",
       "rank": "recruit",
-      "online": false,
-      "server": null,
+      "online": true,
+      "server": "AS12",
       "tna": 43,
       "baselineTna": 40,
       "baselineTs": "2026-06-06T18:47:42.183Z",
       "gained": 3,
-      "lastSeen": "2026-07-01T11:45:47.552Z",
+      "lastSeen": "2026-07-01T11:55:25.533Z",
       "lastRaid": "2026-06-30T16:20:31.333Z",
       "byDay": {
         "2026-06-06": 40,
