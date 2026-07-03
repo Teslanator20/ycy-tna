@@ -1052,7 +1052,15 @@
       "usernameA": "5411",
       "usernameB": "kenlin1111",
       "lastTs": "2026-07-02T14:05:30.536Z"
+    },
+    "17ad7f8d-b7b3-4c96-be92-b44bfe1c1117|e8ca4f14-ffab-4d39-9fbc-913ce8b1459c": {
+      "a": "17ad7f8d-b7b3-4c96-be92-b44bfe1c1117",
+      "b": "e8ca4f14-ffab-4d39-9fbc-913ce8b1459c",
+      "samples": 1,
+      "usernameA": "Weizil",
+      "usernameB": "uwubear_3y",
+      "lastTs": "2026-07-03T12:35:27.419Z"
     }
   },
-  "updated": "2026-07-03T12:30:42.371Z"
+  "updated": "2026-07-03T12:35:27.419Z"
 }
