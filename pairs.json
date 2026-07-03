@@ -26,6 +26,15 @@
       "usernameA": "YoyoBreaker",
       "usernameB": "dyLLLLan",
       "lastTs": "2026-06-21T07:50:31.019Z"
+    },
+    "6b02c37b-bbe1-433b-ac21-5217b28337e5|dfbc56d3-db00-442a-9433-0644b4bc9e14": {
+      "a": "6b02c37b-bbe1-433b-ac21-5217b28337e5",
+      "b": "dfbc56d3-db00-442a-9433-0644b4bc9e14",
+      "count": 1,
+      "confirmed": 1,
+      "usernameA": "ggyyman120",
+      "usernameB": "kenlin1111",
+      "lastTs": "2026-07-03T18:10:37.347Z"
     }
   },
   "copresence": {
@@ -1040,10 +1049,10 @@
     "6b02c37b-bbe1-433b-ac21-5217b28337e5|dfbc56d3-db00-442a-9433-0644b4bc9e14": {
       "a": "6b02c37b-bbe1-433b-ac21-5217b28337e5",
       "b": "dfbc56d3-db00-442a-9433-0644b4bc9e14",
-      "samples": 40,
+      "samples": 41,
       "usernameA": "ggyyman120",
       "usernameB": "kenlin1111",
-      "lastTs": "2026-07-03T18:05:26.809Z"
+      "lastTs": "2026-07-03T18:10:37.347Z"
     },
     "d12455ec-9194-492d-8e6e-6794b678e8f4|dfbc56d3-db00-442a-9433-0644b4bc9e14": {
       "a": "d12455ec-9194-492d-8e6e-6794b678e8f4",
@@ -1062,5 +1071,5 @@
       "lastTs": "2026-07-03T12:35:27.419Z"
     }
   },
-  "updated": "2026-07-03T18:05:26.809Z"
+  "updated": "2026-07-03T18:10:37.347Z"
 }

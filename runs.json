@@ -53,7 +53,25 @@
           "delta": 1
         }
       ]
+    },
+    {
+      "ts": "2026-07-03T18:10:37.347Z",
+      "server": "NA4",
+      "confirmed": true,
+      "crowded": false,
+      "players": [
+        {
+          "uuid": "6b02c37b-bbe1-433b-ac21-5217b28337e5",
+          "username": "ggyyman120",
+          "delta": 1
+        },
+        {
+          "uuid": "dfbc56d3-db00-442a-9433-0644b4bc9e14",
+          "username": "kenlin1111",
+          "delta": 1
+        }
+      ]
     }
   ],
-  "updated": "2026-07-03T18:05:26.809Z"
+  "updated": "2026-07-03T18:10:37.347Z"
 }
