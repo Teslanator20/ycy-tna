@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-04T04:50:38.383Z",
+  "updated": "2026-07-04T04:55:23.913Z",
   "guild": {
     "name": "YuChaYuan",
     "prefix": "YCY",
@@ -7,7 +7,7 @@
     "raidShort": "TNA",
     "color": "#2ca089"
   },
-  "online": 4,
+  "online": 5,
   "memberCount": 97,
   "members": {
     "01ca79a1-7805-4458-b52d-cfb7f809a808": {
@@ -62,7 +62,7 @@
       "baselineTna": 1502,
       "baselineTs": "2026-06-06T18:47:42.183Z",
       "gained": 0,
-      "lastSeen": "2026-07-04T04:50:38.383Z",
+      "lastSeen": "2026-07-04T04:55:23.913Z",
       "lastRaid": null,
       "byDay": {
         "2026-06-06": 1502,
@@ -627,7 +627,7 @@
       "baselineTna": 6,
       "baselineTs": "2026-06-06T18:47:42.183Z",
       "gained": 21,
-      "lastSeen": "2026-07-04T04:50:38.383Z",
+      "lastSeen": "2026-07-04T04:55:23.913Z",
       "lastRaid": "2026-07-03T05:10:33.449Z",
       "byDay": {
         "2026-06-06": 6,
@@ -1053,7 +1053,7 @@
       "baselineTna": 256,
       "baselineTs": "2026-06-06T18:47:42.183Z",
       "gained": 15,
-      "lastSeen": "2026-07-04T04:50:38.383Z",
+      "lastSeen": "2026-07-04T04:55:23.913Z",
       "lastRaid": "2026-07-03T07:05:23.712Z",
       "byDay": {
         "2026-06-06": 256,
@@ -2299,7 +2299,7 @@
       "baselineTna": 40,
       "baselineTs": "2026-06-06T18:47:42.183Z",
       "gained": 3,
-      "lastSeen": "2026-07-04T04:50:38.383Z",
+      "lastSeen": "2026-07-04T04:55:23.913Z",
       "lastRaid": "2026-06-30T16:20:31.333Z",
       "byDay": {
         "2026-06-06": 40,
@@ -2996,13 +2996,13 @@
     "ca475f71-8fb5-408f-aa69-0667a7c98ecf": {
       "username": "DENISDKT",
       "rank": "recruit",
-      "online": false,
-      "server": null,
+      "online": true,
+      "server": "AS12",
       "tna": 21,
       "baselineTna": 19,
       "baselineTs": "2026-06-06T18:47:42.183Z",
       "gained": 2,
-      "lastSeen": "2026-06-30T17:05:23.531Z",
+      "lastSeen": "2026-07-04T04:55:23.913Z",
       "lastRaid": "2026-06-29T13:10:32.139Z",
       "byDay": {
         "2026-06-06": 19,
