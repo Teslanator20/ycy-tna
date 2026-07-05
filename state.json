@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-05T08:05:25.672Z",
+  "updated": "2026-07-05T08:10:40.739Z",
   "guild": {
     "name": "YuChaYuan",
     "prefix": "YCY",
@@ -7,7 +7,7 @@
     "raidShort": "TNA",
     "color": "#2ca089"
   },
-  "online": 3,
+  "online": 4,
   "memberCount": 97,
   "members": {
     "01ca79a1-7805-4458-b52d-cfb7f809a808": {
@@ -1025,12 +1025,12 @@
       "username": "5411",
       "rank": "recruiter",
       "online": true,
-      "server": "NA14",
+      "server": "NA4",
       "tna": 92,
       "baselineTna": 14,
       "baselineTs": "2026-06-06T18:47:42.183Z",
       "gained": 78,
-      "lastSeen": "2026-07-05T08:05:25.672Z",
+      "lastSeen": "2026-07-05T08:10:40.739Z",
       "lastRaid": "2026-07-02T20:20:37.520Z",
       "byDay": {
         "2026-06-06": 14,
@@ -1069,12 +1069,12 @@
       "username": "Reisen_U_Inaba",
       "rank": "recruiter",
       "online": true,
-      "server": "NA14",
+      "server": "NA4",
       "tna": 271,
       "baselineTna": 256,
       "baselineTs": "2026-06-06T18:47:42.183Z",
       "gained": 15,
-      "lastSeen": "2026-07-05T08:05:25.672Z",
+      "lastSeen": "2026-07-05T08:10:40.739Z",
       "lastRaid": "2026-07-03T07:05:23.712Z",
       "byDay": {
         "2026-06-06": 256,
@@ -1994,7 +1994,7 @@
       "baselineTna": 14,
       "baselineTs": "2026-06-06T18:47:42.183Z",
       "gained": 6,
-      "lastSeen": "2026-07-05T08:05:25.672Z",
+      "lastSeen": "2026-07-05T08:10:40.739Z",
       "lastRaid": "2026-06-12T06:55:21.000Z",
       "byDay": {
         "2026-06-06": 14,
@@ -3040,13 +3040,13 @@
     "dfbc56d3-db00-442a-9433-0644b4bc9e14": {
       "username": "kenlin1111",
       "rank": "recruit",
-      "online": false,
-      "server": null,
+      "online": true,
+      "server": "AS10",
       "tna": 7,
       "baselineTna": 4,
       "baselineTs": "2026-07-02T10:50:32.800Z",
       "gained": 3,
-      "lastSeen": "2026-07-04T19:55:23.262Z",
+      "lastSeen": "2026-07-05T08:10:40.739Z",
       "lastRaid": "2026-07-04T17:15:27.926Z",
       "byDay": {
         "2026-07-02": 5,
