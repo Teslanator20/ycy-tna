@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-05T19:40:41.487Z",
+  "updated": "2026-07-05T19:45:27.270Z",
   "guild": {
     "name": "YuChaYuan",
     "prefix": "YCY",
@@ -7,7 +7,7 @@
     "raidShort": "TNA",
     "color": "#2ca089"
   },
-  "online": 2,
+  "online": 1,
   "memberCount": 97,
   "members": {
     "01ca79a1-7805-4458-b52d-cfb7f809a808": {
@@ -1025,12 +1025,12 @@
       "username": "5411",
       "rank": "recruiter",
       "online": true,
-      "server": "EU45",
+      "server": "EU46",
       "tna": 98,
       "baselineTna": 14,
       "baselineTs": "2026-06-06T18:47:42.183Z",
       "gained": 84,
-      "lastSeen": "2026-07-05T19:40:41.487Z",
+      "lastSeen": "2026-07-05T19:45:27.270Z",
       "lastRaid": "2026-07-05T12:00:56.515Z",
       "byDay": {
         "2026-06-06": 14,
@@ -2682,8 +2682,8 @@
     "dfbc56d3-db00-442a-9433-0644b4bc9e14": {
       "username": "kenlin1111",
       "rank": "recruit",
-      "online": true,
-      "server": "AS1",
+      "online": false,
+      "server": null,
       "tna": 8,
       "baselineTna": 4,
       "baselineTs": "2026-07-02T10:50:32.800Z",
