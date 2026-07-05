@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-05T19:05:22.662Z",
+  "updated": "2026-07-05T19:10:40.615Z",
   "guild": {
     "name": "YuChaYuan",
     "prefix": "YCY",
@@ -1025,12 +1025,12 @@
       "username": "5411",
       "rank": "recruiter",
       "online": true,
-      "server": "EU44",
+      "server": "EU8",
       "tna": 98,
       "baselineTna": 14,
       "baselineTs": "2026-06-06T18:47:42.183Z",
       "gained": 84,
-      "lastSeen": "2026-07-05T19:05:22.662Z",
+      "lastSeen": "2026-07-05T19:10:40.615Z",
       "lastRaid": "2026-07-05T12:00:56.515Z",
       "byDay": {
         "2026-06-06": 14,
@@ -2178,12 +2178,12 @@
       "username": "ggyyman120",
       "rank": "recruit",
       "online": true,
-      "server": "NA30",
+      "server": "NA25",
       "tna": 9,
       "baselineTna": 2,
       "baselineTs": "2026-06-27T10:50:27.301Z",
       "gained": 7,
-      "lastSeen": "2026-07-05T19:05:22.662Z",
+      "lastSeen": "2026-07-05T19:10:40.615Z",
       "lastRaid": "2026-07-05T17:55:23.768Z",
       "byDay": {
         "2026-06-27": 2,
@@ -2723,6 +2723,24 @@
         "2026-07-05": 88
       }
     },
+    "dfbc56d3-db00-442a-9433-0644b4bc9e14": {
+      "username": "kenlin1111",
+      "rank": "recruit",
+      "online": true,
+      "server": "AS1",
+      "tna": 8,
+      "baselineTna": 4,
+      "baselineTs": "2026-07-02T10:50:32.800Z",
+      "gained": 4,
+      "lastSeen": "2026-07-05T19:10:40.615Z",
+      "lastRaid": "2026-07-05T17:50:27.502Z",
+      "byDay": {
+        "2026-07-02": 5,
+        "2026-07-03": 6,
+        "2026-07-04": 7,
+        "2026-07-05": 8
+      }
+    },
     "f3e67661-a4eb-44e1-a4fb-5eb925dbf18f": {
       "username": "Jerry_0919",
       "rank": "recruit",
@@ -2765,24 +2783,6 @@
         "2026-07-03": 1,
         "2026-07-04": 1,
         "2026-07-05": 1
-      }
-    },
-    "dfbc56d3-db00-442a-9433-0644b4bc9e14": {
-      "username": "kenlin1111",
-      "rank": "recruit",
-      "online": true,
-      "server": "AS1",
-      "tna": 8,
-      "baselineTna": 4,
-      "baselineTs": "2026-07-02T10:50:32.800Z",
-      "gained": 4,
-      "lastSeen": "2026-07-05T19:05:22.662Z",
-      "lastRaid": "2026-07-05T17:50:27.502Z",
-      "byDay": {
-        "2026-07-02": 5,
-        "2026-07-03": 6,
-        "2026-07-04": 7,
-        "2026-07-05": 8
       }
     },
     "6f4f9f1b-e1a9-48ca-8bd1-5e46fb688fef": {
