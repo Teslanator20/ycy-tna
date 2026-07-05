@@ -257,10 +257,10 @@
     "3fa3336a-dcfc-49e6-9b5f-469322883009|e4a23668-57d7-4f17-b58f-4a0fd17870ec": {
       "a": "3fa3336a-dcfc-49e6-9b5f-469322883009",
       "b": "e4a23668-57d7-4f17-b58f-4a0fd17870ec",
-      "samples": 2,
+      "samples": 3,
       "usernameA": "Lin87_zs",
       "usernameB": "woody123_is_god",
-      "lastTs": "2026-06-08T12:30:35.231Z"
+      "lastTs": "2026-07-05T16:10:42.827Z"
     },
     "c1c7d2de-e109-48bc-80e1-1a84e7083762|d3062613-f674-46dd-b5d7-9e75c39d8f31": {
       "a": "c1c7d2de-e109-48bc-80e1-1a84e7083762",
@@ -465,10 +465,10 @@
     "5e04e4ff-d051-4125-983b-d42b214dac80|e4a23668-57d7-4f17-b58f-4a0fd17870ec": {
       "a": "5e04e4ff-d051-4125-983b-d42b214dac80",
       "b": "e4a23668-57d7-4f17-b58f-4a0fd17870ec",
-      "samples": 10,
+      "samples": 11,
       "usernameA": "Reisen_U_Inaba",
       "usernameB": "woody123_is_god",
-      "lastTs": "2026-07-05T16:00:50.930Z"
+      "lastTs": "2026-07-05T16:10:42.827Z"
     },
     "4791eb57-3607-4647-8d4f-59aaa879c5a4|584c85c3-5424-4e59-8be1-5f3e97ba9f96": {
       "a": "4791eb57-3607-4647-8d4f-59aaa879c5a4",
@@ -857,10 +857,10 @@
     "3fa3336a-dcfc-49e6-9b5f-469322883009|5e04e4ff-d051-4125-983b-d42b214dac80": {
       "a": "3fa3336a-dcfc-49e6-9b5f-469322883009",
       "b": "5e04e4ff-d051-4125-983b-d42b214dac80",
-      "samples": 51,
+      "samples": 52,
       "usernameA": "Lin87_zs",
       "usernameB": "Reisen_U_Inaba",
-      "lastTs": "2026-07-04T05:06:07.074Z"
+      "lastTs": "2026-07-05T16:10:42.827Z"
     },
     "ca475f71-8fb5-408f-aa69-0667a7c98ecf|e2b6e8e4-0265-44c6-8892-a63733adc7fa": {
       "a": "ca475f71-8fb5-408f-aa69-0667a7c98ecf",
@@ -1049,10 +1049,10 @@
     "6b02c37b-bbe1-433b-ac21-5217b28337e5|dfbc56d3-db00-442a-9433-0644b4bc9e14": {
       "a": "6b02c37b-bbe1-433b-ac21-5217b28337e5",
       "b": "dfbc56d3-db00-442a-9433-0644b4bc9e14",
-      "samples": 79,
+      "samples": 80,
       "usernameA": "ggyyman120",
       "usernameB": "kenlin1111",
-      "lastTs": "2026-07-05T09:20:39.047Z"
+      "lastTs": "2026-07-05T16:10:42.827Z"
     },
     "d12455ec-9194-492d-8e6e-6794b678e8f4|dfbc56d3-db00-442a-9433-0644b4bc9e14": {
       "a": "d12455ec-9194-492d-8e6e-6794b678e8f4",
@@ -1087,5 +1087,5 @@
       "lastTs": "2026-07-04T16:35:25.177Z"
     }
   },
-  "updated": "2026-07-05T16:05:23.662Z"
+  "updated": "2026-07-05T16:10:42.827Z"
 }
