@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-06T06:55:24.094Z",
+  "updated": "2026-07-06T07:00:55.150Z",
   "guild": {
     "name": "YuChaYuan",
     "prefix": "YCY",
@@ -1185,7 +1185,7 @@
       "baselineTna": null,
       "baselineTs": null,
       "gained": 0,
-      "lastSeen": "2026-07-06T06:55:24.094Z",
+      "lastSeen": "2026-07-06T07:00:55.150Z",
       "lastRaid": null,
       "byDay": {}
     },
@@ -2393,7 +2393,7 @@
       "baselineTna": 40,
       "baselineTs": "2026-06-06T18:47:42.183Z",
       "gained": 3,
-      "lastSeen": "2026-07-06T06:55:24.094Z",
+      "lastSeen": "2026-07-06T07:00:55.150Z",
       "lastRaid": "2026-06-30T16:20:31.333Z",
       "byDay": {
         "2026-06-06": 40,
@@ -2687,6 +2687,25 @@
       "lastRaid": null,
       "byDay": {}
     },
+    "dfbc56d3-db00-442a-9433-0644b4bc9e14": {
+      "username": "kenlin1111",
+      "rank": "recruit",
+      "online": true,
+      "server": "AS4",
+      "tna": 8,
+      "baselineTna": 4,
+      "baselineTs": "2026-07-02T10:50:32.800Z",
+      "gained": 4,
+      "lastSeen": "2026-07-06T07:00:55.150Z",
+      "lastRaid": "2026-07-05T17:50:27.502Z",
+      "byDay": {
+        "2026-07-02": 5,
+        "2026-07-03": 6,
+        "2026-07-04": 7,
+        "2026-07-05": 8,
+        "2026-07-06": 8
+      }
+    },
     "86ae2e2d-bcab-4373-9ede-6819ce1e206e": {
       "username": "blueblue1012",
       "rank": "recruit",
@@ -2730,25 +2749,6 @@
         "2026-07-04": 21,
         "2026-07-05": 21,
         "2026-07-06": 21
-      }
-    },
-    "dfbc56d3-db00-442a-9433-0644b4bc9e14": {
-      "username": "kenlin1111",
-      "rank": "recruit",
-      "online": true,
-      "server": "AS4",
-      "tna": 8,
-      "baselineTna": 4,
-      "baselineTs": "2026-07-02T10:50:32.800Z",
-      "gained": 4,
-      "lastSeen": "2026-07-06T06:55:24.094Z",
-      "lastRaid": "2026-07-05T17:50:27.502Z",
-      "byDay": {
-        "2026-07-02": 5,
-        "2026-07-03": 6,
-        "2026-07-04": 7,
-        "2026-07-05": 8,
-        "2026-07-06": 8
       }
     },
     "1882f0bf-dda7-4d95-b8fc-fc4865ca0711": {
@@ -3211,12 +3211,12 @@
       "username": "Weizil",
       "rank": "recruit",
       "online": true,
-      "server": "NA32",
+      "server": "AS2",
       "tna": null,
       "baselineTna": null,
       "baselineTs": null,
       "gained": 0,
-      "lastSeen": "2026-07-06T06:55:24.094Z",
+      "lastSeen": "2026-07-06T07:00:55.150Z",
       "lastRaid": null,
       "byDay": {}
     },
