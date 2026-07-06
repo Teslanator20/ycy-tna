@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-06T10:10:40.490Z",
+  "updated": "2026-07-06T10:15:31.172Z",
   "guild": {
     "name": "YuChaYuan",
     "prefix": "YCY",
@@ -7,7 +7,7 @@
     "raidShort": "TNA",
     "color": "#2ca089"
   },
-  "online": 7,
+  "online": 5,
   "memberCount": 97,
   "members": {
     "01ca79a1-7805-4458-b52d-cfb7f809a808": {
@@ -1045,12 +1045,12 @@
       "username": "5411",
       "rank": "recruiter",
       "online": true,
-      "server": "NA11",
+      "server": "EU23",
       "tna": 98,
       "baselineTna": 14,
       "baselineTs": "2026-06-06T18:47:42.183Z",
       "gained": 84,
-      "lastSeen": "2026-07-06T10:10:40.490Z",
+      "lastSeen": "2026-07-06T10:15:31.172Z",
       "lastRaid": "2026-07-05T12:00:56.515Z",
       "byDay": {
         "2026-06-06": 14,
@@ -1185,7 +1185,7 @@
       "baselineTna": null,
       "baselineTs": null,
       "gained": 0,
-      "lastSeen": "2026-07-06T10:10:40.490Z",
+      "lastSeen": "2026-07-06T10:15:31.172Z",
       "lastRaid": null,
       "byDay": {}
     },
@@ -2227,7 +2227,7 @@
       "baselineTna": 2,
       "baselineTs": "2026-06-27T10:50:27.301Z",
       "gained": 8,
-      "lastSeen": "2026-07-06T10:10:40.490Z",
+      "lastSeen": "2026-07-06T10:15:31.172Z",
       "lastRaid": "2026-07-05T19:25:21.938Z",
       "byDay": {
         "2026-06-27": 2,
@@ -2393,7 +2393,7 @@
       "baselineTna": 40,
       "baselineTs": "2026-06-06T18:47:42.183Z",
       "gained": 3,
-      "lastSeen": "2026-07-06T10:10:40.490Z",
+      "lastSeen": "2026-07-06T10:15:31.172Z",
       "lastRaid": "2026-06-30T16:20:31.333Z",
       "byDay": {
         "2026-06-06": 40,
@@ -2574,8 +2574,8 @@
     "dfbc56d3-db00-442a-9433-0644b4bc9e14": {
       "username": "kenlin1111",
       "rank": "recruit",
-      "online": true,
-      "server": "NA1",
+      "online": false,
+      "server": null,
       "tna": 8,
       "baselineTna": 4,
       "baselineTs": "2026-07-02T10:50:32.800Z",
@@ -3120,8 +3120,8 @@
     "ca475f71-8fb5-408f-aa69-0667a7c98ecf": {
       "username": "DENISDKT",
       "rank": "recruit",
-      "online": true,
-      "server": "NA1",
+      "online": false,
+      "server": null,
       "tna": 21,
       "baselineTna": 19,
       "baselineTs": "2026-06-06T18:47:42.183Z",
@@ -3216,7 +3216,7 @@
       "baselineTna": null,
       "baselineTs": null,
       "gained": 0,
-      "lastSeen": "2026-07-06T10:10:40.490Z",
+      "lastSeen": "2026-07-06T10:15:31.172Z",
       "lastRaid": null,
       "byDay": {}
     },
