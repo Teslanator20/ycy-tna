@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-11T16:25:24.736Z",
+  "updated": "2026-07-11T16:31:00.352Z",
   "guild": {
     "name": "YuChaYuan",
     "prefix": "YCY",
@@ -1150,7 +1150,7 @@
       "baselineTna": 14,
       "baselineTs": "2026-06-06T18:47:42.183Z",
       "gained": 84,
-      "lastSeen": "2026-07-11T16:25:24.736Z",
+      "lastSeen": "2026-07-11T16:31:00.352Z",
       "lastRaid": "2026-07-05T12:00:56.515Z",
       "byDay": {
         "2026-06-06": 14,
@@ -1200,7 +1200,7 @@
       "baselineTna": 256,
       "baselineTs": "2026-06-06T18:47:42.183Z",
       "gained": 24,
-      "lastSeen": "2026-07-11T16:25:24.736Z",
+      "lastSeen": "2026-07-11T16:31:00.352Z",
       "lastRaid": "2026-07-10T16:01:07.238Z",
       "byDay": {
         "2026-06-06": 256,
@@ -1300,7 +1300,7 @@
       "baselineTna": null,
       "baselineTs": null,
       "gained": 0,
-      "lastSeen": "2026-07-11T16:25:24.736Z",
+      "lastSeen": "2026-07-11T16:31:00.352Z",
       "lastRaid": null,
       "byDay": {}
     },
@@ -3431,12 +3431,12 @@
       "username": "DENISDKT",
       "rank": "recruit",
       "online": true,
-      "server": "EU30",
+      "server": "NA1",
       "tna": 21,
       "baselineTna": 19,
       "baselineTs": "2026-06-06T18:47:42.183Z",
       "gained": 2,
-      "lastSeen": "2026-07-11T16:25:24.736Z",
+      "lastSeen": "2026-07-11T16:31:00.352Z",
       "lastRaid": "2026-06-29T13:10:32.139Z",
       "byDay": {
         "2026-06-06": 19,
