@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-15T18:55:27.944Z",
+  "updated": "2026-07-15T19:01:12.803Z",
   "guild": {
     "name": "YuChaYuan",
     "prefix": "YCY",
@@ -3500,6 +3500,19 @@
         "2026-07-15": 24
       }
     },
+    "1348fbe5-d7c9-48ec-b364-a29c732b10bc": {
+      "username": "DianDian1115",
+      "rank": "recruit",
+      "online": true,
+      "server": "EU2",
+      "tna": null,
+      "baselineTna": null,
+      "baselineTs": null,
+      "gained": 0,
+      "lastSeen": "2026-07-15T19:01:12.803Z",
+      "lastRaid": null,
+      "byDay": {}
+    },
     "19e9fdb1-0753-4195-ade2-9887c21d277c": {
       "username": "PuddingNeko_OxO",
       "rank": "recruit",
@@ -3553,19 +3566,6 @@
         "2026-07-14": 9,
         "2026-07-15": 9
       }
-    },
-    "1348fbe5-d7c9-48ec-b364-a29c732b10bc": {
-      "username": "DianDian1115",
-      "rank": "recruit",
-      "online": true,
-      "server": "EU2",
-      "tna": null,
-      "baselineTna": null,
-      "baselineTs": null,
-      "gained": 0,
-      "lastSeen": "2026-07-15T18:55:27.944Z",
-      "lastRaid": null,
-      "byDay": {}
     },
     "dc89c75d-1803-4076-8b6a-f8c42559f78a": {
       "username": "8gus",
