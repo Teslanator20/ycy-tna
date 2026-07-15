@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-15T18:35:28.257Z",
+  "updated": "2026-07-15T18:40:54.073Z",
   "guild": {
     "name": "YuChaYuan",
     "prefix": "YCY",
@@ -3571,12 +3571,12 @@
       "username": "DianDian1115",
       "rank": "recruit",
       "online": true,
-      "server": "EU11",
+      "server": "EU2",
       "tna": null,
       "baselineTna": null,
       "baselineTs": null,
       "gained": 0,
-      "lastSeen": "2026-07-15T18:35:28.257Z",
+      "lastSeen": "2026-07-15T18:40:54.073Z",
       "lastRaid": null,
       "byDay": {}
     },
