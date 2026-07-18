@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-18T05:20:34.597Z",
+  "updated": "2026-07-18T05:25:27.946Z",
   "guild": {
     "name": "YuChaYuan",
     "prefix": "YCY",
@@ -7,7 +7,7 @@
     "raidShort": "TNA",
     "color": "#2ca089"
   },
-  "online": 2,
+  "online": 4,
   "memberCount": 97,
   "members": {
     "01ca79a1-7805-4458-b52d-cfb7f809a808": {
@@ -795,7 +795,7 @@
       "baselineTna": 6,
       "baselineTs": "2026-06-06T18:47:42.183Z",
       "gained": 22,
-      "lastSeen": "2026-07-18T05:20:34.597Z",
+      "lastSeen": "2026-07-18T05:25:27.946Z",
       "lastRaid": "2026-07-04T11:50:38.316Z",
       "byDay": {
         "2026-06-06": 6,
@@ -1404,7 +1404,7 @@
       "baselineTna": null,
       "baselineTs": null,
       "gained": 0,
-      "lastSeen": "2026-07-18T05:20:34.597Z",
+      "lastSeen": "2026-07-18T05:25:27.946Z",
       "lastRaid": null,
       "byDay": {}
     },
@@ -1575,13 +1575,13 @@
     "9984b190-a88e-492c-8831-fcf2699b98f4": {
       "username": "FireMan9534",
       "rank": "recruiter",
-      "online": false,
-      "server": null,
+      "online": true,
+      "server": "AS13",
       "tna": 361,
       "baselineTna": 360,
       "baselineTs": "2026-06-06T18:47:42.183Z",
       "gained": 1,
-      "lastSeen": "2026-07-17T10:15:32.619Z",
+      "lastSeen": "2026-07-18T05:25:27.946Z",
       "lastRaid": "2026-06-19T13:50:35.315Z",
       "byDay": {
         "2026-06-06": 360,
@@ -1816,13 +1816,13 @@
     "e8ca4f14-ffab-4d39-9fbc-913ce8b1459c": {
       "username": "uwubear_3y",
       "rank": "recruiter",
-      "online": false,
-      "server": null,
+      "online": true,
+      "server": "AS13",
       "tna": 20,
       "baselineTna": 14,
       "baselineTs": "2026-06-06T18:47:42.183Z",
       "gained": 6,
-      "lastSeen": "2026-07-18T04:05:29.654Z",
+      "lastSeen": "2026-07-18T05:25:27.946Z",
       "lastRaid": "2026-06-12T06:55:21.000Z",
       "byDay": {
         "2026-06-06": 14,
