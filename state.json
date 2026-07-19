@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-19T03:55:28.032Z",
+  "updated": "2026-07-19T04:00:51.552Z",
   "guild": {
     "name": "YuChaYuan",
     "prefix": "YCY",
@@ -7,7 +7,7 @@
     "raidShort": "TNA",
     "color": "#2ca089"
   },
-  "online": 2,
+  "online": 3,
   "memberCount": 97,
   "members": {
     "01ca79a1-7805-4458-b52d-cfb7f809a808": {
@@ -71,13 +71,13 @@
     "4791eb57-3607-4647-8d4f-59aaa879c5a4": {
       "username": "0110jimmy",
       "rank": "chief",
-      "online": false,
-      "server": null,
+      "online": true,
+      "server": "AS22",
       "tna": 1502,
       "baselineTna": 1502,
       "baselineTs": "2026-06-06T18:47:42.183Z",
       "gained": 0,
-      "lastSeen": "2026-07-19T01:10:31.638Z",
+      "lastSeen": "2026-07-19T04:00:51.552Z",
       "lastRaid": null,
       "byDay": {
         "2026-06-06": 1502,
@@ -1310,7 +1310,7 @@
       "baselineTna": 256,
       "baselineTs": "2026-06-06T18:47:42.183Z",
       "gained": 26,
-      "lastSeen": "2026-07-19T03:55:28.032Z",
+      "lastSeen": "2026-07-19T04:00:51.552Z",
       "lastRaid": "2026-07-14T16:10:55.553Z",
       "byDay": {
         "2026-06-06": 256,
@@ -3682,12 +3682,12 @@
       "username": "DianDian1115",
       "rank": "recruit",
       "online": true,
-      "server": "AS22",
+      "server": "NA42",
       "tna": null,
       "baselineTna": null,
       "baselineTs": null,
       "gained": 0,
-      "lastSeen": "2026-07-19T03:55:28.032Z",
+      "lastSeen": "2026-07-19T04:00:51.552Z",
       "lastRaid": null,
       "byDay": {}
     },
