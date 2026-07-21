@@ -1,24 +1,6 @@
 {
   "runs": [
     {
-      "ts": "2026-06-21T07:50:31.019Z",
-      "server": "NA1",
-      "confirmed": true,
-      "crowded": false,
-      "players": [
-        {
-          "uuid": "e2b6e8e4-0265-44c6-8892-a63733adc7fa",
-          "username": "YoyoBreaker",
-          "delta": 1
-        },
-        {
-          "uuid": "fa40c035-1309-43f0-bbec-2423a4044650",
-          "username": "dyLLLLan",
-          "delta": 1
-        }
-      ]
-    },
-    {
       "ts": "2026-07-03T18:10:37.347Z",
       "server": "NA4",
       "confirmed": true,
@@ -37,5 +19,5 @@
       ]
     }
   ],
-  "updated": "2026-07-21T07:45:34.588Z"
+  "updated": "2026-07-21T07:50:35.261Z"
 }
