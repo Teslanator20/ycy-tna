@@ -1129,10 +1129,10 @@
     "e4a23668-57d7-4f17-b58f-4a0fd17870ec|e8ca4f14-ffab-4d39-9fbc-913ce8b1459c": {
       "a": "e4a23668-57d7-4f17-b58f-4a0fd17870ec",
       "b": "e8ca4f14-ffab-4d39-9fbc-913ce8b1459c",
-      "samples": 1,
+      "samples": 2,
       "usernameA": "woody123_is_god",
       "usernameB": "uwubear_3y",
-      "lastTs": "2026-07-06T08:35:27.270Z"
+      "lastTs": "2026-07-21T11:50:33.654Z"
     },
     "ca475f71-8fb5-408f-aa69-0667a7c98ecf|d12455ec-9194-492d-8e6e-6794b678e8f4": {
       "a": "ca475f71-8fb5-408f-aa69-0667a7c98ecf",
@@ -1271,5 +1271,5 @@
       "lastTs": "2026-07-20T16:10:41.018Z"
     }
   },
-  "updated": "2026-07-21T11:45:33.225Z"
+  "updated": "2026-07-21T11:50:33.654Z"
 }
