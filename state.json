@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-21T14:20:35.644Z",
+  "updated": "2026-07-21T14:25:35.305Z",
   "guild": {
     "name": "YuChaYuan",
     "prefix": "YCY",
@@ -7,7 +7,7 @@
     "raidShort": "TNA",
     "color": "#2ca089"
   },
-  "online": 3,
+  "online": 2,
   "memberCount": 97,
   "members": {
     "01ca79a1-7805-4458-b52d-cfb7f809a808": {
@@ -825,8 +825,8 @@
     "26c4a541-d892-453b-8684-01e76be804d3": {
       "username": "Charlotte_Cute",
       "rank": "captain",
-      "online": true,
-      "server": "AS14",
+      "online": false,
+      "server": null,
       "tna": 30,
       "baselineTna": 6,
       "baselineTs": "2026-06-06T18:47:42.183Z",
@@ -1470,7 +1470,7 @@
       "baselineTna": null,
       "baselineTs": null,
       "gained": 0,
-      "lastSeen": "2026-07-21T14:20:35.644Z",
+      "lastSeen": "2026-07-21T14:25:35.305Z",
       "lastRaid": null,
       "byDay": {}
     },
@@ -3803,7 +3803,7 @@
       "baselineTna": null,
       "baselineTs": null,
       "gained": 0,
-      "lastSeen": "2026-07-21T14:20:35.644Z",
+      "lastSeen": "2026-07-21T14:25:35.305Z",
       "lastRaid": null,
       "byDay": {}
     },
