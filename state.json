@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-24T02:10:34.242Z",
+  "updated": "2026-07-24T02:15:33.573Z",
   "guild": {
     "name": "YuChaYuan",
     "prefix": "YCY",
@@ -1726,12 +1726,12 @@
       "username": "FireMan9534",
       "rank": "recruiter",
       "online": true,
-      "server": "AS7",
+      "server": "NA12",
       "tna": 364,
       "baselineTna": 360,
       "baselineTs": "2026-06-06T18:47:42.183Z",
       "gained": 4,
-      "lastSeen": "2026-07-24T02:10:34.242Z",
+      "lastSeen": "2026-07-24T02:15:33.573Z",
       "lastRaid": "2026-07-20T06:15:33.629Z",
       "byDay": {
         "2026-06-06": 360,
