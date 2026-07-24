@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-24T13:35:30.643Z",
+  "updated": "2026-07-24T13:40:33.852Z",
   "guild": {
     "name": "YuChaYuan",
     "prefix": "YCY",
@@ -1469,13 +1469,15 @@
       "rank": "recruiter",
       "online": false,
       "server": null,
-      "tna": null,
-      "baselineTna": null,
-      "baselineTs": null,
+      "tna": 4,
+      "baselineTna": 4,
+      "baselineTs": "2026-07-24T13:40:33.852Z",
       "gained": 0,
       "lastSeen": "2026-07-24T13:25:26.898Z",
       "lastRaid": null,
-      "byDay": {}
+      "byDay": {
+        "2026-07-24": 4
+      }
     },
     "b9c2e93b-7902-4b2a-af5b-e743f514a073": {
       "username": "Robbie04",
