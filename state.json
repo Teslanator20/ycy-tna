@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-26T04:50:32.213Z",
+  "updated": "2026-07-26T04:55:27.279Z",
   "guild": {
     "name": "YuChaYuan",
     "prefix": "YCY",
@@ -3705,6 +3705,19 @@
         "2026-07-26": 1
       }
     },
+    "c84b0d2c-92a5-4561-84ae-418e75360d44": {
+      "username": "Allan0331",
+      "rank": "recruit",
+      "online": true,
+      "server": "AS15",
+      "tna": null,
+      "baselineTna": null,
+      "baselineTs": null,
+      "gained": 0,
+      "lastSeen": "2026-07-26T04:55:27.279Z",
+      "lastRaid": null,
+      "byDay": {}
+    },
     "6f4f9f1b-e1a9-48ca-8bd1-5e46fb688fef": {
       "username": "ChocoCookies_322",
       "rank": "recruit",
@@ -3769,19 +3782,6 @@
         "2026-07-25": 1,
         "2026-07-26": 1
       }
-    },
-    "c84b0d2c-92a5-4561-84ae-418e75360d44": {
-      "username": "Allan0331",
-      "rank": "recruit",
-      "online": true,
-      "server": "AS15",
-      "tna": null,
-      "baselineTna": null,
-      "baselineTs": null,
-      "gained": 0,
-      "lastSeen": "2026-07-26T04:50:32.213Z",
-      "lastRaid": null,
-      "byDay": {}
     },
     "b223c20c-1615-45fe-85cd-4e85a782b161": {
       "username": "Hectoooooor",
