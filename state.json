@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-26T02:10:30.640Z",
+  "updated": "2026-07-26T02:15:30.928Z",
   "guild": {
     "name": "YuChaYuan",
     "prefix": "YCY",
@@ -84,7 +84,7 @@
       "baselineTna": 1502,
       "baselineTs": "2026-06-06T18:47:42.183Z",
       "gained": 0,
-      "lastSeen": "2026-07-26T02:10:30.640Z",
+      "lastSeen": "2026-07-26T02:15:30.928Z",
       "lastRaid": null,
       "byDay": {
         "2026-06-06": 1502,
@@ -3828,6 +3828,19 @@
         "2026-07-26": 19
       }
     },
+    "c84b0d2c-92a5-4561-84ae-418e75360d44": {
+      "username": "Allan0331",
+      "rank": "recruit",
+      "online": true,
+      "server": "EU25",
+      "tna": null,
+      "baselineTna": null,
+      "baselineTs": null,
+      "gained": 0,
+      "lastSeen": "2026-07-26T02:15:30.928Z",
+      "lastRaid": null,
+      "byDay": {}
+    },
     "9c6cd580-1a8d-4465-a647-645f86c148fe": {
       "username": "Bobo_Kia",
       "rank": "recruit",
@@ -3892,19 +3905,6 @@
         "2026-07-25": 4,
         "2026-07-26": 4
       }
-    },
-    "c84b0d2c-92a5-4561-84ae-418e75360d44": {
-      "username": "Allan0331",
-      "rank": "recruit",
-      "online": true,
-      "server": "EU25",
-      "tna": null,
-      "baselineTna": null,
-      "baselineTs": null,
-      "gained": 0,
-      "lastSeen": "2026-07-26T02:10:30.640Z",
-      "lastRaid": null,
-      "byDay": {}
     },
     "2b4be507-abf6-4172-99d9-29e88ff231b0": {
       "username": "ANTONY_71",
