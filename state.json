@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-26T01:45:30.870Z",
+  "updated": "2026-07-26T01:50:33.752Z",
   "guild": {
     "name": "YuChaYuan",
     "prefix": "YCY",
@@ -7,7 +7,7 @@
     "raidShort": "TNA",
     "color": "#2ca089"
   },
-  "online": 1,
+  "online": 2,
   "memberCount": 94,
   "members": {
     "01ca79a1-7805-4458-b52d-cfb7f809a808": {
@@ -78,13 +78,13 @@
     "4791eb57-3607-4647-8d4f-59aaa879c5a4": {
       "username": "0110jimmy",
       "rank": "chief",
-      "online": false,
-      "server": null,
+      "online": true,
+      "server": "AS17",
       "tna": 1502,
       "baselineTna": 1502,
       "baselineTs": "2026-06-06T18:47:42.183Z",
       "gained": 0,
-      "lastSeen": "2026-07-26T01:35:25.153Z",
+      "lastSeen": "2026-07-26T01:50:33.752Z",
       "lastRaid": null,
       "byDay": {
         "2026-06-06": 1502,
@@ -4023,6 +4023,19 @@
         "2026-07-26": 9
       }
     },
+    "c84b0d2c-92a5-4561-84ae-418e75360d44": {
+      "username": "Allan0331",
+      "rank": "recruit",
+      "online": true,
+      "server": "EU25",
+      "tna": null,
+      "baselineTna": null,
+      "baselineTs": null,
+      "gained": 0,
+      "lastSeen": "2026-07-26T01:50:33.752Z",
+      "lastRaid": null,
+      "byDay": {}
+    },
     "dc89c75d-1803-4076-8b6a-f8c42559f78a": {
       "username": "8gus",
       "rank": "recruit",
@@ -4033,19 +4046,6 @@
       "baselineTs": null,
       "gained": 0,
       "lastSeen": null,
-      "lastRaid": null,
-      "byDay": {}
-    },
-    "c84b0d2c-92a5-4561-84ae-418e75360d44": {
-      "username": "Allan0331",
-      "rank": "recruit",
-      "online": true,
-      "server": "EU25",
-      "tna": null,
-      "baselineTna": null,
-      "baselineTs": null,
-      "gained": 0,
-      "lastSeen": "2026-07-26T01:45:30.870Z",
       "lastRaid": null,
       "byDay": {}
     },
