@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-27T09:05:30.655Z",
+  "updated": "2026-07-27T09:10:32.688Z",
   "guild": {
     "name": "YuChaYuan",
     "prefix": "YCY",
@@ -3643,12 +3643,12 @@
       "username": "NeVerL0sEs",
       "rank": "recruit",
       "online": true,
-      "server": "NA4",
+      "server": "AS1",
       "tna": 88,
       "baselineTna": 88,
       "baselineTs": "2026-06-06T18:47:42.183Z",
       "gained": 0,
-      "lastSeen": "2026-07-27T09:05:30.655Z",
+      "lastSeen": "2026-07-27T09:10:32.688Z",
       "lastRaid": null,
       "byDay": {
         "2026-06-06": 88,
