@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-28T12:10:40.797Z",
+  "updated": "2026-07-28T12:15:43.730Z",
   "guild": {
     "name": "YuChaYuan",
     "prefix": "YCY",
@@ -7,7 +7,7 @@
     "raidShort": "TNA",
     "color": "#2ca089"
   },
-  "online": 2,
+  "online": 1,
   "memberCount": 93,
   "members": {
     "01ca79a1-7805-4458-b52d-cfb7f809a808": {
@@ -1764,8 +1764,8 @@
     "9984b190-a88e-492c-8831-fcf2699b98f4": {
       "username": "FireMan9534",
       "rank": "recruiter",
-      "online": true,
-      "server": "NA14",
+      "online": false,
+      "server": null,
       "tna": 368,
       "baselineTna": 360,
       "baselineTs": "2026-06-06T18:47:42.183Z",
@@ -3686,7 +3686,7 @@
       "baselineTna": 88,
       "baselineTs": "2026-06-06T18:47:42.183Z",
       "gained": 0,
-      "lastSeen": "2026-07-28T12:10:40.797Z",
+      "lastSeen": "2026-07-28T12:15:43.730Z",
       "lastRaid": null,
       "byDay": {
         "2026-06-06": 88,
