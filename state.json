@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-28T10:05:36.420Z",
+  "updated": "2026-07-28T10:10:39.465Z",
   "guild": {
     "name": "YuChaYuan",
     "prefix": "YCY",
@@ -7,7 +7,7 @@
     "raidShort": "TNA",
     "color": "#2ca089"
   },
-  "online": 2,
+  "online": 3,
   "memberCount": 93,
   "members": {
     "01ca79a1-7805-4458-b52d-cfb7f809a808": {
@@ -1423,7 +1423,7 @@
       "baselineTna": 256,
       "baselineTs": "2026-06-06T18:47:42.183Z",
       "gained": 26,
-      "lastSeen": "2026-07-28T10:05:36.420Z",
+      "lastSeen": "2026-07-28T10:10:39.465Z",
       "lastRaid": "2026-07-14T16:10:55.553Z",
       "byDay": {
         "2026-06-06": 256,
@@ -1770,7 +1770,7 @@
       "baselineTna": 360,
       "baselineTs": "2026-06-06T18:47:42.183Z",
       "gained": 7,
-      "lastSeen": "2026-07-28T10:05:36.420Z",
+      "lastSeen": "2026-07-28T10:10:39.465Z",
       "lastRaid": "2026-07-25T11:00:41.920Z",
       "byDay": {
         "2026-06-06": 360,
@@ -3680,13 +3680,13 @@
     "1882f0bf-dda7-4d95-b8fc-fc4865ca0711": {
       "username": "NeVerL0sEs",
       "rank": "recruit",
-      "online": false,
-      "server": null,
+      "online": true,
+      "server": "AS22",
       "tna": 88,
       "baselineTna": 88,
       "baselineTs": "2026-06-06T18:47:42.183Z",
       "gained": 0,
-      "lastSeen": "2026-07-28T10:02:03.678Z",
+      "lastSeen": "2026-07-28T10:10:39.465Z",
       "lastRaid": null,
       "byDay": {
         "2026-06-06": 88,
