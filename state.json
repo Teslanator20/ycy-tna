@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-01T11:15:39.336Z",
+  "updated": "2026-08-01T11:25:26.980Z",
   "guild": {
     "name": "YuChaYuan",
     "prefix": "YCY",
@@ -7,7 +7,7 @@
     "raidShort": "TNA",
     "color": "#2ca089"
   },
-  "online": 3,
+  "online": 2,
   "memberCount": 94,
   "members": {
     "01ca79a1-7805-4458-b52d-cfb7f809a808": {
@@ -1493,8 +1493,8 @@
     "5e04e4ff-d051-4125-983b-d42b214dac80": {
       "username": "Reisen_U_Inaba",
       "rank": "recruiter",
-      "online": true,
-      "server": "AS11",
+      "online": false,
+      "server": null,
       "tna": 291,
       "baselineTna": 256,
       "baselineTs": "2026-06-06T18:47:42.183Z",
@@ -3629,6 +3629,21 @@
       "lastRaid": null,
       "byDay": {}
     },
+    "de06ed1c-0480-42ee-8a10-9d400bb61467": {
+      "username": "9tao_",
+      "rank": "recruit",
+      "online": true,
+      "server": "AS11",
+      "tna": 1,
+      "baselineTna": 1,
+      "baselineTs": "2026-08-01T06:25:28.907Z",
+      "gained": 0,
+      "lastSeen": "2026-08-01T11:25:26.980Z",
+      "lastRaid": null,
+      "byDay": {
+        "2026-08-01": 1
+      }
+    },
     "c1c7d2de-e109-48bc-80e1-1a84e7083762": {
       "username": "AlwaysNegative",
       "rank": "recruit",
@@ -3641,21 +3656,6 @@
       "lastSeen": "2026-07-05T12:55:24.165Z",
       "lastRaid": null,
       "byDay": {}
-    },
-    "de06ed1c-0480-42ee-8a10-9d400bb61467": {
-      "username": "9tao_",
-      "rank": "recruit",
-      "online": true,
-      "server": "AS11",
-      "tna": 1,
-      "baselineTna": 1,
-      "baselineTs": "2026-08-01T06:25:28.907Z",
-      "gained": 0,
-      "lastSeen": "2026-08-01T11:15:39.336Z",
-      "lastRaid": null,
-      "byDay": {
-        "2026-08-01": 1
-      }
     },
     "79359c82-0422-43d0-9e83-82df10d7dccb": {
       "username": "Suichankawaaiii",
@@ -3905,7 +3905,7 @@
       "baselineTna": 88,
       "baselineTs": "2026-06-06T18:47:42.183Z",
       "gained": 0,
-      "lastSeen": "2026-08-01T11:15:39.336Z",
+      "lastSeen": "2026-08-01T11:25:26.980Z",
       "lastRaid": null,
       "byDay": {
         "2026-06-06": 88,
