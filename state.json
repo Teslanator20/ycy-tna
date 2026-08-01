@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-01T07:35:32.520Z",
+  "updated": "2026-08-01T07:40:34.586Z",
   "guild": {
     "name": "YuChaYuan",
     "prefix": "YCY",
@@ -1499,7 +1499,7 @@
       "baselineTna": 256,
       "baselineTs": "2026-06-06T18:47:42.183Z",
       "gained": 35,
-      "lastSeen": "2026-08-01T07:35:32.520Z",
+      "lastSeen": "2026-08-01T07:40:34.586Z",
       "lastRaid": "2026-07-30T15:20:42.082Z",
       "byDay": {
         "2026-06-06": 256,
@@ -1641,7 +1641,7 @@
       "baselineTna": 4,
       "baselineTs": "2026-07-24T13:40:33.852Z",
       "gained": 10,
-      "lastSeen": "2026-08-01T07:35:32.520Z",
+      "lastSeen": "2026-08-01T07:40:34.586Z",
       "lastRaid": "2026-07-30T15:45:34.637Z",
       "byDay": {
         "2026-07-24": 4,
@@ -3890,7 +3890,7 @@
       "baselineTna": 88,
       "baselineTs": "2026-06-06T18:47:42.183Z",
       "gained": 0,
-      "lastSeen": "2026-08-01T07:35:32.520Z",
+      "lastSeen": "2026-08-01T07:40:34.586Z",
       "lastRaid": null,
       "byDay": {
         "2026-06-06": 88,
@@ -4023,6 +4023,21 @@
         "2026-08-01": 1
       }
     },
+    "de06ed1c-0480-42ee-8a10-9d400bb61467": {
+      "username": "9tao_",
+      "rank": "recruit",
+      "online": true,
+      "server": "AS18",
+      "tna": 1,
+      "baselineTna": 1,
+      "baselineTs": "2026-08-01T06:25:28.907Z",
+      "gained": 0,
+      "lastSeen": "2026-08-01T07:40:34.586Z",
+      "lastRaid": null,
+      "byDay": {
+        "2026-08-01": 1
+      }
+    },
     "6f4f9f1b-e1a9-48ca-8bd1-5e46fb688fef": {
       "username": "ChocoCookies_322",
       "rank": "recruit",
@@ -4091,21 +4106,6 @@
         "2026-07-29": 1,
         "2026-07-30": 1,
         "2026-07-31": 1,
-        "2026-08-01": 1
-      }
-    },
-    "de06ed1c-0480-42ee-8a10-9d400bb61467": {
-      "username": "9tao_",
-      "rank": "recruit",
-      "online": true,
-      "server": "AS18",
-      "tna": 1,
-      "baselineTna": 1,
-      "baselineTs": "2026-08-01T06:25:28.907Z",
-      "gained": 0,
-      "lastSeen": "2026-08-01T07:35:32.520Z",
-      "lastRaid": null,
-      "byDay": {
         "2026-08-01": 1
       }
     },
