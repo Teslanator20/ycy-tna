@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-01T10:05:28.884Z",
+  "updated": "2026-08-01T10:10:32.091Z",
   "guild": {
     "name": "YuChaYuan",
     "prefix": "YCY",
@@ -90,7 +90,7 @@
       "baselineTna": 1502,
       "baselineTs": "2026-06-06T18:47:42.183Z",
       "gained": 0,
-      "lastSeen": "2026-08-01T10:05:28.884Z",
+      "lastSeen": "2026-08-01T10:10:32.091Z",
       "lastRaid": null,
       "byDay": {
         "2026-06-06": 1502,
@@ -3797,6 +3797,21 @@
       "lastRaid": null,
       "byDay": {}
     },
+    "de06ed1c-0480-42ee-8a10-9d400bb61467": {
+      "username": "9tao_",
+      "rank": "recruit",
+      "online": true,
+      "server": "AS11",
+      "tna": 1,
+      "baselineTna": 1,
+      "baselineTs": "2026-08-01T06:25:28.907Z",
+      "gained": 0,
+      "lastSeen": "2026-08-01T10:10:32.091Z",
+      "lastRaid": null,
+      "byDay": {
+        "2026-08-01": 1
+      }
+    },
     "ebb863f2-2289-4d86-9e91-a2c653e84168": {
       "username": "AWin517",
       "rank": "recruit",
@@ -3881,21 +3896,6 @@
         "2026-08-01": 21
       }
     },
-    "de06ed1c-0480-42ee-8a10-9d400bb61467": {
-      "username": "9tao_",
-      "rank": "recruit",
-      "online": true,
-      "server": "AS11",
-      "tna": 1,
-      "baselineTna": 1,
-      "baselineTs": "2026-08-01T06:25:28.907Z",
-      "gained": 0,
-      "lastSeen": "2026-08-01T10:05:28.884Z",
-      "lastRaid": null,
-      "byDay": {
-        "2026-08-01": 1
-      }
-    },
     "1882f0bf-dda7-4d95-b8fc-fc4865ca0711": {
       "username": "NeVerL0sEs",
       "rank": "recruit",
@@ -3905,7 +3905,7 @@
       "baselineTna": 88,
       "baselineTs": "2026-06-06T18:47:42.183Z",
       "gained": 0,
-      "lastSeen": "2026-08-01T10:05:28.884Z",
+      "lastSeen": "2026-08-01T10:10:32.091Z",
       "lastRaid": null,
       "byDay": {
         "2026-06-06": 88,
