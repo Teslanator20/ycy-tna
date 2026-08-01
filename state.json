@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-01T10:20:33.523Z",
+  "updated": "2026-08-01T10:25:28.372Z",
   "guild": {
     "name": "YuChaYuan",
     "prefix": "YCY",
@@ -7,7 +7,7 @@
     "raidShort": "TNA",
     "color": "#2ca089"
   },
-  "online": 3,
+  "online": 1,
   "memberCount": 94,
   "members": {
     "01ca79a1-7805-4458-b52d-cfb7f809a808": {
@@ -84,8 +84,8 @@
     "4791eb57-3607-4647-8d4f-59aaa879c5a4": {
       "username": "0110jimmy",
       "rank": "chief",
-      "online": true,
-      "server": "AS13",
+      "online": false,
+      "server": null,
       "tna": 1502,
       "baselineTna": 1502,
       "baselineTs": "2026-06-06T18:47:42.183Z",
@@ -3713,6 +3713,21 @@
         "2026-08-01": 61
       }
     },
+    "de06ed1c-0480-42ee-8a10-9d400bb61467": {
+      "username": "9tao_",
+      "rank": "recruit",
+      "online": true,
+      "server": "AS11",
+      "tna": 1,
+      "baselineTna": 1,
+      "baselineTs": "2026-08-01T06:25:28.907Z",
+      "gained": 0,
+      "lastSeen": "2026-08-01T10:25:28.372Z",
+      "lastRaid": null,
+      "byDay": {
+        "2026-08-01": 1
+      }
+    },
     "2e2fc10a-7dc1-4766-9147-a806b79df324": {
       "username": "_Xrrc",
       "rank": "recruit",
@@ -3796,21 +3811,6 @@
       "lastSeen": null,
       "lastRaid": null,
       "byDay": {}
-    },
-    "de06ed1c-0480-42ee-8a10-9d400bb61467": {
-      "username": "9tao_",
-      "rank": "recruit",
-      "online": true,
-      "server": "AS11",
-      "tna": 1,
-      "baselineTna": 1,
-      "baselineTs": "2026-08-01T06:25:28.907Z",
-      "gained": 0,
-      "lastSeen": "2026-08-01T10:20:33.523Z",
-      "lastRaid": null,
-      "byDay": {
-        "2026-08-01": 1
-      }
     },
     "ebb863f2-2289-4d86-9e91-a2c653e84168": {
       "username": "AWin517",
@@ -3899,8 +3899,8 @@
     "1882f0bf-dda7-4d95-b8fc-fc4865ca0711": {
       "username": "NeVerL0sEs",
       "rank": "recruit",
-      "online": true,
-      "server": "NA7",
+      "online": false,
+      "server": null,
       "tna": 88,
       "baselineTna": 88,
       "baselineTs": "2026-06-06T18:47:42.183Z",
