@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-05T10:50:37.346Z",
+  "updated": "2026-08-05T10:55:34.986Z",
   "guild": {
     "name": "YuChaYuan",
     "prefix": "YCY",
@@ -7,7 +7,7 @@
     "raidShort": "TNA",
     "color": "#2ca089"
   },
-  "online": 3,
+  "online": 4,
   "memberCount": 94,
   "members": {
     "01ca79a1-7805-4458-b52d-cfb7f809a808": {
@@ -1575,7 +1575,7 @@
       "baselineTna": 256,
       "baselineTs": "2026-06-06T18:47:42.183Z",
       "gained": 35,
-      "lastSeen": "2026-08-05T10:50:37.346Z",
+      "lastSeen": "2026-08-05T10:55:34.986Z",
       "lastRaid": "2026-07-30T15:20:42.082Z",
       "byDay": {
         "2026-06-06": 256,
@@ -1725,7 +1725,7 @@
       "baselineTna": 4,
       "baselineTs": "2026-07-24T13:40:33.852Z",
       "gained": 12,
-      "lastSeen": "2026-08-05T10:50:37.346Z",
+      "lastSeen": "2026-08-05T10:55:34.986Z",
       "lastRaid": "2026-08-05T08:00:54.120Z",
       "byDay": {
         "2026-07-24": 4,
@@ -2515,13 +2515,13 @@
     "60c7b35d-56ce-40a8-b90c-076f7b888d04": {
       "username": "SpaceMeowOWO",
       "rank": "recruiter",
-      "online": false,
-      "server": null,
+      "online": true,
+      "server": "AS12",
       "tna": 4,
       "baselineTna": 4,
       "baselineTs": "2026-06-06T18:47:42.183Z",
       "gained": 0,
-      "lastSeen": "2026-08-04T08:45:40.479Z",
+      "lastSeen": "2026-08-05T10:55:34.986Z",
       "lastRaid": null,
       "byDay": {
         "2026-06-06": 4,
@@ -4113,7 +4113,7 @@
       "baselineTna": 88,
       "baselineTs": "2026-06-06T18:47:42.183Z",
       "gained": 0,
-      "lastSeen": "2026-08-05T10:50:37.346Z",
+      "lastSeen": "2026-08-05T10:55:34.986Z",
       "lastRaid": null,
       "byDay": {
         "2026-06-06": 88,
