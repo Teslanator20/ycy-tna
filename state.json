@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-06T15:36:38.241Z",
+  "updated": "2026-08-06T15:44:02.041Z",
   "guild": {
     "name": "YuChaYuan",
     "prefix": "YCY",
@@ -1726,7 +1726,7 @@
       "baselineTna": 4,
       "baselineTs": "2026-07-24T13:40:33.852Z",
       "gained": 12,
-      "lastSeen": "2026-08-06T15:36:38.241Z",
+      "lastSeen": "2026-08-06T15:44:02.041Z",
       "lastRaid": "2026-08-05T08:00:54.120Z",
       "byDay": {
         "2026-07-24": 4,
@@ -2352,6 +2352,26 @@
         "2026-08-06": 58
       }
     },
+    "de06ed1c-0480-42ee-8a10-9d400bb61467": {
+      "username": "9tao_",
+      "rank": "recruiter",
+      "online": true,
+      "server": "AS7",
+      "tna": 1,
+      "baselineTna": 1,
+      "baselineTs": "2026-08-01T06:25:28.907Z",
+      "gained": 0,
+      "lastSeen": "2026-08-06T15:44:02.041Z",
+      "lastRaid": null,
+      "byDay": {
+        "2026-08-01": 1,
+        "2026-08-02": 1,
+        "2026-08-03": 1,
+        "2026-08-04": 1,
+        "2026-08-05": 1,
+        "2026-08-06": 1
+      }
+    },
     "a6f71271-e425-4158-930d-83aa8b6ae38e": {
       "username": "Ka_Coffee",
       "rank": "recruiter",
@@ -2524,7 +2544,7 @@
       "baselineTna": 4,
       "baselineTs": "2026-06-06T18:47:42.183Z",
       "gained": 0,
-      "lastSeen": "2026-08-06T15:36:38.241Z",
+      "lastSeen": "2026-08-06T15:44:02.041Z",
       "lastRaid": null,
       "byDay": {
         "2026-06-07": 4,
@@ -3142,26 +3162,6 @@
       "lastRaid": null,
       "byDay": {}
     },
-    "de06ed1c-0480-42ee-8a10-9d400bb61467": {
-      "username": "9tao_",
-      "rank": "recruit",
-      "online": true,
-      "server": "AS7",
-      "tna": 1,
-      "baselineTna": 1,
-      "baselineTs": "2026-08-01T06:25:28.907Z",
-      "gained": 0,
-      "lastSeen": "2026-08-06T15:36:38.241Z",
-      "lastRaid": null,
-      "byDay": {
-        "2026-08-01": 1,
-        "2026-08-02": 1,
-        "2026-08-03": 1,
-        "2026-08-04": 1,
-        "2026-08-05": 1,
-        "2026-08-06": 1
-      }
-    },
     "2d1fdceb-1310-43dd-96a4-681c20d3e1ed": {
       "username": "B1iznetsy",
       "rank": "recruit",
@@ -3321,7 +3321,7 @@
       "baselineTna": null,
       "baselineTs": null,
       "gained": 0,
-      "lastSeen": "2026-08-06T15:36:38.241Z",
+      "lastSeen": "2026-08-06T15:44:02.041Z",
       "lastRaid": null,
       "byDay": {}
     },
