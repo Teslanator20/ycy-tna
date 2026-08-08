@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-08T04:05:28.159Z",
+  "updated": "2026-08-08T04:10:35.469Z",
   "guild": {
     "name": "YuChaYuan",
     "prefix": "YCY",
@@ -1080,6 +1080,19 @@
         "2026-08-08": 17
       }
     },
+    "38bab5e1-b631-4528-aa34-2a89ff4ce2de": {
+      "username": "Rabbit_flower",
+      "rank": "captain",
+      "online": false,
+      "server": null,
+      "tna": null,
+      "baselineTna": null,
+      "baselineTs": null,
+      "gained": 0,
+      "lastSeen": null,
+      "lastRaid": null,
+      "byDay": {}
+    },
     "e877fdfd-1e0f-4667-8463-f580d5e67cd8": {
       "username": "meowmeow0510",
       "rank": "captain",
@@ -1154,19 +1167,6 @@
         "2026-08-07": 38,
         "2026-08-08": 38
       }
-    },
-    "38bab5e1-b631-4528-aa34-2a89ff4ce2de": {
-      "username": "Rabbit_flower",
-      "rank": "captain",
-      "online": false,
-      "server": null,
-      "tna": null,
-      "baselineTna": null,
-      "baselineTs": null,
-      "gained": 0,
-      "lastSeen": null,
-      "lastRaid": null,
-      "byDay": {}
     },
     "98b71318-132d-4fd5-98ad-33469386d4f3": {
       "username": "shinyo1357",
