@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-08T14:50:37.096Z",
+  "updated": "2026-08-08T14:53:33.408Z",
   "guild": {
     "name": "YuChaYuan",
     "prefix": "YCY",
@@ -4021,6 +4021,19 @@
         "2026-08-08": 117
       }
     },
+    "bc683b30-127f-4e63-a10c-7a4ce84a8397": {
+      "username": "P1srmLife",
+      "rank": "recruit",
+      "online": true,
+      "server": "AS13",
+      "tna": null,
+      "baselineTna": null,
+      "baselineTs": null,
+      "gained": 0,
+      "lastSeen": "2026-08-08T14:53:33.408Z",
+      "lastRaid": null,
+      "byDay": {}
+    },
     "35fed1f0-7819-454c-912f-6d3827ad4e83": {
       "username": "LegendxLove",
       "rank": "recruit",
@@ -4031,19 +4044,6 @@
       "baselineTs": null,
       "gained": 0,
       "lastSeen": null,
-      "lastRaid": null,
-      "byDay": {}
-    },
-    "bc683b30-127f-4e63-a10c-7a4ce84a8397": {
-      "username": "P1srmLife",
-      "rank": "recruit",
-      "online": true,
-      "server": "AS13",
-      "tna": null,
-      "baselineTna": null,
-      "baselineTs": null,
-      "gained": 0,
-      "lastSeen": "2026-08-08T14:50:37.096Z",
       "lastRaid": null,
       "byDay": {}
     },
@@ -4144,7 +4144,7 @@
       "baselineTna": 88,
       "baselineTs": "2026-06-06T18:47:42.183Z",
       "gained": 0,
-      "lastSeen": "2026-08-08T14:50:37.096Z",
+      "lastSeen": "2026-08-08T14:53:33.408Z",
       "lastRaid": null,
       "byDay": {
         "2026-06-09": 88,
