@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-09T08:10:33.170Z",
+  "updated": "2026-08-09T08:15:33.854Z",
   "guild": {
     "name": "YuChaYuan",
     "prefix": "YCY",
@@ -1006,6 +1006,19 @@
         "2026-08-09": 55
       }
     },
+    "38bab5e1-b631-4528-aa34-2a89ff4ce2de": {
+      "username": "Rabbit_flower",
+      "rank": "captain",
+      "online": false,
+      "server": null,
+      "tna": null,
+      "baselineTna": null,
+      "baselineTs": null,
+      "gained": 0,
+      "lastSeen": null,
+      "lastRaid": null,
+      "byDay": {}
+    },
     "83c577d7-eb13-40b8-ac6c-8c5f113c5485": {
       "username": "EliteEG",
       "rank": "captain",
@@ -1080,19 +1093,6 @@
         "2026-08-08": 17,
         "2026-08-09": 17
       }
-    },
-    "38bab5e1-b631-4528-aa34-2a89ff4ce2de": {
-      "username": "Rabbit_flower",
-      "rank": "captain",
-      "online": false,
-      "server": null,
-      "tna": null,
-      "baselineTna": null,
-      "baselineTs": null,
-      "gained": 0,
-      "lastSeen": null,
-      "lastRaid": null,
-      "byDay": {}
     },
     "e877fdfd-1e0f-4667-8463-f580d5e67cd8": {
       "username": "meowmeow0510",
@@ -1579,7 +1579,7 @@
       "baselineTna": 256,
       "baselineTs": "2026-06-06T18:47:42.183Z",
       "gained": 35,
-      "lastSeen": "2026-08-09T08:10:33.170Z",
+      "lastSeen": "2026-08-09T08:15:33.854Z",
       "lastRaid": "2026-07-30T15:20:42.082Z",
       "byDay": {
         "2026-06-10": 256,
@@ -4597,7 +4597,7 @@
       "baselineTna": null,
       "baselineTs": null,
       "gained": 0,
-      "lastSeen": "2026-08-09T08:10:33.170Z",
+      "lastSeen": "2026-08-09T08:15:33.854Z",
       "lastRaid": null,
       "byDay": {}
     },
