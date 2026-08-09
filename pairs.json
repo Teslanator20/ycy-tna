@@ -465,10 +465,10 @@
     "5e04e4ff-d051-4125-983b-d42b214dac80|e4a23668-57d7-4f17-b58f-4a0fd17870ec": {
       "a": "5e04e4ff-d051-4125-983b-d42b214dac80",
       "b": "e4a23668-57d7-4f17-b58f-4a0fd17870ec",
-      "samples": 604,
+      "samples": 605,
       "usernameA": "Reisen_U_Inaba",
       "usernameB": "woody123_is_god",
-      "lastTs": "2026-08-09T13:00:55.015Z"
+      "lastTs": "2026-08-09T13:05:27.797Z"
     },
     "4791eb57-3607-4647-8d4f-59aaa879c5a4|584c85c3-5424-4e59-8be1-5f3e97ba9f96": {
       "a": "4791eb57-3607-4647-8d4f-59aaa879c5a4",
@@ -1493,7 +1493,15 @@
       "usernameA": "P1srmLife",
       "usernameB": "9tao_",
       "lastTs": "2026-08-08T18:32:26.246Z"
+    },
+    "1882f0bf-dda7-4d95-b8fc-fc4865ca0711|b668fbc7-fd23-43c4-95fc-bf7f5d06c0da": {
+      "a": "1882f0bf-dda7-4d95-b8fc-fc4865ca0711",
+      "b": "b668fbc7-fd23-43c4-95fc-bf7f5d06c0da",
+      "samples": 1,
+      "usernameA": "NeVerL0sEs",
+      "usernameB": "Even_is_Even",
+      "lastTs": "2026-08-09T13:05:27.797Z"
     }
   },
-  "updated": "2026-08-09T13:00:55.015Z"
+  "updated": "2026-08-09T13:05:27.797Z"
 }
