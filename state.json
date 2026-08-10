@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-10T05:25:28.817Z",
+  "updated": "2026-08-10T05:30:44.731Z",
   "guild": {
     "name": "YuChaYuan",
     "prefix": "YCY",
@@ -1575,12 +1575,12 @@
       "username": "Reisen_U_Inaba",
       "rank": "recruiter",
       "online": true,
-      "server": "AS19",
+      "server": "AS1",
       "tna": 302,
       "baselineTna": 256,
       "baselineTs": "2026-06-06T18:47:42.183Z",
       "gained": 46,
-      "lastSeen": "2026-08-10T05:25:28.817Z",
+      "lastSeen": "2026-08-10T05:30:44.731Z",
       "lastRaid": "2026-08-09T16:50:39.848Z",
       "byDay": {
         "2026-06-11": 256,
@@ -4156,7 +4156,7 @@
       "baselineTna": 88,
       "baselineTs": "2026-06-06T18:47:42.183Z",
       "gained": 0,
-      "lastSeen": "2026-08-10T05:25:28.817Z",
+      "lastSeen": "2026-08-10T05:30:44.731Z",
       "lastRaid": null,
       "byDay": {
         "2026-06-11": 88,
@@ -4520,6 +4520,19 @@
         "2026-08-10": 4
       }
     },
+    "b668fbc7-fd23-43c4-95fc-bf7f5d06c0da": {
+      "username": "Even_is_Even",
+      "rank": "recruit",
+      "online": true,
+      "server": "AS1",
+      "tna": null,
+      "baselineTna": null,
+      "baselineTs": null,
+      "gained": 0,
+      "lastSeen": "2026-08-10T05:30:44.731Z",
+      "lastRaid": null,
+      "byDay": {}
+    },
     "2b4be507-abf6-4172-99d9-29e88ff231b0": {
       "username": "ANTONY_71",
       "rank": "recruit",
@@ -4594,19 +4607,6 @@
         "2026-08-09": 24,
         "2026-08-10": 24
       }
-    },
-    "b668fbc7-fd23-43c4-95fc-bf7f5d06c0da": {
-      "username": "Even_is_Even",
-      "rank": "recruit",
-      "online": true,
-      "server": "AS1",
-      "tna": null,
-      "baselineTna": null,
-      "baselineTs": null,
-      "gained": 0,
-      "lastSeen": "2026-08-10T05:25:28.817Z",
-      "lastRaid": null,
-      "byDay": {}
     },
     "19e9fdb1-0753-4195-ade2-9887c21d277c": {
       "username": "PuddingNeko_OxO",
