@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-10T16:05:30.115Z",
+  "updated": "2026-08-10T16:10:43.519Z",
   "guild": {
     "name": "YuChaYuan",
     "prefix": "YCY",
@@ -7,7 +7,7 @@
     "raidShort": "TNA",
     "color": "#2ca089"
   },
-  "online": 3,
+  "online": 4,
   "memberCount": 98,
   "members": {
     "01ca79a1-7805-4458-b52d-cfb7f809a808": {
@@ -1580,7 +1580,7 @@
       "baselineTna": 256,
       "baselineTs": "2026-06-06T18:47:42.183Z",
       "gained": 46,
-      "lastSeen": "2026-08-10T16:05:30.115Z",
+      "lastSeen": "2026-08-10T16:10:43.519Z",
       "lastRaid": "2026-08-09T16:50:39.848Z",
       "byDay": {
         "2026-06-11": 256,
@@ -1730,7 +1730,7 @@
       "baselineTna": 4,
       "baselineTs": "2026-07-24T13:40:33.852Z",
       "gained": 12,
-      "lastSeen": "2026-08-10T16:05:30.115Z",
+      "lastSeen": "2026-08-10T16:10:43.519Z",
       "lastRaid": "2026-08-05T08:00:54.120Z",
       "byDay": {
         "2026-07-24": 4,
@@ -4156,7 +4156,7 @@
       "baselineTna": 88,
       "baselineTs": "2026-06-06T18:47:42.183Z",
       "gained": 0,
-      "lastSeen": "2026-08-10T16:05:30.115Z",
+      "lastSeen": "2026-08-10T16:10:43.519Z",
       "lastRaid": null,
       "byDay": {
         "2026-06-11": 88,
@@ -4523,13 +4523,13 @@
     "b668fbc7-fd23-43c4-95fc-bf7f5d06c0da": {
       "username": "Even_is_Even",
       "rank": "recruit",
-      "online": false,
-      "server": null,
+      "online": true,
+      "server": "AS13",
       "tna": null,
       "baselineTna": null,
       "baselineTs": null,
       "gained": 0,
-      "lastSeen": "2026-08-10T11:15:41.913Z",
+      "lastSeen": "2026-08-10T16:10:43.519Z",
       "lastRaid": null,
       "byDay": {}
     },
