@@ -1449,10 +1449,10 @@
     "5e04e4ff-d051-4125-983b-d42b214dac80|bc683b30-127f-4e63-a10c-7a4ce84a8397": {
       "a": "5e04e4ff-d051-4125-983b-d42b214dac80",
       "b": "bc683b30-127f-4e63-a10c-7a4ce84a8397",
-      "samples": 45,
+      "samples": 46,
       "usernameA": "Reisen_U_Inaba",
       "usernameB": "P1srmLife",
-      "lastTs": "2026-08-10T16:35:27.455Z"
+      "lastTs": "2026-08-10T16:40:36.531Z"
     },
     "b668fbc7-fd23-43c4-95fc-bf7f5d06c0da|bc683b30-127f-4e63-a10c-7a4ce84a8397": {
       "a": "b668fbc7-fd23-43c4-95fc-bf7f5d06c0da",
@@ -1521,11 +1521,43 @@
     "3cce4037-3c08-4fb9-b707-b1e0b1ebdd1c|6672330c-008f-49bf-9f85-97a0f055297a": {
       "a": "3cce4037-3c08-4fb9-b707-b1e0b1ebdd1c",
       "b": "6672330c-008f-49bf-9f85-97a0f055297a",
-      "samples": 2,
+      "samples": 3,
       "usernameA": "Linfon_Kusa",
       "usernameB": "SparkyRui",
-      "lastTs": "2026-08-10T16:35:27.455Z"
+      "lastTs": "2026-08-10T16:40:36.531Z"
+    },
+    "5e04e4ff-d051-4125-983b-d42b214dac80|6672330c-008f-49bf-9f85-97a0f055297a": {
+      "a": "5e04e4ff-d051-4125-983b-d42b214dac80",
+      "b": "6672330c-008f-49bf-9f85-97a0f055297a",
+      "samples": 1,
+      "usernameA": "Reisen_U_Inaba",
+      "usernameB": "SparkyRui",
+      "lastTs": "2026-08-10T16:40:36.531Z"
+    },
+    "3cce4037-3c08-4fb9-b707-b1e0b1ebdd1c|5e04e4ff-d051-4125-983b-d42b214dac80": {
+      "a": "3cce4037-3c08-4fb9-b707-b1e0b1ebdd1c",
+      "b": "5e04e4ff-d051-4125-983b-d42b214dac80",
+      "samples": 1,
+      "usernameA": "Linfon_Kusa",
+      "usernameB": "Reisen_U_Inaba",
+      "lastTs": "2026-08-10T16:40:36.531Z"
+    },
+    "6672330c-008f-49bf-9f85-97a0f055297a|bc683b30-127f-4e63-a10c-7a4ce84a8397": {
+      "a": "6672330c-008f-49bf-9f85-97a0f055297a",
+      "b": "bc683b30-127f-4e63-a10c-7a4ce84a8397",
+      "samples": 1,
+      "usernameA": "SparkyRui",
+      "usernameB": "P1srmLife",
+      "lastTs": "2026-08-10T16:40:36.531Z"
+    },
+    "3cce4037-3c08-4fb9-b707-b1e0b1ebdd1c|bc683b30-127f-4e63-a10c-7a4ce84a8397": {
+      "a": "3cce4037-3c08-4fb9-b707-b1e0b1ebdd1c",
+      "b": "bc683b30-127f-4e63-a10c-7a4ce84a8397",
+      "samples": 1,
+      "usernameA": "Linfon_Kusa",
+      "usernameB": "P1srmLife",
+      "lastTs": "2026-08-10T16:40:36.531Z"
     }
   },
-  "updated": "2026-08-10T16:35:27.455Z"
+  "updated": "2026-08-10T16:40:36.531Z"
 }

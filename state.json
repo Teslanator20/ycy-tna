@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-10T16:35:27.455Z",
+  "updated": "2026-08-10T16:40:36.531Z",
   "guild": {
     "name": "YuChaYuan",
     "prefix": "YCY",
@@ -1575,12 +1575,12 @@
       "username": "Reisen_U_Inaba",
       "rank": "recruiter",
       "online": true,
-      "server": "AS13",
+      "server": "AS11",
       "tna": 302,
       "baselineTna": 256,
       "baselineTs": "2026-06-06T18:47:42.183Z",
       "gained": 46,
-      "lastSeen": "2026-08-10T16:35:27.455Z",
+      "lastSeen": "2026-08-10T16:40:36.531Z",
       "lastRaid": "2026-08-09T16:50:39.848Z",
       "byDay": {
         "2026-06-11": 256,
@@ -1725,12 +1725,12 @@
       "username": "woody123_is_god",
       "rank": "recruiter",
       "online": true,
-      "server": "AS18",
+      "server": "AS19",
       "tna": 16,
       "baselineTna": 4,
       "baselineTs": "2026-07-24T13:40:33.852Z",
       "gained": 12,
-      "lastSeen": "2026-08-10T16:35:27.455Z",
+      "lastSeen": "2026-08-10T16:40:36.531Z",
       "lastRaid": "2026-08-05T08:00:54.120Z",
       "byDay": {
         "2026-07-24": 4,
@@ -3887,12 +3887,12 @@
       "username": "P1srmLife",
       "rank": "recruit",
       "online": true,
-      "server": "AS13",
+      "server": "AS11",
       "tna": null,
       "baselineTna": null,
       "baselineTs": null,
       "gained": 0,
-      "lastSeen": "2026-08-10T16:35:27.455Z",
+      "lastSeen": "2026-08-10T16:40:36.531Z",
       "lastRaid": null,
       "byDay": {}
     },
@@ -4156,7 +4156,7 @@
       "baselineTna": 88,
       "baselineTs": "2026-06-06T18:47:42.183Z",
       "gained": 0,
-      "lastSeen": "2026-08-10T16:35:27.455Z",
+      "lastSeen": "2026-08-10T16:40:36.531Z",
       "lastRaid": null,
       "byDay": {
         "2026-06-11": 88,
@@ -4696,6 +4696,32 @@
       "lastRaid": null,
       "byDay": {}
     },
+    "6672330c-008f-49bf-9f85-97a0f055297a": {
+      "username": "SparkyRui",
+      "rank": "recruit",
+      "online": true,
+      "server": "AS11",
+      "tna": null,
+      "baselineTna": null,
+      "baselineTs": null,
+      "gained": 0,
+      "lastSeen": "2026-08-10T16:40:36.531Z",
+      "lastRaid": null,
+      "byDay": {}
+    },
+    "3cce4037-3c08-4fb9-b707-b1e0b1ebdd1c": {
+      "username": "Linfon_Kusa",
+      "rank": "recruit",
+      "online": true,
+      "server": "AS11",
+      "tna": null,
+      "baselineTna": null,
+      "baselineTs": null,
+      "gained": 0,
+      "lastSeen": "2026-08-10T16:40:36.531Z",
+      "lastRaid": null,
+      "byDay": {}
+    },
     "3dadd5e8-0fa5-4c08-a25b-f1dab2ea9c23": {
       "username": "eggtartgogo",
       "rank": "recruit",
@@ -4783,19 +4809,6 @@
         "2026-08-09": 417,
         "2026-08-10": 417
       }
-    },
-    "3cce4037-3c08-4fb9-b707-b1e0b1ebdd1c": {
-      "username": "Linfon_Kusa",
-      "rank": "recruit",
-      "online": true,
-      "server": "AS11",
-      "tna": null,
-      "baselineTna": null,
-      "baselineTs": null,
-      "gained": 0,
-      "lastSeen": "2026-08-10T16:35:27.455Z",
-      "lastRaid": null,
-      "byDay": {}
     },
     "171e4ef3-9382-47c5-bfd8-e1c8ac97d50c": {
       "username": "r1chsh1h",
@@ -4972,19 +4985,6 @@
         "2026-08-09": 9,
         "2026-08-10": 9
       }
-    },
-    "6672330c-008f-49bf-9f85-97a0f055297a": {
-      "username": "SparkyRui",
-      "rank": "recruit",
-      "online": true,
-      "server": "AS11",
-      "tna": null,
-      "baselineTna": null,
-      "baselineTs": null,
-      "gained": 0,
-      "lastSeen": "2026-08-10T16:35:27.455Z",
-      "lastRaid": null,
-      "byDay": {}
     }
   }
 }
