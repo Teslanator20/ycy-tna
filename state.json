@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-12T18:05:30.041Z",
+  "updated": "2026-08-12T18:09:45.019Z",
   "guild": {
     "name": "YuChaYuan",
     "prefix": "YCY",
@@ -7,7 +7,7 @@
     "raidShort": "TNA",
     "color": "#2ca089"
   },
-  "online": 3,
+  "online": 1,
   "memberCount": 98,
   "members": {
     "01ca79a1-7805-4458-b52d-cfb7f809a808": {
@@ -3719,6 +3719,19 @@
       "lastRaid": null,
       "byDay": {}
     },
+    "bc683b30-127f-4e63-a10c-7a4ce84a8397": {
+      "username": "P1srmLife",
+      "rank": "recruit",
+      "online": false,
+      "server": null,
+      "tna": null,
+      "baselineTna": null,
+      "baselineTs": null,
+      "gained": 0,
+      "lastSeen": "2026-08-12T18:05:30.041Z",
+      "lastRaid": null,
+      "byDay": {}
+    },
     "8cd7b0e9-bc48-439e-b84e-732296be756c": {
       "username": "shugezShu",
       "rank": "recruit",
@@ -3869,19 +3882,6 @@
         "2026-08-12": 29
       }
     },
-    "bc683b30-127f-4e63-a10c-7a4ce84a8397": {
-      "username": "P1srmLife",
-      "rank": "recruit",
-      "online": true,
-      "server": "AS17",
-      "tna": null,
-      "baselineTna": null,
-      "baselineTs": null,
-      "gained": 0,
-      "lastSeen": "2026-08-12T18:05:30.041Z",
-      "lastRaid": null,
-      "byDay": {}
-    },
     "584c85c3-5424-4e59-8be1-5f3e97ba9f96": {
       "username": "Jennifer1008_",
       "rank": "recruit",
@@ -3913,6 +3913,19 @@
       "rank": "recruit",
       "online": true,
       "server": "AS17",
+      "tna": null,
+      "baselineTna": null,
+      "baselineTs": null,
+      "gained": 0,
+      "lastSeen": "2026-08-12T18:09:45.019Z",
+      "lastRaid": null,
+      "byDay": {}
+    },
+    "3cce4037-3c08-4fb9-b707-b1e0b1ebdd1c": {
+      "username": "Linfon_Kusa",
+      "rank": "recruit",
+      "online": false,
+      "server": null,
       "tna": null,
       "baselineTna": null,
       "baselineTs": null,
@@ -3995,19 +4008,6 @@
         "2026-08-11": 61,
         "2026-08-12": 61
       }
-    },
-    "3cce4037-3c08-4fb9-b707-b1e0b1ebdd1c": {
-      "username": "Linfon_Kusa",
-      "rank": "recruit",
-      "online": true,
-      "server": "AS17",
-      "tna": null,
-      "baselineTna": null,
-      "baselineTs": null,
-      "gained": 0,
-      "lastSeen": "2026-08-12T18:05:30.041Z",
-      "lastRaid": null,
-      "byDay": {}
     },
     "2e2fc10a-7dc1-4766-9147-a806b79df324": {
       "username": "_Xrrc",
