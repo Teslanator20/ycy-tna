@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-12T17:35:27.632Z",
+  "updated": "2026-08-12T17:40:34.731Z",
   "guild": {
     "name": "YuChaYuan",
     "prefix": "YCY",
@@ -2304,7 +2304,7 @@
       "baselineTna": 1,
       "baselineTs": "2026-08-01T06:25:28.907Z",
       "gained": 6,
-      "lastSeen": "2026-08-12T17:35:27.632Z",
+      "lastSeen": "2026-08-12T17:40:34.731Z",
       "lastRaid": "2026-08-11T16:55:32.327Z",
       "byDay": {
         "2026-08-01": 1,
@@ -3891,7 +3891,7 @@
       "baselineTna": null,
       "baselineTs": null,
       "gained": 0,
-      "lastSeen": "2026-08-12T17:35:27.632Z",
+      "lastSeen": "2026-08-12T17:40:34.731Z",
       "lastRaid": null,
       "byDay": {}
     },
@@ -4071,6 +4071,19 @@
       "lastRaid": null,
       "byDay": {}
     },
+    "6672330c-008f-49bf-9f85-97a0f055297a": {
+      "username": "SparkyRui",
+      "rank": "recruit",
+      "online": true,
+      "server": "AS17",
+      "tna": null,
+      "baselineTna": null,
+      "baselineTs": null,
+      "gained": 0,
+      "lastSeen": "2026-08-12T17:40:34.731Z",
+      "lastRaid": null,
+      "byDay": {}
+    },
     "ebb863f2-2289-4d86-9e91-a2c653e84168": {
       "username": "AWin517",
       "rank": "recruit",
@@ -4081,19 +4094,6 @@
       "baselineTs": null,
       "gained": 0,
       "lastSeen": null,
-      "lastRaid": null,
-      "byDay": {}
-    },
-    "6672330c-008f-49bf-9f85-97a0f055297a": {
-      "username": "SparkyRui",
-      "rank": "recruit",
-      "online": true,
-      "server": "AS17",
-      "tna": null,
-      "baselineTna": null,
-      "baselineTs": null,
-      "gained": 0,
-      "lastSeen": "2026-08-12T17:35:27.632Z",
       "lastRaid": null,
       "byDay": {}
     },
@@ -4181,7 +4181,7 @@
       "baselineTna": null,
       "baselineTs": null,
       "gained": 0,
-      "lastSeen": "2026-08-12T17:35:27.632Z",
+      "lastSeen": "2026-08-12T17:40:34.731Z",
       "lastRaid": null,
       "byDay": {}
     },
