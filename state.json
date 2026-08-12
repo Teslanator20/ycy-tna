@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-12T17:25:30.387Z",
+  "updated": "2026-08-12T17:30:47.987Z",
   "guild": {
     "name": "YuChaYuan",
     "prefix": "YCY",
@@ -1732,7 +1732,7 @@
       "baselineTna": 4,
       "baselineTs": "2026-07-24T13:40:33.852Z",
       "gained": 12,
-      "lastSeen": "2026-08-12T17:25:30.387Z",
+      "lastSeen": "2026-08-12T17:30:47.987Z",
       "lastRaid": "2026-08-05T08:00:54.120Z",
       "byDay": {
         "2026-07-24": 4,
@@ -2304,7 +2304,7 @@
       "baselineTna": 1,
       "baselineTs": "2026-08-01T06:25:28.907Z",
       "gained": 6,
-      "lastSeen": "2026-08-12T17:25:30.387Z",
+      "lastSeen": "2026-08-12T17:30:47.987Z",
       "lastRaid": "2026-08-11T16:55:32.327Z",
       "byDay": {
         "2026-08-01": 1,
@@ -3891,7 +3891,7 @@
       "baselineTna": null,
       "baselineTs": null,
       "gained": 0,
-      "lastSeen": "2026-08-12T17:25:30.387Z",
+      "lastSeen": "2026-08-12T17:30:47.987Z",
       "lastRaid": null,
       "byDay": {}
     },
@@ -4168,7 +4168,20 @@
       "baselineTna": null,
       "baselineTs": null,
       "gained": 0,
-      "lastSeen": "2026-08-12T17:25:30.387Z",
+      "lastSeen": "2026-08-12T17:30:47.987Z",
+      "lastRaid": null,
+      "byDay": {}
+    },
+    "3cce4037-3c08-4fb9-b707-b1e0b1ebdd1c": {
+      "username": "Linfon_Kusa",
+      "rank": "recruit",
+      "online": true,
+      "server": "AS17",
+      "tna": null,
+      "baselineTna": null,
+      "baselineTs": null,
+      "gained": 0,
+      "lastSeen": "2026-08-12T17:30:47.987Z",
       "lastRaid": null,
       "byDay": {}
     },
@@ -4246,19 +4259,6 @@
         "2026-08-11": 88,
         "2026-08-12": 88
       }
-    },
-    "3cce4037-3c08-4fb9-b707-b1e0b1ebdd1c": {
-      "username": "Linfon_Kusa",
-      "rank": "recruit",
-      "online": true,
-      "server": "AS17",
-      "tna": null,
-      "baselineTna": null,
-      "baselineTs": null,
-      "gained": 0,
-      "lastSeen": "2026-08-12T17:25:30.387Z",
-      "lastRaid": null,
-      "byDay": {}
     },
     "f3e67661-a4eb-44e1-a4fb-5eb925dbf18f": {
       "username": "Jerry_0919",
