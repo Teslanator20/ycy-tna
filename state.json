@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-13T15:25:29.810Z",
+  "updated": "2026-08-13T15:30:51.234Z",
   "guild": {
     "name": "YuChaYuan",
     "prefix": "YCY",
@@ -7,7 +7,7 @@
     "raidShort": "TNA",
     "color": "#2ca089"
   },
-  "online": 6,
+  "online": 4,
   "memberCount": 98,
   "members": {
     "01ca79a1-7805-4458-b52d-cfb7f809a808": {
@@ -1583,7 +1583,7 @@
       "baselineTna": 256,
       "baselineTs": "2026-06-06T18:47:42.183Z",
       "gained": 74,
-      "lastSeen": "2026-08-13T15:25:29.810Z",
+      "lastSeen": "2026-08-13T15:30:51.234Z",
       "lastRaid": "2026-08-12T09:30:48.990Z",
       "byDay": {
         "2026-06-14": 256,
@@ -1727,8 +1727,8 @@
     "e4a23668-57d7-4f17-b58f-4a0fd17870ec": {
       "username": "woody123_is_god",
       "rank": "recruiter",
-      "online": true,
-      "server": "AS11",
+      "online": false,
+      "server": null,
       "tna": 16,
       "baselineTna": 4,
       "baselineTs": "2026-07-24T13:40:33.852Z",
@@ -2300,8 +2300,8 @@
     "de06ed1c-0480-42ee-8a10-9d400bb61467": {
       "username": "9tao_",
       "rank": "recruiter",
-      "online": true,
-      "server": "AS18",
+      "online": false,
+      "server": null,
       "tna": 10,
       "baselineTna": 1,
       "baselineTs": "2026-08-01T06:25:28.907Z",
@@ -3597,6 +3597,19 @@
       "lastRaid": null,
       "byDay": {}
     },
+    "bc683b30-127f-4e63-a10c-7a4ce84a8397": {
+      "username": "P1srmLife",
+      "rank": "recruit",
+      "online": true,
+      "server": "AS19",
+      "tna": null,
+      "baselineTna": null,
+      "baselineTs": null,
+      "gained": 0,
+      "lastSeen": "2026-08-13T15:30:51.234Z",
+      "lastRaid": null,
+      "byDay": {}
+    },
     "8ebb144a-289f-49b0-b5bb-80c0050ce9da": {
       "username": "Kannryou",
       "rank": "recruit",
@@ -3685,19 +3698,6 @@
       "lastRaid": null,
       "byDay": {}
     },
-    "bc683b30-127f-4e63-a10c-7a4ce84a8397": {
-      "username": "P1srmLife",
-      "rank": "recruit",
-      "online": true,
-      "server": "AS19",
-      "tna": null,
-      "baselineTna": null,
-      "baselineTs": null,
-      "gained": 0,
-      "lastSeen": "2026-08-13T15:25:29.810Z",
-      "lastRaid": null,
-      "byDay": {}
-    },
     "6672330c-008f-49bf-9f85-97a0f055297a": {
       "username": "SparkyRui",
       "rank": "recruit",
@@ -3707,7 +3707,7 @@
       "baselineTna": null,
       "baselineTs": null,
       "gained": 0,
-      "lastSeen": "2026-08-13T15:25:29.810Z",
+      "lastSeen": "2026-08-13T15:30:51.234Z",
       "lastRaid": null,
       "byDay": {}
     },
@@ -4199,7 +4199,7 @@
       "baselineTna": 88,
       "baselineTs": "2026-06-06T18:47:42.183Z",
       "gained": 0,
-      "lastSeen": "2026-08-13T15:25:29.810Z",
+      "lastSeen": "2026-08-13T15:30:51.234Z",
       "lastRaid": null,
       "byDay": {
         "2026-06-14": 88,
