@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-13T09:40:39.835Z",
+  "updated": "2026-08-13T09:45:38.253Z",
   "guild": {
     "name": "YuChaYuan",
     "prefix": "YCY",
@@ -7,7 +7,7 @@
     "raidShort": "TNA",
     "color": "#2ca089"
   },
-  "online": 4,
+  "online": 3,
   "memberCount": 98,
   "members": {
     "01ca79a1-7805-4458-b52d-cfb7f809a808": {
@@ -850,8 +850,8 @@
     "5a8759de-669b-477c-ad86-9d80eb8ff504": {
       "username": "Nightstar_TW",
       "rank": "captain",
-      "online": true,
-      "server": "AS22",
+      "online": false,
+      "server": null,
       "tna": 42,
       "baselineTna": 42,
       "baselineTs": "2026-06-06T18:47:42.183Z",
@@ -1583,7 +1583,7 @@
       "baselineTna": 256,
       "baselineTs": "2026-06-06T18:47:42.183Z",
       "gained": 74,
-      "lastSeen": "2026-08-13T09:40:39.835Z",
+      "lastSeen": "2026-08-13T09:45:38.253Z",
       "lastRaid": "2026-08-12T09:30:48.990Z",
       "byDay": {
         "2026-06-14": 256,
@@ -1733,7 +1733,7 @@
       "baselineTna": 4,
       "baselineTs": "2026-07-24T13:40:33.852Z",
       "gained": 12,
-      "lastSeen": "2026-08-13T09:40:39.835Z",
+      "lastSeen": "2026-08-13T09:45:38.253Z",
       "lastRaid": "2026-08-05T08:00:54.120Z",
       "byDay": {
         "2026-07-24": 4,
@@ -3720,7 +3720,7 @@
       "baselineTna": null,
       "baselineTs": null,
       "gained": 0,
-      "lastSeen": "2026-08-13T09:40:39.835Z",
+      "lastSeen": "2026-08-13T09:45:38.253Z",
       "lastRaid": null,
       "byDay": {}
     },
