@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-14T16:40:35.313Z",
+  "updated": "2026-08-14T16:48:25.571Z",
   "guild": {
     "name": "YuChaYuan",
     "prefix": "YCY",
@@ -7,7 +7,7 @@
     "raidShort": "TNA",
     "color": "#2ca089"
   },
-  "online": 5,
+  "online": 6,
   "memberCount": 87,
   "members": {
     "01ca79a1-7805-4458-b52d-cfb7f809a808": {
@@ -239,12 +239,12 @@
       "username": "MrMud8033112",
       "rank": "chief",
       "online": true,
-      "server": "AS18",
+      "server": "AS12",
       "tna": 242,
       "baselineTna": 242,
       "baselineTs": "2026-06-06T18:47:42.183Z",
       "gained": 0,
-      "lastSeen": "2026-08-14T16:40:35.313Z",
+      "lastSeen": "2026-08-14T16:48:25.571Z",
       "lastRaid": null,
       "byDay": {
         "2026-06-15": 242,
@@ -1580,13 +1580,13 @@
     "5e04e4ff-d051-4125-983b-d42b214dac80": {
       "username": "Reisen_U_Inaba",
       "rank": "recruiter",
-      "online": false,
-      "server": null,
+      "online": true,
+      "server": "AS12",
       "tna": 330,
       "baselineTna": 256,
       "baselineTs": "2026-06-06T18:47:42.183Z",
       "gained": 74,
-      "lastSeen": "2026-08-14T15:10:39.756Z",
+      "lastSeen": "2026-08-14T16:48:25.571Z",
       "lastRaid": "2026-08-12T09:30:48.990Z",
       "byDay": {
         "2026-06-15": 256,
@@ -1736,7 +1736,7 @@
       "baselineTna": 4,
       "baselineTs": "2026-07-24T13:40:33.852Z",
       "gained": 12,
-      "lastSeen": "2026-08-14T16:40:35.313Z",
+      "lastSeen": "2026-08-14T16:48:25.571Z",
       "lastRaid": "2026-08-05T08:00:54.120Z",
       "byDay": {
         "2026-07-24": 4,
@@ -3123,7 +3123,7 @@
       "baselineTna": null,
       "baselineTs": null,
       "gained": 0,
-      "lastSeen": "2026-08-14T16:40:35.313Z",
+      "lastSeen": "2026-08-14T16:48:25.571Z",
       "lastRaid": null,
       "byDay": {}
     },
@@ -3628,7 +3628,7 @@
       "baselineTna": 88,
       "baselineTs": "2026-06-06T18:47:42.183Z",
       "gained": 0,
-      "lastSeen": "2026-08-14T16:40:35.313Z",
+      "lastSeen": "2026-08-14T16:48:25.571Z",
       "lastRaid": null,
       "byDay": {
         "2026-06-15": 88,
@@ -4438,12 +4438,12 @@
       "username": "jamesk217",
       "rank": "recruit",
       "online": true,
-      "server": "AS22",
+      "server": "AS18",
       "tna": null,
       "baselineTna": null,
       "baselineTs": null,
       "gained": 0,
-      "lastSeen": "2026-08-14T16:40:35.313Z",
+      "lastSeen": "2026-08-14T16:48:25.571Z",
       "lastRaid": null,
       "byDay": {}
     }
