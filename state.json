@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-14T13:40:38.312Z",
+  "updated": "2026-08-14T13:45:35.709Z",
   "guild": {
     "name": "YuChaYuan",
     "prefix": "YCY",
@@ -7,7 +7,7 @@
     "raidShort": "TNA",
     "color": "#2ca089"
   },
-  "online": 4,
+  "online": 3,
   "memberCount": 86,
   "members": {
     "01ca79a1-7805-4458-b52d-cfb7f809a808": {
@@ -1736,7 +1736,7 @@
       "baselineTna": 4,
       "baselineTs": "2026-07-24T13:40:33.852Z",
       "gained": 12,
-      "lastSeen": "2026-08-14T13:40:38.312Z",
+      "lastSeen": "2026-08-14T13:45:35.709Z",
       "lastRaid": "2026-08-05T08:00:54.120Z",
       "byDay": {
         "2026-07-24": 4,
@@ -3123,7 +3123,7 @@
       "baselineTna": null,
       "baselineTs": null,
       "gained": 0,
-      "lastSeen": "2026-08-14T13:40:38.312Z",
+      "lastSeen": "2026-08-14T13:45:35.709Z",
       "lastRaid": null,
       "byDay": {}
     },
@@ -3136,7 +3136,7 @@
       "baselineTna": null,
       "baselineTs": null,
       "gained": 0,
-      "lastSeen": "2026-08-14T13:40:38.312Z",
+      "lastSeen": "2026-08-14T13:45:35.709Z",
       "lastRaid": null,
       "byDay": {}
     },
@@ -3332,8 +3332,8 @@
     "3cce4037-3c08-4fb9-b707-b1e0b1ebdd1c": {
       "username": "Linfon_Kusa",
       "rank": "recruit",
-      "online": true,
-      "server": "AS13",
+      "online": false,
+      "server": null,
       "tna": null,
       "baselineTna": null,
       "baselineTs": null,
