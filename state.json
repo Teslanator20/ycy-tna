@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-14T12:20:37.344Z",
+  "updated": "2026-08-14T12:25:31.386Z",
   "guild": {
     "name": "YuChaYuan",
     "prefix": "YCY",
@@ -1731,12 +1731,12 @@
       "username": "woody123_is_god",
       "rank": "recruiter",
       "online": true,
-      "server": "AS17",
+      "server": "AS15",
       "tna": 16,
       "baselineTna": 4,
       "baselineTs": "2026-07-24T13:40:33.852Z",
       "gained": 12,
-      "lastSeen": "2026-08-14T12:20:37.344Z",
+      "lastSeen": "2026-08-14T12:25:31.386Z",
       "lastRaid": "2026-08-05T08:00:54.120Z",
       "byDay": {
         "2026-07-24": 4,
@@ -3123,7 +3123,7 @@
       "baselineTna": null,
       "baselineTs": null,
       "gained": 0,
-      "lastSeen": "2026-08-14T12:20:37.344Z",
+      "lastSeen": "2026-08-14T12:25:31.386Z",
       "lastRaid": null,
       "byDay": {}
     },
@@ -3136,7 +3136,7 @@
       "baselineTna": null,
       "baselineTs": null,
       "gained": 0,
-      "lastSeen": "2026-08-14T12:20:37.344Z",
+      "lastSeen": "2026-08-14T12:25:31.386Z",
       "lastRaid": null,
       "byDay": {}
     },
@@ -3351,7 +3351,7 @@
       "baselineTna": null,
       "baselineTs": null,
       "gained": 0,
-      "lastSeen": "2026-08-14T12:20:37.344Z",
+      "lastSeen": "2026-08-14T12:25:31.386Z",
       "lastRaid": null,
       "byDay": {}
     },
@@ -3853,7 +3853,7 @@
       "baselineTna": null,
       "baselineTs": null,
       "gained": 0,
-      "lastSeen": "2026-08-14T12:20:37.344Z",
+      "lastSeen": "2026-08-14T12:25:31.386Z",
       "lastRaid": null,
       "byDay": {}
     },
