@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-14T03:30:47.838Z",
+  "updated": "2026-08-14T03:35:27.503Z",
   "guild": {
     "name": "YuChaYuan",
     "prefix": "YCY",
@@ -7,7 +7,7 @@
     "raidShort": "TNA",
     "color": "#2ca089"
   },
-  "online": 1,
+  "online": 0,
   "memberCount": 98,
   "members": {
     "01ca79a1-7805-4458-b52d-cfb7f809a808": {
@@ -1014,8 +1014,8 @@
     "38bab5e1-b631-4528-aa34-2a89ff4ce2de": {
       "username": "Rabbit_flower",
       "rank": "captain",
-      "online": true,
-      "server": "NA8",
+      "online": false,
+      "server": null,
       "tna": 836,
       "baselineTna": 836,
       "baselineTs": "2026-08-14T03:30:47.838Z",
