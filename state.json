@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-14T18:30:45.484Z",
+  "updated": "2026-08-14T18:35:32.499Z",
   "guild": {
     "name": "YuChaYuan",
     "prefix": "YCY",
@@ -3162,7 +3162,7 @@
       "baselineTna": null,
       "baselineTs": null,
       "gained": 0,
-      "lastSeen": "2026-08-14T18:30:45.484Z",
+      "lastSeen": "2026-08-14T18:35:32.499Z",
       "lastRaid": null,
       "byDay": {}
     },
@@ -3853,7 +3853,7 @@
       "baselineTna": null,
       "baselineTs": null,
       "gained": 0,
-      "lastSeen": "2026-08-14T18:30:45.484Z",
+      "lastSeen": "2026-08-14T18:35:32.499Z",
       "lastRaid": null,
       "byDay": {}
     },
@@ -4170,6 +4170,19 @@
       "lastRaid": null,
       "byDay": {}
     },
+    "2ca488e3-821f-4db4-b2c2-1dbbd7dcba84": {
+      "username": "jamesk217",
+      "rank": "recruit",
+      "online": true,
+      "server": "AS17",
+      "tna": null,
+      "baselineTna": null,
+      "baselineTs": null,
+      "gained": 0,
+      "lastSeen": "2026-08-14T18:35:32.499Z",
+      "lastRaid": null,
+      "byDay": {}
+    },
     "3dadd5e8-0fa5-4c08-a25b-f1dab2ea9c23": {
       "username": "eggtartgogo",
       "rank": "recruit",
@@ -4180,19 +4193,6 @@
       "baselineTs": null,
       "gained": 0,
       "lastSeen": "2026-07-15T19:55:29.167Z",
-      "lastRaid": null,
-      "byDay": {}
-    },
-    "2ca488e3-821f-4db4-b2c2-1dbbd7dcba84": {
-      "username": "jamesk217",
-      "rank": "recruit",
-      "online": true,
-      "server": "AS17",
-      "tna": null,
-      "baselineTna": null,
-      "baselineTs": null,
-      "gained": 0,
-      "lastSeen": "2026-08-14T18:30:45.484Z",
       "lastRaid": null,
       "byDay": {}
     },
