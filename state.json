@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-14T19:00:54.143Z",
+  "updated": "2026-08-14T19:05:31.290Z",
   "guild": {
     "name": "YuChaYuan",
     "prefix": "YCY",
@@ -239,12 +239,12 @@
       "username": "MrMud8033112",
       "rank": "chief",
       "online": true,
-      "server": "AS12",
+      "server": "AS8",
       "tna": 242,
       "baselineTna": 242,
       "baselineTs": "2026-06-06T18:47:42.183Z",
       "gained": 0,
-      "lastSeen": "2026-08-14T19:00:54.143Z",
+      "lastSeen": "2026-08-14T19:05:31.290Z",
       "lastRaid": null,
       "byDay": {
         "2026-06-15": 242,
@@ -3162,7 +3162,7 @@
       "baselineTna": null,
       "baselineTs": null,
       "gained": 0,
-      "lastSeen": "2026-08-14T19:00:54.143Z",
+      "lastSeen": "2026-08-14T19:05:31.290Z",
       "lastRaid": null,
       "byDay": {}
     },
