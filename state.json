@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-15T12:10:37.128Z",
+  "updated": "2026-08-15T12:15:37.040Z",
   "guild": {
     "name": "YuChaYuan",
     "prefix": "YCY",
@@ -7,7 +7,7 @@
     "raidShort": "TNA",
     "color": "#2ca089"
   },
-  "online": 5,
+  "online": 3,
   "memberCount": 87,
   "members": {
     "01ca79a1-7805-4458-b52d-cfb7f809a808": {
@@ -238,8 +238,8 @@
     "497f4a05-e2e7-4e0b-97f5-bc1fdf4c7522": {
       "username": "MrMud8033112",
       "rank": "chief",
-      "online": true,
-      "server": "AS8",
+      "online": false,
+      "server": null,
       "tna": 242,
       "baselineTna": 242,
       "baselineTs": "2026-06-06T18:47:42.183Z",
@@ -2336,8 +2336,8 @@
     "e2b6e8e4-0265-44c6-8892-a63733adc7fa": {
       "username": "YoyoBreaker",
       "rank": "recruiter",
-      "online": true,
-      "server": "AS4",
+      "online": false,
+      "server": null,
       "tna": 58,
       "baselineTna": 53,
       "baselineTs": "2026-06-06T18:47:42.183Z",
@@ -3457,7 +3457,7 @@
       "baselineTna": null,
       "baselineTs": null,
       "gained": 0,
-      "lastSeen": "2026-08-15T12:10:37.128Z",
+      "lastSeen": "2026-08-15T12:15:37.040Z",
       "lastRaid": null,
       "byDay": {}
     },
@@ -3646,7 +3646,7 @@
       "baselineTna": 88,
       "baselineTs": "2026-06-06T18:47:42.183Z",
       "gained": 0,
-      "lastSeen": "2026-08-15T12:10:37.128Z",
+      "lastSeen": "2026-08-15T12:15:37.040Z",
       "lastRaid": null,
       "byDay": {
         "2026-06-16": 88,
@@ -3796,7 +3796,7 @@
       "baselineTna": null,
       "baselineTs": null,
       "gained": 0,
-      "lastSeen": "2026-08-15T12:10:37.128Z",
+      "lastSeen": "2026-08-15T12:15:37.040Z",
       "lastRaid": null,
       "byDay": {}
     },
