@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-15T12:40:37.212Z",
+  "updated": "2026-08-15T12:45:35.569Z",
   "guild": {
     "name": "YuChaYuan",
     "prefix": "YCY",
@@ -238,8 +238,8 @@
     "497f4a05-e2e7-4e0b-97f5-bc1fdf4c7522": {
       "username": "MrMud8033112",
       "rank": "chief",
-      "online": true,
-      "server": "NA11",
+      "online": false,
+      "server": null,
       "tna": 242,
       "baselineTna": 242,
       "baselineTs": "2026-06-06T18:47:42.183Z",
@@ -2342,7 +2342,7 @@
       "baselineTna": 53,
       "baselineTs": "2026-06-06T18:47:42.183Z",
       "gained": 5,
-      "lastSeen": "2026-08-15T12:40:37.212Z",
+      "lastSeen": "2026-08-15T12:45:35.569Z",
       "lastRaid": "2026-06-21T07:50:31.019Z",
       "byDay": {
         "2026-06-16": 56,
@@ -3122,13 +3122,13 @@
     "92feba43-316f-47ad-a1b0-726de83940db": {
       "username": "transfe",
       "rank": "recruit",
-      "online": false,
-      "server": null,
+      "online": true,
+      "server": "AS21",
       "tna": null,
       "baselineTna": null,
       "baselineTs": null,
       "gained": 0,
-      "lastSeen": "2026-08-15T10:40:37.803Z",
+      "lastSeen": "2026-08-15T12:45:35.569Z",
       "lastRaid": null,
       "byDay": {}
     },
@@ -3646,7 +3646,7 @@
       "baselineTna": 88,
       "baselineTs": "2026-06-06T18:47:42.183Z",
       "gained": 0,
-      "lastSeen": "2026-08-15T12:40:37.212Z",
+      "lastSeen": "2026-08-15T12:45:35.569Z",
       "lastRaid": null,
       "byDay": {
         "2026-06-16": 88,
@@ -3796,7 +3796,7 @@
       "baselineTna": null,
       "baselineTs": null,
       "gained": 0,
-      "lastSeen": "2026-08-15T12:40:37.212Z",
+      "lastSeen": "2026-08-15T12:45:35.569Z",
       "lastRaid": null,
       "byDay": {}
     },
@@ -4034,7 +4034,7 @@
       "baselineTna": 23,
       "baselineTs": "2026-06-06T18:47:42.183Z",
       "gained": 1,
-      "lastSeen": "2026-08-15T12:40:37.212Z",
+      "lastSeen": "2026-08-15T12:45:35.569Z",
       "lastRaid": "2026-06-09T09:25:26.742Z",
       "byDay": {
         "2026-06-16": 24,
