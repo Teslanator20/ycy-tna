@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-15T18:25:29.490Z",
+  "updated": "2026-08-15T18:30:44.697Z",
   "guild": {
     "name": "YuChaYuan",
     "prefix": "YCY",
@@ -7,7 +7,7 @@
     "raidShort": "TNA",
     "color": "#2ca089"
   },
-  "online": 5,
+  "online": 4,
   "memberCount": 87,
   "members": {
     "01ca79a1-7805-4458-b52d-cfb7f809a808": {
@@ -238,8 +238,8 @@
     "497f4a05-e2e7-4e0b-97f5-bc1fdf4c7522": {
       "username": "MrMud8033112",
       "rank": "chief",
-      "online": true,
-      "server": "AS10",
+      "online": false,
+      "server": null,
       "tna": 242,
       "baselineTna": 242,
       "baselineTs": "2026-06-06T18:47:42.183Z",
@@ -2313,7 +2313,7 @@
       "baselineTna": 1,
       "baselineTs": "2026-08-01T06:25:28.907Z",
       "gained": 9,
-      "lastSeen": "2026-08-15T18:25:29.490Z",
+      "lastSeen": "2026-08-15T18:30:44.697Z",
       "lastRaid": "2026-08-13T15:15:37.826Z",
       "byDay": {
         "2026-08-01": 1,
@@ -3141,7 +3141,7 @@
       "baselineTna": null,
       "baselineTs": null,
       "gained": 0,
-      "lastSeen": "2026-08-15T18:25:29.490Z",
+      "lastSeen": "2026-08-15T18:30:44.697Z",
       "lastRaid": null,
       "byDay": {}
     },
@@ -3162,12 +3162,12 @@
       "username": "SparkyRui",
       "rank": "recruit",
       "online": true,
-      "server": "AS18",
+      "server": "NA19",
       "tna": null,
       "baselineTna": null,
       "baselineTs": null,
       "gained": 0,
-      "lastSeen": "2026-08-15T18:25:29.490Z",
+      "lastSeen": "2026-08-15T18:30:44.697Z",
       "lastRaid": null,
       "byDay": {}
     },
@@ -3338,12 +3338,12 @@
       "username": "Linfon_Kusa",
       "rank": "recruit",
       "online": true,
-      "server": "EU34",
+      "server": "NA19",
       "tna": null,
       "baselineTna": null,
       "baselineTs": null,
       "gained": 0,
-      "lastSeen": "2026-08-15T18:25:29.490Z",
+      "lastSeen": "2026-08-15T18:30:44.697Z",
       "lastRaid": null,
       "byDay": {}
     },
