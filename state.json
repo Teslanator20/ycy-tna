@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-15T18:35:29.367Z",
+  "updated": "2026-08-15T18:40:35.440Z",
   "guild": {
     "name": "YuChaYuan",
     "prefix": "YCY",
@@ -2313,7 +2313,7 @@
       "baselineTna": 1,
       "baselineTs": "2026-08-01T06:25:28.907Z",
       "gained": 9,
-      "lastSeen": "2026-08-15T18:35:29.367Z",
+      "lastSeen": "2026-08-15T18:40:35.440Z",
       "lastRaid": "2026-08-13T15:15:37.826Z",
       "byDay": {
         "2026-08-01": 1,
@@ -3141,7 +3141,7 @@
       "baselineTna": null,
       "baselineTs": null,
       "gained": 0,
-      "lastSeen": "2026-08-15T18:35:29.367Z",
+      "lastSeen": "2026-08-15T18:40:35.440Z",
       "lastRaid": null,
       "byDay": {}
     },
@@ -3167,7 +3167,7 @@
       "baselineTna": null,
       "baselineTs": null,
       "gained": 0,
-      "lastSeen": "2026-08-15T18:35:29.367Z",
+      "lastSeen": "2026-08-15T18:40:35.440Z",
       "lastRaid": null,
       "byDay": {}
     },
@@ -3259,6 +3259,19 @@
         "2026-08-15": 301
       }
     },
+    "3cce4037-3c08-4fb9-b707-b1e0b1ebdd1c": {
+      "username": "Linfon_Kusa",
+      "rank": "recruit",
+      "online": true,
+      "server": "NA19",
+      "tna": null,
+      "baselineTna": null,
+      "baselineTs": null,
+      "gained": 0,
+      "lastSeen": "2026-08-15T18:40:35.440Z",
+      "lastRaid": null,
+      "byDay": {}
+    },
     "554a15df-02de-454b-88dd-6ed9bb7a9b4a": {
       "username": "ez_bc",
       "rank": "recruit",
@@ -3333,19 +3346,6 @@
         "2026-08-14": 29,
         "2026-08-15": 29
       }
-    },
-    "3cce4037-3c08-4fb9-b707-b1e0b1ebdd1c": {
-      "username": "Linfon_Kusa",
-      "rank": "recruit",
-      "online": true,
-      "server": "NA19",
-      "tna": null,
-      "baselineTna": null,
-      "baselineTs": null,
-      "gained": 0,
-      "lastSeen": "2026-08-15T18:35:29.367Z",
-      "lastRaid": null,
-      "byDay": {}
     },
     "584c85c3-5424-4e59-8be1-5f3e97ba9f96": {
       "username": "Jennifer1008_",
