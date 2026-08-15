@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-15T04:25:28.932Z",
+  "updated": "2026-08-15T04:30:48.445Z",
   "guild": {
     "name": "YuChaYuan",
     "prefix": "YCY",
@@ -2575,12 +2575,12 @@
       "username": "SpaceMeowOWO",
       "rank": "recruiter",
       "online": true,
-      "server": "AS21",
+      "server": "NA35",
       "tna": 4,
       "baselineTna": 4,
       "baselineTs": "2026-06-06T18:47:42.183Z",
       "gained": 0,
-      "lastSeen": "2026-08-15T04:25:28.932Z",
+      "lastSeen": "2026-08-15T04:30:48.445Z",
       "lastRaid": null,
       "byDay": {
         "2026-06-16": 4,
@@ -3128,7 +3128,7 @@
       "baselineTna": null,
       "baselineTs": null,
       "gained": 0,
-      "lastSeen": "2026-08-15T04:25:28.932Z",
+      "lastSeen": "2026-08-15T04:30:48.445Z",
       "lastRaid": null,
       "byDay": {}
     },
@@ -3633,7 +3633,7 @@
       "baselineTna": 88,
       "baselineTs": "2026-06-06T18:47:42.183Z",
       "gained": 0,
-      "lastSeen": "2026-08-15T04:25:28.932Z",
+      "lastSeen": "2026-08-15T04:30:48.445Z",
       "lastRaid": null,
       "byDay": {
         "2026-06-16": 88,
@@ -4087,6 +4087,19 @@
         "2026-08-15": 24
       }
     },
+    "2ca488e3-821f-4db4-b2c2-1dbbd7dcba84": {
+      "username": "jamesk217",
+      "rank": "recruit",
+      "online": true,
+      "server": "NA26",
+      "tna": null,
+      "baselineTna": null,
+      "baselineTs": null,
+      "gained": 0,
+      "lastSeen": "2026-08-15T04:30:48.445Z",
+      "lastRaid": null,
+      "byDay": {}
+    },
     "19e9fdb1-0753-4195-ade2-9887c21d277c": {
       "username": "PuddingNeko_OxO",
       "rank": "recruit",
@@ -4161,19 +4174,6 @@
         "2026-08-14": 9,
         "2026-08-15": 9
       }
-    },
-    "2ca488e3-821f-4db4-b2c2-1dbbd7dcba84": {
-      "username": "jamesk217",
-      "rank": "recruit",
-      "online": true,
-      "server": "NA26",
-      "tna": null,
-      "baselineTna": null,
-      "baselineTs": null,
-      "gained": 0,
-      "lastSeen": "2026-08-15T04:25:28.932Z",
-      "lastRaid": null,
-      "byDay": {}
     },
     "dc89c75d-1803-4076-8b6a-f8c42559f78a": {
       "username": "8gus",
