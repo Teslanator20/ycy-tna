@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-15T22:45:34.883Z",
+  "updated": "2026-08-15T22:50:34.631Z",
   "guild": {
     "name": "YuChaYuan",
     "prefix": "YCY",
@@ -3149,12 +3149,12 @@
       "username": "SparkyRui",
       "rank": "recruit",
       "online": true,
-      "server": "NA19",
+      "server": "NA18",
       "tna": null,
       "baselineTna": null,
       "baselineTs": null,
       "gained": 0,
-      "lastSeen": "2026-08-15T22:45:34.883Z",
+      "lastSeen": "2026-08-15T22:50:34.631Z",
       "lastRaid": null,
       "byDay": {}
     },
