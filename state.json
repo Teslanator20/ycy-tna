@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-15T04:30:48.445Z",
+  "updated": "2026-08-15T04:35:26.143Z",
   "guild": {
     "name": "YuChaYuan",
     "prefix": "YCY",
@@ -2575,12 +2575,12 @@
       "username": "SpaceMeowOWO",
       "rank": "recruiter",
       "online": true,
-      "server": "NA35",
+      "server": "NA38",
       "tna": 4,
       "baselineTna": 4,
       "baselineTs": "2026-06-06T18:47:42.183Z",
       "gained": 0,
-      "lastSeen": "2026-08-15T04:30:48.445Z",
+      "lastSeen": "2026-08-15T04:35:26.143Z",
       "lastRaid": null,
       "byDay": {
         "2026-06-16": 4,
@@ -3128,7 +3128,7 @@
       "baselineTna": null,
       "baselineTs": null,
       "gained": 0,
-      "lastSeen": "2026-08-15T04:30:48.445Z",
+      "lastSeen": "2026-08-15T04:35:26.143Z",
       "lastRaid": null,
       "byDay": {}
     },
@@ -3633,7 +3633,7 @@
       "baselineTna": 88,
       "baselineTs": "2026-06-06T18:47:42.183Z",
       "gained": 0,
-      "lastSeen": "2026-08-15T04:30:48.445Z",
+      "lastSeen": "2026-08-15T04:35:26.143Z",
       "lastRaid": null,
       "byDay": {
         "2026-06-16": 88,
@@ -4012,6 +4012,19 @@
         "2026-08-15": 4
       }
     },
+    "2ca488e3-821f-4db4-b2c2-1dbbd7dcba84": {
+      "username": "jamesk217",
+      "rank": "recruit",
+      "online": true,
+      "server": "NA26",
+      "tna": null,
+      "baselineTna": null,
+      "baselineTs": null,
+      "gained": 0,
+      "lastSeen": "2026-08-15T04:35:26.143Z",
+      "lastRaid": null,
+      "byDay": {}
+    },
     "2b4be507-abf6-4172-99d9-29e88ff231b0": {
       "username": "ANTONY_71",
       "rank": "recruit",
@@ -4086,19 +4099,6 @@
         "2026-08-14": 24,
         "2026-08-15": 24
       }
-    },
-    "2ca488e3-821f-4db4-b2c2-1dbbd7dcba84": {
-      "username": "jamesk217",
-      "rank": "recruit",
-      "online": true,
-      "server": "NA26",
-      "tna": null,
-      "baselineTna": null,
-      "baselineTs": null,
-      "gained": 0,
-      "lastSeen": "2026-08-15T04:30:48.445Z",
-      "lastRaid": null,
-      "byDay": {}
     },
     "19e9fdb1-0753-4195-ade2-9887c21d277c": {
       "username": "PuddingNeko_OxO",
