@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-15T02:00:53.665Z",
+  "updated": "2026-08-15T02:05:32.912Z",
   "guild": {
     "name": "YuChaYuan",
     "prefix": "YCY",
@@ -1015,8 +1015,8 @@
     "38bab5e1-b631-4528-aa34-2a89ff4ce2de": {
       "username": "Rabbit_flower",
       "rank": "captain",
-      "online": true,
-      "server": "NA38",
+      "online": false,
+      "server": null,
       "tna": 841,
       "baselineTna": 836,
       "baselineTs": "2026-08-14T03:30:47.838Z",
@@ -1588,7 +1588,7 @@
       "baselineTna": 256,
       "baselineTs": "2026-06-06T18:47:42.183Z",
       "gained": 74,
-      "lastSeen": "2026-08-15T02:00:53.665Z",
+      "lastSeen": "2026-08-15T02:05:32.912Z",
       "lastRaid": "2026-08-12T09:30:48.990Z",
       "byDay": {
         "2026-06-16": 256,
@@ -2307,13 +2307,13 @@
     "de06ed1c-0480-42ee-8a10-9d400bb61467": {
       "username": "9tao_",
       "rank": "recruiter",
-      "online": false,
-      "server": null,
+      "online": true,
+      "server": "NA37",
       "tna": 10,
       "baselineTna": 1,
       "baselineTs": "2026-08-01T06:25:28.907Z",
       "gained": 9,
-      "lastSeen": "2026-08-14T20:06:59.956Z",
+      "lastSeen": "2026-08-15T02:05:32.912Z",
       "lastRaid": "2026-08-13T15:15:37.826Z",
       "byDay": {
         "2026-08-01": 1,
