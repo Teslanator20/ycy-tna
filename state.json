@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-15T19:55:26.612Z",
+  "updated": "2026-08-15T19:57:46.421Z",
   "guild": {
     "name": "YuChaYuan",
     "prefix": "YCY",
@@ -1738,7 +1738,7 @@
       "baselineTna": 4,
       "baselineTs": "2026-07-24T13:40:33.852Z",
       "gained": 12,
-      "lastSeen": "2026-08-15T19:55:26.612Z",
+      "lastSeen": "2026-08-15T19:57:46.421Z",
       "lastRaid": "2026-08-05T08:00:54.120Z",
       "byDay": {
         "2026-07-24": 4,
@@ -3376,8 +3376,8 @@
     "2ca488e3-821f-4db4-b2c2-1dbbd7dcba84": {
       "username": "jamesk217",
       "rank": "recruit",
-      "online": true,
-      "server": "AS1",
+      "online": false,
+      "server": null,
       "tna": null,
       "baselineTna": null,
       "baselineTs": null,
@@ -3790,13 +3790,13 @@
     "b668fbc7-fd23-43c4-95fc-bf7f5d06c0da": {
       "username": "Even_is_Even",
       "rank": "recruit",
-      "online": false,
-      "server": null,
+      "online": true,
+      "server": "NA32",
       "tna": null,
       "baselineTna": null,
       "baselineTs": null,
       "gained": 0,
-      "lastSeen": "2026-08-15T12:45:35.569Z",
+      "lastSeen": "2026-08-15T19:57:46.421Z",
       "lastRaid": null,
       "byDay": {}
     },
