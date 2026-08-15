@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-15T04:45:35.739Z",
+  "updated": "2026-08-15T04:50:36.216Z",
   "guild": {
     "name": "YuChaYuan",
     "prefix": "YCY",
@@ -2580,7 +2580,7 @@
       "baselineTna": 4,
       "baselineTs": "2026-06-06T18:47:42.183Z",
       "gained": 0,
-      "lastSeen": "2026-08-15T04:45:35.739Z",
+      "lastSeen": "2026-08-15T04:50:36.216Z",
       "lastRaid": null,
       "byDay": {
         "2026-06-16": 4,
@@ -3123,12 +3123,12 @@
       "username": "transfe",
       "rank": "recruit",
       "online": true,
-      "server": "AS17",
+      "server": "NA14",
       "tna": null,
       "baselineTna": null,
       "baselineTs": null,
       "gained": 0,
-      "lastSeen": "2026-08-15T04:45:35.739Z",
+      "lastSeen": "2026-08-15T04:50:36.216Z",
       "lastRaid": null,
       "byDay": {}
     },
@@ -3628,12 +3628,12 @@
       "username": "NeVerL0sEs",
       "rank": "recruit",
       "online": true,
-      "server": "AS8",
+      "server": "AS13",
       "tna": 88,
       "baselineTna": 88,
       "baselineTs": "2026-06-06T18:47:42.183Z",
       "gained": 0,
-      "lastSeen": "2026-08-15T04:45:35.739Z",
+      "lastSeen": "2026-08-15T04:50:36.216Z",
       "lastRaid": null,
       "byDay": {
         "2026-06-16": 88,
@@ -3858,7 +3858,7 @@
       "baselineTna": null,
       "baselineTs": null,
       "gained": 0,
-      "lastSeen": "2026-08-15T04:45:35.739Z",
+      "lastSeen": "2026-08-15T04:50:36.216Z",
       "lastRaid": null,
       "byDay": {}
     },
