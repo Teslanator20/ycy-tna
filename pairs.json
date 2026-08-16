@@ -1521,26 +1521,26 @@
     "3cce4037-3c08-4fb9-b707-b1e0b1ebdd1c|6672330c-008f-49bf-9f85-97a0f055297a": {
       "a": "3cce4037-3c08-4fb9-b707-b1e0b1ebdd1c",
       "b": "6672330c-008f-49bf-9f85-97a0f055297a",
-      "samples": 58,
+      "samples": 59,
       "usernameA": "Linfon_Kusa",
       "usernameB": "SparkyRui",
-      "lastTs": "2026-08-16T09:00:52.743Z"
+      "lastTs": "2026-08-16T09:05:27.745Z"
     },
     "5e04e4ff-d051-4125-983b-d42b214dac80|6672330c-008f-49bf-9f85-97a0f055297a": {
       "a": "5e04e4ff-d051-4125-983b-d42b214dac80",
       "b": "6672330c-008f-49bf-9f85-97a0f055297a",
-      "samples": 22,
+      "samples": 23,
       "usernameA": "Reisen_U_Inaba",
       "usernameB": "SparkyRui",
-      "lastTs": "2026-08-16T09:00:52.743Z"
+      "lastTs": "2026-08-16T09:05:27.745Z"
     },
     "3cce4037-3c08-4fb9-b707-b1e0b1ebdd1c|5e04e4ff-d051-4125-983b-d42b214dac80": {
       "a": "3cce4037-3c08-4fb9-b707-b1e0b1ebdd1c",
       "b": "5e04e4ff-d051-4125-983b-d42b214dac80",
-      "samples": 14,
+      "samples": 15,
       "usernameA": "Linfon_Kusa",
       "usernameB": "Reisen_U_Inaba",
-      "lastTs": "2026-08-16T09:00:52.743Z"
+      "lastTs": "2026-08-16T09:05:27.745Z"
     },
     "6672330c-008f-49bf-9f85-97a0f055297a|bc683b30-127f-4e63-a10c-7a4ce84a8397": {
       "a": "6672330c-008f-49bf-9f85-97a0f055297a",
@@ -1649,10 +1649,10 @@
     "2ca488e3-821f-4db4-b2c2-1dbbd7dcba84|e4a23668-57d7-4f17-b58f-4a0fd17870ec": {
       "a": "2ca488e3-821f-4db4-b2c2-1dbbd7dcba84",
       "b": "e4a23668-57d7-4f17-b58f-4a0fd17870ec",
-      "samples": 5,
+      "samples": 6,
       "usernameA": "jamesk217",
       "usernameB": "woody123_is_god",
-      "lastTs": "2026-08-16T09:00:52.743Z"
+      "lastTs": "2026-08-16T09:05:27.745Z"
     },
     "2ca488e3-821f-4db4-b2c2-1dbbd7dcba84|92feba43-316f-47ad-a1b0-726de83940db": {
       "a": "2ca488e3-821f-4db4-b2c2-1dbbd7dcba84",
@@ -1743,5 +1743,5 @@
       "lastTs": "2026-08-16T08:50:36.402Z"
     }
   },
-  "updated": "2026-08-16T09:00:52.743Z"
+  "updated": "2026-08-16T09:05:27.745Z"
 }
