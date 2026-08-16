@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-16T05:55:27.408Z",
+  "updated": "2026-08-16T06:00:55.187Z",
   "guild": {
     "name": "YuChaYuan",
     "prefix": "YCY",
@@ -7,7 +7,7 @@
     "raidShort": "TNA",
     "color": "#2ca089"
   },
-  "online": 4,
+  "online": 3,
   "memberCount": 87,
   "members": {
     "01ca79a1-7805-4458-b52d-cfb7f809a808": {
@@ -1585,12 +1585,12 @@
       "username": "Reisen_U_Inaba",
       "rank": "recruiter",
       "online": true,
-      "server": "AS3",
+      "server": "AS10",
       "tna": 330,
       "baselineTna": 256,
       "baselineTs": "2026-06-06T18:47:42.183Z",
       "gained": 74,
-      "lastSeen": "2026-08-16T05:55:27.408Z",
+      "lastSeen": "2026-08-16T06:00:55.187Z",
       "lastRaid": "2026-08-12T09:30:48.990Z",
       "byDay": {
         "2026-06-17": 256,
@@ -1740,7 +1740,7 @@
       "baselineTna": 4,
       "baselineTs": "2026-07-24T13:40:33.852Z",
       "gained": 12,
-      "lastSeen": "2026-08-16T05:55:27.408Z",
+      "lastSeen": "2026-08-16T06:00:55.187Z",
       "lastRaid": "2026-08-05T08:00:54.120Z",
       "byDay": {
         "2026-07-24": 4,
@@ -3651,7 +3651,7 @@
       "baselineTna": 88,
       "baselineTs": "2026-06-06T18:47:42.183Z",
       "gained": 0,
-      "lastSeen": "2026-08-16T05:55:27.408Z",
+      "lastSeen": "2026-08-16T06:00:55.187Z",
       "lastRaid": null,
       "byDay": {
         "2026-06-17": 88,
@@ -3720,8 +3720,8 @@
     "b668fbc7-fd23-43c4-95fc-bf7f5d06c0da": {
       "username": "Even_is_Even",
       "rank": "recruit",
-      "online": true,
-      "server": "AS10",
+      "online": false,
+      "server": null,
       "tna": null,
       "baselineTna": null,
       "baselineTs": null,
