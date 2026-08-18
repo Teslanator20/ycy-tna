@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-18T13:35:30.686Z",
+  "updated": "2026-08-18T13:40:34.405Z",
   "guild": {
     "name": "YuChaYuan",
     "prefix": "YCY",
@@ -1487,12 +1487,12 @@
       "username": "Ace_TheKing",
       "rank": "captain",
       "online": true,
-      "server": "AS11",
+      "server": "AS3",
       "tna": null,
       "baselineTna": null,
       "baselineTs": null,
       "gained": 0,
-      "lastSeen": "2026-08-18T13:35:30.686Z",
+      "lastSeen": "2026-08-18T13:40:34.405Z",
       "lastRaid": null,
       "byDay": {}
     },
