@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-22T12:30:47.497Z",
+  "updated": "2026-08-22T12:35:27.657Z",
   "guild": {
     "name": "YuChaYuan",
     "prefix": "YCY",
@@ -7,7 +7,7 @@
     "raidShort": "TNA",
     "color": "#2ca089"
   },
-  "online": 4,
+  "online": 3,
   "memberCount": 88,
   "members": {
     "01ca79a1-7805-4458-b52d-cfb7f809a808": {
@@ -238,13 +238,13 @@
     "497f4a05-e2e7-4e0b-97f5-bc1fdf4c7522": {
       "username": "MrMud8033112",
       "rank": "chief",
-      "online": false,
-      "server": null,
+      "online": true,
+      "server": "AS15",
       "tna": 242,
       "baselineTna": 242,
       "baselineTs": "2026-06-06T18:47:42.183Z",
       "gained": 0,
-      "lastSeen": "2026-08-21T09:05:32.868Z",
+      "lastSeen": "2026-08-22T12:35:27.657Z",
       "lastRaid": null,
       "byDay": {
         "2026-06-23": 242,
@@ -1592,12 +1592,12 @@
       "username": "Reisen_U_Inaba",
       "rank": "recruiter",
       "online": true,
-      "server": "AS18",
+      "server": "AS1",
       "tna": 362,
       "baselineTna": 256,
       "baselineTs": "2026-06-06T18:47:42.183Z",
       "gained": 106,
-      "lastSeen": "2026-08-22T12:30:47.497Z",
+      "lastSeen": "2026-08-22T12:35:27.657Z",
       "lastRaid": "2026-08-18T15:25:27.540Z",
       "byDay": {
         "2026-06-23": 256,
@@ -1741,8 +1741,8 @@
     "e4a23668-57d7-4f17-b58f-4a0fd17870ec": {
       "username": "woody123_is_god",
       "rank": "recruiter",
-      "online": true,
-      "server": "AS16",
+      "online": false,
+      "server": null,
       "tna": 16,
       "baselineTna": 4,
       "baselineTs": "2026-07-24T13:40:33.852Z",
@@ -3165,8 +3165,8 @@
     "92feba43-316f-47ad-a1b0-726de83940db": {
       "username": "transfe",
       "rank": "recruit",
-      "online": true,
-      "server": "AS16",
+      "online": false,
+      "server": null,
       "tna": null,
       "baselineTna": null,
       "baselineTs": null,
@@ -3588,7 +3588,7 @@
       "baselineTna": null,
       "baselineTs": null,
       "gained": 0,
-      "lastSeen": "2026-08-22T12:30:47.497Z",
+      "lastSeen": "2026-08-22T12:35:27.657Z",
       "lastRaid": null,
       "byDay": {}
     },
