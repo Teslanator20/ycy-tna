@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-23T06:20:37.486Z",
+  "updated": "2026-08-23T06:25:28.363Z",
   "guild": {
     "name": "YuChaYuan",
     "prefix": "YCY",
@@ -1569,12 +1569,12 @@
       "username": "Reisen_U_Inaba",
       "rank": "recruiter",
       "online": true,
-      "server": "AS21",
+      "server": "AS22",
       "tna": 362,
       "baselineTna": 256,
       "baselineTs": "2026-06-06T18:47:42.183Z",
       "gained": 106,
-      "lastSeen": "2026-08-23T06:20:37.486Z",
+      "lastSeen": "2026-08-23T06:25:28.363Z",
       "lastRaid": "2026-08-18T15:25:27.540Z",
       "byDay": {
         "2026-06-24": 256,
