@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-27T12:10:38.817Z",
+  "updated": "2026-08-27T12:15:37.195Z",
   "guild": {
     "name": "YuChaYuan",
     "prefix": "YCY",
@@ -3575,12 +3575,12 @@
       "username": "Even_is_Even",
       "rank": "recruit",
       "online": true,
-      "server": "NA16",
+      "server": "AS11",
       "tna": null,
       "baselineTna": null,
       "baselineTs": null,
       "gained": 0,
-      "lastSeen": "2026-08-27T12:10:38.817Z",
+      "lastSeen": "2026-08-27T12:15:37.195Z",
       "lastRaid": null,
       "byDay": {}
     },
