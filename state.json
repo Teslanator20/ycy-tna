@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-02T15:40:41.576Z",
+  "updated": "2026-09-02T15:45:36.503Z",
   "guild": {
     "name": "YuChaYuan",
     "prefix": "YCY",
@@ -7,7 +7,7 @@
     "raidShort": "TNA",
     "color": "#2ca089"
   },
-  "online": 2,
+  "online": 3,
   "memberCount": 86,
   "members": {
     "01ca79a1-7805-4458-b52d-cfb7f809a808": {
@@ -244,7 +244,7 @@
       "baselineTna": 242,
       "baselineTs": "2026-06-06T18:47:42.183Z",
       "gained": 0,
-      "lastSeen": "2026-09-02T15:40:41.576Z",
+      "lastSeen": "2026-09-02T15:45:36.503Z",
       "lastRaid": null,
       "byDay": {
         "2026-07-04": 242,
@@ -482,7 +482,7 @@
       "baselineTna": 256,
       "baselineTs": "2026-06-06T18:47:42.183Z",
       "gained": 120,
-      "lastSeen": "2026-09-02T15:40:41.576Z",
+      "lastSeen": "2026-09-02T15:45:36.503Z",
       "lastRaid": "2026-08-31T11:25:33.427Z",
       "byDay": {
         "2026-07-04": 271,
@@ -1773,13 +1773,13 @@
     "b9c2e93b-7902-4b2a-af5b-e743f514a073": {
       "username": "Robbie04",
       "rank": "recruiter",
-      "online": false,
-      "server": null,
+      "online": true,
+      "server": "AS21",
       "tna": 462,
       "baselineTna": 455,
       "baselineTs": "2026-06-06T18:47:42.183Z",
       "gained": 7,
-      "lastSeen": "2026-09-02T14:45:42.853Z",
+      "lastSeen": "2026-09-02T15:45:36.503Z",
       "lastRaid": "2026-09-02T14:15:40.493Z",
       "byDay": {
         "2026-07-04": 455,
