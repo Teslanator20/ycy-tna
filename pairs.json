@@ -44,6 +44,15 @@
       "usernameA": "Green_teaTW",
       "usernameB": "0110jimmy",
       "lastTs": "2026-09-02T03:01:02.550Z"
+    },
+    "4791eb57-3607-4647-8d4f-59aaa879c5a4|de06ed1c-0480-42ee-8a10-9d400bb61467": {
+      "a": "4791eb57-3607-4647-8d4f-59aaa879c5a4",
+      "b": "de06ed1c-0480-42ee-8a10-9d400bb61467",
+      "count": 1,
+      "confirmed": 1,
+      "usernameA": "0110jimmy",
+      "usernameB": "9tao_",
+      "lastTs": "2026-09-02T05:55:28.215Z"
     }
   },
   "copresence": {
@@ -1888,5 +1897,5 @@
       "lastTs": "2026-08-30T13:25:37.450Z"
     }
   },
-  "updated": "2026-09-02T05:50:36.464Z"
+  "updated": "2026-09-02T05:55:28.215Z"
 }
