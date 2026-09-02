@@ -35,6 +35,15 @@
       "usernameA": "ggyyman120",
       "usernameB": "kenlin1111",
       "lastTs": "2026-07-03T18:10:37.347Z"
+    },
+    "01ca79a1-7805-4458-b52d-cfb7f809a808|4791eb57-3607-4647-8d4f-59aaa879c5a4": {
+      "a": "01ca79a1-7805-4458-b52d-cfb7f809a808",
+      "b": "4791eb57-3607-4647-8d4f-59aaa879c5a4",
+      "count": 1,
+      "confirmed": 1,
+      "usernameA": "Green_teaTW",
+      "usernameB": "0110jimmy",
+      "lastTs": "2026-09-02T03:01:02.550Z"
     }
   },
   "copresence": {
@@ -1879,5 +1888,5 @@
       "lastTs": "2026-08-30T13:25:37.450Z"
     }
   },
-  "updated": "2026-09-02T02:55:30.788Z"
+  "updated": "2026-09-02T03:01:02.550Z"
 }
