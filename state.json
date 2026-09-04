@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-04T04:00:55.412Z",
+  "updated": "2026-09-04T04:05:31.962Z",
   "guild": {
     "name": "YuChaYuan",
     "prefix": "YCY",
@@ -94,7 +94,7 @@
       "baselineTna": 1502,
       "baselineTs": "2026-06-06T18:47:42.183Z",
       "gained": 32,
-      "lastSeen": "2026-09-04T04:00:55.412Z",
+      "lastSeen": "2026-09-04T04:05:31.962Z",
       "lastRaid": "2026-09-04T03:45:36.950Z",
       "byDay": {
         "2026-07-06": 1502,
@@ -1775,13 +1775,13 @@
     "b9c2e93b-7902-4b2a-af5b-e743f514a073": {
       "username": "Robbie04",
       "rank": "recruiter",
-      "online": false,
-      "server": null,
+      "online": true,
+      "server": "AS18",
       "tna": 462,
       "baselineTna": 455,
       "baselineTs": "2026-06-06T18:47:42.183Z",
       "gained": 7,
-      "lastSeen": "2026-09-03T18:20:46.725Z",
+      "lastSeen": "2026-09-04T04:05:31.962Z",
       "lastRaid": "2026-09-02T14:15:40.493Z",
       "byDay": {
         "2026-07-06": 455,
@@ -3578,24 +3578,11 @@
         "2026-09-04": 117
       }
     },
-    "35fed1f0-7819-454c-912f-6d3827ad4e83": {
-      "username": "LegendxLove",
-      "rank": "recruit",
-      "online": false,
-      "server": null,
-      "tna": null,
-      "baselineTna": null,
-      "baselineTs": null,
-      "gained": 0,
-      "lastSeen": null,
-      "lastRaid": null,
-      "byDay": {}
-    },
     "b668fbc7-fd23-43c4-95fc-bf7f5d06c0da": {
       "username": "Even_is_Even",
       "rank": "recruit",
-      "online": true,
-      "server": "AS19",
+      "online": false,
+      "server": null,
       "tna": 1,
       "baselineTna": 1,
       "baselineTs": "2026-08-27T12:50:47.599Z",
@@ -3613,6 +3600,19 @@
         "2026-09-03": 1,
         "2026-09-04": 1
       }
+    },
+    "35fed1f0-7819-454c-912f-6d3827ad4e83": {
+      "username": "LegendxLove",
+      "rank": "recruit",
+      "online": false,
+      "server": null,
+      "tna": null,
+      "baselineTna": null,
+      "baselineTs": null,
+      "gained": 0,
+      "lastSeen": null,
+      "lastRaid": null,
+      "byDay": {}
     },
     "ebb863f2-2289-4d86-9e91-a2c653e84168": {
       "username": "AWin517",
