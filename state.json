@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-16T10:02:43.141Z",
+  "updated": "2026-09-16T10:05:32.407Z",
   "guild": {
     "name": "YuChaYuan",
     "prefix": "YCY",
@@ -705,12 +705,12 @@
       "username": "MinerBlackcat",
       "rank": "strategist",
       "online": true,
-      "server": "AS2",
+      "server": "NA13",
       "tna": 45,
       "baselineTna": 45,
       "baselineTs": "2026-06-06T18:47:42.183Z",
       "gained": 0,
-      "lastSeen": "2026-09-16T10:02:43.141Z",
+      "lastSeen": "2026-09-16T10:05:32.407Z",
       "lastRaid": null,
       "byDay": {
         "2026-07-18": 45,
