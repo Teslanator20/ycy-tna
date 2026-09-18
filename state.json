@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-18T07:50:39.614Z",
+  "updated": "2026-09-18T07:55:32.597Z",
   "guild": {
     "name": "YuChaYuan",
     "prefix": "YCY",
@@ -4220,6 +4220,21 @@
       "lastRaid": null,
       "byDay": {}
     },
+    "bdf4d139-41bb-41f7-a20e-6411f840eab4": {
+      "username": "StopRain",
+      "rank": "recruit",
+      "online": true,
+      "server": "AS15",
+      "tna": 26,
+      "baselineTna": 26,
+      "baselineTs": "2026-09-18T07:45:37.390Z",
+      "gained": 0,
+      "lastSeen": "2026-09-18T07:55:32.597Z",
+      "lastRaid": null,
+      "byDay": {
+        "2026-09-18": 26
+      }
+    },
     "3dadd5e8-0fa5-4c08-a25b-f1dab2ea9c23": {
       "username": "eggtartgogo",
       "rank": "recruit",
@@ -4306,21 +4321,6 @@
         "2026-09-16": 417,
         "2026-09-17": 417,
         "2026-09-18": 417
-      }
-    },
-    "bdf4d139-41bb-41f7-a20e-6411f840eab4": {
-      "username": "StopRain",
-      "rank": "recruit",
-      "online": true,
-      "server": "AS15",
-      "tna": 26,
-      "baselineTna": 26,
-      "baselineTs": "2026-09-18T07:45:37.390Z",
-      "gained": 0,
-      "lastSeen": "2026-09-18T07:50:39.614Z",
-      "lastRaid": null,
-      "byDay": {
-        "2026-09-18": 26
       }
     },
     "171e4ef3-9382-47c5-bfd8-e1c8ac97d50c": {
