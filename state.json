@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-19T01:45:36.236Z",
+  "updated": "2026-09-19T01:51:12.427Z",
   "guild": {
     "name": "YuChaYuan",
     "prefix": "YCY",
@@ -7,7 +7,7 @@
     "raidShort": "TNA",
     "color": "#2ca089"
   },
-  "online": 2,
+  "online": 4,
   "memberCount": 90,
   "members": {
     "01ca79a1-7805-4458-b52d-cfb7f809a808": {
@@ -2079,13 +2079,13 @@
     "9984b190-a88e-492c-8831-fcf2699b98f4": {
       "username": "FireMan9534",
       "rank": "recruiter",
-      "online": false,
-      "server": null,
+      "online": true,
+      "server": "AS16",
       "tna": 368,
       "baselineTna": 360,
       "baselineTs": "2026-06-06T18:47:42.183Z",
       "gained": 8,
-      "lastSeen": "2026-09-06T16:10:38.984Z",
+      "lastSeen": "2026-09-19T01:51:12.427Z",
       "lastRaid": "2026-07-28T10:20:37.288Z",
       "byDay": {
         "2026-07-21": 364,
@@ -3260,12 +3260,12 @@
       "username": "21126yue",
       "rank": "recruit",
       "online": true,
-      "server": "NA22",
+      "server": "AS16",
       "tna": null,
       "baselineTna": null,
       "baselineTs": null,
       "gained": 0,
-      "lastSeen": "2026-09-19T01:45:36.236Z",
+      "lastSeen": "2026-09-19T01:51:12.427Z",
       "lastRaid": null,
       "byDay": {}
     },
@@ -4144,7 +4144,7 @@
       "baselineTna": 26,
       "baselineTs": "2026-09-18T07:45:37.390Z",
       "gained": 0,
-      "lastSeen": "2026-09-19T01:45:36.236Z",
+      "lastSeen": "2026-09-19T01:51:12.427Z",
       "lastRaid": null,
       "byDay": {
         "2026-09-18": 26,
@@ -4330,13 +4330,13 @@
     "35a6a719-027c-4c77-b7be-1ecc7458b8bd": {
       "username": "Tomzd90",
       "rank": "recruit",
-      "online": false,
-      "server": null,
+      "online": true,
+      "server": "NA3",
       "tna": 1,
       "baselineTna": 1,
       "baselineTs": "2026-09-18T15:20:46.123Z",
       "gained": 0,
-      "lastSeen": "2026-09-18T17:25:31.263Z",
+      "lastSeen": "2026-09-19T01:51:12.427Z",
       "lastRaid": null,
       "byDay": {
         "2026-09-18": 1,
