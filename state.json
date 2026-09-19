@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-19T03:50:39.286Z",
+  "updated": "2026-09-19T03:55:28.465Z",
   "guild": {
     "name": "YuChaYuan",
     "prefix": "YCY",
@@ -4144,7 +4144,7 @@
       "baselineTna": 26,
       "baselineTs": "2026-09-18T07:45:37.390Z",
       "gained": 0,
-      "lastSeen": "2026-09-19T03:50:39.286Z",
+      "lastSeen": "2026-09-19T03:55:28.465Z",
       "lastRaid": null,
       "byDay": {
         "2026-09-18": 26,
@@ -4239,6 +4239,22 @@
       "lastRaid": null,
       "byDay": {}
     },
+    "35a6a719-027c-4c77-b7be-1ecc7458b8bd": {
+      "username": "Tomzd90",
+      "rank": "recruit",
+      "online": true,
+      "server": "AS12",
+      "tna": 1,
+      "baselineTna": 1,
+      "baselineTs": "2026-09-18T15:20:46.123Z",
+      "gained": 0,
+      "lastSeen": "2026-09-19T03:55:28.465Z",
+      "lastRaid": null,
+      "byDay": {
+        "2026-09-18": 1,
+        "2026-09-19": 1
+      }
+    },
     "3dadd5e8-0fa5-4c08-a25b-f1dab2ea9c23": {
       "username": "eggtartgogo",
       "rank": "recruit",
@@ -4251,22 +4267,6 @@
       "lastSeen": "2026-07-15T19:55:29.167Z",
       "lastRaid": null,
       "byDay": {}
-    },
-    "35a6a719-027c-4c77-b7be-1ecc7458b8bd": {
-      "username": "Tomzd90",
-      "rank": "recruit",
-      "online": true,
-      "server": "AS12",
-      "tna": 1,
-      "baselineTna": 1,
-      "baselineTs": "2026-09-18T15:20:46.123Z",
-      "gained": 0,
-      "lastSeen": "2026-09-19T03:50:39.286Z",
-      "lastRaid": null,
-      "byDay": {
-        "2026-09-18": 1,
-        "2026-09-19": 1
-      }
     },
     "6c13e0b2-c58e-4287-9286-7d8a197fc582": {
       "username": "NonE1011821",
