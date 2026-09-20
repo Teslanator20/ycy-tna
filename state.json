@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-20T14:25:32.364Z",
+  "updated": "2026-09-20T14:30:50.098Z",
   "guild": {
     "name": "YuChaYuan",
     "prefix": "YCY",
@@ -935,7 +935,7 @@
       "baselineTna": 4,
       "baselineTs": "2026-07-24T13:40:33.852Z",
       "gained": 12,
-      "lastSeen": "2026-09-20T14:25:32.364Z",
+      "lastSeen": "2026-09-20T14:30:50.098Z",
       "lastRaid": "2026-08-05T08:00:54.120Z",
       "byDay": {
         "2026-07-24": 4,
@@ -3217,7 +3217,7 @@
       "baselineTna": 1,
       "baselineTs": "2026-09-19T11:45:35.709Z",
       "gained": 3,
-      "lastSeen": "2026-09-20T14:25:32.364Z",
+      "lastSeen": "2026-09-20T14:30:50.098Z",
       "lastRaid": "2026-09-20T08:16:12.804Z",
       "byDay": {
         "2026-09-19": 1,
@@ -3280,12 +3280,12 @@
       "username": "Tomzd90",
       "rank": "recruit",
       "online": true,
-      "server": "AS6",
+      "server": "NA12",
       "tna": 4,
       "baselineTna": 1,
       "baselineTs": "2026-09-18T15:20:46.123Z",
       "gained": 3,
-      "lastSeen": "2026-09-20T14:25:32.364Z",
+      "lastSeen": "2026-09-20T14:30:50.098Z",
       "lastRaid": "2026-09-20T08:16:12.804Z",
       "byDay": {
         "2026-09-18": 1,
@@ -3886,6 +3886,19 @@
         "2026-09-20": 1
       }
     },
+    "4b34b4a2-5391-44de-a7d2-85c1973117d3": {
+      "username": "salder_uwu",
+      "rank": "recruit",
+      "online": true,
+      "server": "AS14",
+      "tna": null,
+      "baselineTna": null,
+      "baselineTs": null,
+      "gained": 0,
+      "lastSeen": "2026-09-20T14:30:50.098Z",
+      "lastRaid": null,
+      "byDay": {}
+    },
     "6f4f9f1b-e1a9-48ca-8bd1-5e46fb688fef": {
       "username": "ChocoCookies_322",
       "rank": "recruit",
@@ -4035,19 +4048,6 @@
         "2026-09-19": 24,
         "2026-09-20": 24
       }
-    },
-    "4b34b4a2-5391-44de-a7d2-85c1973117d3": {
-      "username": "salder_uwu",
-      "rank": "recruit",
-      "online": true,
-      "server": "AS14",
-      "tna": null,
-      "baselineTna": null,
-      "baselineTs": null,
-      "gained": 0,
-      "lastSeen": "2026-09-20T14:25:32.364Z",
-      "lastRaid": null,
-      "byDay": {}
     },
     "b223c20c-1615-45fe-85cd-4e85a782b161": {
       "username": "Hectoooooor",
@@ -4208,7 +4208,7 @@
       "baselineTna": 26,
       "baselineTs": "2026-09-18T07:45:37.390Z",
       "gained": 0,
-      "lastSeen": "2026-09-20T14:25:32.364Z",
+      "lastSeen": "2026-09-20T14:30:50.098Z",
       "lastRaid": null,
       "byDay": {
         "2026-09-18": 26,
