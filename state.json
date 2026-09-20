@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-20T10:00:59.790Z",
+  "updated": "2026-09-20T10:05:30.620Z",
   "guild": {
     "name": "YuChaYuan",
     "prefix": "YCY",
@@ -935,7 +935,7 @@
       "baselineTna": 4,
       "baselineTs": "2026-07-24T13:40:33.852Z",
       "gained": 12,
-      "lastSeen": "2026-09-20T10:00:59.790Z",
+      "lastSeen": "2026-09-20T10:05:30.620Z",
       "lastRaid": "2026-08-05T08:00:54.120Z",
       "byDay": {
         "2026-07-24": 4,
@@ -3202,7 +3202,7 @@
       "baselineTna": 3,
       "baselineTs": "2026-09-20T08:05:31.932Z",
       "gained": 0,
-      "lastSeen": "2026-09-20T10:00:59.790Z",
+      "lastSeen": "2026-09-20T10:05:30.620Z",
       "lastRaid": null,
       "byDay": {
         "2026-09-20": 3
@@ -3285,7 +3285,7 @@
       "baselineTna": 1,
       "baselineTs": "2026-09-18T15:20:46.123Z",
       "gained": 3,
-      "lastSeen": "2026-09-20T10:00:59.790Z",
+      "lastSeen": "2026-09-20T10:05:30.620Z",
       "lastRaid": "2026-09-20T08:16:12.804Z",
       "byDay": {
         "2026-09-18": 1,
@@ -4186,6 +4186,19 @@
         "2026-09-20": 4
       }
     },
+    "4b34b4a2-5391-44de-a7d2-85c1973117d3": {
+      "username": "salder_uwu",
+      "rank": "recruit",
+      "online": true,
+      "server": "AS15",
+      "tna": null,
+      "baselineTna": null,
+      "baselineTs": null,
+      "gained": 0,
+      "lastSeen": "2026-09-20T10:05:30.620Z",
+      "lastRaid": null,
+      "byDay": {}
+    },
     "bdf4d139-41bb-41f7-a20e-6411f840eab4": {
       "username": "StopRain",
       "rank": "recruit",
@@ -4195,7 +4208,7 @@
       "baselineTna": 26,
       "baselineTs": "2026-09-18T07:45:37.390Z",
       "gained": 0,
-      "lastSeen": "2026-09-20T10:00:59.790Z",
+      "lastSeen": "2026-09-20T10:05:30.620Z",
       "lastRaid": null,
       "byDay": {
         "2026-09-18": 26,
@@ -4277,19 +4290,6 @@
         "2026-09-19": 9,
         "2026-09-20": 9
       }
-    },
-    "4b34b4a2-5391-44de-a7d2-85c1973117d3": {
-      "username": "salder_uwu",
-      "rank": "recruit",
-      "online": true,
-      "server": "AS15",
-      "tna": null,
-      "baselineTna": null,
-      "baselineTs": null,
-      "gained": 0,
-      "lastSeen": "2026-09-20T10:00:59.790Z",
-      "lastRaid": null,
-      "byDay": {}
     },
     "dc89c75d-1803-4076-8b6a-f8c42559f78a": {
       "username": "8gus",
