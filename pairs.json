@@ -380,10 +380,10 @@
     "2b4be507-abf6-4172-99d9-29e88ff231b0|e2b6e8e4-0265-44c6-8892-a63733adc7fa": {
       "a": "2b4be507-abf6-4172-99d9-29e88ff231b0",
       "b": "e2b6e8e4-0265-44c6-8892-a63733adc7fa",
-      "samples": 225,
+      "samples": 226,
       "usernameA": "ANTONY_71",
       "usernameB": "YoyoBreaker",
-      "lastTs": "2026-09-21T09:55:34.002Z"
+      "lastTs": "2026-09-21T10:01:00.267Z"
     },
     "d12455ec-9194-492d-8e6e-6794b678e8f4|e2b6e8e4-0265-44c6-8892-a63733adc7fa": {
       "a": "d12455ec-9194-492d-8e6e-6794b678e8f4",
@@ -2184,7 +2184,23 @@
       "usernameA": "Ousu_",
       "usernameB": "MinerBlackcat",
       "lastTs": "2026-09-20T15:15:41.425Z"
+    },
+    "bdf4d139-41bb-41f7-a20e-6411f840eab4|e2b6e8e4-0265-44c6-8892-a63733adc7fa": {
+      "a": "bdf4d139-41bb-41f7-a20e-6411f840eab4",
+      "b": "e2b6e8e4-0265-44c6-8892-a63733adc7fa",
+      "samples": 1,
+      "usernameA": "StopRain",
+      "usernameB": "YoyoBreaker",
+      "lastTs": "2026-09-21T10:01:00.267Z"
+    },
+    "2b4be507-abf6-4172-99d9-29e88ff231b0|bdf4d139-41bb-41f7-a20e-6411f840eab4": {
+      "a": "2b4be507-abf6-4172-99d9-29e88ff231b0",
+      "b": "bdf4d139-41bb-41f7-a20e-6411f840eab4",
+      "samples": 1,
+      "usernameA": "ANTONY_71",
+      "usernameB": "StopRain",
+      "lastTs": "2026-09-21T10:01:00.267Z"
     }
   },
-  "updated": "2026-09-21T09:55:34.002Z"
+  "updated": "2026-09-21T10:01:00.267Z"
 }
