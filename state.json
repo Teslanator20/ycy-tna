@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-23T08:40:39.065Z",
+  "updated": "2026-09-23T08:45:39.622Z",
   "guild": {
     "name": "YuChaYuan",
     "prefix": "YCY",
@@ -705,12 +705,12 @@
       "username": "MinerBlackcat",
       "rank": "strategist",
       "online": true,
-      "server": "NA10",
+      "server": "NA12",
       "tna": 45,
       "baselineTna": 45,
       "baselineTs": "2026-06-06T18:47:42.183Z",
       "gained": 0,
-      "lastSeen": "2026-09-23T08:40:39.065Z",
+      "lastSeen": "2026-09-23T08:45:39.622Z",
       "lastRaid": null,
       "byDay": {
         "2026-07-25": 45,
@@ -1466,7 +1466,7 @@
       "baselineTna": 3,
       "baselineTs": "2026-09-20T08:05:31.932Z",
       "gained": 2,
-      "lastSeen": "2026-09-23T08:40:39.065Z",
+      "lastSeen": "2026-09-23T08:45:39.622Z",
       "lastRaid": "2026-09-22T16:25:31.496Z",
       "byDay": {
         "2026-09-20": 3,
@@ -3257,7 +3257,7 @@
       "baselineTna": 1,
       "baselineTs": "2026-09-18T15:20:46.123Z",
       "gained": 4,
-      "lastSeen": "2026-09-23T08:40:39.065Z",
+      "lastSeen": "2026-09-23T08:45:39.622Z",
       "lastRaid": "2026-09-22T16:55:35.029Z",
       "byDay": {
         "2026-09-18": 1,
@@ -3342,7 +3342,7 @@
       "baselineTna": 26,
       "baselineTs": "2026-09-18T07:45:37.390Z",
       "gained": 0,
-      "lastSeen": "2026-09-23T08:40:39.065Z",
+      "lastSeen": "2026-09-23T08:45:39.622Z",
       "lastRaid": null,
       "byDay": {
         "2026-09-18": 26,
