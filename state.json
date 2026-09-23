@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-23T03:55:29.317Z",
+  "updated": "2026-09-23T04:01:00.541Z",
   "guild": {
     "name": "YuChaYuan",
     "prefix": "YCY",
@@ -7,7 +7,7 @@
     "raidShort": "TNA",
     "color": "#2ca089"
   },
-  "online": 0,
+  "online": 1,
   "memberCount": 94,
   "members": {
     "0aef2f69-7099-4658-ba4a-c8227e3ee974": {
@@ -704,13 +704,13 @@
     "72a0d7d4-13c8-49c6-8296-2a699fabd89a": {
       "username": "MinerBlackcat",
       "rank": "strategist",
-      "online": false,
-      "server": null,
+      "online": true,
+      "server": "AS4",
       "tna": 45,
       "baselineTna": 45,
       "baselineTs": "2026-06-06T18:47:42.183Z",
       "gained": 0,
-      "lastSeen": "2026-09-22T09:40:38.755Z",
+      "lastSeen": "2026-09-23T04:01:00.541Z",
       "lastRaid": null,
       "byDay": {
         "2026-07-25": 45,
