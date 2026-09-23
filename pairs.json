@@ -62,6 +62,15 @@
       "usernameA": "Tomzd90",
       "usernameB": "Ku_Dar",
       "lastTs": "2026-09-20T08:16:12.804Z"
+    },
+    "a0c7bd60-494b-4273-bbb7-fa648745e7df|e4a23668-57d7-4f17-b58f-4a0fd17870ec": {
+      "a": "a0c7bd60-494b-4273-bbb7-fa648745e7df",
+      "b": "e4a23668-57d7-4f17-b58f-4a0fd17870ec",
+      "count": 1,
+      "confirmed": 1,
+      "usernameA": "serious214",
+      "usernameB": "woody123_is_god",
+      "lastTs": "2026-09-23T17:40:41.458Z"
     }
   },
   "copresence": {
@@ -2244,10 +2253,10 @@
     "a0c7bd60-494b-4273-bbb7-fa648745e7df|e4a23668-57d7-4f17-b58f-4a0fd17870ec": {
       "a": "a0c7bd60-494b-4273-bbb7-fa648745e7df",
       "b": "e4a23668-57d7-4f17-b58f-4a0fd17870ec",
-      "samples": 19,
+      "samples": 20,
       "usernameA": "serious214",
       "usernameB": "woody123_is_god",
-      "lastTs": "2026-09-23T17:35:34.530Z"
+      "lastTs": "2026-09-23T17:40:41.458Z"
     },
     "a0c7bd60-494b-4273-bbb7-fa648745e7df|a3c587d3-c4e3-43c1-9cf6-fd3850624161": {
       "a": "a0c7bd60-494b-4273-bbb7-fa648745e7df",
@@ -2258,5 +2267,5 @@
       "lastTs": "2026-09-23T15:05:34.535Z"
     }
   },
-  "updated": "2026-09-23T17:35:34.530Z"
+  "updated": "2026-09-23T17:40:41.458Z"
 }
