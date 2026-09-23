@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-23T06:25:32.079Z",
+  "updated": "2026-09-23T06:31:01.618Z",
   "guild": {
     "name": "YuChaYuan",
     "prefix": "YCY",
@@ -710,7 +710,7 @@
       "baselineTna": 45,
       "baselineTs": "2026-06-06T18:47:42.183Z",
       "gained": 0,
-      "lastSeen": "2026-09-23T06:25:32.079Z",
+      "lastSeen": "2026-09-23T06:31:01.618Z",
       "lastRaid": null,
       "byDay": {
         "2026-07-25": 45,
@@ -3270,7 +3270,7 @@
       "baselineTna": 1,
       "baselineTs": "2026-09-18T15:20:46.123Z",
       "gained": 4,
-      "lastSeen": "2026-09-23T06:25:32.079Z",
+      "lastSeen": "2026-09-23T06:31:01.618Z",
       "lastRaid": "2026-09-22T16:55:35.029Z",
       "byDay": {
         "2026-09-18": 1,
@@ -3363,6 +3363,26 @@
         "2026-09-23": 1
       }
     },
+    "bdf4d139-41bb-41f7-a20e-6411f840eab4": {
+      "username": "StopRain",
+      "rank": "recruit",
+      "online": true,
+      "server": "AS15",
+      "tna": 26,
+      "baselineTna": 26,
+      "baselineTs": "2026-09-18T07:45:37.390Z",
+      "gained": 0,
+      "lastSeen": "2026-09-23T06:31:01.618Z",
+      "lastRaid": null,
+      "byDay": {
+        "2026-09-18": 26,
+        "2026-09-19": 26,
+        "2026-09-20": 26,
+        "2026-09-21": 26,
+        "2026-09-22": 26,
+        "2026-09-23": 26
+      }
+    },
     "69548b17-a02c-498e-a930-8fb08c0ad50f": {
       "username": "Chimichangachaz",
       "rank": "recruit",
@@ -3375,26 +3395,6 @@
       "lastSeen": "2026-09-14T13:05:32.274Z",
       "lastRaid": null,
       "byDay": {}
-    },
-    "bdf4d139-41bb-41f7-a20e-6411f840eab4": {
-      "username": "StopRain",
-      "rank": "recruit",
-      "online": true,
-      "server": "AS15",
-      "tna": 26,
-      "baselineTna": 26,
-      "baselineTs": "2026-09-18T07:45:37.390Z",
-      "gained": 0,
-      "lastSeen": "2026-09-23T06:25:32.079Z",
-      "lastRaid": null,
-      "byDay": {
-        "2026-09-18": 26,
-        "2026-09-19": 26,
-        "2026-09-20": 26,
-        "2026-09-21": 26,
-        "2026-09-22": 26,
-        "2026-09-23": 26
-      }
     },
     "8cd7b0e9-bc48-439e-b84e-732296be756c": {
       "username": "shugezShu",
