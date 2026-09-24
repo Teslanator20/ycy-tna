@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-24T10:15:45.993Z",
+  "updated": "2026-09-24T10:18:01.386Z",
   "guild": {
     "name": "YuChaYuan",
     "prefix": "YCY",
@@ -7,7 +7,7 @@
     "raidShort": "TNA",
     "color": "#2ca089"
   },
-  "online": 4,
+  "online": 3,
   "memberCount": 94,
   "members": {
     "0aef2f69-7099-4658-ba4a-c8227e3ee974": {
@@ -497,7 +497,7 @@
       "baselineTna": 256,
       "baselineTs": "2026-06-06T18:47:42.183Z",
       "gained": 124,
-      "lastSeen": "2026-09-24T10:15:45.993Z",
+      "lastSeen": "2026-09-24T10:18:01.386Z",
       "lastRaid": "2026-09-08T15:50:40.461Z",
       "byDay": {
         "2026-07-26": 282,
@@ -2427,7 +2427,7 @@
       "baselineTna": 53,
       "baselineTs": "2026-06-06T18:47:42.183Z",
       "gained": 5,
-      "lastSeen": "2026-09-24T10:15:45.993Z",
+      "lastSeen": "2026-09-24T10:18:01.386Z",
       "lastRaid": "2026-06-21T07:50:31.019Z",
       "byDay": {
         "2026-07-26": 58,
@@ -3243,14 +3243,14 @@
     "35a6a719-027c-4c77-b7be-1ecc7458b8bd": {
       "username": "Tomzd90",
       "rank": "recruit",
-      "online": true,
-      "server": "AS20",
-      "tna": 5,
+      "online": false,
+      "server": null,
+      "tna": 6,
       "baselineTna": 1,
       "baselineTs": "2026-09-18T15:20:46.123Z",
-      "gained": 4,
+      "gained": 5,
       "lastSeen": "2026-09-24T10:15:45.993Z",
-      "lastRaid": "2026-09-22T16:55:35.029Z",
+      "lastRaid": "2026-09-24T10:18:01.386Z",
       "byDay": {
         "2026-09-18": 1,
         "2026-09-19": 1,
@@ -3258,7 +3258,7 @@
         "2026-09-21": 4,
         "2026-09-22": 5,
         "2026-09-23": 5,
-        "2026-09-24": 5
+        "2026-09-24": 6
       }
     },
     "bc683b30-127f-4e63-a10c-7a4ce84a8397": {
@@ -4033,7 +4033,7 @@
       "baselineTna": 23,
       "baselineTs": "2026-06-06T18:47:42.183Z",
       "gained": 1,
-      "lastSeen": "2026-09-24T10:15:45.993Z",
+      "lastSeen": "2026-09-24T10:18:01.386Z",
       "lastRaid": "2026-06-09T09:25:26.742Z",
       "byDay": {
         "2026-07-26": 24,
