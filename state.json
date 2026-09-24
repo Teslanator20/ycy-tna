@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-24T09:35:35.552Z",
+  "updated": "2026-09-24T09:41:13.346Z",
   "guild": {
     "name": "YuChaYuan",
     "prefix": "YCY",
@@ -492,12 +492,12 @@
       "username": "Reisen_U_Inaba",
       "rank": "chief",
       "online": true,
-      "server": "NA16",
+      "server": "NA17",
       "tna": 380,
       "baselineTna": 256,
       "baselineTs": "2026-06-06T18:47:42.183Z",
       "gained": 124,
-      "lastSeen": "2026-09-24T09:35:35.552Z",
+      "lastSeen": "2026-09-24T09:41:13.346Z",
       "lastRaid": "2026-09-08T15:50:40.461Z",
       "byDay": {
         "2026-07-26": 282,
@@ -1169,7 +1169,7 @@
       "baselineTna": 2,
       "baselineTs": "2026-06-13T10:50:26.428Z",
       "gained": 0,
-      "lastSeen": "2026-09-24T09:35:35.552Z",
+      "lastSeen": "2026-09-24T09:41:13.346Z",
       "lastRaid": null,
       "byDay": {
         "2026-07-26": 2,
@@ -3249,7 +3249,7 @@
       "baselineTna": 1,
       "baselineTs": "2026-09-18T15:20:46.123Z",
       "gained": 4,
-      "lastSeen": "2026-09-24T09:35:35.552Z",
+      "lastSeen": "2026-09-24T09:41:13.346Z",
       "lastRaid": "2026-09-22T16:55:35.029Z",
       "byDay": {
         "2026-09-18": 1,
@@ -3369,7 +3369,7 @@
       "baselineTna": 1,
       "baselineTs": "2026-09-21T17:01:05.354Z",
       "gained": 0,
-      "lastSeen": "2026-09-24T09:35:35.552Z",
+      "lastSeen": "2026-09-24T09:41:13.346Z",
       "lastRaid": null,
       "byDay": {
         "2026-09-21": 1,
