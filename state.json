@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-25T09:31:00.364Z",
+  "updated": "2026-09-25T09:35:31.962Z",
   "guild": {
     "name": "YuChaYuan",
     "prefix": "YCY",
@@ -3227,12 +3227,12 @@
       "username": "Ku_Dar",
       "rank": "recruit",
       "online": true,
-      "server": "AS20",
+      "server": "AS13",
       "tna": 4,
       "baselineTna": 1,
       "baselineTs": "2026-09-19T11:45:35.709Z",
       "gained": 3,
-      "lastSeen": "2026-09-25T09:31:00.364Z",
+      "lastSeen": "2026-09-25T09:35:31.962Z",
       "lastRaid": "2026-09-20T08:16:12.804Z",
       "byDay": {
         "2026-09-19": 1,
@@ -3327,7 +3327,7 @@
       "baselineTna": 26,
       "baselineTs": "2026-09-18T07:45:37.390Z",
       "gained": 0,
-      "lastSeen": "2026-09-25T09:31:00.364Z",
+      "lastSeen": "2026-09-25T09:35:31.962Z",
       "lastRaid": null,
       "byDay": {
         "2026-09-18": 26,
