@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-27T08:25:29.751Z",
+  "updated": "2026-09-27T08:30:47.992Z",
   "guild": {
     "name": "YuChaYuan",
     "prefix": "YCY",
@@ -935,12 +935,12 @@
       "username": "woody123_is_god",
       "rank": "captain",
       "online": true,
-      "server": "AS15",
+      "server": "AS3",
       "tna": 20,
       "baselineTna": 4,
       "baselineTs": "2026-07-24T13:40:33.852Z",
       "gained": 16,
-      "lastSeen": "2026-09-27T08:25:29.751Z",
+      "lastSeen": "2026-09-27T08:30:47.992Z",
       "lastRaid": "2026-09-27T08:25:29.751Z",
       "byDay": {
         "2026-07-29": 5,
