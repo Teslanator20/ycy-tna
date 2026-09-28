@@ -107,7 +107,35 @@
           "delta": 1
         }
       ]
+    },
+    {
+      "ts": "2026-09-28T17:45:39.158Z",
+      "server": "AS3",
+      "confirmed": true,
+      "crowded": false,
+      "players": [
+        {
+          "uuid": "e4a23668-57d7-4f17-b58f-4a0fd17870ec",
+          "username": "woody123_is_god",
+          "delta": 3
+        },
+        {
+          "uuid": "e1c4ea28-f56d-4c80-aa39-847334e10832",
+          "username": "21126yue",
+          "delta": 2
+        },
+        {
+          "uuid": "35a6a719-027c-4c77-b7be-1ecc7458b8bd",
+          "username": "Tomzd90",
+          "delta": 1
+        },
+        {
+          "uuid": "de06ed1c-0480-42ee-8a10-9d400bb61467",
+          "username": "9tao_",
+          "delta": 3
+        }
+      ]
     }
   ],
-  "updated": "2026-09-28T17:40:39.997Z"
+  "updated": "2026-09-28T17:45:39.158Z"
 }
