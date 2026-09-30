@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-30T10:40:52.329Z",
+  "updated": "2026-09-30T10:45:40.660Z",
   "guild": {
     "name": "YuChaYuan",
     "prefix": "YCY",
@@ -3242,12 +3242,12 @@
       "username": "Ku_Dar",
       "rank": "recruit",
       "online": true,
-      "server": "AS17",
+      "server": "AS22",
       "tna": 5,
       "baselineTna": 1,
       "baselineTs": "2026-09-19T11:45:35.709Z",
       "gained": 4,
-      "lastSeen": "2026-09-30T10:40:52.329Z",
+      "lastSeen": "2026-09-30T10:45:40.660Z",
       "lastRaid": "2026-09-26T18:40:36.755Z",
       "byDay": {
         "2026-09-19": 1,
@@ -3273,7 +3273,7 @@
       "baselineTna": 1,
       "baselineTs": "2026-09-18T15:20:46.123Z",
       "gained": 12,
-      "lastSeen": "2026-09-30T10:40:52.329Z",
+      "lastSeen": "2026-09-30T10:45:40.660Z",
       "lastRaid": "2026-09-29T17:05:34.978Z",
       "byDay": {
         "2026-09-18": 1,
@@ -3371,12 +3371,12 @@
       "username": "StopRain",
       "rank": "recruit",
       "online": true,
-      "server": "AS20",
+      "server": "EU19",
       "tna": 26,
       "baselineTna": 26,
       "baselineTs": "2026-09-18T07:45:37.390Z",
       "gained": 0,
-      "lastSeen": "2026-09-30T10:40:52.329Z",
+      "lastSeen": "2026-09-30T10:45:40.660Z",
       "lastRaid": null,
       "byDay": {
         "2026-09-18": 26,
@@ -4769,7 +4769,7 @@
       "baselineTna": null,
       "baselineTs": null,
       "gained": 0,
-      "lastSeen": "2026-09-30T10:40:52.329Z",
+      "lastSeen": "2026-09-30T10:45:40.660Z",
       "lastRaid": null,
       "byDay": {}
     }
