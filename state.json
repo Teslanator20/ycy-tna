@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-30T17:40:40.568Z",
+  "updated": "2026-09-30T17:45:44.512Z",
   "guild": {
     "name": "YuChaYuan",
     "prefix": "YCY",
@@ -7,7 +7,7 @@
     "raidShort": "TNA",
     "color": "#2ca089"
   },
-  "online": 4,
+  "online": 5,
   "memberCount": 96,
   "members": {
     "0aef2f69-7099-4658-ba4a-c8227e3ee974": {
@@ -943,7 +943,7 @@
       "baselineTna": 4,
       "baselineTs": "2026-07-24T13:40:33.852Z",
       "gained": 29,
-      "lastSeen": "2026-09-30T17:40:40.568Z",
+      "lastSeen": "2026-09-30T17:45:44.512Z",
       "lastRaid": "2026-09-29T17:15:39.249Z",
       "byDay": {
         "2026-08-01": 15,
@@ -1406,7 +1406,7 @@
       "baselineTna": 3,
       "baselineTs": "2026-09-20T08:05:31.932Z",
       "gained": 8,
-      "lastSeen": "2026-09-30T17:40:40.568Z",
+      "lastSeen": "2026-09-30T17:45:44.512Z",
       "lastRaid": "2026-09-30T15:20:40.222Z",
       "byDay": {
         "2026-09-20": 3,
@@ -3247,7 +3247,7 @@
       "baselineTna": 1,
       "baselineTs": "2026-09-18T15:20:46.123Z",
       "gained": 13,
-      "lastSeen": "2026-09-30T17:40:40.568Z",
+      "lastSeen": "2026-09-30T17:45:44.512Z",
       "lastRaid": "2026-09-30T15:35:33.422Z",
       "byDay": {
         "2026-09-18": 1,
@@ -3352,7 +3352,7 @@
       "baselineTna": 1,
       "baselineTs": "2026-09-21T17:01:05.354Z",
       "gained": 2,
-      "lastSeen": "2026-09-30T17:40:40.568Z",
+      "lastSeen": "2026-09-30T17:45:44.512Z",
       "lastRaid": "2026-09-26T18:40:36.755Z",
       "byDay": {
         "2026-09-21": 1,
@@ -3370,13 +3370,13 @@
     "bdf4d139-41bb-41f7-a20e-6411f840eab4": {
       "username": "StopRain",
       "rank": "recruit",
-      "online": false,
-      "server": null,
+      "online": true,
+      "server": "NA6",
       "tna": 26,
       "baselineTna": 26,
       "baselineTs": "2026-09-18T07:45:37.390Z",
       "gained": 0,
-      "lastSeen": "2026-09-30T13:55:32.744Z",
+      "lastSeen": "2026-09-30T17:45:44.512Z",
       "lastRaid": null,
       "byDay": {
         "2026-09-18": 26,
