@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-01T21:40:40.144Z",
+  "updated": "2026-10-01T21:45:37.885Z",
   "guild": {
     "name": "YuChaYuan",
     "prefix": "YCY",
@@ -3301,12 +3301,12 @@
       "username": "StopRain",
       "rank": "recruit",
       "online": true,
-      "server": "NA18",
+      "server": "NA26",
       "tna": 26,
       "baselineTna": 26,
       "baselineTs": "2026-09-18T07:45:37.390Z",
       "gained": 0,
-      "lastSeen": "2026-10-01T21:40:40.144Z",
+      "lastSeen": "2026-10-01T21:45:37.885Z",
       "lastRaid": null,
       "byDay": {
         "2026-09-18": 26,
