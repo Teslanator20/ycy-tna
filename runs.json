@@ -176,7 +176,25 @@
           "delta": 1
         }
       ]
+    },
+    {
+      "ts": "2026-10-01T14:45:39.211Z",
+      "server": "AS13",
+      "confirmed": true,
+      "crowded": false,
+      "players": [
+        {
+          "uuid": "e1c4ea28-f56d-4c80-aa39-847334e10832",
+          "username": "allenYue",
+          "delta": 1
+        },
+        {
+          "uuid": "de06ed1c-0480-42ee-8a10-9d400bb61467",
+          "username": "9tao_",
+          "delta": 1
+        }
+      ]
     }
   ],
-  "updated": "2026-10-01T14:40:39.412Z"
+  "updated": "2026-10-01T14:45:39.211Z"
 }
