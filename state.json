@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-02T08:10:41.179Z",
+  "updated": "2026-10-02T08:15:39.547Z",
   "guild": {
     "name": "YuChaYuan",
     "prefix": "YCY",
@@ -7,7 +7,7 @@
     "raidShort": "TNA",
     "color": "#2ca089"
   },
-  "online": 4,
+  "online": 5,
   "memberCount": 95,
   "members": {
     "0aef2f69-7099-4658-ba4a-c8227e3ee974": {
@@ -42,7 +42,7 @@
       "baselineTna": 1502,
       "baselineTs": "2026-06-06T18:47:42.183Z",
       "gained": 34,
-      "lastSeen": "2026-10-02T08:10:41.179Z",
+      "lastSeen": "2026-10-02T08:15:39.547Z",
       "lastRaid": "2026-09-20T04:55:30.779Z",
       "byDay": {
         "2026-08-03": 1502,
@@ -3176,7 +3176,7 @@
       "baselineTna": 1,
       "baselineTs": "2026-09-18T15:20:46.123Z",
       "gained": 13,
-      "lastSeen": "2026-10-02T08:10:41.179Z",
+      "lastSeen": "2026-10-02T08:15:39.547Z",
       "lastRaid": "2026-09-30T15:35:33.422Z",
       "byDay": {
         "2026-09-18": 1,
@@ -3306,12 +3306,12 @@
       "username": "StopRain",
       "rank": "recruit",
       "online": true,
-      "server": "AS18",
+      "server": "AS19",
       "tna": 26,
       "baselineTna": 26,
       "baselineTs": "2026-09-18T07:45:37.390Z",
       "gained": 0,
-      "lastSeen": "2026-10-02T08:10:41.179Z",
+      "lastSeen": "2026-10-02T08:15:39.547Z",
       "lastRaid": null,
       "byDay": {
         "2026-09-18": 26,
@@ -4689,13 +4689,13 @@
     "15474867-0119-4bf8-8df6-09f10c3a4d8e": {
       "username": "boyu_Xiaoyu",
       "rank": "recruit",
-      "online": false,
-      "server": null,
+      "online": true,
+      "server": "NA12",
       "tna": 74,
       "baselineTna": 74,
       "baselineTs": "2026-09-28T11:10:39.715Z",
       "gained": 0,
-      "lastSeen": "2026-10-02T08:05:29.948Z",
+      "lastSeen": "2026-10-02T08:15:39.547Z",
       "lastRaid": null,
       "byDay": {
         "2026-09-28": 74,
@@ -4714,7 +4714,7 @@
       "baselineTna": null,
       "baselineTs": null,
       "gained": 0,
-      "lastSeen": "2026-10-02T08:10:41.179Z",
+      "lastSeen": "2026-10-02T08:15:39.547Z",
       "lastRaid": null,
       "byDay": {}
     }
