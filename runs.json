@@ -1,24 +1,6 @@
 {
   "runs": [
     {
-      "ts": "2026-09-02T05:55:28.215Z",
-      "server": "NA35",
-      "confirmed": true,
-      "crowded": false,
-      "players": [
-        {
-          "uuid": "4791eb57-3607-4647-8d4f-59aaa879c5a4",
-          "username": "0110jimmy",
-          "delta": 4
-        },
-        {
-          "uuid": "de06ed1c-0480-42ee-8a10-9d400bb61467",
-          "username": "9tao_",
-          "delta": 3
-        }
-      ]
-    },
-    {
       "ts": "2026-09-20T08:16:12.804Z",
       "server": "AS15",
       "confirmed": true,
@@ -178,5 +160,5 @@
       ]
     }
   ],
-  "updated": "2026-10-02T05:50:36.777Z"
+  "updated": "2026-10-02T05:55:31.630Z"
 }
