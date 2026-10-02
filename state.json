@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-02T13:45:38.819Z",
+  "updated": "2026-10-02T13:50:41.850Z",
   "guild": {
     "name": "YuChaYuan",
     "prefix": "YCY",
@@ -7,7 +7,7 @@
     "raidShort": "TNA",
     "color": "#2ca089"
   },
-  "online": 4,
+  "online": 5,
   "memberCount": 95,
   "members": {
     "0aef2f69-7099-4658-ba4a-c8227e3ee974": {
@@ -1333,7 +1333,7 @@
       "baselineTna": 3,
       "baselineTs": "2026-09-20T08:05:31.932Z",
       "gained": 9,
-      "lastSeen": "2026-10-02T13:45:38.819Z",
+      "lastSeen": "2026-10-02T13:50:41.850Z",
       "lastRaid": "2026-10-01T14:45:39.211Z",
       "byDay": {
         "2026-09-20": 3,
@@ -3176,7 +3176,7 @@
       "baselineTna": 1,
       "baselineTs": "2026-09-18T15:20:46.123Z",
       "gained": 13,
-      "lastSeen": "2026-10-02T13:45:38.819Z",
+      "lastSeen": "2026-10-02T13:50:41.850Z",
       "lastRaid": "2026-09-30T15:35:33.422Z",
       "byDay": {
         "2026-09-18": 1,
@@ -3200,12 +3200,12 @@
       "username": "Ku_Dar",
       "rank": "recruit",
       "online": true,
-      "server": "AS13",
+      "server": "AS14",
       "tna": 5,
       "baselineTna": 1,
       "baselineTs": "2026-09-19T11:45:35.709Z",
       "gained": 4,
-      "lastSeen": "2026-10-02T13:45:38.819Z",
+      "lastSeen": "2026-10-02T13:50:41.850Z",
       "lastRaid": "2026-09-26T18:40:36.755Z",
       "byDay": {
         "2026-09-19": 1,
@@ -3279,13 +3279,13 @@
     "4b34b4a2-5391-44de-a7d2-85c1973117d3": {
       "username": "salder_uwu",
       "rank": "recruit",
-      "online": false,
-      "server": null,
+      "online": true,
+      "server": "AS14",
       "tna": 3,
       "baselineTna": 1,
       "baselineTs": "2026-09-21T17:01:05.354Z",
       "gained": 2,
-      "lastSeen": "2026-10-02T13:05:33.354Z",
+      "lastSeen": "2026-10-02T13:50:41.850Z",
       "lastRaid": "2026-09-26T18:40:36.755Z",
       "byDay": {
         "2026-09-21": 1,
@@ -3461,8 +3461,8 @@
     "a0c7bd60-494b-4273-bbb7-fa648745e7df": {
       "username": "serious214",
       "rank": "recruit",
-      "online": true,
-      "server": "AS14",
+      "online": false,
+      "server": null,
       "tna": 8,
       "baselineTna": 3,
       "baselineTs": "2026-09-22T15:30:52.215Z",
@@ -4689,13 +4689,13 @@
     "15474867-0119-4bf8-8df6-09f10c3a4d8e": {
       "username": "boyu_Xiaoyu",
       "rank": "recruit",
-      "online": false,
-      "server": null,
+      "online": true,
+      "server": "AS14",
       "tna": 74,
       "baselineTna": 74,
       "baselineTs": "2026-09-28T11:10:39.715Z",
       "gained": 0,
-      "lastSeen": "2026-10-02T13:40:41.820Z",
+      "lastSeen": "2026-10-02T13:50:41.850Z",
       "lastRaid": null,
       "byDay": {
         "2026-09-28": 74,
