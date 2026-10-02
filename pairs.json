@@ -2127,10 +2127,10 @@
     "35a6a719-027c-4c77-b7be-1ecc7458b8bd|a3c587d3-c4e3-43c1-9cf6-fd3850624161": {
       "a": "35a6a719-027c-4c77-b7be-1ecc7458b8bd",
       "b": "a3c587d3-c4e3-43c1-9cf6-fd3850624161",
-      "samples": 266,
+      "samples": 267,
       "usernameA": "Tomzd90",
       "usernameB": "Ku_Dar",
-      "lastTs": "2026-10-02T16:15:37.969Z"
+      "lastTs": "2026-10-02T16:20:42.443Z"
     },
     "4791eb57-3607-4647-8d4f-59aaa879c5a4|4de04cbf-6086-48c6-b2ac-ae35222df140": {
       "a": "4791eb57-3607-4647-8d4f-59aaa879c5a4",
@@ -2455,18 +2455,18 @@
     "15474867-0119-4bf8-8df6-09f10c3a4d8e|a3c587d3-c4e3-43c1-9cf6-fd3850624161": {
       "a": "15474867-0119-4bf8-8df6-09f10c3a4d8e",
       "b": "a3c587d3-c4e3-43c1-9cf6-fd3850624161",
-      "samples": 34,
+      "samples": 35,
       "usernameA": "boyu_Xiaoyu",
       "usernameB": "Ku_Dar",
-      "lastTs": "2026-10-02T16:15:37.969Z"
+      "lastTs": "2026-10-02T16:20:42.443Z"
     },
     "15474867-0119-4bf8-8df6-09f10c3a4d8e|35a6a719-027c-4c77-b7be-1ecc7458b8bd": {
       "a": "15474867-0119-4bf8-8df6-09f10c3a4d8e",
       "b": "35a6a719-027c-4c77-b7be-1ecc7458b8bd",
-      "samples": 54,
+      "samples": 55,
       "usernameA": "boyu_Xiaoyu",
       "usernameB": "Tomzd90",
-      "lastTs": "2026-10-02T16:15:37.969Z"
+      "lastTs": "2026-10-02T16:20:42.443Z"
     },
     "15474867-0119-4bf8-8df6-09f10c3a4d8e|e1c4ea28-f56d-4c80-aa39-847334e10832": {
       "a": "15474867-0119-4bf8-8df6-09f10c3a4d8e",
@@ -2645,5 +2645,5 @@
       "lastTs": "2026-10-02T04:05:31.163Z"
     }
   },
-  "updated": "2026-10-02T16:15:37.969Z"
+  "updated": "2026-10-02T16:20:42.443Z"
 }
