@@ -799,10 +799,10 @@
     "3c41a732-3c0e-426e-b770-8c7b49056be9|4791eb57-3607-4647-8d4f-59aaa879c5a4": {
       "a": "3c41a732-3c0e-426e-b770-8c7b49056be9",
       "b": "4791eb57-3607-4647-8d4f-59aaa879c5a4",
-      "samples": 8,
+      "samples": 9,
       "usernameA": "ChangJenChieh",
       "usernameB": "0110jimmy",
-      "lastTs": "2026-06-14T07:20:28.157Z"
+      "lastTs": "2026-10-03T04:15:36.478Z"
     },
     "3fa3336a-dcfc-49e6-9b5f-469322883009|9984b190-a88e-492c-8831-fcf2699b98f4": {
       "a": "3fa3336a-dcfc-49e6-9b5f-469322883009",
@@ -2039,10 +2039,10 @@
     "4791eb57-3607-4647-8d4f-59aaa879c5a4|e1c4ea28-f56d-4c80-aa39-847334e10832": {
       "a": "4791eb57-3607-4647-8d4f-59aaa879c5a4",
       "b": "e1c4ea28-f56d-4c80-aa39-847334e10832",
-      "samples": 124,
+      "samples": 125,
       "usernameA": "0110jimmy",
       "usernameB": "allenYue",
-      "lastTs": "2026-10-03T04:10:35.793Z"
+      "lastTs": "2026-10-03T04:15:36.478Z"
     },
     "e1c4ea28-f56d-4c80-aa39-847334e10832|e4a23668-57d7-4f17-b58f-4a0fd17870ec": {
       "a": "e1c4ea28-f56d-4c80-aa39-847334e10832",
@@ -2111,10 +2111,10 @@
     "4791eb57-3607-4647-8d4f-59aaa879c5a4|a3c587d3-c4e3-43c1-9cf6-fd3850624161": {
       "a": "4791eb57-3607-4647-8d4f-59aaa879c5a4",
       "b": "a3c587d3-c4e3-43c1-9cf6-fd3850624161",
-      "samples": 57,
+      "samples": 58,
       "usernameA": "0110jimmy",
       "usernameB": "Ku_Dar",
-      "lastTs": "2026-10-03T04:10:35.793Z"
+      "lastTs": "2026-10-03T04:15:36.478Z"
     },
     "a3c587d3-c4e3-43c1-9cf6-fd3850624161|e4a23668-57d7-4f17-b58f-4a0fd17870ec": {
       "a": "a3c587d3-c4e3-43c1-9cf6-fd3850624161",
@@ -2151,10 +2151,10 @@
     "a3c587d3-c4e3-43c1-9cf6-fd3850624161|e1c4ea28-f56d-4c80-aa39-847334e10832": {
       "a": "a3c587d3-c4e3-43c1-9cf6-fd3850624161",
       "b": "e1c4ea28-f56d-4c80-aa39-847334e10832",
-      "samples": 125,
+      "samples": 126,
       "usernameA": "Ku_Dar",
       "usernameB": "allenYue",
-      "lastTs": "2026-10-03T04:10:35.793Z"
+      "lastTs": "2026-10-03T04:15:36.478Z"
     },
     "4de04cbf-6086-48c6-b2ac-ae35222df140|e1c4ea28-f56d-4c80-aa39-847334e10832": {
       "a": "4de04cbf-6086-48c6-b2ac-ae35222df140",
@@ -2659,7 +2659,23 @@
       "usernameA": "boyu_Xiaoyu",
       "usernameB": "ChangJenChieh",
       "lastTs": "2026-10-03T03:55:30.246Z"
+    },
+    "3c41a732-3c0e-426e-b770-8c7b49056be9|e1c4ea28-f56d-4c80-aa39-847334e10832": {
+      "a": "3c41a732-3c0e-426e-b770-8c7b49056be9",
+      "b": "e1c4ea28-f56d-4c80-aa39-847334e10832",
+      "samples": 1,
+      "usernameA": "ChangJenChieh",
+      "usernameB": "allenYue",
+      "lastTs": "2026-10-03T04:15:36.478Z"
+    },
+    "3c41a732-3c0e-426e-b770-8c7b49056be9|a3c587d3-c4e3-43c1-9cf6-fd3850624161": {
+      "a": "3c41a732-3c0e-426e-b770-8c7b49056be9",
+      "b": "a3c587d3-c4e3-43c1-9cf6-fd3850624161",
+      "samples": 1,
+      "usernameA": "ChangJenChieh",
+      "usernameB": "Ku_Dar",
+      "lastTs": "2026-10-03T04:15:36.478Z"
     }
   },
-  "updated": "2026-10-03T04:10:35.793Z"
+  "updated": "2026-10-03T04:15:36.478Z"
 }
