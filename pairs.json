@@ -311,10 +311,10 @@
     "4791eb57-3607-4647-8d4f-59aaa879c5a4|5e04e4ff-d051-4125-983b-d42b214dac80": {
       "a": "4791eb57-3607-4647-8d4f-59aaa879c5a4",
       "b": "5e04e4ff-d051-4125-983b-d42b214dac80",
-      "samples": 439,
+      "samples": 440,
       "usernameA": "0110jimmy",
       "usernameB": "Reisen_U_Inaba",
-      "lastTs": "2026-10-03T05:05:28.863Z"
+      "lastTs": "2026-10-03T05:10:36.188Z"
     },
     "4791eb57-3607-4647-8d4f-59aaa879c5a4|d3062613-f674-46dd-b5d7-9e75c39d8f31": {
       "a": "4791eb57-3607-4647-8d4f-59aaa879c5a4",
@@ -1007,10 +1007,10 @@
     "0cdbea81-6c53-4f99-b247-77c538aea432|4791eb57-3607-4647-8d4f-59aaa879c5a4": {
       "a": "0cdbea81-6c53-4f99-b247-77c538aea432",
       "b": "4791eb57-3607-4647-8d4f-59aaa879c5a4",
-      "samples": 1,
+      "samples": 2,
       "usernameA": "HEYAZero",
       "usernameB": "0110jimmy",
-      "lastTs": "2026-06-19T05:35:26.223Z"
+      "lastTs": "2026-10-03T05:10:36.188Z"
     },
     "9984b190-a88e-492c-8831-fcf2699b98f4|ca475f71-8fb5-408f-aa69-0667a7c98ecf": {
       "a": "9984b190-a88e-492c-8831-fcf2699b98f4",
@@ -1407,10 +1407,10 @@
     "0cdbea81-6c53-4f99-b247-77c538aea432|5e04e4ff-d051-4125-983b-d42b214dac80": {
       "a": "0cdbea81-6c53-4f99-b247-77c538aea432",
       "b": "5e04e4ff-d051-4125-983b-d42b214dac80",
-      "samples": 1,
+      "samples": 2,
       "usernameA": "HEYAZero",
       "usernameB": "Reisen_U_Inaba",
-      "lastTs": "2026-07-25T03:55:26.555Z"
+      "lastTs": "2026-10-03T05:10:36.188Z"
     },
     "5e04e4ff-d051-4125-983b-d42b214dac80|7e3b9974-0d35-4de2-9c02-1f2fe1204471": {
       "a": "5e04e4ff-d051-4125-983b-d42b214dac80",
@@ -2647,10 +2647,10 @@
     "15474867-0119-4bf8-8df6-09f10c3a4d8e|4791eb57-3607-4647-8d4f-59aaa879c5a4": {
       "a": "15474867-0119-4bf8-8df6-09f10c3a4d8e",
       "b": "4791eb57-3607-4647-8d4f-59aaa879c5a4",
-      "samples": 11,
+      "samples": 12,
       "usernameA": "boyu_Xiaoyu",
       "usernameB": "0110jimmy",
-      "lastTs": "2026-10-03T05:05:28.863Z"
+      "lastTs": "2026-10-03T05:10:36.188Z"
     },
     "15474867-0119-4bf8-8df6-09f10c3a4d8e|3c41a732-3c0e-426e-b770-8c7b49056be9": {
       "a": "15474867-0119-4bf8-8df6-09f10c3a4d8e",
@@ -2679,11 +2679,19 @@
     "15474867-0119-4bf8-8df6-09f10c3a4d8e|5e04e4ff-d051-4125-983b-d42b214dac80": {
       "a": "15474867-0119-4bf8-8df6-09f10c3a4d8e",
       "b": "5e04e4ff-d051-4125-983b-d42b214dac80",
-      "samples": 1,
+      "samples": 2,
       "usernameA": "boyu_Xiaoyu",
       "usernameB": "Reisen_U_Inaba",
-      "lastTs": "2026-10-03T05:05:28.863Z"
+      "lastTs": "2026-10-03T05:10:36.188Z"
+    },
+    "0cdbea81-6c53-4f99-b247-77c538aea432|15474867-0119-4bf8-8df6-09f10c3a4d8e": {
+      "a": "0cdbea81-6c53-4f99-b247-77c538aea432",
+      "b": "15474867-0119-4bf8-8df6-09f10c3a4d8e",
+      "samples": 1,
+      "usernameA": "HEYAZero",
+      "usernameB": "boyu_Xiaoyu",
+      "lastTs": "2026-10-03T05:10:36.188Z"
     }
   },
-  "updated": "2026-10-03T05:05:28.863Z"
+  "updated": "2026-10-03T05:10:36.188Z"
 }

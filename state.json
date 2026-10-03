@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-03T05:05:28.863Z",
+  "updated": "2026-10-03T05:10:36.188Z",
   "guild": {
     "name": "YuChaYuan",
     "prefix": "YCY",
@@ -43,7 +43,7 @@
       "baselineTna": 1502,
       "baselineTs": "2026-06-06T18:47:42.183Z",
       "gained": 51,
-      "lastSeen": "2026-10-03T05:05:28.863Z",
+      "lastSeen": "2026-10-03T05:10:36.188Z",
       "lastRaid": "2026-10-03T02:45:43.156Z",
       "byDay": {
         "2026-08-04": 1502,
@@ -262,13 +262,13 @@
     "0cdbea81-6c53-4f99-b247-77c538aea432": {
       "username": "HEYAZero",
       "rank": "chief",
-      "online": false,
-      "server": null,
+      "online": true,
+      "server": "NA33",
       "tna": 72,
       "baselineTna": 72,
       "baselineTs": "2026-06-06T18:47:42.183Z",
       "gained": 0,
-      "lastSeen": "2026-10-03T04:20:40.133Z",
+      "lastSeen": "2026-10-03T05:10:36.188Z",
       "lastRaid": null,
       "byDay": {
         "2026-08-04": 72,
@@ -431,7 +431,7 @@
       "baselineTna": 256,
       "baselineTs": "2026-06-06T18:47:42.183Z",
       "gained": 124,
-      "lastSeen": "2026-10-03T05:05:28.863Z",
+      "lastSeen": "2026-10-03T05:10:36.188Z",
       "lastRaid": "2026-09-08T15:50:40.461Z",
       "byDay": {
         "2026-08-04": 291,
@@ -1253,14 +1253,14 @@
     "e1c4ea28-f56d-4c80-aa39-847334e10832": {
       "username": "allenYue",
       "rank": "captain",
-      "online": true,
-      "server": "NA33",
-      "tna": 17,
+      "online": false,
+      "server": null,
+      "tna": 21,
       "baselineTna": 3,
       "baselineTs": "2026-09-20T08:05:31.932Z",
-      "gained": 14,
+      "gained": 18,
       "lastSeen": "2026-10-03T05:05:28.863Z",
-      "lastRaid": "2026-10-03T04:10:35.793Z",
+      "lastRaid": "2026-10-03T05:10:36.188Z",
       "byDay": {
         "2026-09-20": 3,
         "2026-09-21": 4,
@@ -1275,7 +1275,7 @@
         "2026-09-30": 11,
         "2026-10-01": 12,
         "2026-10-02": 12,
-        "2026-10-03": 17
+        "2026-10-03": 21
       }
     },
     "7e3b9974-0d35-4de2-9c02-1f2fe1204471": {
@@ -3178,7 +3178,7 @@
       "baselineTna": 1,
       "baselineTs": "2026-09-19T11:45:35.709Z",
       "gained": 9,
-      "lastSeen": "2026-10-03T05:05:28.863Z",
+      "lastSeen": "2026-10-03T05:10:36.188Z",
       "lastRaid": "2026-10-03T04:45:38.322Z",
       "byDay": {
         "2026-09-19": 1,
@@ -4053,7 +4053,7 @@
       "baselineTna": 74,
       "baselineTs": "2026-09-28T11:10:39.715Z",
       "gained": 0,
-      "lastSeen": "2026-10-03T05:05:28.863Z",
+      "lastSeen": "2026-10-03T05:10:36.188Z",
       "lastRaid": null,
       "byDay": {
         "2026-09-28": 74,
