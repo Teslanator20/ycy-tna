@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-03T11:40:39.054Z",
+  "updated": "2026-10-03T11:45:37.423Z",
   "guild": {
     "name": "YuChaYuan",
     "prefix": "YCY",
@@ -7,7 +7,7 @@
     "raidShort": "TNA",
     "color": "#2ca089"
   },
-  "online": 11,
+  "online": 10,
   "memberCount": 95,
   "members": {
     "0aef2f69-7099-4658-ba4a-c8227e3ee974": {
@@ -43,7 +43,7 @@
       "baselineTna": 1502,
       "baselineTs": "2026-06-06T18:47:42.183Z",
       "gained": 60,
-      "lastSeen": "2026-10-03T11:40:39.054Z",
+      "lastSeen": "2026-10-03T11:45:37.423Z",
       "lastRaid": "2026-10-03T05:40:38.388Z",
       "byDay": {
         "2026-08-04": 1502,
@@ -118,7 +118,7 @@
       "baselineTna": 1570,
       "baselineTs": "2026-06-06T18:47:42.183Z",
       "gained": 0,
-      "lastSeen": "2026-10-03T11:40:39.054Z",
+      "lastSeen": "2026-10-03T11:45:37.423Z",
       "lastRaid": null,
       "byDay": {
         "2026-08-04": 1570,
@@ -871,7 +871,7 @@
       "baselineTna": 4,
       "baselineTs": "2026-07-24T13:40:33.852Z",
       "gained": 30,
-      "lastSeen": "2026-10-03T11:40:39.054Z",
+      "lastSeen": "2026-10-03T11:45:37.423Z",
       "lastRaid": "2026-10-01T15:40:44.834Z",
       "byDay": {
         "2026-08-04": 15,
@@ -1109,7 +1109,7 @@
       "baselineTna": 3,
       "baselineTs": "2026-09-20T08:05:31.932Z",
       "gained": 18,
-      "lastSeen": "2026-10-03T11:40:39.054Z",
+      "lastSeen": "2026-10-03T11:45:37.423Z",
       "lastRaid": "2026-10-03T05:10:36.188Z",
       "byDay": {
         "2026-09-20": 3,
@@ -2376,7 +2376,7 @@
       "baselineTna": 53,
       "baselineTs": "2026-06-06T18:47:42.183Z",
       "gained": 5,
-      "lastSeen": "2026-10-03T11:40:39.054Z",
+      "lastSeen": "2026-10-03T11:45:37.423Z",
       "lastRaid": "2026-06-21T07:50:31.019Z",
       "byDay": {
         "2026-08-04": 58,
@@ -3172,8 +3172,8 @@
     "a3c587d3-c4e3-43c1-9cf6-fd3850624161": {
       "username": "Ku_Dar",
       "rank": "recruit",
-      "online": true,
-      "server": "AS16",
+      "online": false,
+      "server": null,
       "tna": 10,
       "baselineTna": 1,
       "baselineTs": "2026-09-19T11:45:35.709Z",
@@ -3207,7 +3207,7 @@
       "baselineTna": 1,
       "baselineTs": "2026-09-18T15:20:46.123Z",
       "gained": 13,
-      "lastSeen": "2026-10-03T11:40:39.054Z",
+      "lastSeen": "2026-10-03T11:45:37.423Z",
       "lastRaid": "2026-09-30T15:35:33.422Z",
       "byDay": {
         "2026-09-18": 1,
@@ -3311,12 +3311,12 @@
       "username": "StopRain",
       "rank": "recruit",
       "online": true,
-      "server": "AS9",
+      "server": "EU17",
       "tna": 26,
       "baselineTna": 26,
       "baselineTs": "2026-09-18T07:45:37.390Z",
       "gained": 0,
-      "lastSeen": "2026-10-03T11:40:39.054Z",
+      "lastSeen": "2026-10-03T11:45:37.423Z",
       "lastRaid": null,
       "byDay": {
         "2026-09-18": 26,
@@ -3815,7 +3815,7 @@
       "baselineTna": 23,
       "baselineTs": "2026-06-06T18:47:42.183Z",
       "gained": 1,
-      "lastSeen": "2026-10-03T11:40:39.054Z",
+      "lastSeen": "2026-10-03T11:45:37.423Z",
       "lastRaid": "2026-06-09T09:25:26.742Z",
       "byDay": {
         "2026-08-04": 24,
@@ -3879,6 +3879,26 @@
         "2026-10-01": 24,
         "2026-10-02": 24,
         "2026-10-03": 24
+      }
+    },
+    "15474867-0119-4bf8-8df6-09f10c3a4d8e": {
+      "username": "boyu_Xiaoyu",
+      "rank": "recruit",
+      "online": true,
+      "server": "AS8",
+      "tna": 76,
+      "baselineTna": 74,
+      "baselineTs": "2026-09-28T11:10:39.715Z",
+      "gained": 2,
+      "lastSeen": "2026-10-03T11:45:37.423Z",
+      "lastRaid": "2026-10-03T11:45:37.423Z",
+      "byDay": {
+        "2026-09-28": 74,
+        "2026-09-29": 74,
+        "2026-09-30": 74,
+        "2026-10-01": 74,
+        "2026-10-02": 74,
+        "2026-10-03": 76
       }
     },
     "ebb863f2-2289-4d86-9e91-a2c653e84168": {
@@ -4042,26 +4062,6 @@
         "2026-10-01": 1,
         "2026-10-02": 1,
         "2026-10-03": 1
-      }
-    },
-    "15474867-0119-4bf8-8df6-09f10c3a4d8e": {
-      "username": "boyu_Xiaoyu",
-      "rank": "recruit",
-      "online": true,
-      "server": "AS8",
-      "tna": 75,
-      "baselineTna": 74,
-      "baselineTs": "2026-09-28T11:10:39.715Z",
-      "gained": 1,
-      "lastSeen": "2026-10-03T11:40:39.054Z",
-      "lastRaid": "2026-10-03T07:05:33.030Z",
-      "byDay": {
-        "2026-09-28": 74,
-        "2026-09-29": 74,
-        "2026-09-30": 74,
-        "2026-10-01": 74,
-        "2026-10-02": 74,
-        "2026-10-03": 75
       }
     },
     "6f4f9f1b-e1a9-48ca-8bd1-5e46fb688fef": {
@@ -4724,7 +4724,7 @@
       "baselineTna": null,
       "baselineTs": null,
       "gained": 0,
-      "lastSeen": "2026-10-03T11:40:39.054Z",
+      "lastSeen": "2026-10-03T11:45:37.423Z",
       "lastRaid": null,
       "byDay": {}
     }
