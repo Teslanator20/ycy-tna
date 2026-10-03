@@ -479,10 +479,10 @@
     "2b4be507-abf6-4172-99d9-29e88ff231b0|e2b6e8e4-0265-44c6-8892-a63733adc7fa": {
       "a": "2b4be507-abf6-4172-99d9-29e88ff231b0",
       "b": "e2b6e8e4-0265-44c6-8892-a63733adc7fa",
-      "samples": 316,
+      "samples": 317,
       "usernameA": "ANTONY_71",
       "usernameB": "YoyoBreaker",
-      "lastTs": "2026-10-03T09:01:00.961Z"
+      "lastTs": "2026-10-03T09:05:30.131Z"
     },
     "d12455ec-9194-492d-8e6e-6794b678e8f4|e2b6e8e4-0265-44c6-8892-a63733adc7fa": {
       "a": "d12455ec-9194-492d-8e6e-6794b678e8f4",
@@ -2039,10 +2039,10 @@
     "4791eb57-3607-4647-8d4f-59aaa879c5a4|e1c4ea28-f56d-4c80-aa39-847334e10832": {
       "a": "4791eb57-3607-4647-8d4f-59aaa879c5a4",
       "b": "e1c4ea28-f56d-4c80-aa39-847334e10832",
-      "samples": 135,
+      "samples": 136,
       "usernameA": "0110jimmy",
       "usernameB": "allenYue",
-      "lastTs": "2026-10-03T05:20:36.223Z"
+      "lastTs": "2026-10-03T09:05:30.131Z"
     },
     "e1c4ea28-f56d-4c80-aa39-847334e10832|e4a23668-57d7-4f17-b58f-4a0fd17870ec": {
       "a": "e1c4ea28-f56d-4c80-aa39-847334e10832",
@@ -2335,10 +2335,10 @@
     "2b4be507-abf6-4172-99d9-29e88ff231b0|4b34b4a2-5391-44de-a7d2-85c1973117d3": {
       "a": "2b4be507-abf6-4172-99d9-29e88ff231b0",
       "b": "4b34b4a2-5391-44de-a7d2-85c1973117d3",
-      "samples": 6,
+      "samples": 7,
       "usernameA": "ANTONY_71",
       "usernameB": "salder_uwu",
-      "lastTs": "2026-10-02T14:55:31.481Z"
+      "lastTs": "2026-10-03T09:05:30.131Z"
     },
     "a0c7bd60-494b-4273-bbb7-fa648745e7df|e4a23668-57d7-4f17-b58f-4a0fd17870ec": {
       "a": "a0c7bd60-494b-4273-bbb7-fa648745e7df",
@@ -2367,10 +2367,10 @@
     "4b34b4a2-5391-44de-a7d2-85c1973117d3|e2b6e8e4-0265-44c6-8892-a63733adc7fa": {
       "a": "4b34b4a2-5391-44de-a7d2-85c1973117d3",
       "b": "e2b6e8e4-0265-44c6-8892-a63733adc7fa",
-      "samples": 20,
+      "samples": 21,
       "usernameA": "salder_uwu",
       "usernameB": "YoyoBreaker",
-      "lastTs": "2026-10-02T15:25:34.171Z"
+      "lastTs": "2026-10-03T09:05:30.131Z"
     },
     "0aef2f69-7099-4658-ba4a-c8227e3ee974|497f4a05-e2e7-4e0b-97f5-bc1fdf4c7522": {
       "a": "0aef2f69-7099-4658-ba4a-c8227e3ee974",
@@ -2723,7 +2723,31 @@
       "usernameA": "HEYAZero",
       "usernameB": "ChangJenChieh",
       "lastTs": "2026-10-03T07:40:40.331Z"
+    },
+    "3c41a732-3c0e-426e-b770-8c7b49056be9|e2b6e8e4-0265-44c6-8892-a63733adc7fa": {
+      "a": "3c41a732-3c0e-426e-b770-8c7b49056be9",
+      "b": "e2b6e8e4-0265-44c6-8892-a63733adc7fa",
+      "samples": 1,
+      "usernameA": "ChangJenChieh",
+      "usernameB": "YoyoBreaker",
+      "lastTs": "2026-10-03T09:05:30.131Z"
+    },
+    "3c41a732-3c0e-426e-b770-8c7b49056be9|4b34b4a2-5391-44de-a7d2-85c1973117d3": {
+      "a": "3c41a732-3c0e-426e-b770-8c7b49056be9",
+      "b": "4b34b4a2-5391-44de-a7d2-85c1973117d3",
+      "samples": 1,
+      "usernameA": "ChangJenChieh",
+      "usernameB": "salder_uwu",
+      "lastTs": "2026-10-03T09:05:30.131Z"
+    },
+    "2b4be507-abf6-4172-99d9-29e88ff231b0|3c41a732-3c0e-426e-b770-8c7b49056be9": {
+      "a": "2b4be507-abf6-4172-99d9-29e88ff231b0",
+      "b": "3c41a732-3c0e-426e-b770-8c7b49056be9",
+      "samples": 1,
+      "usernameA": "ANTONY_71",
+      "usernameB": "ChangJenChieh",
+      "lastTs": "2026-10-03T09:05:30.131Z"
     }
   },
-  "updated": "2026-10-03T09:01:00.961Z"
+  "updated": "2026-10-03T09:05:30.131Z"
 }
