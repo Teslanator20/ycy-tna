@@ -2391,10 +2391,10 @@
     "0cdbea81-6c53-4f99-b247-77c538aea432|a3c587d3-c4e3-43c1-9cf6-fd3850624161": {
       "a": "0cdbea81-6c53-4f99-b247-77c538aea432",
       "b": "a3c587d3-c4e3-43c1-9cf6-fd3850624161",
-      "samples": 1,
+      "samples": 2,
       "usernameA": "HEYAZero",
       "usernameB": "Ku_Dar",
-      "lastTs": "2026-09-25T12:36:07.496Z"
+      "lastTs": "2026-10-03T07:40:40.331Z"
     },
     "4791eb57-3607-4647-8d4f-59aaa879c5a4|bdf4d139-41bb-41f7-a20e-6411f840eab4": {
       "a": "4791eb57-3607-4647-8d4f-59aaa879c5a4",
@@ -2471,10 +2471,10 @@
     "15474867-0119-4bf8-8df6-09f10c3a4d8e|e1c4ea28-f56d-4c80-aa39-847334e10832": {
       "a": "15474867-0119-4bf8-8df6-09f10c3a4d8e",
       "b": "e1c4ea28-f56d-4c80-aa39-847334e10832",
-      "samples": 41,
+      "samples": 42,
       "usernameA": "boyu_Xiaoyu",
       "usernameB": "allenYue",
-      "lastTs": "2026-10-03T05:20:36.223Z"
+      "lastTs": "2026-10-03T07:40:40.331Z"
     },
     "2b4be507-abf6-4172-99d9-29e88ff231b0|e4a23668-57d7-4f17-b58f-4a0fd17870ec": {
       "a": "2b4be507-abf6-4172-99d9-29e88ff231b0",
@@ -2671,10 +2671,10 @@
     "3c41a732-3c0e-426e-b770-8c7b49056be9|a3c587d3-c4e3-43c1-9cf6-fd3850624161": {
       "a": "3c41a732-3c0e-426e-b770-8c7b49056be9",
       "b": "a3c587d3-c4e3-43c1-9cf6-fd3850624161",
-      "samples": 8,
+      "samples": 9,
       "usernameA": "ChangJenChieh",
       "usernameB": "Ku_Dar",
-      "lastTs": "2026-10-03T07:35:32.767Z"
+      "lastTs": "2026-10-03T07:40:40.331Z"
     },
     "15474867-0119-4bf8-8df6-09f10c3a4d8e|5e04e4ff-d051-4125-983b-d42b214dac80": {
       "a": "15474867-0119-4bf8-8df6-09f10c3a4d8e",
@@ -2715,7 +2715,15 @@
       "usernameA": "boyu_Xiaoyu",
       "usernameB": "meowmeow0510",
       "lastTs": "2026-10-03T05:25:32.286Z"
+    },
+    "0cdbea81-6c53-4f99-b247-77c538aea432|3c41a732-3c0e-426e-b770-8c7b49056be9": {
+      "a": "0cdbea81-6c53-4f99-b247-77c538aea432",
+      "b": "3c41a732-3c0e-426e-b770-8c7b49056be9",
+      "samples": 1,
+      "usernameA": "HEYAZero",
+      "usernameB": "ChangJenChieh",
+      "lastTs": "2026-10-03T07:40:40.331Z"
     }
   },
-  "updated": "2026-10-03T07:35:32.767Z"
+  "updated": "2026-10-03T07:40:40.331Z"
 }
