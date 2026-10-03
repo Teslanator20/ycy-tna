@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-03T22:10:38.653Z",
+  "updated": "2026-10-03T22:15:37.448Z",
   "guild": {
     "name": "YuChaYuan",
     "prefix": "YCY",
@@ -3231,8 +3231,8 @@
     "4b34b4a2-5391-44de-a7d2-85c1973117d3": {
       "username": "salder_uwu",
       "rank": "recruit",
-      "online": true,
-      "server": "AS3",
+      "online": false,
+      "server": null,
       "tna": 3,
       "baselineTna": 1,
       "baselineTs": "2026-09-21T17:01:05.354Z",
@@ -3310,13 +3310,13 @@
     "bdf4d139-41bb-41f7-a20e-6411f840eab4": {
       "username": "StopRain",
       "rank": "recruit",
-      "online": false,
-      "server": null,
+      "online": true,
+      "server": "NA15",
       "tna": 26,
       "baselineTna": 26,
       "baselineTs": "2026-09-18T07:45:37.390Z",
       "gained": 0,
-      "lastSeen": "2026-10-03T15:55:30.581Z",
+      "lastSeen": "2026-10-03T22:15:37.448Z",
       "lastRaid": null,
       "byDay": {
         "2026-09-18": 26,
