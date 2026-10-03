@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-03T11:55:34.422Z",
+  "updated": "2026-10-03T12:01:02.746Z",
   "guild": {
     "name": "YuChaYuan",
     "prefix": "YCY",
@@ -38,12 +38,12 @@
       "username": "0110jimmy",
       "rank": "chief",
       "online": true,
-      "server": "AS1",
+      "server": "AS18",
       "tna": 1562,
       "baselineTna": 1502,
       "baselineTs": "2026-06-06T18:47:42.183Z",
       "gained": 60,
-      "lastSeen": "2026-10-03T11:55:34.422Z",
+      "lastSeen": "2026-10-03T12:01:02.746Z",
       "lastRaid": "2026-10-03T05:40:38.388Z",
       "byDay": {
         "2026-08-04": 1502,
@@ -866,12 +866,12 @@
       "username": "woody123_is_god",
       "rank": "captain",
       "online": true,
-      "server": "AS1",
+      "server": "AS18",
       "tna": 35,
       "baselineTna": 4,
       "baselineTs": "2026-07-24T13:40:33.852Z",
       "gained": 31,
-      "lastSeen": "2026-10-03T11:55:34.422Z",
+      "lastSeen": "2026-10-03T12:01:02.746Z",
       "lastRaid": "2026-10-03T11:50:41.695Z",
       "byDay": {
         "2026-08-04": 15,
@@ -1105,12 +1105,12 @@
       "rank": "captain",
       "online": true,
       "server": "AS1",
-      "tna": 22,
+      "tna": 23,
       "baselineTna": 3,
       "baselineTs": "2026-09-20T08:05:31.932Z",
-      "gained": 19,
-      "lastSeen": "2026-10-03T11:55:34.422Z",
-      "lastRaid": "2026-10-03T11:50:41.695Z",
+      "gained": 20,
+      "lastSeen": "2026-10-03T12:01:02.746Z",
+      "lastRaid": "2026-10-03T12:01:02.746Z",
       "byDay": {
         "2026-09-20": 3,
         "2026-09-21": 4,
@@ -1125,7 +1125,7 @@
         "2026-09-30": 11,
         "2026-10-01": 12,
         "2026-10-02": 12,
-        "2026-10-03": 22
+        "2026-10-03": 23
       }
     },
     "d3062613-f674-46dd-b5d7-9e75c39d8f31": {
@@ -2370,8 +2370,8 @@
     "e2b6e8e4-0265-44c6-8892-a63733adc7fa": {
       "username": "YoyoBreaker",
       "rank": "recruiter",
-      "online": true,
-      "server": "AS10",
+      "online": false,
+      "server": null,
       "tna": 58,
       "baselineTna": 53,
       "baselineTs": "2026-06-06T18:47:42.183Z",
@@ -3172,13 +3172,13 @@
     "a3c587d3-c4e3-43c1-9cf6-fd3850624161": {
       "username": "Ku_Dar",
       "rank": "recruit",
-      "online": false,
-      "server": null,
+      "online": true,
+      "server": "AS18",
       "tna": 10,
       "baselineTna": 1,
       "baselineTs": "2026-09-19T11:45:35.709Z",
       "gained": 9,
-      "lastSeen": "2026-10-03T11:40:39.054Z",
+      "lastSeen": "2026-10-03T12:01:02.746Z",
       "lastRaid": "2026-10-03T04:45:38.322Z",
       "byDay": {
         "2026-09-19": 1,
@@ -3207,7 +3207,7 @@
       "baselineTna": 1,
       "baselineTs": "2026-09-18T15:20:46.123Z",
       "gained": 13,
-      "lastSeen": "2026-10-03T11:55:34.422Z",
+      "lastSeen": "2026-10-03T12:01:02.746Z",
       "lastRaid": "2026-09-30T15:35:33.422Z",
       "byDay": {
         "2026-09-18": 1,
@@ -3311,12 +3311,12 @@
       "username": "StopRain",
       "rank": "recruit",
       "online": true,
-      "server": "EU17",
+      "server": "EU23",
       "tna": 26,
       "baselineTna": 26,
       "baselineTs": "2026-09-18T07:45:37.390Z",
       "gained": 0,
-      "lastSeen": "2026-10-03T11:55:34.422Z",
+      "lastSeen": "2026-10-03T12:01:02.746Z",
       "lastRaid": null,
       "byDay": {
         "2026-09-18": 26,
@@ -3815,7 +3815,7 @@
       "baselineTna": 23,
       "baselineTs": "2026-06-06T18:47:42.183Z",
       "gained": 1,
-      "lastSeen": "2026-10-03T11:55:34.422Z",
+      "lastSeen": "2026-10-03T12:01:02.746Z",
       "lastRaid": "2026-06-09T09:25:26.742Z",
       "byDay": {
         "2026-08-04": 24,
@@ -3885,12 +3885,12 @@
       "username": "boyu_Xiaoyu",
       "rank": "recruit",
       "online": true,
-      "server": "AS1",
+      "server": "AS18",
       "tna": 77,
       "baselineTna": 74,
       "baselineTs": "2026-09-28T11:10:39.715Z",
       "gained": 3,
-      "lastSeen": "2026-10-03T11:55:34.422Z",
+      "lastSeen": "2026-10-03T12:01:02.746Z",
       "lastRaid": "2026-10-03T11:55:34.422Z",
       "byDay": {
         "2026-09-28": 74,
@@ -4724,7 +4724,7 @@
       "baselineTna": null,
       "baselineTs": null,
       "gained": 0,
-      "lastSeen": "2026-10-03T11:55:34.422Z",
+      "lastSeen": "2026-10-03T12:01:02.746Z",
       "lastRaid": null,
       "byDay": {}
     }
