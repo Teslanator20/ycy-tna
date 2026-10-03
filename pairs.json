@@ -48,11 +48,11 @@
     "4791eb57-3607-4647-8d4f-59aaa879c5a4|de06ed1c-0480-42ee-8a10-9d400bb61467": {
       "a": "4791eb57-3607-4647-8d4f-59aaa879c5a4",
       "b": "de06ed1c-0480-42ee-8a10-9d400bb61467",
-      "count": 1,
-      "confirmed": 1,
+      "count": 2,
+      "confirmed": 2,
       "usernameA": "0110jimmy",
       "usernameB": "9tao_",
-      "lastTs": "2026-09-02T05:55:28.215Z"
+      "lastTs": "2026-10-03T17:50:39.788Z"
     },
     "35a6a719-027c-4c77-b7be-1ecc7458b8bd|a3c587d3-c4e3-43c1-9cf6-fd3850624161": {
       "a": "35a6a719-027c-4c77-b7be-1ecc7458b8bd",
@@ -575,10 +575,10 @@
     "2b4be507-abf6-4172-99d9-29e88ff231b0|fa40c035-1309-43f0-bbec-2423a4044650": {
       "a": "2b4be507-abf6-4172-99d9-29e88ff231b0",
       "b": "fa40c035-1309-43f0-bbec-2423a4044650",
-      "samples": 73,
+      "samples": 74,
       "usernameA": "ANTONY_71",
       "usernameB": "dyLLLLan",
-      "lastTs": "2026-10-01T16:20:42.402Z"
+      "lastTs": "2026-10-03T17:50:39.788Z"
     },
     "d12455ec-9194-492d-8e6e-6794b678e8f4|e4a23668-57d7-4f17-b58f-4a0fd17870ec": {
       "a": "d12455ec-9194-492d-8e6e-6794b678e8f4",
@@ -2479,10 +2479,10 @@
     "2b4be507-abf6-4172-99d9-29e88ff231b0|e4a23668-57d7-4f17-b58f-4a0fd17870ec": {
       "a": "2b4be507-abf6-4172-99d9-29e88ff231b0",
       "b": "e4a23668-57d7-4f17-b58f-4a0fd17870ec",
-      "samples": 5,
+      "samples": 6,
       "usernameA": "ANTONY_71",
       "usernameB": "woody123_is_god",
-      "lastTs": "2026-09-28T15:35:33.144Z"
+      "lastTs": "2026-10-03T17:50:39.788Z"
     },
     "2b4be507-abf6-4172-99d9-29e88ff231b0|35a6a719-027c-4c77-b7be-1ecc7458b8bd": {
       "a": "2b4be507-abf6-4172-99d9-29e88ff231b0",
@@ -2763,7 +2763,15 @@
       "usernameA": "Ran0612",
       "usernameB": "StopRain",
       "lastTs": "2026-10-03T12:01:02.746Z"
+    },
+    "e4a23668-57d7-4f17-b58f-4a0fd17870ec|fa40c035-1309-43f0-bbec-2423a4044650": {
+      "a": "e4a23668-57d7-4f17-b58f-4a0fd17870ec",
+      "b": "fa40c035-1309-43f0-bbec-2423a4044650",
+      "samples": 1,
+      "usernameA": "woody123_is_god",
+      "usernameB": "dyLLLLan",
+      "lastTs": "2026-10-03T17:50:39.788Z"
     }
   },
-  "updated": "2026-10-03T17:45:40.573Z"
+  "updated": "2026-10-03T17:50:39.788Z"
 }
