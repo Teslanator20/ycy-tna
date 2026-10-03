@@ -176,7 +176,25 @@
           "delta": 1
         }
       ]
+    },
+    {
+      "ts": "2026-10-03T17:40:36.924Z",
+      "server": "AS8",
+      "confirmed": true,
+      "crowded": false,
+      "players": [
+        {
+          "uuid": "e4a23668-57d7-4f17-b58f-4a0fd17870ec",
+          "username": "woody123_is_god",
+          "delta": 4
+        },
+        {
+          "uuid": "e1c4ea28-f56d-4c80-aa39-847334e10832",
+          "username": "allenYue",
+          "delta": 8
+        }
+      ]
     }
   ],
-  "updated": "2026-10-03T17:35:32.251Z"
+  "updated": "2026-10-03T17:40:36.924Z"
 }
