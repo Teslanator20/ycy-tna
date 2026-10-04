@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-04T14:01:24.809Z",
+  "updated": "2026-10-04T14:05:33.651Z",
   "guild": {
     "name": "YuChaYuan",
     "prefix": "YCY",
@@ -7,7 +7,7 @@
     "raidShort": "TNA",
     "color": "#2ca089"
   },
-  "online": 6,
+  "online": 9,
   "memberCount": 95,
   "members": {
     "0aef2f69-7099-4658-ba4a-c8227e3ee974": {
@@ -39,12 +39,12 @@
       "username": "0110jimmy",
       "rank": "chief",
       "online": true,
-      "server": "AS4",
+      "server": "AS12",
       "tna": 1594,
       "baselineTna": 1502,
       "baselineTs": "2026-06-06T18:47:42.183Z",
       "gained": 92,
-      "lastSeen": "2026-10-04T14:01:24.809Z",
+      "lastSeen": "2026-10-04T14:05:33.651Z",
       "lastRaid": "2026-10-04T11:25:30.982Z",
       "byDay": {
         "2026-08-05": 1502,
@@ -867,12 +867,12 @@
       "username": "woody123_is_god",
       "rank": "captain",
       "online": true,
-      "server": "AS4",
+      "server": "AS12",
       "tna": 63,
       "baselineTna": 4,
       "baselineTs": "2026-07-24T13:40:33.852Z",
       "gained": 59,
-      "lastSeen": "2026-10-04T14:01:24.809Z",
+      "lastSeen": "2026-10-04T14:05:33.651Z",
       "lastRaid": "2026-10-04T13:45:37.590Z",
       "byDay": {
         "2026-08-05": 16,
@@ -1104,13 +1104,13 @@
     "e1c4ea28-f56d-4c80-aa39-847334e10832": {
       "username": "allenYue",
       "rank": "captain",
-      "online": false,
-      "server": null,
+      "online": true,
+      "server": "EU2",
       "tna": 31,
       "baselineTna": 3,
       "baselineTs": "2026-09-20T08:05:31.932Z",
       "gained": 28,
-      "lastSeen": "2026-10-04T12:40:37.568Z",
+      "lastSeen": "2026-10-04T14:05:33.651Z",
       "lastRaid": "2026-10-03T17:40:36.924Z",
       "byDay": {
         "2026-09-20": 3,
@@ -2929,7 +2929,7 @@
       "baselineTna": 58,
       "baselineTs": "2026-06-06T18:47:42.183Z",
       "gained": 2,
-      "lastSeen": "2026-10-04T14:01:24.809Z",
+      "lastSeen": "2026-10-04T14:05:33.651Z",
       "lastRaid": "2026-06-21T07:50:31.019Z",
       "byDay": {
         "2026-08-05": 60,
@@ -3174,13 +3174,13 @@
     "35a6a719-027c-4c77-b7be-1ecc7458b8bd": {
       "username": "Tomzd90",
       "rank": "recruit",
-      "online": false,
-      "server": null,
+      "online": true,
+      "server": "AS12",
       "tna": 15,
       "baselineTna": 1,
       "baselineTs": "2026-09-18T15:20:46.123Z",
       "gained": 14,
-      "lastSeen": "2026-10-04T13:55:31.114Z",
+      "lastSeen": "2026-10-04T14:05:33.651Z",
       "lastRaid": "2026-10-04T11:20:39.893Z",
       "byDay": {
         "2026-09-18": 1,
@@ -3303,12 +3303,12 @@
       "username": "StopRain",
       "rank": "recruit",
       "online": true,
-      "server": "AS4",
+      "server": "AS10",
       "tna": 27,
       "baselineTna": 26,
       "baselineTs": "2026-09-18T07:45:37.390Z",
       "gained": 1,
-      "lastSeen": "2026-10-04T14:01:24.809Z",
+      "lastSeen": "2026-10-04T14:05:33.651Z",
       "lastRaid": "2026-10-04T11:01:03.491Z",
       "byDay": {
         "2026-09-18": 26,
@@ -3594,7 +3594,7 @@
       "baselineTna": 74,
       "baselineTs": "2026-09-28T11:10:39.715Z",
       "gained": 4,
-      "lastSeen": "2026-10-04T14:01:24.809Z",
+      "lastSeen": "2026-10-04T14:05:33.651Z",
       "lastRaid": "2026-10-03T12:10:41.039Z",
       "byDay": {
         "2026-09-28": 74,
@@ -3778,7 +3778,7 @@
       "baselineTna": 23,
       "baselineTs": "2026-06-06T18:47:42.183Z",
       "gained": 1,
-      "lastSeen": "2026-10-04T14:01:24.809Z",
+      "lastSeen": "2026-10-04T14:05:33.651Z",
       "lastRaid": "2026-06-09T09:25:26.742Z",
       "byDay": {
         "2026-08-05": 24,
@@ -4728,13 +4728,13 @@
     "756265c0-f633-4f98-aa88-95bf3aafa074": {
       "username": "Ran0612",
       "rank": "recruit",
-      "online": false,
-      "server": null,
+      "online": true,
+      "server": "AS8",
       "tna": null,
       "baselineTna": null,
       "baselineTs": null,
       "gained": 0,
-      "lastSeen": "2026-10-04T10:05:32.500Z",
+      "lastSeen": "2026-10-04T14:05:33.651Z",
       "lastRaid": null,
       "byDay": {}
     }
