@@ -2039,10 +2039,10 @@
     "4791eb57-3607-4647-8d4f-59aaa879c5a4|e1c4ea28-f56d-4c80-aa39-847334e10832": {
       "a": "4791eb57-3607-4647-8d4f-59aaa879c5a4",
       "b": "e1c4ea28-f56d-4c80-aa39-847334e10832",
-      "samples": 175,
+      "samples": 176,
       "usernameA": "0110jimmy",
       "usernameB": "allenYue",
-      "lastTs": "2026-10-04T11:20:39.893Z"
+      "lastTs": "2026-10-04T11:25:30.982Z"
     },
     "e1c4ea28-f56d-4c80-aa39-847334e10832|e4a23668-57d7-4f17-b58f-4a0fd17870ec": {
       "a": "e1c4ea28-f56d-4c80-aa39-847334e10832",
@@ -2207,10 +2207,10 @@
     "35a6a719-027c-4c77-b7be-1ecc7458b8bd|4b34b4a2-5391-44de-a7d2-85c1973117d3": {
       "a": "35a6a719-027c-4c77-b7be-1ecc7458b8bd",
       "b": "4b34b4a2-5391-44de-a7d2-85c1973117d3",
-      "samples": 158,
+      "samples": 159,
       "usernameA": "Tomzd90",
       "usernameB": "salder_uwu",
-      "lastTs": "2026-10-04T11:20:39.893Z"
+      "lastTs": "2026-10-04T11:25:30.982Z"
     },
     "4b34b4a2-5391-44de-a7d2-85c1973117d3|a3c587d3-c4e3-43c1-9cf6-fd3850624161": {
       "a": "4b34b4a2-5391-44de-a7d2-85c1973117d3",
@@ -2519,10 +2519,10 @@
     "0aef2f69-7099-4658-ba4a-c8227e3ee974|e1c4ea28-f56d-4c80-aa39-847334e10832": {
       "a": "0aef2f69-7099-4658-ba4a-c8227e3ee974",
       "b": "e1c4ea28-f56d-4c80-aa39-847334e10832",
-      "samples": 6,
+      "samples": 7,
       "usernameA": "NOT_Joker",
-      "usernameB": "21126yue",
-      "lastTs": "2026-09-29T14:40:40.605Z"
+      "usernameB": "allenYue",
+      "lastTs": "2026-10-04T11:25:30.982Z"
     },
     "0aef2f69-7099-4658-ba4a-c8227e3ee974|35a6a719-027c-4c77-b7be-1ecc7458b8bd": {
       "a": "0aef2f69-7099-4658-ba4a-c8227e3ee974",
@@ -2779,7 +2779,15 @@
       "usernameA": "serious214",
       "usernameB": "meowmeow0510",
       "lastTs": "2026-10-04T03:45:38.917Z"
+    },
+    "0aef2f69-7099-4658-ba4a-c8227e3ee974|4791eb57-3607-4647-8d4f-59aaa879c5a4": {
+      "a": "0aef2f69-7099-4658-ba4a-c8227e3ee974",
+      "b": "4791eb57-3607-4647-8d4f-59aaa879c5a4",
+      "samples": 1,
+      "usernameA": "NOT_Joker",
+      "usernameB": "0110jimmy",
+      "lastTs": "2026-10-04T11:25:30.982Z"
     }
   },
-  "updated": "2026-10-04T11:20:39.893Z"
+  "updated": "2026-10-04T11:25:30.982Z"
 }
