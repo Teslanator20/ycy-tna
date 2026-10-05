@@ -479,10 +479,10 @@
     "2b4be507-abf6-4172-99d9-29e88ff231b0|e2b6e8e4-0265-44c6-8892-a63733adc7fa": {
       "a": "2b4be507-abf6-4172-99d9-29e88ff231b0",
       "b": "e2b6e8e4-0265-44c6-8892-a63733adc7fa",
-      "samples": 366,
+      "samples": 367,
       "usernameA": "ANTONY_71",
       "usernameB": "YoyoBreaker",
-      "lastTs": "2026-10-05T09:31:12.299Z"
+      "lastTs": "2026-10-05T09:35:31.566Z"
     },
     "d12455ec-9194-492d-8e6e-6794b678e8f4|e2b6e8e4-0265-44c6-8892-a63733adc7fa": {
       "a": "d12455ec-9194-492d-8e6e-6794b678e8f4",
@@ -2503,10 +2503,10 @@
     "15474867-0119-4bf8-8df6-09f10c3a4d8e|bdf4d139-41bb-41f7-a20e-6411f840eab4": {
       "a": "15474867-0119-4bf8-8df6-09f10c3a4d8e",
       "b": "bdf4d139-41bb-41f7-a20e-6411f840eab4",
-      "samples": 14,
+      "samples": 15,
       "usernameA": "boyu_Xiaoyu",
       "usernameB": "StopRain",
-      "lastTs": "2026-10-04T17:35:31.836Z"
+      "lastTs": "2026-10-05T09:35:31.566Z"
     },
     "0aef2f69-7099-4658-ba4a-c8227e3ee974|e4a23668-57d7-4f17-b58f-4a0fd17870ec": {
       "a": "0aef2f69-7099-4658-ba4a-c8227e3ee974",
@@ -2821,5 +2821,5 @@
       "lastTs": "2026-10-05T06:15:39.351Z"
     }
   },
-  "updated": "2026-10-05T09:31:12.299Z"
+  "updated": "2026-10-05T09:35:31.566Z"
 }
