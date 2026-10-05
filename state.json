@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-05T11:25:34.963Z",
+  "updated": "2026-10-05T11:30:56.085Z",
   "guild": {
     "name": "YuChaYuan",
     "prefix": "YCY",
@@ -2375,12 +2375,12 @@
       "username": "YoyoBreaker",
       "rank": "recruiter",
       "online": true,
-      "server": "AS1",
+      "server": "AS2",
       "tna": 58,
       "baselineTna": 53,
       "baselineTs": "2026-06-06T18:47:42.183Z",
       "gained": 5,
-      "lastSeen": "2026-10-05T11:25:34.963Z",
+      "lastSeen": "2026-10-05T11:30:56.085Z",
       "lastRaid": "2026-06-21T07:50:31.019Z",
       "byDay": {
         "2026-08-06": 58,
@@ -3182,7 +3182,7 @@
       "baselineTna": 1,
       "baselineTs": "2026-09-18T15:20:46.123Z",
       "gained": 14,
-      "lastSeen": "2026-10-05T11:25:34.963Z",
+      "lastSeen": "2026-10-05T11:30:56.085Z",
       "lastRaid": "2026-10-04T11:20:39.893Z",
       "byDay": {
         "2026-09-18": 1,
@@ -3245,7 +3245,7 @@
       "baselineTna": 1,
       "baselineTs": "2026-09-21T17:01:05.354Z",
       "gained": 2,
-      "lastSeen": "2026-10-05T11:25:34.963Z",
+      "lastSeen": "2026-10-05T11:30:56.085Z",
       "lastRaid": "2026-09-26T18:40:36.755Z",
       "byDay": {
         "2026-09-21": 1,
