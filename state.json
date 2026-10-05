@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-05T05:45:40.235Z",
+  "updated": "2026-10-05T05:50:11.176Z",
   "guild": {
     "name": "YuChaYuan",
     "prefix": "YCY",
@@ -717,8 +717,8 @@
     "b2af2238-7cdb-48ea-bc81-93e2edaac822": {
       "username": "Marvel_jesus",
       "rank": "strategist",
-      "online": true,
-      "server": "AS13",
+      "online": false,
+      "server": null,
       "tna": 1,
       "baselineTna": 1,
       "baselineTs": "2026-06-06T18:47:42.183Z",
@@ -1105,13 +1105,13 @@
     "e1c4ea28-f56d-4c80-aa39-847334e10832": {
       "username": "allenYue",
       "rank": "captain",
-      "online": false,
-      "server": null,
+      "online": true,
+      "server": "AS1",
       "tna": 31,
       "baselineTna": 3,
       "baselineTs": "2026-09-20T08:05:31.932Z",
       "gained": 28,
-      "lastSeen": "2026-10-05T05:11:13.085Z",
+      "lastSeen": "2026-10-05T05:50:11.176Z",
       "lastRaid": "2026-10-03T17:40:36.924Z",
       "byDay": {
         "2026-09-20": 3,
@@ -1441,7 +1441,7 @@
       "baselineTna": 38,
       "baselineTs": "2026-06-06T18:47:42.183Z",
       "gained": 0,
-      "lastSeen": "2026-10-05T05:45:40.235Z",
+      "lastSeen": "2026-10-05T05:50:11.176Z",
       "lastRaid": null,
       "byDay": {
         "2026-08-06": 38,
@@ -2374,13 +2374,13 @@
     "e2b6e8e4-0265-44c6-8892-a63733adc7fa": {
       "username": "YoyoBreaker",
       "rank": "recruiter",
-      "online": false,
-      "server": null,
+      "online": true,
+      "server": "AS4",
       "tna": 58,
       "baselineTna": 53,
       "baselineTs": "2026-06-06T18:47:42.183Z",
       "gained": 5,
-      "lastSeen": "2026-10-04T17:20:41.273Z",
+      "lastSeen": "2026-10-05T05:50:11.176Z",
       "lastRaid": "2026-06-21T07:50:31.019Z",
       "byDay": {
         "2026-08-06": 58,
@@ -3601,7 +3601,7 @@
       "baselineTna": 74,
       "baselineTs": "2026-09-28T11:10:39.715Z",
       "gained": 4,
-      "lastSeen": "2026-10-05T05:45:40.235Z",
+      "lastSeen": "2026-10-05T05:50:11.176Z",
       "lastRaid": "2026-10-03T12:10:41.039Z",
       "byDay": {
         "2026-09-28": 74,
@@ -4738,8 +4738,8 @@
     "756265c0-f633-4f98-aa88-95bf3aafa074": {
       "username": "Ran0612",
       "rank": "recruit",
-      "online": true,
-      "server": "NA2",
+      "online": false,
+      "server": null,
       "tna": null,
       "baselineTna": null,
       "baselineTs": null,
