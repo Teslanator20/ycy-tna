@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-05T14:35:35.891Z",
+  "updated": "2026-10-05T14:40:40.254Z",
   "guild": {
     "name": "YuChaYuan",
     "prefix": "YCY",
@@ -7,7 +7,7 @@
     "raidShort": "TNA",
     "color": "#2ca089"
   },
-  "online": 3,
+  "online": 5,
   "memberCount": 95,
   "members": {
     "0aef2f69-7099-4658-ba4a-c8227e3ee974": {
@@ -873,7 +873,7 @@
       "baselineTna": 4,
       "baselineTs": "2026-07-24T13:40:33.852Z",
       "gained": 64,
-      "lastSeen": "2026-10-05T14:35:35.891Z",
+      "lastSeen": "2026-10-05T14:40:40.254Z",
       "lastRaid": "2026-10-04T14:30:51.368Z",
       "byDay": {
         "2026-08-06": 16,
@@ -3176,13 +3176,13 @@
     "35a6a719-027c-4c77-b7be-1ecc7458b8bd": {
       "username": "Tomzd90",
       "rank": "recruit",
-      "online": false,
-      "server": null,
+      "online": true,
+      "server": "AS14",
       "tna": 15,
       "baselineTna": 1,
       "baselineTs": "2026-09-18T15:20:46.123Z",
       "gained": 14,
-      "lastSeen": "2026-10-05T13:50:41.707Z",
+      "lastSeen": "2026-10-05T14:40:40.254Z",
       "lastRaid": "2026-10-04T11:20:39.893Z",
       "byDay": {
         "2026-09-18": 1,
@@ -3239,13 +3239,13 @@
     "4b34b4a2-5391-44de-a7d2-85c1973117d3": {
       "username": "salder_uwu",
       "rank": "recruit",
-      "online": false,
-      "server": null,
+      "online": true,
+      "server": "AS14",
       "tna": 3,
       "baselineTna": 1,
       "baselineTs": "2026-09-21T17:01:05.354Z",
       "gained": 2,
-      "lastSeen": "2026-10-05T13:07:21.019Z",
+      "lastSeen": "2026-10-05T14:40:40.254Z",
       "lastRaid": "2026-09-26T18:40:36.755Z",
       "byDay": {
         "2026-09-21": 1,
@@ -3601,7 +3601,7 @@
       "baselineTna": 74,
       "baselineTs": "2026-09-28T11:10:39.715Z",
       "gained": 4,
-      "lastSeen": "2026-10-05T14:35:35.891Z",
+      "lastSeen": "2026-10-05T14:40:40.254Z",
       "lastRaid": "2026-10-03T12:10:41.039Z",
       "byDay": {
         "2026-09-28": 74,
@@ -4744,7 +4744,7 @@
       "baselineTna": null,
       "baselineTs": null,
       "gained": 0,
-      "lastSeen": "2026-10-05T14:35:35.891Z",
+      "lastSeen": "2026-10-05T14:40:40.254Z",
       "lastRaid": null,
       "byDay": {}
     }
