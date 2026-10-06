@@ -129,11 +129,11 @@
     "35a6a719-027c-4c77-b7be-1ecc7458b8bd|de06ed1c-0480-42ee-8a10-9d400bb61467": {
       "a": "35a6a719-027c-4c77-b7be-1ecc7458b8bd",
       "b": "de06ed1c-0480-42ee-8a10-9d400bb61467",
-      "count": 1,
-      "confirmed": 1,
+      "count": 2,
+      "confirmed": 2,
       "usernameA": "Tomzd90",
       "usernameB": "9tao_",
-      "lastTs": "2026-09-28T17:45:39.158Z"
+      "lastTs": "2026-10-06T17:25:33.693Z"
     },
     "0aef2f69-7099-4658-ba4a-c8227e3ee974|e4a23668-57d7-4f17-b58f-4a0fd17870ec": {
       "a": "0aef2f69-7099-4658-ba4a-c8227e3ee974",
@@ -2095,10 +2095,10 @@
     "35a6a719-027c-4c77-b7be-1ecc7458b8bd|e4a23668-57d7-4f17-b58f-4a0fd17870ec": {
       "a": "35a6a719-027c-4c77-b7be-1ecc7458b8bd",
       "b": "e4a23668-57d7-4f17-b58f-4a0fd17870ec",
-      "samples": 246,
+      "samples": 247,
       "usernameA": "Tomzd90",
       "usernameB": "woody123_is_god",
-      "lastTs": "2026-10-06T17:20:44.356Z"
+      "lastTs": "2026-10-06T17:25:33.693Z"
     },
     "35a6a719-027c-4c77-b7be-1ecc7458b8bd|4791eb57-3607-4647-8d4f-59aaa879c5a4": {
       "a": "35a6a719-027c-4c77-b7be-1ecc7458b8bd",
@@ -2821,5 +2821,5 @@
       "lastTs": "2026-10-05T06:15:39.351Z"
     }
   },
-  "updated": "2026-10-06T17:20:44.356Z"
+  "updated": "2026-10-06T17:25:33.693Z"
 }
