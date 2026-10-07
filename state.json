@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-07T11:25:33.451Z",
+  "updated": "2026-10-07T11:31:00.814Z",
   "guild": {
     "name": "YuChaYuan",
     "prefix": "YCY",
@@ -7,7 +7,7 @@
     "raidShort": "TNA",
     "color": "#2ca089"
   },
-  "online": 7,
+  "online": 6,
   "memberCount": 96,
   "members": {
     "0aef2f69-7099-4658-ba4a-c8227e3ee974": {
@@ -3181,12 +3181,12 @@
       "username": "Tomzd90",
       "rank": "recruit",
       "online": true,
-      "server": "AS11",
+      "server": "AS4",
       "tna": 16,
       "baselineTna": 1,
       "baselineTs": "2026-09-18T15:20:46.123Z",
       "gained": 15,
-      "lastSeen": "2026-10-07T11:25:33.451Z",
+      "lastSeen": "2026-10-07T11:31:00.814Z",
       "lastRaid": "2026-10-06T17:25:33.693Z",
       "byDay": {
         "2026-09-18": 1,
@@ -3215,12 +3215,12 @@
       "username": "Ku_Dar",
       "rank": "recruit",
       "online": true,
-      "server": "AS10",
+      "server": "NA12",
       "tna": 10,
       "baselineTna": 1,
       "baselineTs": "2026-09-19T11:45:35.709Z",
       "gained": 9,
-      "lastSeen": "2026-10-07T11:25:33.451Z",
+      "lastSeen": "2026-10-07T11:31:00.814Z",
       "lastRaid": "2026-10-03T04:45:38.322Z",
       "byDay": {
         "2026-09-19": 1,
@@ -3253,7 +3253,7 @@
       "baselineTna": 1,
       "baselineTs": "2026-09-21T17:01:05.354Z",
       "gained": 2,
-      "lastSeen": "2026-10-07T11:25:33.451Z",
+      "lastSeen": "2026-10-07T11:31:00.814Z",
       "lastRaid": "2026-09-26T18:40:36.755Z",
       "byDay": {
         "2026-09-21": 1,
@@ -3305,12 +3305,12 @@
       "username": "StopRain",
       "rank": "recruit",
       "online": true,
-      "server": "AS11",
+      "server": "AS4",
       "tna": 28,
       "baselineTna": 26,
       "baselineTs": "2026-09-18T07:45:37.390Z",
       "gained": 2,
-      "lastSeen": "2026-10-07T11:25:33.451Z",
+      "lastSeen": "2026-10-07T11:31:00.814Z",
       "lastRaid": "2026-10-07T10:50:44.314Z",
       "byDay": {
         "2026-09-18": 26,
@@ -3390,8 +3390,8 @@
     "a0c7bd60-494b-4273-bbb7-fa648745e7df": {
       "username": "serious214",
       "rank": "recruit",
-      "online": true,
-      "server": "AS9",
+      "online": false,
+      "server": null,
       "tna": 8,
       "baselineTna": 3,
       "baselineTs": "2026-09-22T15:30:52.215Z",
@@ -3452,7 +3452,7 @@
       "baselineTna": 74,
       "baselineTs": "2026-09-28T11:10:39.715Z",
       "gained": 4,
-      "lastSeen": "2026-10-07T11:25:33.451Z",
+      "lastSeen": "2026-10-07T11:31:00.814Z",
       "lastRaid": "2026-10-03T12:10:41.039Z",
       "byDay": {
         "2026-09-28": 74,
@@ -3652,7 +3652,7 @@
       "baselineTna": 23,
       "baselineTs": "2026-06-06T18:47:42.183Z",
       "gained": 1,
-      "lastSeen": "2026-10-07T11:25:33.451Z",
+      "lastSeen": "2026-10-07T11:31:00.814Z",
       "lastRaid": "2026-06-09T09:25:26.742Z",
       "byDay": {
         "2026-08-08": 24,
