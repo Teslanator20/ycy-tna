@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-08T14:05:30.435Z",
+  "updated": "2026-10-08T14:10:35.640Z",
   "guild": {
     "name": "YuChaYuan",
     "prefix": "YCY",
@@ -7,7 +7,7 @@
     "raidShort": "TNA",
     "color": "#2ca089"
   },
-  "online": 4,
+  "online": 6,
   "memberCount": 86,
   "members": {
     "0aef2f69-7099-4658-ba4a-c8227e3ee974": {
@@ -876,7 +876,7 @@
       "baselineTna": 4,
       "baselineTs": "2026-07-24T13:40:33.852Z",
       "gained": 66,
-      "lastSeen": "2026-10-08T14:05:30.435Z",
+      "lastSeen": "2026-10-08T14:10:35.640Z",
       "lastRaid": "2026-10-06T17:35:37.640Z",
       "byDay": {
         "2026-08-09": 16,
@@ -1095,13 +1095,13 @@
     "e1c4ea28-f56d-4c80-aa39-847334e10832": {
       "username": "allenYue",
       "rank": "captain",
-      "online": false,
-      "server": null,
+      "online": true,
+      "server": "AS12",
       "tna": 34,
       "baselineTna": 3,
       "baselineTs": "2026-09-20T08:05:31.932Z",
       "gained": 31,
-      "lastSeen": "2026-10-08T12:30:48.706Z",
+      "lastSeen": "2026-10-08T14:10:35.640Z",
       "lastRaid": "2026-10-07T15:20:46.318Z",
       "byDay": {
         "2026-09-20": 3,
@@ -2386,7 +2386,7 @@
       "baselineTna": 53,
       "baselineTs": "2026-06-06T18:47:42.183Z",
       "gained": 5,
-      "lastSeen": "2026-10-08T14:05:30.435Z",
+      "lastSeen": "2026-10-08T14:10:35.640Z",
       "lastRaid": "2026-06-21T07:50:31.019Z",
       "byDay": {
         "2026-08-09": 58,
@@ -3188,7 +3188,7 @@
       "baselineTna": 1,
       "baselineTs": "2026-09-18T15:20:46.123Z",
       "gained": 15,
-      "lastSeen": "2026-10-08T14:05:30.435Z",
+      "lastSeen": "2026-10-08T14:10:35.640Z",
       "lastRaid": "2026-10-06T17:25:33.693Z",
       "byDay": {
         "2026-09-18": 1,
@@ -3484,7 +3484,7 @@
       "baselineTna": 301,
       "baselineTs": "2026-06-06T18:47:42.183Z",
       "gained": 0,
-      "lastSeen": "2026-10-08T14:05:30.435Z",
+      "lastSeen": "2026-10-08T14:10:35.640Z",
       "lastRaid": null,
       "byDay": {
         "2026-08-09": 301,
@@ -3900,13 +3900,13 @@
     "171e4ef3-9382-47c5-bfd8-e1c8ac97d50c": {
       "username": "r1chsh1h",
       "rank": "recruit",
-      "online": false,
-      "server": null,
+      "online": true,
+      "server": "AS21",
       "tna": 15,
       "baselineTna": 15,
       "baselineTs": "2026-06-06T18:47:42.183Z",
       "gained": 0,
-      "lastSeen": "2026-10-08T10:30:46.591Z",
+      "lastSeen": "2026-10-08T14:10:35.640Z",
       "lastRaid": null,
       "byDay": {
         "2026-08-09": 15,
