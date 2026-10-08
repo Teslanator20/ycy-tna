@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-08T04:30:56.323Z",
+  "updated": "2026-10-08T04:35:29.230Z",
   "guild": {
     "name": "YuChaYuan",
     "prefix": "YCY",
@@ -264,19 +264,6 @@
         "2026-10-08": 242
       }
     },
-    "efb02768-2b6e-401c-844a-6119804bc4d2": {
-      "username": "_Reynold",
-      "rank": "chief",
-      "online": false,
-      "server": null,
-      "tna": null,
-      "baselineTna": null,
-      "baselineTs": null,
-      "gained": 0,
-      "lastSeen": null,
-      "lastRaid": null,
-      "byDay": {}
-    },
     "facc3dda-b70a-40db-a028-fe723bb53c88": {
       "username": "eric18960",
       "rank": "chief",
@@ -351,6 +338,19 @@
         "2026-10-07": 662,
         "2026-10-08": 662
       }
+    },
+    "efb02768-2b6e-401c-844a-6119804bc4d2": {
+      "username": "_Reynold",
+      "rank": "chief",
+      "online": false,
+      "server": null,
+      "tna": null,
+      "baselineTna": null,
+      "baselineTs": null,
+      "gained": 0,
+      "lastSeen": null,
+      "lastRaid": null,
+      "byDay": {}
     },
     "0cdbea81-6c53-4f99-b247-77c538aea432": {
       "username": "HEYAZero",
@@ -3459,7 +3459,7 @@
       "baselineTna": 74,
       "baselineTs": "2026-09-28T11:10:39.715Z",
       "gained": 4,
-      "lastSeen": "2026-10-08T04:30:56.323Z",
+      "lastSeen": "2026-10-08T04:35:29.230Z",
       "lastRaid": "2026-10-03T12:10:41.039Z",
       "byDay": {
         "2026-09-28": 74,
