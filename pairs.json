@@ -2072,10 +2072,10 @@
     "35a6a719-027c-4c77-b7be-1ecc7458b8bd|e1c4ea28-f56d-4c80-aa39-847334e10832": {
       "a": "35a6a719-027c-4c77-b7be-1ecc7458b8bd",
       "b": "e1c4ea28-f56d-4c80-aa39-847334e10832",
-      "samples": 370,
+      "samples": 371,
       "usernameA": "Tomzd90",
       "usernameB": "allenYue",
-      "lastTs": "2026-10-10T17:05:27.892Z"
+      "lastTs": "2026-10-10T17:10:31.342Z"
     },
     "b668fbc7-fd23-43c4-95fc-bf7f5d06c0da|e1c4ea28-f56d-4c80-aa39-847334e10832": {
       "a": "b668fbc7-fd23-43c4-95fc-bf7f5d06c0da",
@@ -2856,10 +2856,10 @@
     "35a6a719-027c-4c77-b7be-1ecc7458b8bd|c7645511-4147-4db4-b210-1f8436aebf2e": {
       "a": "35a6a719-027c-4c77-b7be-1ecc7458b8bd",
       "b": "c7645511-4147-4db4-b210-1f8436aebf2e",
-      "samples": 7,
+      "samples": 8,
       "usernameA": "Tomzd90",
       "usernameB": "OHO_XiaoLong",
-      "lastTs": "2026-10-07T15:50:45.083Z"
+      "lastTs": "2026-10-10T17:10:31.342Z"
     },
     "4b34b4a2-5391-44de-a7d2-85c1973117d3|c7645511-4147-4db4-b210-1f8436aebf2e": {
       "a": "4b34b4a2-5391-44de-a7d2-85c1973117d3",
@@ -2976,10 +2976,10 @@
     "c7645511-4147-4db4-b210-1f8436aebf2e|e1c4ea28-f56d-4c80-aa39-847334e10832": {
       "a": "c7645511-4147-4db4-b210-1f8436aebf2e",
       "b": "e1c4ea28-f56d-4c80-aa39-847334e10832",
-      "samples": 2,
+      "samples": 3,
       "usernameA": "OHO_XiaoLong",
       "usernameB": "allenYue",
-      "lastTs": "2026-10-08T16:45:30.639Z"
+      "lastTs": "2026-10-10T17:10:31.342Z"
     },
     "0cdbea81-6c53-4f99-b247-77c538aea432|72d00858-9575-4561-8393-d668ce1c42c8": {
       "a": "0cdbea81-6c53-4f99-b247-77c538aea432",
@@ -3144,18 +3144,18 @@
     "31392b35-912c-4401-b285-3c51b1e2dd38|e1c4ea28-f56d-4c80-aa39-847334e10832": {
       "a": "31392b35-912c-4401-b285-3c51b1e2dd38",
       "b": "e1c4ea28-f56d-4c80-aa39-847334e10832",
-      "samples": 3,
+      "samples": 4,
       "usernameA": "OHO_superkai",
       "usernameB": "allenYue",
-      "lastTs": "2026-10-10T17:05:27.892Z"
+      "lastTs": "2026-10-10T17:10:31.342Z"
     },
     "31392b35-912c-4401-b285-3c51b1e2dd38|35a6a719-027c-4c77-b7be-1ecc7458b8bd": {
       "a": "31392b35-912c-4401-b285-3c51b1e2dd38",
       "b": "35a6a719-027c-4c77-b7be-1ecc7458b8bd",
-      "samples": 3,
+      "samples": 4,
       "usernameA": "OHO_superkai",
       "usernameB": "Tomzd90",
-      "lastTs": "2026-10-10T17:05:27.892Z"
+      "lastTs": "2026-10-10T17:10:31.342Z"
     },
     "31392b35-912c-4401-b285-3c51b1e2dd38|4b34b4a2-5391-44de-a7d2-85c1973117d3": {
       "a": "31392b35-912c-4401-b285-3c51b1e2dd38",
@@ -3184,11 +3184,11 @@
     "31392b35-912c-4401-b285-3c51b1e2dd38|c7645511-4147-4db4-b210-1f8436aebf2e": {
       "a": "31392b35-912c-4401-b285-3c51b1e2dd38",
       "b": "c7645511-4147-4db4-b210-1f8436aebf2e",
-      "samples": 12,
+      "samples": 13,
       "usernameA": "OHO_superkai",
       "usernameB": "OHO_XiaoLong",
-      "lastTs": "2026-10-10T16:55:26.875Z"
+      "lastTs": "2026-10-10T17:10:31.342Z"
     }
   },
-  "updated": "2026-10-10T17:05:27.892Z"
+  "updated": "2026-10-10T17:10:31.342Z"
 }
