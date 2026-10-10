@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-10T06:40:34.879Z",
+  "updated": "2026-10-10T06:45:30.388Z",
   "guild": {
     "name": "YuChaYuan",
     "prefix": "YCY",
@@ -45,12 +45,12 @@
       "username": "0110jimmy",
       "rank": "chief",
       "online": true,
-      "server": "AS1",
+      "server": "AS14",
       "tna": 1610,
       "baselineTna": 1502,
       "baselineTs": "2026-06-06T18:47:42.183Z",
       "gained": 108,
-      "lastSeen": "2026-10-10T06:40:34.879Z",
+      "lastSeen": "2026-10-10T06:45:30.388Z",
       "lastRaid": "2026-10-10T05:25:26.340Z",
       "byDay": {
         "2026-08-11": 1502,
@@ -438,7 +438,7 @@
       "baselineTna": 256,
       "baselineTs": "2026-06-06T18:47:42.183Z",
       "gained": 124,
-      "lastSeen": "2026-10-10T06:40:34.879Z",
+      "lastSeen": "2026-10-10T06:45:30.388Z",
       "lastRaid": "2026-09-08T15:50:40.461Z",
       "byDay": {
         "2026-08-11": 321,
@@ -1028,7 +1028,7 @@
       "baselineTna": 3,
       "baselineTs": "2026-09-20T08:05:31.932Z",
       "gained": 37,
-      "lastSeen": "2026-10-10T06:40:34.879Z",
+      "lastSeen": "2026-10-10T06:45:30.388Z",
       "lastRaid": "2026-10-10T03:20:31.833Z",
       "byDay": {
         "2026-09-20": 3,
@@ -3379,6 +3379,23 @@
       "lastRaid": null,
       "byDay": {}
     },
+    "72d00858-9575-4561-8393-d668ce1c42c8": {
+      "username": "zhoushen1025",
+      "rank": "recruit",
+      "online": true,
+      "server": "AS3",
+      "tna": 5,
+      "baselineTna": 5,
+      "baselineTs": "2026-10-08T15:40:36.192Z",
+      "gained": 0,
+      "lastSeen": "2026-10-10T06:45:30.388Z",
+      "lastRaid": null,
+      "byDay": {
+        "2026-10-08": 5,
+        "2026-10-09": 5,
+        "2026-10-10": 5
+      }
+    },
     "dc3b2aad-2940-4bb6-87f9-09cf6aed8ef9": {
       "username": "ShinyYeecat",
       "rank": "recruit",
@@ -3404,23 +3421,6 @@
       "lastSeen": "2026-09-19T19:05:30.252Z",
       "lastRaid": null,
       "byDay": {}
-    },
-    "72d00858-9575-4561-8393-d668ce1c42c8": {
-      "username": "zhoushen1025",
-      "rank": "recruit",
-      "online": true,
-      "server": "AS3",
-      "tna": 5,
-      "baselineTna": 5,
-      "baselineTs": "2026-10-08T15:40:36.192Z",
-      "gained": 0,
-      "lastSeen": "2026-10-10T06:40:34.879Z",
-      "lastRaid": null,
-      "byDay": {
-        "2026-10-08": 5,
-        "2026-10-09": 5,
-        "2026-10-10": 5
-      }
     },
     "a0c7bd60-494b-4273-bbb7-fa648745e7df": {
       "username": "serious214",
