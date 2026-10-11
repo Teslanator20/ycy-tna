@@ -488,10 +488,10 @@
     "2b4be507-abf6-4172-99d9-29e88ff231b0|e2b6e8e4-0265-44c6-8892-a63733adc7fa": {
       "a": "2b4be507-abf6-4172-99d9-29e88ff231b0",
       "b": "e2b6e8e4-0265-44c6-8892-a63733adc7fa",
-      "samples": 420,
+      "samples": 421,
       "usernameA": "ANTONY_71",
       "usernameB": "YoyoBreaker",
-      "lastTs": "2026-10-10T16:20:37.809Z"
+      "lastTs": "2026-10-11T14:20:32.544Z"
     },
     "d12455ec-9194-492d-8e6e-6794b678e8f4|e2b6e8e4-0265-44c6-8892-a63733adc7fa": {
       "a": "d12455ec-9194-492d-8e6e-6794b678e8f4",
@@ -3136,10 +3136,10 @@
     "31392b35-912c-4401-b285-3c51b1e2dd38|e2b6e8e4-0265-44c6-8892-a63733adc7fa": {
       "a": "31392b35-912c-4401-b285-3c51b1e2dd38",
       "b": "e2b6e8e4-0265-44c6-8892-a63733adc7fa",
-      "samples": 1,
+      "samples": 2,
       "usernameA": "OHO_superkai",
       "usernameB": "YoyoBreaker",
-      "lastTs": "2026-10-10T15:00:54.750Z"
+      "lastTs": "2026-10-11T14:20:32.544Z"
     },
     "31392b35-912c-4401-b285-3c51b1e2dd38|e1c4ea28-f56d-4c80-aa39-847334e10832": {
       "a": "31392b35-912c-4401-b285-3c51b1e2dd38",
@@ -3196,7 +3196,15 @@
       "usernameA": "ChangJenChieh",
       "usernameB": "woody123_is_god",
       "lastTs": "2026-10-11T11:45:31.064Z"
+    },
+    "2b4be507-abf6-4172-99d9-29e88ff231b0|31392b35-912c-4401-b285-3c51b1e2dd38": {
+      "a": "2b4be507-abf6-4172-99d9-29e88ff231b0",
+      "b": "31392b35-912c-4401-b285-3c51b1e2dd38",
+      "samples": 1,
+      "usernameA": "ANTONY_71",
+      "usernameB": "OHO_superkai",
+      "lastTs": "2026-10-11T14:20:32.544Z"
     }
   },
-  "updated": "2026-10-11T14:15:34.093Z"
+  "updated": "2026-10-11T14:20:32.544Z"
 }
