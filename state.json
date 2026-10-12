@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-12T13:01:04.395Z",
+  "updated": "2026-10-12T13:05:32.188Z",
   "guild": {
     "name": "YuChaYuan",
     "prefix": "YCY",
@@ -7,7 +7,7 @@
     "raidShort": "TNA",
     "color": "#2ca089"
   },
-  "online": 4,
+  "online": 5,
   "memberCount": 88,
   "members": {
     "0aef2f69-7099-4658-ba4a-c8227e3ee974": {
@@ -1050,7 +1050,7 @@
       "baselineTna": 3,
       "baselineTs": "2026-09-20T08:05:31.932Z",
       "gained": 42,
-      "lastSeen": "2026-10-12T13:01:04.395Z",
+      "lastSeen": "2026-10-12T13:05:32.188Z",
       "lastRaid": "2026-10-12T09:40:37.068Z",
       "byDay": {
         "2026-09-20": 3,
@@ -3216,7 +3216,7 @@
       "baselineTna": 1,
       "baselineTs": "2026-09-18T15:20:46.123Z",
       "gained": 16,
-      "lastSeen": "2026-10-12T13:01:04.395Z",
+      "lastSeen": "2026-10-12T13:05:32.188Z",
       "lastRaid": "2026-10-10T16:05:27.904Z",
       "byDay": {
         "2026-09-18": 1,
@@ -3293,7 +3293,7 @@
       "baselineTna": 1,
       "baselineTs": "2026-09-21T17:01:05.354Z",
       "gained": 4,
-      "lastSeen": "2026-10-12T13:01:04.395Z",
+      "lastSeen": "2026-10-12T13:05:32.188Z",
       "lastRaid": "2026-10-10T17:10:31.342Z",
       "byDay": {
         "2026-09-21": 1,
@@ -3329,7 +3329,7 @@
       "baselineTna": 5,
       "baselineTs": "2026-10-08T15:40:36.192Z",
       "gained": 4,
-      "lastSeen": "2026-10-12T13:01:04.395Z",
+      "lastSeen": "2026-10-12T13:05:32.188Z",
       "lastRaid": "2026-10-11T16:30:46.015Z",
       "byDay": {
         "2026-10-08": 5,
@@ -3523,13 +3523,13 @@
     "2b4be507-abf6-4172-99d9-29e88ff231b0": {
       "username": "ANTONY_71",
       "rank": "recruit",
-      "online": false,
-      "server": null,
+      "online": true,
+      "server": "AS18",
       "tna": 25,
       "baselineTna": 23,
       "baselineTs": "2026-06-06T18:47:42.183Z",
       "gained": 2,
-      "lastSeen": "2026-10-12T11:05:27.072Z",
+      "lastSeen": "2026-10-12T13:05:32.188Z",
       "lastRaid": "2026-10-08T19:55:26.636Z",
       "byDay": {
         "2026-08-13": 24,
