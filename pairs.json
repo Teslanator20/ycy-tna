@@ -170,6 +170,15 @@
       "usernameA": "StopRain",
       "usernameB": "allenYue",
       "lastTs": "2026-10-07T10:50:44.314Z"
+    },
+    "0aef2f69-7099-4658-ba4a-c8227e3ee974|e1c4ea28-f56d-4c80-aa39-847334e10832": {
+      "a": "0aef2f69-7099-4658-ba4a-c8227e3ee974",
+      "b": "e1c4ea28-f56d-4c80-aa39-847334e10832",
+      "count": 1,
+      "confirmed": 1,
+      "usernameA": "NOT_Joker",
+      "usernameB": "allenYue",
+      "lastTs": "2026-10-12T09:40:37.068Z"
     }
   },
   "copresence": {
@@ -3238,5 +3247,5 @@
       "lastTs": "2026-10-12T05:25:26.361Z"
     }
   },
-  "updated": "2026-10-12T09:35:28.732Z"
+  "updated": "2026-10-12T09:40:37.068Z"
 }
