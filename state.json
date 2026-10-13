@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-13T20:05:27.078Z",
+  "updated": "2026-10-13T20:10:38.736Z",
   "guild": {
     "name": "YuChaYuan",
     "prefix": "YCY",
@@ -3368,7 +3368,7 @@
       "baselineTna": 26,
       "baselineTs": "2026-09-18T07:45:37.390Z",
       "gained": 2,
-      "lastSeen": "2026-10-13T20:05:27.078Z",
+      "lastSeen": "2026-10-13T20:10:38.736Z",
       "lastRaid": "2026-10-07T10:50:44.314Z",
       "byDay": {
         "2026-09-18": 26,
@@ -3434,7 +3434,7 @@
       "baselineTna": 23,
       "baselineTs": "2026-06-06T18:47:42.183Z",
       "gained": 2,
-      "lastSeen": "2026-10-13T20:05:27.078Z",
+      "lastSeen": "2026-10-13T20:10:38.736Z",
       "lastRaid": "2026-10-08T19:55:26.636Z",
       "byDay": {
         "2026-08-14": 24,
@@ -3605,6 +3605,19 @@
         "2026-10-13": 79
       }
     },
+    "c7645511-4147-4db4-b210-1f8436aebf2e": {
+      "username": "OHO_XiaoLong",
+      "rank": "recruit",
+      "online": true,
+      "server": "NA23",
+      "tna": null,
+      "baselineTna": null,
+      "baselineTs": null,
+      "gained": 0,
+      "lastSeen": "2026-10-13T20:10:38.736Z",
+      "lastRaid": null,
+      "byDay": {}
+    },
     "3cce4037-3c08-4fb9-b707-b1e0b1ebdd1c": {
       "username": "Linfon_Kusa",
       "rank": "recruit",
@@ -3615,19 +3628,6 @@
       "baselineTs": null,
       "gained": 0,
       "lastSeen": "2026-08-16T09:50:38.060Z",
-      "lastRaid": null,
-      "byDay": {}
-    },
-    "c7645511-4147-4db4-b210-1f8436aebf2e": {
-      "username": "OHO_XiaoLong",
-      "rank": "recruit",
-      "online": true,
-      "server": "NA23",
-      "tna": null,
-      "baselineTna": null,
-      "baselineTs": null,
-      "gained": 0,
-      "lastSeen": "2026-10-13T20:05:27.078Z",
       "lastRaid": null,
       "byDay": {}
     },
