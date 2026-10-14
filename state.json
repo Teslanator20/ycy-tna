@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-14T13:05:29.296Z",
+  "updated": "2026-10-14T13:10:34.037Z",
   "guild": {
     "name": "YuChaYuan",
     "prefix": "YCY",
@@ -7,7 +7,7 @@
     "raidShort": "TNA",
     "color": "#2ca089"
   },
-  "online": 4,
+  "online": 5,
   "memberCount": 88,
   "members": {
     "0aef2f69-7099-4658-ba4a-c8227e3ee974": {
@@ -898,13 +898,13 @@
     "e4a23668-57d7-4f17-b58f-4a0fd17870ec": {
       "username": "woody123_is_god",
       "rank": "captain",
-      "online": false,
-      "server": null,
+      "online": true,
+      "server": "AS12",
       "tna": 75,
       "baselineTna": 4,
       "baselineTs": "2026-07-24T13:40:33.852Z",
       "gained": 71,
-      "lastSeen": "2026-10-13T16:25:28.291Z",
+      "lastSeen": "2026-10-14T13:10:34.037Z",
       "lastRaid": "2026-10-11T16:20:32.205Z",
       "byDay": {
         "2026-08-15": 16,
@@ -3217,12 +3217,12 @@
       "username": "Tomzd90",
       "rank": "recruit",
       "online": true,
-      "server": "AS16",
+      "server": "AS3",
       "tna": 18,
       "baselineTna": 1,
       "baselineTs": "2026-09-18T15:20:46.123Z",
       "gained": 17,
-      "lastSeen": "2026-10-14T13:05:29.296Z",
+      "lastSeen": "2026-10-14T13:10:34.037Z",
       "lastRaid": "2026-10-12T18:30:45.676Z",
       "byDay": {
         "2026-09-18": 1,
@@ -3341,7 +3341,7 @@
       "baselineTna": 5,
       "baselineTs": "2026-10-08T15:40:36.192Z",
       "gained": 4,
-      "lastSeen": "2026-10-14T13:05:29.296Z",
+      "lastSeen": "2026-10-14T13:10:34.037Z",
       "lastRaid": "2026-10-11T16:30:46.015Z",
       "byDay": {
         "2026-10-08": 5,
@@ -3429,7 +3429,7 @@
       "baselineTna": 23,
       "baselineTs": "2026-06-06T18:47:42.183Z",
       "gained": 2,
-      "lastSeen": "2026-10-14T13:05:29.296Z",
+      "lastSeen": "2026-10-14T13:10:34.037Z",
       "lastRaid": "2026-10-08T19:55:26.636Z",
       "byDay": {
         "2026-08-15": 24,
@@ -3543,7 +3543,7 @@
       "baselineTna": null,
       "baselineTs": null,
       "gained": 0,
-      "lastSeen": "2026-10-14T13:05:29.296Z",
+      "lastSeen": "2026-10-14T13:10:34.037Z",
       "lastRaid": null,
       "byDay": {}
     },
