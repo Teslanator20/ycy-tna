@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-14T15:35:35.827Z",
+  "updated": "2026-10-14T15:40:33.396Z",
   "guild": {
     "name": "YuChaYuan",
     "prefix": "YCY",
@@ -904,7 +904,7 @@
       "baselineTna": 4,
       "baselineTs": "2026-07-24T13:40:33.852Z",
       "gained": 71,
-      "lastSeen": "2026-10-14T15:35:35.827Z",
+      "lastSeen": "2026-10-14T15:40:33.396Z",
       "lastRaid": "2026-10-11T16:20:32.205Z",
       "byDay": {
         "2026-08-15": 16,
@@ -1054,7 +1054,7 @@
       "baselineTna": 3,
       "baselineTs": "2026-09-20T08:05:31.932Z",
       "gained": 44,
-      "lastSeen": "2026-10-14T15:35:35.827Z",
+      "lastSeen": "2026-10-14T15:40:33.396Z",
       "lastRaid": "2026-10-13T14:30:53.135Z",
       "byDay": {
         "2026-09-20": 3,
@@ -3222,7 +3222,7 @@
       "baselineTna": 1,
       "baselineTs": "2026-09-18T15:20:46.123Z",
       "gained": 17,
-      "lastSeen": "2026-10-14T15:35:35.827Z",
+      "lastSeen": "2026-10-14T15:40:33.396Z",
       "lastRaid": "2026-10-12T18:30:45.676Z",
       "byDay": {
         "2026-09-18": 1,
@@ -3263,7 +3263,7 @@
       "baselineTna": 1,
       "baselineTs": "2026-09-19T11:45:35.709Z",
       "gained": 9,
-      "lastSeen": "2026-10-14T15:35:35.827Z",
+      "lastSeen": "2026-10-14T15:40:33.396Z",
       "lastRaid": "2026-10-03T04:45:38.322Z",
       "byDay": {
         "2026-09-19": 1,
@@ -3303,7 +3303,7 @@
       "baselineTna": 1,
       "baselineTs": "2026-09-21T17:01:05.354Z",
       "gained": 5,
-      "lastSeen": "2026-10-14T15:35:35.827Z",
+      "lastSeen": "2026-10-14T15:40:33.396Z",
       "lastRaid": "2026-10-12T17:50:35.732Z",
       "byDay": {
         "2026-09-21": 1,
@@ -3336,12 +3336,12 @@
       "username": "zhoushen1025",
       "rank": "recruit",
       "online": true,
-      "server": "AS9",
+      "server": "AS12",
       "tna": 9,
       "baselineTna": 5,
       "baselineTs": "2026-10-08T15:40:36.192Z",
       "gained": 4,
-      "lastSeen": "2026-10-14T15:35:35.827Z",
+      "lastSeen": "2026-10-14T15:40:33.396Z",
       "lastRaid": "2026-10-11T16:30:46.015Z",
       "byDay": {
         "2026-10-08": 5,
