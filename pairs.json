@@ -2113,10 +2113,10 @@
     "35a6a719-027c-4c77-b7be-1ecc7458b8bd|e4a23668-57d7-4f17-b58f-4a0fd17870ec": {
       "a": "35a6a719-027c-4c77-b7be-1ecc7458b8bd",
       "b": "e4a23668-57d7-4f17-b58f-4a0fd17870ec",
-      "samples": 294,
+      "samples": 295,
       "usernameA": "Tomzd90",
       "usernameB": "woody123_is_god",
-      "lastTs": "2026-10-14T17:10:37.690Z"
+      "lastTs": "2026-10-14T17:15:37.763Z"
     },
     "35a6a719-027c-4c77-b7be-1ecc7458b8bd|4791eb57-3607-4647-8d4f-59aaa879c5a4": {
       "a": "35a6a719-027c-4c77-b7be-1ecc7458b8bd",
@@ -2225,10 +2225,10 @@
     "35a6a719-027c-4c77-b7be-1ecc7458b8bd|4b34b4a2-5391-44de-a7d2-85c1973117d3": {
       "a": "35a6a719-027c-4c77-b7be-1ecc7458b8bd",
       "b": "4b34b4a2-5391-44de-a7d2-85c1973117d3",
-      "samples": 404,
+      "samples": 405,
       "usernameA": "Tomzd90",
       "usernameB": "salder_uwu",
-      "lastTs": "2026-10-14T17:10:37.690Z"
+      "lastTs": "2026-10-14T17:15:37.763Z"
     },
     "4b34b4a2-5391-44de-a7d2-85c1973117d3|a3c587d3-c4e3-43c1-9cf6-fd3850624161": {
       "a": "4b34b4a2-5391-44de-a7d2-85c1973117d3",
@@ -2289,10 +2289,10 @@
     "4b34b4a2-5391-44de-a7d2-85c1973117d3|e4a23668-57d7-4f17-b58f-4a0fd17870ec": {
       "a": "4b34b4a2-5391-44de-a7d2-85c1973117d3",
       "b": "e4a23668-57d7-4f17-b58f-4a0fd17870ec",
-      "samples": 104,
+      "samples": 105,
       "usernameA": "salder_uwu",
       "usernameB": "woody123_is_god",
-      "lastTs": "2026-10-14T17:10:37.690Z"
+      "lastTs": "2026-10-14T17:15:37.763Z"
     },
     "28192360-eee7-412f-9ba9-478ae88c4fba|72a0d7d4-13c8-49c6-8296-2a699fabd89a": {
       "a": "28192360-eee7-412f-9ba9-478ae88c4fba",
@@ -2313,10 +2313,10 @@
     "2b4be507-abf6-4172-99d9-29e88ff231b0|bdf4d139-41bb-41f7-a20e-6411f840eab4": {
       "a": "2b4be507-abf6-4172-99d9-29e88ff231b0",
       "b": "bdf4d139-41bb-41f7-a20e-6411f840eab4",
-      "samples": 23,
+      "samples": 24,
       "usernameA": "ANTONY_71",
       "usernameB": "StopRain",
-      "lastTs": "2026-10-04T13:50:45.505Z"
+      "lastTs": "2026-10-14T17:15:37.763Z"
     },
     "4b34b4a2-5391-44de-a7d2-85c1973117d3|bdf4d139-41bb-41f7-a20e-6411f840eab4": {
       "a": "4b34b4a2-5391-44de-a7d2-85c1973117d3",
@@ -3209,10 +3209,10 @@
     "2b4be507-abf6-4172-99d9-29e88ff231b0|31392b35-912c-4401-b285-3c51b1e2dd38": {
       "a": "2b4be507-abf6-4172-99d9-29e88ff231b0",
       "b": "31392b35-912c-4401-b285-3c51b1e2dd38",
-      "samples": 9,
+      "samples": 10,
       "usernameA": "ANTONY_71",
       "usernameB": "OHO_superkai",
-      "lastTs": "2026-10-11T15:40:31.496Z"
+      "lastTs": "2026-10-14T17:15:37.763Z"
     },
     "31392b35-912c-4401-b285-3c51b1e2dd38|e4a23668-57d7-4f17-b58f-4a0fd17870ec": {
       "a": "31392b35-912c-4401-b285-3c51b1e2dd38",
@@ -3293,7 +3293,15 @@
       "usernameA": "zhoushen1025",
       "usernameB": "OHO_XiaoLong",
       "lastTs": "2026-10-14T11:40:34.695Z"
+    },
+    "31392b35-912c-4401-b285-3c51b1e2dd38|bdf4d139-41bb-41f7-a20e-6411f840eab4": {
+      "a": "31392b35-912c-4401-b285-3c51b1e2dd38",
+      "b": "bdf4d139-41bb-41f7-a20e-6411f840eab4",
+      "samples": 1,
+      "usernameA": "OHO_superkai",
+      "usernameB": "StopRain",
+      "lastTs": "2026-10-14T17:15:37.763Z"
     }
   },
-  "updated": "2026-10-14T17:10:37.690Z"
+  "updated": "2026-10-14T17:15:37.763Z"
 }
