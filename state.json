@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-15T17:25:28.009Z",
+  "updated": "2026-10-15T17:30:47.389Z",
   "guild": {
     "name": "YuChaYuan",
     "prefix": "YCY",
@@ -7,7 +7,7 @@
     "raidShort": "TNA",
     "color": "#2ca089"
   },
-  "online": 2,
+  "online": 3,
   "memberCount": 90,
   "members": {
     "0aef2f69-7099-4658-ba4a-c8227e3ee974": {
@@ -906,7 +906,7 @@
       "baselineTna": 4,
       "baselineTs": "2026-07-24T13:40:33.852Z",
       "gained": 75,
-      "lastSeen": "2026-10-15T17:25:28.009Z",
+      "lastSeen": "2026-10-15T17:30:47.389Z",
       "lastRaid": "2026-10-15T16:01:01.074Z",
       "byDay": {
         "2026-08-16": 16,
@@ -981,7 +981,7 @@
       "baselineTna": 3,
       "baselineTs": "2026-09-20T08:05:31.932Z",
       "gained": 48,
-      "lastSeen": "2026-10-15T17:25:28.009Z",
+      "lastSeen": "2026-10-15T17:30:47.389Z",
       "lastRaid": "2026-10-15T15:50:34.866Z",
       "byDay": {
         "2026-09-20": 3,
@@ -3341,13 +3341,13 @@
     "72d00858-9575-4561-8393-d668ce1c42c8": {
       "username": "zhoushen1025",
       "rank": "recruit",
-      "online": false,
-      "server": null,
+      "online": true,
+      "server": "AS18",
       "tna": 10,
       "baselineTna": 5,
       "baselineTs": "2026-10-08T15:40:36.192Z",
       "gained": 5,
-      "lastSeen": "2026-10-15T17:20:39.683Z",
+      "lastSeen": "2026-10-15T17:30:47.389Z",
       "lastRaid": "2026-10-15T16:20:36.960Z",
       "byDay": {
         "2026-10-08": 5,
