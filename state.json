@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-15T13:15:36.810Z",
+  "updated": "2026-10-15T13:20:35.256Z",
   "guild": {
     "name": "YuChaYuan",
     "prefix": "YCY",
@@ -13,8 +13,8 @@
     "0aef2f69-7099-4658-ba4a-c8227e3ee974": {
       "username": "NOT_Joker",
       "rank": "owner",
-      "online": true,
-      "server": "AS9",
+      "online": false,
+      "server": null,
       "tna": 2316,
       "baselineTna": 2303,
       "baselineTs": "2026-09-24T02:25:30.754Z",
@@ -901,12 +901,12 @@
       "username": "woody123_is_god",
       "rank": "captain",
       "online": true,
-      "server": "AS8",
+      "server": "AS9",
       "tna": 78,
       "baselineTna": 4,
       "baselineTs": "2026-07-24T13:40:33.852Z",
       "gained": 74,
-      "lastSeen": "2026-10-15T13:15:36.810Z",
+      "lastSeen": "2026-10-15T13:20:35.256Z",
       "lastRaid": "2026-10-14T17:00:57.282Z",
       "byDay": {
         "2026-08-16": 16,
@@ -1056,7 +1056,7 @@
       "baselineTna": 3,
       "baselineTs": "2026-09-20T08:05:31.932Z",
       "gained": 47,
-      "lastSeen": "2026-10-15T13:15:36.810Z",
+      "lastSeen": "2026-10-15T13:20:35.256Z",
       "lastRaid": "2026-10-14T16:50:33.270Z",
       "byDay": {
         "2026-09-20": 3,
@@ -3225,7 +3225,7 @@
       "baselineTna": 1,
       "baselineTs": "2026-09-18T15:20:46.123Z",
       "gained": 17,
-      "lastSeen": "2026-10-15T13:15:36.810Z",
+      "lastSeen": "2026-10-15T13:20:35.256Z",
       "lastRaid": "2026-10-12T18:30:45.676Z",
       "byDay": {
         "2026-09-18": 1,
@@ -3347,7 +3347,7 @@
       "baselineTna": 5,
       "baselineTs": "2026-10-08T15:40:36.192Z",
       "gained": 4,
-      "lastSeen": "2026-10-15T13:15:36.810Z",
+      "lastSeen": "2026-10-15T13:20:35.256Z",
       "lastRaid": "2026-10-11T16:30:46.015Z",
       "byDay": {
         "2026-10-08": 5,
@@ -4034,13 +4034,13 @@
     "1118d10c-5b5d-4820-a826-48260292e971": {
       "username": "Mimi__king",
       "rank": "recruit",
-      "online": false,
-      "server": null,
+      "online": true,
+      "server": "AS15",
       "tna": null,
       "baselineTna": null,
       "baselineTs": null,
       "gained": 0,
-      "lastSeen": "2026-10-15T13:00:58.787Z",
+      "lastSeen": "2026-10-15T13:20:35.256Z",
       "lastRaid": null,
       "byDay": {}
     },
