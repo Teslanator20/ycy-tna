@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-15T12:35:28.712Z",
+  "updated": "2026-10-15T12:40:36.142Z",
   "guild": {
     "name": "YuChaYuan",
     "prefix": "YCY",
@@ -7,19 +7,19 @@
     "raidShort": "TNA",
     "color": "#2ca089"
   },
-  "online": 4,
+  "online": 5,
   "memberCount": 90,
   "members": {
     "0aef2f69-7099-4658-ba4a-c8227e3ee974": {
       "username": "NOT_Joker",
       "rank": "owner",
       "online": true,
-      "server": "AS2",
+      "server": "AS14",
       "tna": 2316,
       "baselineTna": 2303,
       "baselineTs": "2026-09-24T02:25:30.754Z",
       "gained": 13,
-      "lastSeen": "2026-10-15T12:35:28.712Z",
+      "lastSeen": "2026-10-15T12:40:36.142Z",
       "lastRaid": "2026-10-13T14:35:33.542Z",
       "byDay": {
         "2026-09-24": 2303,
@@ -1050,13 +1050,13 @@
     "e1c4ea28-f56d-4c80-aa39-847334e10832": {
       "username": "allenYue",
       "rank": "captain",
-      "online": false,
-      "server": null,
+      "online": true,
+      "server": "AS2",
       "tna": 50,
       "baselineTna": 3,
       "baselineTs": "2026-09-20T08:05:31.932Z",
       "gained": 47,
-      "lastSeen": "2026-10-15T10:35:27.020Z",
+      "lastSeen": "2026-10-15T12:40:36.142Z",
       "lastRaid": "2026-10-14T16:50:33.270Z",
       "byDay": {
         "2026-09-20": 3,
@@ -3225,7 +3225,7 @@
       "baselineTna": 1,
       "baselineTs": "2026-09-18T15:20:46.123Z",
       "gained": 17,
-      "lastSeen": "2026-10-15T12:35:28.712Z",
+      "lastSeen": "2026-10-15T12:40:36.142Z",
       "lastRaid": "2026-10-12T18:30:45.676Z",
       "byDay": {
         "2026-09-18": 1,
@@ -3341,8 +3341,8 @@
     "72d00858-9575-4561-8393-d668ce1c42c8": {
       "username": "zhoushen1025",
       "rank": "recruit",
-      "online": true,
-      "server": "AS11",
+      "online": false,
+      "server": null,
       "tna": 9,
       "baselineTna": 5,
       "baselineTs": "2026-10-08T15:40:36.192Z",
@@ -3952,7 +3952,7 @@
       "baselineTna": null,
       "baselineTs": null,
       "gained": 0,
-      "lastSeen": "2026-10-15T12:35:28.712Z",
+      "lastSeen": "2026-10-15T12:40:36.142Z",
       "lastRaid": null,
       "byDay": {}
     },
@@ -4296,13 +4296,13 @@
     "1118d10c-5b5d-4820-a826-48260292e971": {
       "username": "Mimi__king",
       "rank": "recruit",
-      "online": false,
-      "server": null,
+      "online": true,
+      "server": "AS7",
       "tna": null,
       "baselineTna": null,
       "baselineTs": null,
       "gained": 0,
-      "lastSeen": "2026-10-15T11:45:34.158Z",
+      "lastSeen": "2026-10-15T12:40:36.142Z",
       "lastRaid": null,
       "byDay": {}
     }
