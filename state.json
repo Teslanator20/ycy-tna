@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-16T06:01:00.073Z",
+  "updated": "2026-10-16T06:05:30.826Z",
   "guild": {
     "name": "YuChaYuan",
     "prefix": "YCY",
@@ -3958,12 +3958,12 @@
       "username": "Faust_king",
       "rank": "recruit",
       "online": true,
-      "server": "NA32",
+      "server": "NA23",
       "tna": null,
       "baselineTna": null,
       "baselineTs": null,
       "gained": 0,
-      "lastSeen": "2026-10-16T06:01:00.073Z",
+      "lastSeen": "2026-10-16T06:05:30.826Z",
       "lastRaid": null,
       "byDay": {}
     },
