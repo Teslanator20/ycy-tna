@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-16T07:35:29.300Z",
+  "updated": "2026-10-16T07:40:35.636Z",
   "guild": {
     "name": "YuChaYuan",
     "prefix": "YCY",
@@ -3371,12 +3371,12 @@
       "username": "StopRain",
       "rank": "recruit",
       "online": true,
-      "server": "NA22",
+      "server": "NA6",
       "tna": 28,
       "baselineTna": 26,
       "baselineTs": "2026-09-18T07:45:37.390Z",
       "gained": 2,
-      "lastSeen": "2026-10-16T07:35:29.300Z",
+      "lastSeen": "2026-10-16T07:40:35.636Z",
       "lastRaid": "2026-10-07T10:50:44.314Z",
       "byDay": {
         "2026-09-18": 26,
@@ -3958,12 +3958,12 @@
       "username": "Faust_king",
       "rank": "recruit",
       "online": true,
-      "server": "NA22",
+      "server": "NA9",
       "tna": null,
       "baselineTna": null,
       "baselineTs": null,
       "gained": 0,
-      "lastSeen": "2026-10-16T07:35:29.300Z",
+      "lastSeen": "2026-10-16T07:40:35.636Z",
       "lastRaid": null,
       "byDay": {}
     },
