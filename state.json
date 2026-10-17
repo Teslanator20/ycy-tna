@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-17T16:55:27.050Z",
+  "updated": "2026-10-17T17:00:42.019Z",
   "guild": {
     "name": "YuChaYuan",
     "prefix": "YCY",
@@ -2504,7 +2504,7 @@
       "baselineTna": 53,
       "baselineTs": "2026-06-06T18:47:42.183Z",
       "gained": 5,
-      "lastSeen": "2026-10-17T16:55:27.050Z",
+      "lastSeen": "2026-10-17T17:00:42.019Z",
       "lastRaid": "2026-06-21T07:50:31.019Z",
       "byDay": {
         "2026-08-18": 58,
@@ -3528,7 +3528,7 @@
       "baselineTna": 23,
       "baselineTs": "2026-06-06T18:47:42.183Z",
       "gained": 2,
-      "lastSeen": "2026-10-17T16:55:27.050Z",
+      "lastSeen": "2026-10-17T17:00:42.019Z",
       "lastRaid": "2026-10-08T19:55:26.636Z",
       "byDay": {
         "2026-08-18": 24,
@@ -4018,12 +4018,12 @@
       "username": "OHO_superkai",
       "rank": "recruit",
       "online": true,
-      "server": "AS8",
+      "server": "EU25",
       "tna": null,
       "baselineTna": null,
       "baselineTs": null,
       "gained": 0,
-      "lastSeen": "2026-10-17T16:55:27.050Z",
+      "lastSeen": "2026-10-17T17:00:42.019Z",
       "lastRaid": null,
       "byDay": {}
     },
@@ -4049,7 +4049,7 @@
       "baselineTna": null,
       "baselineTs": null,
       "gained": 0,
-      "lastSeen": "2026-10-17T16:55:27.050Z",
+      "lastSeen": "2026-10-17T17:00:42.019Z",
       "lastRaid": null,
       "byDay": {}
     },
