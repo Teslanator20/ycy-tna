@@ -179,6 +179,15 @@
       "usernameA": "NOT_Joker",
       "usernameB": "allenYue",
       "lastTs": "2026-10-12T09:40:37.068Z"
+    },
+    "4791eb57-3607-4647-8d4f-59aaa879c5a4|e4a23668-57d7-4f17-b58f-4a0fd17870ec": {
+      "a": "4791eb57-3607-4647-8d4f-59aaa879c5a4",
+      "b": "e4a23668-57d7-4f17-b58f-4a0fd17870ec",
+      "count": 1,
+      "confirmed": 1,
+      "usernameA": "0110jimmy",
+      "usernameB": "woody123_is_god",
+      "lastTs": "2026-10-17T12:35:27.152Z"
     }
   },
   "copresence": {
@@ -3313,10 +3322,10 @@
     "1118d10c-5b5d-4820-a826-48260292e971|f8e8e57f-4f64-4bfe-90b6-9f58308e8d45": {
       "a": "1118d10c-5b5d-4820-a826-48260292e971",
       "b": "f8e8e57f-4f64-4bfe-90b6-9f58308e8d45",
-      "samples": 26,
+      "samples": 27,
       "usernameA": "Mimi__king",
       "usernameB": "Faust_king",
-      "lastTs": "2026-10-17T12:30:46.655Z"
+      "lastTs": "2026-10-17T12:35:27.152Z"
     },
     "35a6a719-027c-4c77-b7be-1ecc7458b8bd|f8e8e57f-4f64-4bfe-90b6-9f58308e8d45": {
       "a": "35a6a719-027c-4c77-b7be-1ecc7458b8bd",
@@ -3463,5 +3472,5 @@
       "lastTs": "2026-10-17T09:10:32.695Z"
     }
   },
-  "updated": "2026-10-17T12:30:46.655Z"
+  "updated": "2026-10-17T12:35:27.152Z"
 }
