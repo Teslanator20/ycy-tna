@@ -3322,10 +3322,10 @@
     "1118d10c-5b5d-4820-a826-48260292e971|f8e8e57f-4f64-4bfe-90b6-9f58308e8d45": {
       "a": "1118d10c-5b5d-4820-a826-48260292e971",
       "b": "f8e8e57f-4f64-4bfe-90b6-9f58308e8d45",
-      "samples": 54,
+      "samples": 55,
       "usernameA": "Mimi__king",
       "usernameB": "Faust_king",
-      "lastTs": "2026-10-17T14:55:28.042Z"
+      "lastTs": "2026-10-18T13:15:35.223Z"
     },
     "35a6a719-027c-4c77-b7be-1ecc7458b8bd|f8e8e57f-4f64-4bfe-90b6-9f58308e8d45": {
       "a": "35a6a719-027c-4c77-b7be-1ecc7458b8bd",
@@ -3498,11 +3498,19 @@
     "e1c4ea28-f56d-4c80-aa39-847334e10832|f8e8e57f-4f64-4bfe-90b6-9f58308e8d45": {
       "a": "e1c4ea28-f56d-4c80-aa39-847334e10832",
       "b": "f8e8e57f-4f64-4bfe-90b6-9f58308e8d45",
-      "samples": 1,
+      "samples": 2,
       "usernameA": "allenYue",
       "usernameB": "Faust_king",
-      "lastTs": "2026-10-18T13:10:36.056Z"
+      "lastTs": "2026-10-18T13:15:35.223Z"
+    },
+    "1118d10c-5b5d-4820-a826-48260292e971|e1c4ea28-f56d-4c80-aa39-847334e10832": {
+      "a": "1118d10c-5b5d-4820-a826-48260292e971",
+      "b": "e1c4ea28-f56d-4c80-aa39-847334e10832",
+      "samples": 1,
+      "usernameA": "Mimi__king",
+      "usernameB": "allenYue",
+      "lastTs": "2026-10-18T13:15:35.223Z"
     }
   },
-  "updated": "2026-10-18T13:10:36.056Z"
+  "updated": "2026-10-18T13:15:35.223Z"
 }
