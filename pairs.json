@@ -3494,7 +3494,15 @@
       "usernameA": "HEYAZero",
       "usernameB": "woody123_is_god",
       "lastTs": "2026-10-18T08:50:34.190Z"
+    },
+    "e1c4ea28-f56d-4c80-aa39-847334e10832|f8e8e57f-4f64-4bfe-90b6-9f58308e8d45": {
+      "a": "e1c4ea28-f56d-4c80-aa39-847334e10832",
+      "b": "f8e8e57f-4f64-4bfe-90b6-9f58308e8d45",
+      "samples": 1,
+      "usernameA": "allenYue",
+      "usernameB": "Faust_king",
+      "lastTs": "2026-10-18T13:10:36.056Z"
     }
   },
-  "updated": "2026-10-18T13:05:27.357Z"
+  "updated": "2026-10-18T13:10:36.056Z"
 }
