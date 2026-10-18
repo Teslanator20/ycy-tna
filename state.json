@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-18T07:00:53.386Z",
+  "updated": "2026-10-18T07:05:27.326Z",
   "guild": {
     "name": "YuChaYuan",
     "prefix": "YCY",
@@ -7,7 +7,7 @@
     "raidShort": "TNA",
     "color": "#2ca089"
   },
-  "online": 4,
+  "online": 5,
   "memberCount": 91,
   "members": {
     "0aef2f69-7099-4658-ba4a-c8227e3ee974": {
@@ -58,7 +58,7 @@
       "baselineTna": 1502,
       "baselineTs": "2026-06-06T18:47:42.183Z",
       "gained": 114,
-      "lastSeen": "2026-10-18T07:00:53.386Z",
+      "lastSeen": "2026-10-18T07:05:27.326Z",
       "lastRaid": "2026-10-17T12:35:27.152Z",
       "byDay": {
         "2026-08-19": 1502,
@@ -920,12 +920,12 @@
       "username": "woody123_is_god",
       "rank": "captain",
       "online": true,
-      "server": "AS3",
+      "server": "AS13",
       "tna": 86,
       "baselineTna": 4,
       "baselineTs": "2026-07-24T13:40:33.852Z",
       "gained": 82,
-      "lastSeen": "2026-10-18T07:00:53.386Z",
+      "lastSeen": "2026-10-18T07:05:27.326Z",
       "lastRaid": "2026-10-17T14:50:39.584Z",
       "byDay": {
         "2026-08-19": 16,
@@ -1187,8 +1187,8 @@
     "1977ba0b-2c0c-4274-bf99-5d51519f06f4": {
       "username": "Aye_OwO",
       "rank": "captain",
-      "online": true,
-      "server": "AS12",
+      "online": false,
+      "server": null,
       "tna": 55,
       "baselineTna": 55,
       "baselineTs": "2026-06-06T18:47:42.183Z",
@@ -3392,13 +3392,13 @@
     "4b34b4a2-5391-44de-a7d2-85c1973117d3": {
       "username": "salder_uwu",
       "rank": "recruit",
-      "online": false,
-      "server": null,
+      "online": true,
+      "server": "AS3",
       "tna": 9,
       "baselineTna": 1,
       "baselineTs": "2026-09-21T17:01:05.354Z",
       "gained": 8,
-      "lastSeen": "2026-10-17T13:05:27.411Z",
+      "lastSeen": "2026-10-18T07:05:27.326Z",
       "lastRaid": "2026-10-14T16:45:34.219Z",
       "byDay": {
         "2026-09-21": 1,
@@ -3465,7 +3465,7 @@
       "baselineTna": 26,
       "baselineTs": "2026-09-18T07:45:37.390Z",
       "gained": 2,
-      "lastSeen": "2026-10-18T07:00:53.386Z",
+      "lastSeen": "2026-10-18T07:05:27.326Z",
       "lastRaid": "2026-10-07T10:50:44.314Z",
       "byDay": {
         "2026-09-18": 26,
@@ -3530,13 +3530,13 @@
     "2b4be507-abf6-4172-99d9-29e88ff231b0": {
       "username": "ANTONY_71",
       "rank": "recruit",
-      "online": false,
-      "server": null,
+      "online": true,
+      "server": "NA28",
       "tna": 25,
       "baselineTna": 23,
       "baselineTs": "2026-06-06T18:47:42.183Z",
       "gained": 2,
-      "lastSeen": "2026-10-17T17:50:35.187Z",
+      "lastSeen": "2026-10-18T07:05:27.326Z",
       "lastRaid": "2026-10-08T19:55:26.636Z",
       "byDay": {
         "2026-08-19": 24,
