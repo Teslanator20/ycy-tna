@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-18T17:50:36.143Z",
+  "updated": "2026-10-18T17:55:28.713Z",
   "guild": {
     "name": "YuChaYuan",
     "prefix": "YCY",
@@ -7,7 +7,7 @@
     "raidShort": "TNA",
     "color": "#2ca089"
   },
-  "online": 5,
+  "online": 4,
   "memberCount": 91,
   "members": {
     "0aef2f69-7099-4658-ba4a-c8227e3ee974": {
@@ -925,7 +925,7 @@
       "baselineTna": 4,
       "baselineTs": "2026-07-24T13:40:33.852Z",
       "gained": 85,
-      "lastSeen": "2026-10-18T17:50:36.143Z",
+      "lastSeen": "2026-10-18T17:55:28.713Z",
       "lastRaid": "2026-10-18T09:55:26.625Z",
       "byDay": {
         "2026-08-19": 16,
@@ -3309,7 +3309,7 @@
       "baselineTna": 1,
       "baselineTs": "2026-09-18T15:20:46.123Z",
       "gained": 18,
-      "lastSeen": "2026-10-18T17:50:36.143Z",
+      "lastSeen": "2026-10-18T17:55:28.713Z",
       "lastRaid": "2026-10-15T16:01:01.074Z",
       "byDay": {
         "2026-09-18": 1,
@@ -3435,12 +3435,12 @@
       "username": "zhoushen1025",
       "rank": "recruit",
       "online": true,
-      "server": "EU35",
+      "server": "EU8",
       "tna": 10,
       "baselineTna": 5,
       "baselineTs": "2026-10-08T15:40:36.192Z",
       "gained": 5,
-      "lastSeen": "2026-10-18T17:50:36.143Z",
+      "lastSeen": "2026-10-18T17:55:28.713Z",
       "lastRaid": "2026-10-15T16:20:36.960Z",
       "byDay": {
         "2026-10-08": 5,
@@ -3530,14 +3530,14 @@
     "2b4be507-abf6-4172-99d9-29e88ff231b0": {
       "username": "ANTONY_71",
       "rank": "recruit",
-      "online": true,
-      "server": "AS2",
-      "tna": 25,
+      "online": false,
+      "server": null,
+      "tna": 26,
       "baselineTna": 23,
       "baselineTs": "2026-06-06T18:47:42.183Z",
-      "gained": 2,
+      "gained": 3,
       "lastSeen": "2026-10-18T17:50:36.143Z",
-      "lastRaid": "2026-10-08T19:55:26.636Z",
+      "lastRaid": "2026-10-18T17:55:28.713Z",
       "byDay": {
         "2026-08-19": 24,
         "2026-08-20": 24,
@@ -3599,7 +3599,7 @@
         "2026-10-15": 25,
         "2026-10-16": 25,
         "2026-10-17": 25,
-        "2026-10-18": 25
+        "2026-10-18": 26
       }
     },
     "2ca488e3-821f-4db4-b2c2-1dbbd7dcba84": {
@@ -4068,12 +4068,12 @@
       "username": "Faust_king",
       "rank": "recruit",
       "online": true,
-      "server": "NA8",
+      "server": "NA29",
       "tna": null,
       "baselineTna": null,
       "baselineTs": null,
       "gained": 0,
-      "lastSeen": "2026-10-18T17:50:36.143Z",
+      "lastSeen": "2026-10-18T17:55:28.713Z",
       "lastRaid": null,
       "byDay": {}
     },
