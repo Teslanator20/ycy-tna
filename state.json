@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-19T07:40:35.839Z",
+  "updated": "2026-10-19T07:45:33.797Z",
   "guild": {
     "name": "YuChaYuan",
     "prefix": "YCY",
@@ -777,7 +777,7 @@
       "baselineTna": 55,
       "baselineTs": "2026-06-06T18:47:42.183Z",
       "gained": 0,
-      "lastSeen": "2026-10-19T07:40:35.839Z",
+      "lastSeen": "2026-10-19T07:45:33.797Z",
       "lastRaid": null,
       "byDay": {
         "2026-08-20": 55,
@@ -1071,8 +1071,8 @@
     "e1c4ea28-f56d-4c80-aa39-847334e10832": {
       "username": "allenYue",
       "rank": "captain",
-      "online": true,
-      "server": "NA28",
+      "online": false,
+      "server": null,
       "tna": 54,
       "baselineTna": 3,
       "baselineTs": "2026-09-20T08:05:31.932Z",
@@ -3312,7 +3312,7 @@
       "baselineTna": 1,
       "baselineTs": "2026-09-18T15:20:46.123Z",
       "gained": 18,
-      "lastSeen": "2026-10-19T07:40:35.839Z",
+      "lastSeen": "2026-10-19T07:45:33.797Z",
       "lastRaid": "2026-10-15T16:01:01.074Z",
       "byDay": {
         "2026-09-18": 1,
@@ -3472,7 +3472,7 @@
       "baselineTna": 26,
       "baselineTs": "2026-09-18T07:45:37.390Z",
       "gained": 2,
-      "lastSeen": "2026-10-19T07:40:35.839Z",
+      "lastSeen": "2026-10-19T07:45:33.797Z",
       "lastRaid": "2026-10-07T10:50:44.314Z",
       "byDay": {
         "2026-09-18": 26,
@@ -4071,20 +4071,20 @@
       "baselineTna": null,
       "baselineTs": null,
       "gained": 0,
-      "lastSeen": "2026-10-19T07:40:35.839Z",
+      "lastSeen": "2026-10-19T07:45:33.797Z",
       "lastRaid": null,
       "byDay": {}
     },
     "f8e8e57f-4f64-4bfe-90b6-9f58308e8d45": {
       "username": "Faust_king",
       "rank": "recruit",
-      "online": false,
-      "server": null,
+      "online": true,
+      "server": "AS4",
       "tna": null,
       "baselineTna": null,
       "baselineTs": null,
       "gained": 0,
-      "lastSeen": "2026-10-19T07:35:28.368Z",
+      "lastSeen": "2026-10-19T07:45:33.797Z",
       "lastRaid": null,
       "byDay": {}
     },
