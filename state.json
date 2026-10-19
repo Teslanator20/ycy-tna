@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-19T21:00:56.950Z",
+  "updated": "2026-10-19T21:05:27.891Z",
   "guild": {
     "name": "YuChaYuan",
     "prefix": "YCY",
@@ -4040,12 +4040,25 @@
       "username": "OHO_superkai",
       "rank": "recruit",
       "online": true,
-      "server": "NA9",
+      "server": "NA21",
       "tna": null,
       "baselineTna": null,
       "baselineTs": null,
       "gained": 0,
-      "lastSeen": "2026-10-19T21:00:56.950Z",
+      "lastSeen": "2026-10-19T21:05:27.891Z",
+      "lastRaid": null,
+      "byDay": {}
+    },
+    "9802dcb5-854d-4429-88f5-61d6878a6552": {
+      "username": "zoe943112",
+      "rank": "recruit",
+      "online": true,
+      "server": "AS10",
+      "tna": null,
+      "baselineTna": null,
+      "baselineTs": null,
+      "gained": 0,
+      "lastSeen": "2026-10-19T21:05:27.891Z",
       "lastRaid": null,
       "byDay": {}
     },
@@ -4059,19 +4072,6 @@
       "baselineTs": null,
       "gained": 0,
       "lastSeen": "2026-10-19T09:00:55.231Z",
-      "lastRaid": null,
-      "byDay": {}
-    },
-    "9802dcb5-854d-4429-88f5-61d6878a6552": {
-      "username": "zoe943112",
-      "rank": "recruit",
-      "online": true,
-      "server": "AS10",
-      "tna": null,
-      "baselineTna": null,
-      "baselineTs": null,
-      "gained": 0,
-      "lastSeen": "2026-10-19T21:00:56.950Z",
       "lastRaid": null,
       "byDay": {}
     },
