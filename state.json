@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-19T16:51:17.369Z",
+  "updated": "2026-10-19T16:55:28.385Z",
   "guild": {
     "name": "YuChaYuan",
     "prefix": "YCY",
@@ -997,12 +997,12 @@
       "username": "woody123_is_god",
       "rank": "captain",
       "online": true,
-      "server": "AS8",
+      "server": "AS16",
       "tna": 89,
       "baselineTna": 4,
       "baselineTs": "2026-07-24T13:40:33.852Z",
       "gained": 85,
-      "lastSeen": "2026-10-19T16:51:17.369Z",
+      "lastSeen": "2026-10-19T16:55:28.385Z",
       "lastRaid": "2026-10-18T09:55:26.625Z",
       "byDay": {
         "2026-08-20": 16,
@@ -1072,12 +1072,12 @@
       "username": "allenYue",
       "rank": "captain",
       "online": true,
-      "server": "AS8",
+      "server": "AS16",
       "tna": 54,
       "baselineTna": 3,
       "baselineTs": "2026-09-20T08:05:31.932Z",
       "gained": 51,
-      "lastSeen": "2026-10-19T16:51:17.369Z",
+      "lastSeen": "2026-10-19T16:55:28.385Z",
       "lastRaid": "2026-10-18T05:10:33.878Z",
       "byDay": {
         "2026-09-20": 3,
@@ -3446,7 +3446,7 @@
       "baselineTna": 5,
       "baselineTs": "2026-10-08T15:40:36.192Z",
       "gained": 6,
-      "lastSeen": "2026-10-19T16:51:17.369Z",
+      "lastSeen": "2026-10-19T16:55:28.385Z",
       "lastRaid": "2026-10-19T10:45:33.038Z",
       "byDay": {
         "2026-10-08": 5,
