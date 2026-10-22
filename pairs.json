@@ -2090,10 +2090,10 @@
     "35a6a719-027c-4c77-b7be-1ecc7458b8bd|e1c4ea28-f56d-4c80-aa39-847334e10832": {
       "a": "35a6a719-027c-4c77-b7be-1ecc7458b8bd",
       "b": "e1c4ea28-f56d-4c80-aa39-847334e10832",
-      "samples": 483,
+      "samples": 484,
       "usernameA": "Tomzd90",
       "usernameB": "allenYue",
-      "lastTs": "2026-10-22T14:10:35.493Z"
+      "lastTs": "2026-10-22T14:15:35.921Z"
     },
     "b668fbc7-fd23-43c4-95fc-bf7f5d06c0da|e1c4ea28-f56d-4c80-aa39-847334e10832": {
       "a": "b668fbc7-fd23-43c4-95fc-bf7f5d06c0da",
@@ -2370,10 +2370,10 @@
     "a0c7bd60-494b-4273-bbb7-fa648745e7df|e4a23668-57d7-4f17-b58f-4a0fd17870ec": {
       "a": "a0c7bd60-494b-4273-bbb7-fa648745e7df",
       "b": "e4a23668-57d7-4f17-b58f-4a0fd17870ec",
-      "samples": 116,
+      "samples": 117,
       "usernameA": "serious214",
       "usernameB": "woody123_is_god",
-      "lastTs": "2026-10-22T14:10:35.493Z"
+      "lastTs": "2026-10-22T14:15:35.921Z"
     },
     "a0c7bd60-494b-4273-bbb7-fa648745e7df|a3c587d3-c4e3-43c1-9cf6-fd3850624161": {
       "a": "a0c7bd60-494b-4273-bbb7-fa648745e7df",
@@ -3666,10 +3666,10 @@
     "72d00858-9575-4561-8393-d668ce1c42c8|9802dcb5-854d-4429-88f5-61d6878a6552": {
       "a": "72d00858-9575-4561-8393-d668ce1c42c8",
       "b": "9802dcb5-854d-4429-88f5-61d6878a6552",
-      "samples": 2,
+      "samples": 3,
       "usernameA": "zhoushen1025",
       "usernameB": "zoe943112",
-      "lastTs": "2026-10-19T23:25:26.850Z"
+      "lastTs": "2026-10-22T14:15:35.921Z"
     },
     "72d00858-9575-4561-8393-d668ce1c42c8|a3c587d3-c4e3-43c1-9cf6-fd3850624161": {
       "a": "72d00858-9575-4561-8393-d668ce1c42c8",
@@ -3734,7 +3734,23 @@
       "usernameA": "Mimi__king",
       "usernameB": "Aye_OwO",
       "lastTs": "2026-10-22T11:40:34.839Z"
+    },
+    "b0a8412c-644c-4782-b3c1-7450388a9245|e1c4ea28-f56d-4c80-aa39-847334e10832": {
+      "a": "b0a8412c-644c-4782-b3c1-7450388a9245",
+      "b": "e1c4ea28-f56d-4c80-aa39-847334e10832",
+      "samples": 1,
+      "usernameA": "HsuWanisHotFurry",
+      "usernameB": "allenYue",
+      "lastTs": "2026-10-22T14:15:35.921Z"
+    },
+    "35a6a719-027c-4c77-b7be-1ecc7458b8bd|b0a8412c-644c-4782-b3c1-7450388a9245": {
+      "a": "35a6a719-027c-4c77-b7be-1ecc7458b8bd",
+      "b": "b0a8412c-644c-4782-b3c1-7450388a9245",
+      "samples": 1,
+      "usernameA": "Tomzd90",
+      "usernameB": "HsuWanisHotFurry",
+      "lastTs": "2026-10-22T14:15:35.921Z"
     }
   },
-  "updated": "2026-10-22T14:10:35.493Z"
+  "updated": "2026-10-22T14:15:35.921Z"
 }
