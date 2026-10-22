@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-22T15:00:59.597Z",
+  "updated": "2026-10-22T15:05:28.171Z",
   "guild": {
     "name": "YuChaYuan",
     "prefix": "YCY",
@@ -7,7 +7,7 @@
     "raidShort": "TNA",
     "color": "#2ca089"
   },
-  "online": 4,
+  "online": 3,
   "memberCount": 92,
   "members": {
     "0aef2f69-7099-4658-ba4a-c8227e3ee974": {
@@ -1008,7 +1008,7 @@
       "baselineTna": 4,
       "baselineTs": "2026-07-24T13:40:33.852Z",
       "gained": 87,
-      "lastSeen": "2026-10-22T15:00:59.597Z",
+      "lastSeen": "2026-10-22T15:05:28.171Z",
       "lastRaid": "2026-10-22T14:00:58.921Z",
       "byDay": {
         "2026-08-23": 16,
@@ -1077,8 +1077,8 @@
     "e1c4ea28-f56d-4c80-aa39-847334e10832": {
       "username": "allenYue",
       "rank": "captain",
-      "online": true,
-      "server": "AS1",
+      "online": false,
+      "server": null,
       "tna": 55,
       "baselineTna": 3,
       "baselineTs": "2026-09-20T08:05:31.932Z",
@@ -3321,7 +3321,7 @@
       "baselineTna": 1,
       "baselineTs": "2026-09-18T15:20:46.123Z",
       "gained": 18,
-      "lastSeen": "2026-10-22T15:00:59.597Z",
+      "lastSeen": "2026-10-22T15:05:28.171Z",
       "lastRaid": "2026-10-15T16:01:01.074Z",
       "byDay": {
         "2026-09-18": 1,
@@ -3459,13 +3459,13 @@
       "username": "zhoushen1025",
       "rank": "recruit",
       "online": true,
-      "server": "AS15",
-      "tna": 20,
+      "server": "AS7",
+      "tna": 22,
       "baselineTna": 5,
       "baselineTs": "2026-10-08T15:40:36.192Z",
-      "gained": 15,
-      "lastSeen": "2026-10-22T15:00:59.597Z",
-      "lastRaid": "2026-10-22T14:45:35.791Z",
+      "gained": 17,
+      "lastSeen": "2026-10-22T15:05:28.171Z",
+      "lastRaid": "2026-10-22T15:05:28.171Z",
       "byDay": {
         "2026-10-08": 5,
         "2026-10-09": 5,
@@ -3481,7 +3481,7 @@
         "2026-10-19": 11,
         "2026-10-20": 11,
         "2026-10-21": 18,
-        "2026-10-22": 20
+        "2026-10-22": 22
       }
     },
     "bdf4d139-41bb-41f7-a20e-6411f840eab4": {
