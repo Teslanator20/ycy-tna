@@ -2370,10 +2370,10 @@
     "a0c7bd60-494b-4273-bbb7-fa648745e7df|e4a23668-57d7-4f17-b58f-4a0fd17870ec": {
       "a": "a0c7bd60-494b-4273-bbb7-fa648745e7df",
       "b": "e4a23668-57d7-4f17-b58f-4a0fd17870ec",
-      "samples": 118,
+      "samples": 119,
       "usernameA": "serious214",
       "usernameB": "woody123_is_god",
-      "lastTs": "2026-10-22T14:20:35.049Z"
+      "lastTs": "2026-10-22T14:25:29.537Z"
     },
     "a0c7bd60-494b-4273-bbb7-fa648745e7df|a3c587d3-c4e3-43c1-9cf6-fd3850624161": {
       "a": "a0c7bd60-494b-4273-bbb7-fa648745e7df",
@@ -3738,10 +3738,10 @@
     "b0a8412c-644c-4782-b3c1-7450388a9245|e1c4ea28-f56d-4c80-aa39-847334e10832": {
       "a": "b0a8412c-644c-4782-b3c1-7450388a9245",
       "b": "e1c4ea28-f56d-4c80-aa39-847334e10832",
-      "samples": 2,
+      "samples": 3,
       "usernameA": "HsuWanisHotFurry",
       "usernameB": "allenYue",
-      "lastTs": "2026-10-22T14:20:35.049Z"
+      "lastTs": "2026-10-22T14:25:29.537Z"
     },
     "35a6a719-027c-4c77-b7be-1ecc7458b8bd|b0a8412c-644c-4782-b3c1-7450388a9245": {
       "a": "35a6a719-027c-4c77-b7be-1ecc7458b8bd",
@@ -3752,5 +3752,5 @@
       "lastTs": "2026-10-22T14:15:35.921Z"
     }
   },
-  "updated": "2026-10-22T14:20:35.049Z"
+  "updated": "2026-10-22T14:25:29.537Z"
 }
