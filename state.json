@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-23T03:05:27.765Z",
+  "updated": "2026-10-23T03:10:35.418Z",
   "guild": {
     "name": "YuChaYuan",
     "prefix": "YCY",
@@ -3995,6 +3995,19 @@
         "2026-10-23": 61
       }
     },
+    "9802dcb5-854d-4429-88f5-61d6878a6552": {
+      "username": "zoe943112",
+      "rank": "recruit",
+      "online": true,
+      "server": "AS1",
+      "tna": null,
+      "baselineTna": null,
+      "baselineTs": null,
+      "gained": 0,
+      "lastSeen": "2026-10-23T03:10:35.418Z",
+      "lastRaid": null,
+      "byDay": {}
+    },
     "b668fbc7-fd23-43c4-95fc-bf7f5d06c0da": {
       "username": "Even_is_Even",
       "rank": "recruit",
@@ -4066,19 +4079,6 @@
         "2026-10-22": 2,
         "2026-10-23": 2
       }
-    },
-    "9802dcb5-854d-4429-88f5-61d6878a6552": {
-      "username": "zoe943112",
-      "rank": "recruit",
-      "online": true,
-      "server": "AS1",
-      "tna": null,
-      "baselineTna": null,
-      "baselineTs": null,
-      "gained": 0,
-      "lastSeen": "2026-10-23T03:05:27.765Z",
-      "lastRaid": null,
-      "byDay": {}
     },
     "35fed1f0-7819-454c-912f-6d3827ad4e83": {
       "username": "LegendxLove",
