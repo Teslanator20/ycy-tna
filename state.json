@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-23T08:55:26.987Z",
+  "updated": "2026-10-23T09:00:56.123Z",
   "guild": {
     "name": "YuChaYuan",
     "prefix": "YCY",
@@ -7,7 +7,7 @@
     "raidShort": "TNA",
     "color": "#2ca089"
   },
-  "online": 5,
+  "online": 4,
   "memberCount": 92,
   "members": {
     "0aef2f69-7099-4658-ba4a-c8227e3ee974": {
@@ -1010,7 +1010,7 @@
       "baselineTna": 4,
       "baselineTs": "2026-07-24T13:40:33.852Z",
       "gained": 91,
-      "lastSeen": "2026-10-23T08:55:26.987Z",
+      "lastSeen": "2026-10-23T09:00:56.123Z",
       "lastRaid": "2026-10-22T16:45:32.731Z",
       "byDay": {
         "2026-08-24": 16,
@@ -3464,8 +3464,8 @@
     "72d00858-9575-4561-8393-d668ce1c42c8": {
       "username": "zhoushen1025",
       "rank": "recruit",
-      "online": true,
-      "server": "AS10",
+      "online": false,
+      "server": null,
       "tna": 27,
       "baselineTna": 5,
       "baselineTs": "2026-10-08T15:40:36.192Z",
@@ -3500,7 +3500,7 @@
       "baselineTna": 26,
       "baselineTs": "2026-09-18T07:45:37.390Z",
       "gained": 2,
-      "lastSeen": "2026-10-23T08:55:26.987Z",
+      "lastSeen": "2026-10-23T09:00:56.123Z",
       "lastRaid": "2026-10-07T10:50:44.314Z",
       "byDay": {
         "2026-09-18": 26,
@@ -3907,6 +3907,22 @@
       "lastRaid": null,
       "byDay": {}
     },
+    "31392b35-912c-4401-b285-3c51b1e2dd38": {
+      "username": "OHO_superkai",
+      "rank": "recruit",
+      "online": true,
+      "server": "NA4",
+      "tna": 1,
+      "baselineTna": 1,
+      "baselineTs": "2026-10-22T21:05:29.092Z",
+      "gained": 0,
+      "lastSeen": "2026-10-23T09:00:56.123Z",
+      "lastRaid": null,
+      "byDay": {
+        "2026-10-22": 1,
+        "2026-10-23": 1
+      }
+    },
     "c1c7d2de-e109-48bc-80e1-1a84e7083762": {
       "username": "AlwaysNegative",
       "rank": "recruit",
@@ -3919,22 +3935,6 @@
       "lastSeen": "2026-07-05T12:55:24.165Z",
       "lastRaid": null,
       "byDay": {}
-    },
-    "31392b35-912c-4401-b285-3c51b1e2dd38": {
-      "username": "OHO_superkai",
-      "rank": "recruit",
-      "online": true,
-      "server": "NA4",
-      "tna": 1,
-      "baselineTna": 1,
-      "baselineTs": "2026-10-22T21:05:29.092Z",
-      "gained": 0,
-      "lastSeen": "2026-10-23T08:55:26.987Z",
-      "lastRaid": null,
-      "byDay": {
-        "2026-10-22": 1,
-        "2026-10-23": 1
-      }
     },
     "79359c82-0422-43d0-9e83-82df10d7dccb": {
       "username": "Suichankawaaiii",
@@ -4118,7 +4118,7 @@
       "baselineTna": null,
       "baselineTs": null,
       "gained": 0,
-      "lastSeen": "2026-10-23T08:55:26.987Z",
+      "lastSeen": "2026-10-23T09:00:56.123Z",
       "lastRaid": null,
       "byDay": {}
     },
