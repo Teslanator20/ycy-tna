@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-23T17:35:27.217Z",
+  "updated": "2026-10-23T17:40:35.996Z",
   "guild": {
     "name": "YuChaYuan",
     "prefix": "YCY",
@@ -7,7 +7,7 @@
     "raidShort": "TNA",
     "color": "#2ca089"
   },
-  "online": 4,
+  "online": 3,
   "memberCount": 92,
   "members": {
     "0aef2f69-7099-4658-ba4a-c8227e3ee974": {
@@ -2517,12 +2517,12 @@
       "username": "YoyoBreaker",
       "rank": "recruiter",
       "online": true,
-      "server": "AS20",
+      "server": "AS2",
       "tna": 58,
       "baselineTna": 53,
       "baselineTs": "2026-06-06T18:47:42.183Z",
       "gained": 5,
-      "lastSeen": "2026-10-23T17:35:27.217Z",
+      "lastSeen": "2026-10-23T17:40:35.996Z",
       "lastRaid": "2026-06-21T07:50:31.019Z",
       "byDay": {
         "2026-08-24": 58,
@@ -3068,12 +3068,12 @@
       "username": "dyLLLLan",
       "rank": "recruiter",
       "online": true,
-      "server": "AS20",
+      "server": "AS2",
       "tna": 61,
       "baselineTna": 58,
       "baselineTs": "2026-06-06T18:47:42.183Z",
       "gained": 3,
-      "lastSeen": "2026-10-23T17:35:27.217Z",
+      "lastSeen": "2026-10-23T17:40:35.996Z",
       "lastRaid": "2026-10-18T17:50:36.143Z",
       "byDay": {
         "2026-08-24": 60,
@@ -3571,12 +3571,12 @@
       "username": "ANTONY_71",
       "rank": "recruit",
       "online": true,
-      "server": "AS20",
+      "server": "AS2",
       "tna": 26,
       "baselineTna": 23,
       "baselineTs": "2026-06-06T18:47:42.183Z",
       "gained": 3,
-      "lastSeen": "2026-10-23T17:35:27.217Z",
+      "lastSeen": "2026-10-23T17:40:35.996Z",
       "lastRaid": "2026-10-18T17:55:28.713Z",
       "byDay": {
         "2026-08-24": 24,
@@ -3684,8 +3684,8 @@
     "31392b35-912c-4401-b285-3c51b1e2dd38": {
       "username": "OHO_superkai",
       "rank": "recruit",
-      "online": true,
-      "server": "NA7",
+      "online": false,
+      "server": null,
       "tna": 1,
       "baselineTna": 1,
       "baselineTs": "2026-10-22T21:05:29.092Z",
