@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-24T04:25:29.452Z",
+  "updated": "2026-10-24T04:30:47.681Z",
   "guild": {
     "name": "YuChaYuan",
     "prefix": "YCY",
@@ -7,7 +7,7 @@
     "raidShort": "TNA",
     "color": "#2ca089"
   },
-  "online": 2,
+  "online": 4,
   "memberCount": 92,
   "members": {
     "0aef2f69-7099-4658-ba4a-c8227e3ee974": {
@@ -781,13 +781,13 @@
     "1977ba0b-2c0c-4274-bf99-5d51519f06f4": {
       "username": "Aye_OwO",
       "rank": "strategist",
-      "online": false,
-      "server": null,
+      "online": true,
+      "server": "AS13",
       "tna": 55,
       "baselineTna": 55,
       "baselineTs": "2026-06-06T18:47:42.183Z",
       "gained": 0,
-      "lastSeen": "2026-10-24T02:25:29.991Z",
+      "lastSeen": "2026-10-24T04:30:47.681Z",
       "lastRaid": null,
       "byDay": {
         "2026-08-25": 55,
@@ -1206,12 +1206,12 @@
       "username": "Nightstar_TW",
       "rank": "captain",
       "online": true,
-      "server": "AS15",
+      "server": "AS11",
       "tna": 42,
       "baselineTna": 42,
       "baselineTs": "2026-06-06T18:47:42.183Z",
       "gained": 0,
-      "lastSeen": "2026-10-24T04:25:29.452Z",
+      "lastSeen": "2026-10-24T04:30:47.681Z",
       "lastRaid": null,
       "byDay": {
         "2026-08-25": 42,
@@ -3321,13 +3321,13 @@
     "35a6a719-027c-4c77-b7be-1ecc7458b8bd": {
       "username": "Tomzd90",
       "rank": "recruit",
-      "online": false,
-      "server": null,
+      "online": true,
+      "server": "NA16",
       "tna": 19,
       "baselineTna": 1,
       "baselineTs": "2026-09-18T15:20:46.123Z",
       "gained": 18,
-      "lastSeen": "2026-10-24T04:00:51.392Z",
+      "lastSeen": "2026-10-24T04:30:47.681Z",
       "lastRaid": "2026-10-15T16:01:01.074Z",
       "byDay": {
         "2026-09-18": 1,
@@ -3956,7 +3956,7 @@
       "baselineTna": null,
       "baselineTs": null,
       "gained": 0,
-      "lastSeen": "2026-10-24T04:25:29.452Z",
+      "lastSeen": "2026-10-24T04:30:47.681Z",
       "lastRaid": null,
       "byDay": {}
     },
