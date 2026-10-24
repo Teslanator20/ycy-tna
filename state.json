@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-24T11:05:29.276Z",
+  "updated": "2026-10-24T11:10:36.193Z",
   "guild": {
     "name": "YuChaYuan",
     "prefix": "YCY",
@@ -7,7 +7,7 @@
     "raidShort": "TNA",
     "color": "#2ca089"
   },
-  "online": 6,
+  "online": 7,
   "memberCount": 92,
   "members": {
     "0aef2f69-7099-4658-ba4a-c8227e3ee974": {
@@ -1012,7 +1012,7 @@
       "baselineTna": 4,
       "baselineTs": "2026-07-24T13:40:33.852Z",
       "gained": 91,
-      "lastSeen": "2026-10-24T11:05:29.276Z",
+      "lastSeen": "2026-10-24T11:10:36.193Z",
       "lastRaid": "2026-10-22T16:45:32.731Z",
       "byDay": {
         "2026-08-25": 16,
@@ -1087,7 +1087,7 @@
       "baselineTna": 3,
       "baselineTs": "2026-09-20T08:05:31.932Z",
       "gained": 52,
-      "lastSeen": "2026-10-24T11:05:29.276Z",
+      "lastSeen": "2026-10-24T11:10:36.193Z",
       "lastRaid": "2026-10-19T17:25:27.989Z",
       "byDay": {
         "2026-09-20": 3,
@@ -1211,7 +1211,7 @@
       "baselineTna": 42,
       "baselineTs": "2026-06-06T18:47:42.183Z",
       "gained": 0,
-      "lastSeen": "2026-10-24T11:05:29.276Z",
+      "lastSeen": "2026-10-24T11:10:36.193Z",
       "lastRaid": null,
       "byDay": {
         "2026-08-25": 42,
@@ -3476,7 +3476,7 @@
       "baselineTna": 5,
       "baselineTs": "2026-10-08T15:40:36.192Z",
       "gained": 22,
-      "lastSeen": "2026-10-24T11:05:29.276Z",
+      "lastSeen": "2026-10-24T11:10:36.193Z",
       "lastRaid": "2026-10-22T16:40:35.327Z",
       "byDay": {
         "2026-10-08": 5,
@@ -3507,7 +3507,7 @@
       "baselineTna": 26,
       "baselineTs": "2026-09-18T07:45:37.390Z",
       "gained": 2,
-      "lastSeen": "2026-10-24T11:05:29.276Z",
+      "lastSeen": "2026-10-24T11:10:36.193Z",
       "lastRaid": "2026-10-07T10:50:44.314Z",
       "byDay": {
         "2026-09-18": 26,
@@ -3578,13 +3578,13 @@
     "2b4be507-abf6-4172-99d9-29e88ff231b0": {
       "username": "ANTONY_71",
       "rank": "recruit",
-      "online": false,
-      "server": null,
+      "online": true,
+      "server": "AS7",
       "tna": 27,
       "baselineTna": 23,
       "baselineTs": "2026-06-06T18:47:42.183Z",
       "gained": 4,
-      "lastSeen": "2026-10-23T19:00:55.544Z",
+      "lastSeen": "2026-10-24T11:10:36.193Z",
       "lastRaid": "2026-10-23T19:05:29.625Z",
       "byDay": {
         "2026-08-25": 24,
@@ -3943,7 +3943,7 @@
       "baselineTna": null,
       "baselineTs": null,
       "gained": 0,
-      "lastSeen": "2026-10-24T11:05:29.276Z",
+      "lastSeen": "2026-10-24T11:10:36.193Z",
       "lastRaid": null,
       "byDay": {}
     },
