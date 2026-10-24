@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-24T07:25:28.499Z",
+  "updated": "2026-10-24T07:30:51.346Z",
   "guild": {
     "name": "YuChaYuan",
     "prefix": "YCY",
@@ -781,8 +781,8 @@
     "1977ba0b-2c0c-4274-bf99-5d51519f06f4": {
       "username": "Aye_OwO",
       "rank": "strategist",
-      "online": true,
-      "server": "AS14",
+      "online": false,
+      "server": null,
       "tna": 55,
       "baselineTna": 55,
       "baselineTs": "2026-06-06T18:47:42.183Z",
@@ -1012,7 +1012,7 @@
       "baselineTna": 4,
       "baselineTs": "2026-07-24T13:40:33.852Z",
       "gained": 91,
-      "lastSeen": "2026-10-24T07:25:28.499Z",
+      "lastSeen": "2026-10-24T07:30:51.346Z",
       "lastRaid": "2026-10-22T16:45:32.731Z",
       "byDay": {
         "2026-08-25": 16,
@@ -1087,7 +1087,7 @@
       "baselineTna": 3,
       "baselineTs": "2026-09-20T08:05:31.932Z",
       "gained": 52,
-      "lastSeen": "2026-10-24T07:25:28.499Z",
+      "lastSeen": "2026-10-24T07:30:51.346Z",
       "lastRaid": "2026-10-19T17:25:27.989Z",
       "byDay": {
         "2026-09-20": 3,
@@ -1205,13 +1205,13 @@
     "5a8759de-669b-477c-ad86-9d80eb8ff504": {
       "username": "Nightstar_TW",
       "rank": "captain",
-      "online": false,
-      "server": null,
+      "online": true,
+      "server": "AS12",
       "tna": 42,
       "baselineTna": 42,
       "baselineTs": "2026-06-06T18:47:42.183Z",
       "gained": 0,
-      "lastSeen": "2026-10-24T06:35:25.499Z",
+      "lastSeen": "2026-10-24T07:30:51.346Z",
       "lastRaid": null,
       "byDay": {
         "2026-08-25": 42,
@@ -3507,7 +3507,7 @@
       "baselineTna": 26,
       "baselineTs": "2026-09-18T07:45:37.390Z",
       "gained": 2,
-      "lastSeen": "2026-10-24T07:25:28.499Z",
+      "lastSeen": "2026-10-24T07:30:51.346Z",
       "lastRaid": "2026-10-07T10:50:44.314Z",
       "byDay": {
         "2026-09-18": 26,
@@ -3956,7 +3956,7 @@
       "baselineTna": null,
       "baselineTs": null,
       "gained": 0,
-      "lastSeen": "2026-10-24T07:25:28.499Z",
+      "lastSeen": "2026-10-24T07:30:51.346Z",
       "lastRaid": null,
       "byDay": {}
     },
