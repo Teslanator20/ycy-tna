@@ -3514,10 +3514,10 @@
     "dac5a3d6-6172-4a4d-b50d-c22fedbbf42f|f8e8e57f-4f64-4bfe-90b6-9f58308e8d45": {
       "a": "dac5a3d6-6172-4a4d-b50d-c22fedbbf42f",
       "b": "f8e8e57f-4f64-4bfe-90b6-9f58308e8d45",
-      "samples": 1,
+      "samples": 2,
       "usernameA": "Nodens_aby",
       "usernameB": "Faust_king",
-      "lastTs": "2026-10-18T13:50:36.369Z"
+      "lastTs": "2026-10-25T08:10:36.984Z"
     },
     "1118d10c-5b5d-4820-a826-48260292e971|dac5a3d6-6172-4a4d-b50d-c22fedbbf42f": {
       "a": "1118d10c-5b5d-4820-a826-48260292e971",
@@ -3832,5 +3832,5 @@
       "lastTs": "2026-10-25T07:45:37.391Z"
     }
   },
-  "updated": "2026-10-25T08:05:28.643Z"
+  "updated": "2026-10-25T08:10:36.984Z"
 }
