@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-26T08:25:29.142Z",
+  "updated": "2026-10-26T08:30:46.604Z",
   "guild": {
     "name": "YuChaYuan",
     "prefix": "YCY",
@@ -785,13 +785,13 @@
     "1977ba0b-2c0c-4274-bf99-5d51519f06f4": {
       "username": "Aye_OwO",
       "rank": "strategist",
-      "online": false,
-      "server": null,
+      "online": true,
+      "server": "AS7",
       "tna": 55,
       "baselineTna": 55,
       "baselineTs": "2026-06-06T18:47:42.183Z",
       "gained": 0,
-      "lastSeen": "2026-10-26T08:05:28.156Z",
+      "lastSeen": "2026-10-26T08:30:46.604Z",
       "lastRaid": null,
       "byDay": {
         "2026-08-27": 55,
@@ -1016,7 +1016,7 @@
       "baselineTna": 4,
       "baselineTs": "2026-07-24T13:40:33.852Z",
       "gained": 91,
-      "lastSeen": "2026-10-26T08:25:29.142Z",
+      "lastSeen": "2026-10-26T08:30:46.604Z",
       "lastRaid": "2026-10-22T16:45:32.731Z",
       "byDay": {
         "2026-08-27": 16,
@@ -1217,7 +1217,7 @@
       "baselineTna": 42,
       "baselineTs": "2026-06-06T18:47:42.183Z",
       "gained": 0,
-      "lastSeen": "2026-10-26T08:25:29.142Z",
+      "lastSeen": "2026-10-26T08:30:46.604Z",
       "lastRaid": null,
       "byDay": {
         "2026-08-27": 42,
@@ -3521,7 +3521,7 @@
       "baselineTna": 26,
       "baselineTs": "2026-09-18T07:45:37.390Z",
       "gained": 2,
-      "lastSeen": "2026-10-26T08:25:29.142Z",
+      "lastSeen": "2026-10-26T08:30:46.604Z",
       "lastRaid": "2026-10-07T10:50:44.314Z",
       "byDay": {
         "2026-09-18": 26,
@@ -4148,8 +4148,8 @@
     "dac5a3d6-6172-4a4d-b50d-c22fedbbf42f": {
       "username": "Nodens_aby",
       "rank": "recruit",
-      "online": true,
-      "server": "NA5",
+      "online": false,
+      "server": null,
       "tna": null,
       "baselineTna": null,
       "baselineTs": null,
@@ -4193,7 +4193,7 @@
       "baselineTna": null,
       "baselineTs": null,
       "gained": 0,
-      "lastSeen": "2026-10-26T08:25:29.142Z",
+      "lastSeen": "2026-10-26T08:30:46.604Z",
       "lastRaid": null,
       "byDay": {}
     },
