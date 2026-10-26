@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-26T08:35:27.818Z",
+  "updated": "2026-10-26T08:40:36.965Z",
   "guild": {
     "name": "YuChaYuan",
     "prefix": "YCY",
@@ -7,7 +7,7 @@
     "raidShort": "TNA",
     "color": "#2ca089"
   },
-  "online": 6,
+  "online": 4,
   "memberCount": 92,
   "members": {
     "0aef2f69-7099-4658-ba4a-c8227e3ee974": {
@@ -791,7 +791,7 @@
       "baselineTna": 55,
       "baselineTs": "2026-06-06T18:47:42.183Z",
       "gained": 0,
-      "lastSeen": "2026-10-26T08:35:27.818Z",
+      "lastSeen": "2026-10-26T08:40:36.965Z",
       "lastRaid": null,
       "byDay": {
         "2026-08-27": 55,
@@ -1011,12 +1011,12 @@
       "username": "woody123_is_god",
       "rank": "captain",
       "online": true,
-      "server": "AS8",
+      "server": "AS13",
       "tna": 95,
       "baselineTna": 4,
       "baselineTs": "2026-07-24T13:40:33.852Z",
       "gained": 91,
-      "lastSeen": "2026-10-26T08:35:27.818Z",
+      "lastSeen": "2026-10-26T08:40:36.965Z",
       "lastRaid": "2026-10-22T16:45:32.731Z",
       "byDay": {
         "2026-08-27": 16,
@@ -1217,7 +1217,7 @@
       "baselineTna": 42,
       "baselineTs": "2026-06-06T18:47:42.183Z",
       "gained": 0,
-      "lastSeen": "2026-10-26T08:35:27.818Z",
+      "lastSeen": "2026-10-26T08:40:36.965Z",
       "lastRaid": null,
       "byDay": {
         "2026-08-27": 42,
@@ -3521,7 +3521,7 @@
       "baselineTna": 26,
       "baselineTs": "2026-09-18T07:45:37.390Z",
       "gained": 2,
-      "lastSeen": "2026-10-26T08:35:27.818Z",
+      "lastSeen": "2026-10-26T08:40:36.965Z",
       "lastRaid": "2026-10-07T10:50:44.314Z",
       "byDay": {
         "2026-09-18": 26,
@@ -4174,8 +4174,8 @@
     "f8e8e57f-4f64-4bfe-90b6-9f58308e8d45": {
       "username": "Faust_king",
       "rank": "recruit",
-      "online": true,
-      "server": "NA37",
+      "online": false,
+      "server": null,
       "tna": null,
       "baselineTna": null,
       "baselineTs": null,
@@ -4187,8 +4187,8 @@
     "1118d10c-5b5d-4820-a826-48260292e971": {
       "username": "Mimi__king",
       "rank": "recruit",
-      "online": true,
-      "server": "NA37",
+      "online": false,
+      "server": null,
       "tna": null,
       "baselineTna": null,
       "baselineTs": null,
