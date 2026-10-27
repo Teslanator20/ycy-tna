@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-27T00:05:28.189Z",
+  "updated": "2026-10-27T00:10:37.333Z",
   "guild": {
     "name": "YuChaYuan",
     "prefix": "YCY",
@@ -3870,12 +3870,12 @@
       "username": "zoe943112",
       "rank": "recruit",
       "online": true,
-      "server": "NA25",
+      "server": "AS1",
       "tna": null,
       "baselineTna": null,
       "baselineTs": null,
       "gained": 0,
-      "lastSeen": "2026-10-27T00:05:28.189Z",
+      "lastSeen": "2026-10-27T00:10:37.333Z",
       "lastRaid": null,
       "byDay": {}
     },
