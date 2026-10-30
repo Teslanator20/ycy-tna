@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-30T21:35:30.034Z",
+  "updated": "2026-10-30T21:40:37.769Z",
   "guild": {
     "name": "YuChaYuan",
     "prefix": "YCY",
@@ -3345,7 +3345,7 @@
       "baselineTna": 1,
       "baselineTs": "2026-09-18T15:20:46.123Z",
       "gained": 18,
-      "lastSeen": "2026-10-30T21:35:30.034Z",
+      "lastSeen": "2026-10-30T21:40:37.769Z",
       "lastRaid": "2026-10-15T16:01:01.074Z",
       "byDay": {
         "2026-09-18": 1,
@@ -4509,12 +4509,12 @@
       "username": "Ivan1119",
       "rank": "recruit",
       "online": true,
-      "server": "NA19",
+      "server": "NA22",
       "tna": 84,
       "baselineTna": 84,
       "baselineTs": "2026-10-30T13:45:37.782Z",
       "gained": 0,
-      "lastSeen": "2026-10-30T21:35:30.034Z",
+      "lastSeen": "2026-10-30T21:40:37.769Z",
       "lastRaid": null,
       "byDay": {
         "2026-10-30": 84
