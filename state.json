@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-30T13:55:29.323Z",
+  "updated": "2026-10-30T14:00:59.494Z",
   "guild": {
     "name": "YuChaYuan",
     "prefix": "YCY",
@@ -7,7 +7,7 @@
     "raidShort": "TNA",
     "color": "#2ca089"
   },
-  "online": 5,
+  "online": 4,
   "memberCount": 93,
   "members": {
     "0aef2f69-7099-4658-ba4a-c8227e3ee974": {
@@ -65,12 +65,12 @@
       "username": "0110jimmy",
       "rank": "chief",
       "online": true,
-      "server": "AS18",
+      "server": "AS4",
       "tna": 1616,
       "baselineTna": 1502,
       "baselineTs": "2026-06-06T18:47:42.183Z",
       "gained": 114,
-      "lastSeen": "2026-10-30T13:55:29.323Z",
+      "lastSeen": "2026-10-30T14:00:59.494Z",
       "lastRaid": "2026-10-17T12:35:27.152Z",
       "byDay": {
         "2026-08-31": 1502,
@@ -3345,7 +3345,7 @@
       "baselineTna": 1,
       "baselineTs": "2026-09-18T15:20:46.123Z",
       "gained": 18,
-      "lastSeen": "2026-10-30T13:55:29.323Z",
+      "lastSeen": "2026-10-30T14:00:59.494Z",
       "lastRaid": "2026-10-15T16:01:01.074Z",
       "byDay": {
         "2026-09-18": 1,
@@ -3889,8 +3889,8 @@
     "9802dcb5-854d-4429-88f5-61d6878a6552": {
       "username": "zoe943112",
       "rank": "recruit",
-      "online": true,
-      "server": "AS18",
+      "online": false,
+      "server": null,
       "tna": null,
       "baselineTna": null,
       "baselineTs": null,
@@ -4219,12 +4219,12 @@
       "username": "Faust_king",
       "rank": "recruit",
       "online": true,
-      "server": "AS6",
+      "server": "AS9",
       "tna": null,
       "baselineTna": null,
       "baselineTs": null,
       "gained": 0,
-      "lastSeen": "2026-10-30T13:55:29.323Z",
+      "lastSeen": "2026-10-30T14:00:59.494Z",
       "lastRaid": null,
       "byDay": {}
     },
@@ -4514,7 +4514,7 @@
       "baselineTna": 84,
       "baselineTs": "2026-10-30T13:45:37.782Z",
       "gained": 0,
-      "lastSeen": "2026-10-30T13:55:29.323Z",
+      "lastSeen": "2026-10-30T14:00:59.494Z",
       "lastRaid": null,
       "byDay": {
         "2026-10-30": 84
