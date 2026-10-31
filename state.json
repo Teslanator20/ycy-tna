@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-31T19:00:54.678Z",
+  "updated": "2026-10-31T19:05:28.516Z",
   "guild": {
     "name": "YuChaYuan",
     "prefix": "YCY",
@@ -7,7 +7,7 @@
     "raidShort": "TNA",
     "color": "#2ca089"
   },
-  "online": 3,
+  "online": 4,
   "memberCount": 94,
   "members": {
     "0aef2f69-7099-4658-ba4a-c8227e3ee974": {
@@ -3551,12 +3551,12 @@
       "username": "StopRain",
       "rank": "recruit",
       "online": true,
-      "server": "AS17",
+      "server": "AS13",
       "tna": 28,
       "baselineTna": 26,
       "baselineTs": "2026-09-18T07:45:37.390Z",
       "gained": 2,
-      "lastSeen": "2026-10-31T19:00:54.678Z",
+      "lastSeen": "2026-10-31T19:05:28.516Z",
       "lastRaid": "2026-10-07T10:50:44.314Z",
       "byDay": {
         "2026-09-18": 26,
@@ -4235,20 +4235,20 @@
       "baselineTna": null,
       "baselineTs": null,
       "gained": 0,
-      "lastSeen": "2026-10-31T19:00:54.678Z",
+      "lastSeen": "2026-10-31T19:05:28.516Z",
       "lastRaid": null,
       "byDay": {}
     },
     "f8e8e57f-4f64-4bfe-90b6-9f58308e8d45": {
       "username": "Faust_king",
       "rank": "recruit",
-      "online": false,
-      "server": null,
+      "online": true,
+      "server": "NA28",
       "tna": null,
       "baselineTna": null,
       "baselineTs": null,
       "gained": 0,
-      "lastSeen": "2026-10-31T18:55:28.951Z",
+      "lastSeen": "2026-10-31T19:05:28.516Z",
       "lastRaid": null,
       "byDay": {}
     },
@@ -4538,7 +4538,7 @@
       "baselineTna": 84,
       "baselineTs": "2026-10-30T13:45:37.782Z",
       "gained": 3,
-      "lastSeen": "2026-10-31T19:00:54.678Z",
+      "lastSeen": "2026-10-31T19:05:28.516Z",
       "lastRaid": "2026-10-30T22:40:37.417Z",
       "byDay": {
         "2026-10-30": 87,
