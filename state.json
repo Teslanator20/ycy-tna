@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-31T16:40:36.742Z",
+  "updated": "2026-10-31T16:45:36.088Z",
   "guild": {
     "name": "YuChaYuan",
     "prefix": "YCY",
@@ -7,7 +7,7 @@
     "raidShort": "TNA",
     "color": "#2ca089"
   },
-  "online": 5,
+  "online": 4,
   "memberCount": 94,
   "members": {
     "0aef2f69-7099-4658-ba4a-c8227e3ee974": {
@@ -65,8 +65,8 @@
     "4791eb57-3607-4647-8d4f-59aaa879c5a4": {
       "username": "0110jimmy",
       "rank": "chief",
-      "online": true,
-      "server": "AS1",
+      "online": false,
+      "server": null,
       "tna": 1619,
       "baselineTna": 1502,
       "baselineTs": "2026-06-06T18:47:42.183Z",
@@ -1026,7 +1026,7 @@
       "baselineTna": 4,
       "baselineTs": "2026-07-24T13:40:33.852Z",
       "gained": 99,
-      "lastSeen": "2026-10-31T16:40:36.742Z",
+      "lastSeen": "2026-10-31T16:45:36.088Z",
       "lastRaid": "2026-10-31T07:05:28.777Z",
       "byDay": {
         "2026-09-01": 16,
@@ -1101,7 +1101,7 @@
       "baselineTna": 3,
       "baselineTs": "2026-09-20T08:05:31.932Z",
       "gained": 54,
-      "lastSeen": "2026-10-31T16:40:36.742Z",
+      "lastSeen": "2026-10-31T16:45:36.088Z",
       "lastRaid": "2026-10-29T16:05:30.012Z",
       "byDay": {
         "2026-09-20": 3,
@@ -3906,7 +3906,7 @@
       "baselineTna": null,
       "baselineTs": null,
       "gained": 0,
-      "lastSeen": "2026-10-31T16:40:36.742Z",
+      "lastSeen": "2026-10-31T16:45:36.088Z",
       "lastRaid": null,
       "byDay": {}
     },
@@ -4248,7 +4248,7 @@
       "baselineTna": null,
       "baselineTs": null,
       "gained": 0,
-      "lastSeen": "2026-10-31T16:40:36.742Z",
+      "lastSeen": "2026-10-31T16:45:36.088Z",
       "lastRaid": null,
       "byDay": {}
     },
