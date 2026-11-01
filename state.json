@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-01T07:55:27.968Z",
+  "updated": "2026-11-01T08:00:54.714Z",
   "guild": {
     "name": "YuChaYuan",
     "prefix": "YCY",
@@ -1023,12 +1023,12 @@
       "username": "woody123_is_god",
       "rank": "captain",
       "online": true,
-      "server": "AS18",
+      "server": "AS16",
       "tna": 103,
       "baselineTna": 4,
       "baselineTs": "2026-07-24T13:40:33.852Z",
       "gained": 99,
-      "lastSeen": "2026-11-01T07:55:27.968Z",
+      "lastSeen": "2026-11-01T08:00:54.714Z",
       "lastRaid": "2026-10-31T07:05:28.777Z",
       "byDay": {
         "2026-09-02": 16,
@@ -1103,7 +1103,7 @@
       "baselineTna": 3,
       "baselineTs": "2026-09-20T08:05:31.932Z",
       "gained": 54,
-      "lastSeen": "2026-11-01T07:55:27.968Z",
+      "lastSeen": "2026-11-01T08:00:54.714Z",
       "lastRaid": "2026-10-29T16:05:30.012Z",
       "byDay": {
         "2026-09-20": 3,
@@ -3351,7 +3351,7 @@
       "baselineTna": 1,
       "baselineTs": "2026-09-18T15:20:46.123Z",
       "gained": 18,
-      "lastSeen": "2026-11-01T07:55:27.968Z",
+      "lastSeen": "2026-11-01T08:00:54.714Z",
       "lastRaid": "2026-10-15T16:01:01.074Z",
       "byDay": {
         "2026-09-18": 1,
@@ -3519,12 +3519,12 @@
       "username": "zhoushen1025",
       "rank": "recruit",
       "online": true,
-      "server": "AS18",
+      "server": "AS16",
       "tna": 32,
       "baselineTna": 5,
       "baselineTs": "2026-10-08T15:40:36.192Z",
       "gained": 27,
-      "lastSeen": "2026-11-01T07:55:27.968Z",
+      "lastSeen": "2026-11-01T08:00:54.714Z",
       "lastRaid": "2026-10-29T13:40:38.086Z",
       "byDay": {
         "2026-10-08": 5,
@@ -3563,7 +3563,7 @@
       "baselineTna": 26,
       "baselineTs": "2026-09-18T07:45:37.390Z",
       "gained": 2,
-      "lastSeen": "2026-11-01T07:55:27.968Z",
+      "lastSeen": "2026-11-01T08:00:54.714Z",
       "lastRaid": "2026-10-07T10:50:44.314Z",
       "byDay": {
         "2026-09-18": 26,
@@ -4254,12 +4254,12 @@
       "username": "Faust_king",
       "rank": "recruit",
       "online": true,
-      "server": "AS16",
+      "server": "EU2",
       "tna": null,
       "baselineTna": null,
       "baselineTs": null,
       "gained": 0,
-      "lastSeen": "2026-11-01T07:55:27.968Z",
+      "lastSeen": "2026-11-01T08:00:54.714Z",
       "lastRaid": null,
       "byDay": {}
     },
