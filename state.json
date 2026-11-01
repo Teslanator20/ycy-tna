@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-01T08:35:28.793Z",
+  "updated": "2026-11-01T08:40:34.671Z",
   "guild": {
     "name": "YuChaYuan",
     "prefix": "YCY",
@@ -7,7 +7,7 @@
     "raidShort": "TNA",
     "color": "#2ca089"
   },
-  "online": 6,
+  "online": 5,
   "memberCount": 94,
   "members": {
     "0aef2f69-7099-4658-ba4a-c8227e3ee974": {
@@ -1028,7 +1028,7 @@
       "baselineTna": 4,
       "baselineTs": "2026-07-24T13:40:33.852Z",
       "gained": 99,
-      "lastSeen": "2026-11-01T08:35:28.793Z",
+      "lastSeen": "2026-11-01T08:40:34.671Z",
       "lastRaid": "2026-10-31T07:05:28.777Z",
       "byDay": {
         "2026-09-02": 16,
@@ -3345,8 +3345,8 @@
     "35a6a719-027c-4c77-b7be-1ecc7458b8bd": {
       "username": "Tomzd90",
       "rank": "recruit",
-      "online": true,
-      "server": "AS12",
+      "online": false,
+      "server": null,
       "tna": 19,
       "baselineTna": 1,
       "baselineTs": "2026-09-18T15:20:46.123Z",
@@ -3563,7 +3563,7 @@
       "baselineTna": 26,
       "baselineTs": "2026-09-18T07:45:37.390Z",
       "gained": 2,
-      "lastSeen": "2026-11-01T08:35:28.793Z",
+      "lastSeen": "2026-11-01T08:40:34.671Z",
       "lastRaid": "2026-10-07T10:50:44.314Z",
       "byDay": {
         "2026-09-18": 26,
@@ -4220,7 +4220,7 @@
       "baselineTna": null,
       "baselineTs": null,
       "gained": 0,
-      "lastSeen": "2026-11-01T08:35:28.793Z",
+      "lastSeen": "2026-11-01T08:40:34.671Z",
       "lastRaid": null,
       "byDay": {}
     },
@@ -4259,7 +4259,7 @@
       "baselineTna": null,
       "baselineTs": null,
       "gained": 0,
-      "lastSeen": "2026-11-01T08:35:28.793Z",
+      "lastSeen": "2026-11-01T08:40:34.671Z",
       "lastRaid": null,
       "byDay": {}
     },
@@ -4549,7 +4549,7 @@
       "baselineTna": 84,
       "baselineTs": "2026-10-30T13:45:37.782Z",
       "gained": 3,
-      "lastSeen": "2026-11-01T08:35:28.793Z",
+      "lastSeen": "2026-11-01T08:40:34.671Z",
       "lastRaid": "2026-10-30T22:40:37.417Z",
       "byDay": {
         "2026-10-30": 87,
