@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-01T08:25:27.603Z",
+  "updated": "2026-11-01T08:30:49.070Z",
   "guild": {
     "name": "YuChaYuan",
     "prefix": "YCY",
@@ -1023,12 +1023,12 @@
       "username": "woody123_is_god",
       "rank": "captain",
       "online": true,
-      "server": "AS6",
+      "server": "AS3",
       "tna": 103,
       "baselineTna": 4,
       "baselineTs": "2026-07-24T13:40:33.852Z",
       "gained": 99,
-      "lastSeen": "2026-11-01T08:25:27.603Z",
+      "lastSeen": "2026-11-01T08:30:49.070Z",
       "lastRaid": "2026-10-31T07:05:28.777Z",
       "byDay": {
         "2026-09-02": 16,
@@ -3351,7 +3351,7 @@
       "baselineTna": 1,
       "baselineTs": "2026-09-18T15:20:46.123Z",
       "gained": 18,
-      "lastSeen": "2026-11-01T08:25:27.603Z",
+      "lastSeen": "2026-11-01T08:30:49.070Z",
       "lastRaid": "2026-10-15T16:01:01.074Z",
       "byDay": {
         "2026-09-18": 1,
@@ -3563,7 +3563,7 @@
       "baselineTna": 26,
       "baselineTs": "2026-09-18T07:45:37.390Z",
       "gained": 2,
-      "lastSeen": "2026-11-01T08:25:27.603Z",
+      "lastSeen": "2026-11-01T08:30:49.070Z",
       "lastRaid": "2026-10-07T10:50:44.314Z",
       "byDay": {
         "2026-09-18": 26,
@@ -4215,12 +4215,12 @@
       "username": "Nodens_aby",
       "rank": "recruit",
       "online": true,
-      "server": "AS14",
+      "server": "NA26",
       "tna": null,
       "baselineTna": null,
       "baselineTs": null,
       "gained": 0,
-      "lastSeen": "2026-11-01T08:25:27.603Z",
+      "lastSeen": "2026-11-01T08:30:49.070Z",
       "lastRaid": null,
       "byDay": {}
     },
@@ -4259,7 +4259,7 @@
       "baselineTna": null,
       "baselineTs": null,
       "gained": 0,
-      "lastSeen": "2026-11-01T08:25:27.603Z",
+      "lastSeen": "2026-11-01T08:30:49.070Z",
       "lastRaid": null,
       "byDay": {}
     },
@@ -4549,7 +4549,7 @@
       "baselineTna": 84,
       "baselineTs": "2026-10-30T13:45:37.782Z",
       "gained": 3,
-      "lastSeen": "2026-11-01T08:25:27.603Z",
+      "lastSeen": "2026-11-01T08:30:49.070Z",
       "lastRaid": "2026-10-30T22:40:37.417Z",
       "byDay": {
         "2026-10-30": 87,
