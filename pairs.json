@@ -4102,7 +4102,23 @@
       "usernameA": "Tomzd90",
       "usernameB": "Ivan1119",
       "lastTs": "2026-11-02T16:50:37.242Z"
+    },
+    "415b7101-6d90-4d17-ab5c-a92856b645ac|e1c4ea28-f56d-4c80-aa39-847334e10832": {
+      "a": "415b7101-6d90-4d17-ab5c-a92856b645ac",
+      "b": "e1c4ea28-f56d-4c80-aa39-847334e10832",
+      "samples": 1,
+      "usernameA": "ShurenChangTW",
+      "usernameB": "allenYue",
+      "lastTs": "2026-11-02T18:00:57.486Z"
+    },
+    "9ae6255e-35dd-4c80-9808-3985ddcb8fcc|bdf4d139-41bb-41f7-a20e-6411f840eab4": {
+      "a": "9ae6255e-35dd-4c80-9808-3985ddcb8fcc",
+      "b": "bdf4d139-41bb-41f7-a20e-6411f840eab4",
+      "samples": 1,
+      "usernameA": "Ivan1119",
+      "usernameB": "StopRain",
+      "lastTs": "2026-11-02T18:00:57.486Z"
     }
   },
-  "updated": "2026-11-02T17:55:29.269Z"
+  "updated": "2026-11-02T18:00:57.486Z"
 }
