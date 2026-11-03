@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-03T19:05:39.986Z",
+  "updated": "2026-11-03T19:10:38.932Z",
   "guild": {
     "name": "YuChaYuan",
     "prefix": "YCY",
@@ -801,13 +801,13 @@
     "1977ba0b-2c0c-4274-bf99-5d51519f06f4": {
       "username": "Aye_OwO",
       "rank": "strategist",
-      "online": false,
-      "server": null,
+      "online": true,
+      "server": "AS10",
       "tna": 55,
       "baselineTna": 55,
       "baselineTs": "2026-06-06T18:47:42.183Z",
       "gained": 0,
-      "lastSeen": "2026-11-03T18:05:38.423Z",
+      "lastSeen": "2026-11-03T19:10:38.932Z",
       "lastRaid": null,
       "byDay": {
         "2026-09-04": 55,
@@ -3577,7 +3577,7 @@
       "baselineTna": 26,
       "baselineTs": "2026-09-18T07:45:37.390Z",
       "gained": 2,
-      "lastSeen": "2026-11-03T19:05:39.986Z",
+      "lastSeen": "2026-11-03T19:10:38.932Z",
       "lastRaid": "2026-10-07T10:50:44.314Z",
       "byDay": {
         "2026-09-18": 26,
@@ -4272,7 +4272,7 @@
       "baselineTna": null,
       "baselineTs": null,
       "gained": 0,
-      "lastSeen": "2026-11-03T19:05:39.986Z",
+      "lastSeen": "2026-11-03T19:10:38.932Z",
       "lastRaid": null,
       "byDay": {}
     },
@@ -4588,8 +4588,8 @@
     "165f669c-74c9-44ca-b0ac-4afcdcc1a4d3": {
       "username": "o0Amy0o",
       "rank": "recruit",
-      "online": true,
-      "server": "AS3",
+      "online": false,
+      "server": null,
       "tna": 1,
       "baselineTna": 1,
       "baselineTs": "2026-11-03T15:55:30.803Z",
