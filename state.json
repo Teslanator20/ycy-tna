@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-03T09:20:39.830Z",
+  "updated": "2026-11-03T09:25:30.821Z",
   "guild": {
     "name": "YuChaYuan",
     "prefix": "YCY",
@@ -7,7 +7,7 @@
     "raidShort": "TNA",
     "color": "#2ca089"
   },
-  "online": 1,
+  "online": 0,
   "memberCount": 94,
   "members": {
     "0aef2f69-7099-4658-ba4a-c8227e3ee974": {
@@ -1235,8 +1235,8 @@
     "5a8759de-669b-477c-ad86-9d80eb8ff504": {
       "username": "Nightstar_TW",
       "rank": "captain",
-      "online": true,
-      "server": "AS12",
+      "online": false,
+      "server": null,
       "tna": 42,
       "baselineTna": 42,
       "baselineTs": "2026-06-06T18:47:42.183Z",
