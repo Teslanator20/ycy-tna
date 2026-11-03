@@ -112,7 +112,25 @@
           "delta": 1
         }
       ]
+    },
+    {
+      "ts": "2026-11-03T15:01:00.279Z",
+      "server": "AS10",
+      "confirmed": true,
+      "crowded": false,
+      "players": [
+        {
+          "uuid": "e1c4ea28-f56d-4c80-aa39-847334e10832",
+          "username": "allenYue",
+          "delta": 1
+        },
+        {
+          "uuid": "de06ed1c-0480-42ee-8a10-9d400bb61467",
+          "username": "9tao_",
+          "delta": 1
+        }
+      ]
     }
   ],
-  "updated": "2026-11-03T14:55:31.221Z"
+  "updated": "2026-11-03T15:01:00.279Z"
 }
