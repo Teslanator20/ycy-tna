@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-04T22:25:26.210Z",
+  "updated": "2026-11-04T22:30:40.755Z",
   "guild": {
     "name": "YuChaYuan",
     "prefix": "YCY",
@@ -4279,12 +4279,12 @@
       "username": "ShurenChangTW",
       "rank": "recruit",
       "online": true,
-      "server": "NA20",
+      "server": "AS3",
       "tna": null,
       "baselineTna": null,
       "baselineTs": null,
       "gained": 0,
-      "lastSeen": "2026-11-04T22:25:26.210Z",
+      "lastSeen": "2026-11-04T22:30:40.755Z",
       "lastRaid": null,
       "byDay": {}
     },
