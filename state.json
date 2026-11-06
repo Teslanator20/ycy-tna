@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-06T22:35:26.261Z",
+  "updated": "2026-11-06T22:40:33.059Z",
   "guild": {
     "name": "YuChaYuan",
     "prefix": "YCY",
@@ -4308,7 +4308,7 @@
       "baselineTna": null,
       "baselineTs": null,
       "gained": 0,
-      "lastSeen": "2026-11-06T22:35:26.261Z",
+      "lastSeen": "2026-11-06T22:40:33.059Z",
       "lastRaid": null,
       "byDay": {}
     },
