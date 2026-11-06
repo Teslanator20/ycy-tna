@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-06T15:25:26.501Z",
+  "updated": "2026-11-06T15:30:41.791Z",
   "guild": {
     "name": "YuChaYuan",
     "prefix": "YCY",
@@ -7,7 +7,7 @@
     "raidShort": "TNA",
     "color": "#2ca089"
   },
-  "online": 6,
+  "online": 5,
   "memberCount": 96,
   "members": {
     "0aef2f69-7099-4658-ba4a-c8227e3ee974": {
@@ -1032,8 +1032,8 @@
     "e4a23668-57d7-4f17-b58f-4a0fd17870ec": {
       "username": "woody123_is_god",
       "rank": "captain",
-      "online": true,
-      "server": "AS15",
+      "online": false,
+      "server": null,
       "tna": 104,
       "baselineTna": 4,
       "baselineTs": "2026-07-24T13:40:33.852Z",
@@ -1113,7 +1113,7 @@
       "baselineTna": 3,
       "baselineTs": "2026-09-20T08:05:31.932Z",
       "gained": 55,
-      "lastSeen": "2026-11-06T15:25:26.501Z",
+      "lastSeen": "2026-11-06T15:30:41.791Z",
       "lastRaid": "2026-11-03T15:01:00.279Z",
       "byDay": {
         "2026-09-20": 3,
@@ -3554,7 +3554,7 @@
       "baselineTna": 5,
       "baselineTs": "2026-10-08T15:40:36.192Z",
       "gained": 29,
-      "lastSeen": "2026-11-06T15:25:26.501Z",
+      "lastSeen": "2026-11-06T15:30:41.791Z",
       "lastRaid": "2026-11-04T13:15:37.040Z",
       "byDay": {
         "2026-10-08": 5,
@@ -4308,7 +4308,7 @@
       "baselineTna": null,
       "baselineTs": null,
       "gained": 0,
-      "lastSeen": "2026-11-06T15:25:26.501Z",
+      "lastSeen": "2026-11-06T15:30:41.791Z",
       "lastRaid": null,
       "byDay": {}
     },
@@ -4611,7 +4611,7 @@
       "baselineTna": 84,
       "baselineTs": "2026-10-30T13:45:37.782Z",
       "gained": 5,
-      "lastSeen": "2026-11-06T15:25:26.501Z",
+      "lastSeen": "2026-11-06T15:30:41.791Z",
       "lastRaid": "2026-11-04T19:10:32.095Z",
       "byDay": {
         "2026-10-30": 87,
@@ -4633,7 +4633,7 @@
       "baselineTna": 1,
       "baselineTs": "2026-11-03T15:55:30.803Z",
       "gained": 0,
-      "lastSeen": "2026-11-06T15:25:26.501Z",
+      "lastSeen": "2026-11-06T15:30:41.791Z",
       "lastRaid": null,
       "byDay": {
         "2026-11-03": 1,
