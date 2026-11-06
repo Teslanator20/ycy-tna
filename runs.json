@@ -1,24 +1,6 @@
 {
   "runs": [
     {
-      "ts": "2026-10-07T10:50:44.314Z",
-      "server": "AS12",
-      "confirmed": true,
-      "crowded": false,
-      "players": [
-        {
-          "uuid": "e1c4ea28-f56d-4c80-aa39-847334e10832",
-          "username": "allenYue",
-          "delta": 1
-        },
-        {
-          "uuid": "bdf4d139-41bb-41f7-a20e-6411f840eab4",
-          "username": "StopRain",
-          "delta": 1
-        }
-      ]
-    },
-    {
       "ts": "2026-10-12T09:40:37.068Z",
       "server": "AS7",
       "confirmed": true,
@@ -114,5 +96,5 @@
       ]
     }
   ],
-  "updated": "2026-11-06T10:50:32.416Z"
+  "updated": "2026-11-06T10:55:24.608Z"
 }
