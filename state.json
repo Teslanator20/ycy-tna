@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-08T10:55:25.131Z",
+  "updated": "2026-11-08T11:00:48.504Z",
   "guild": {
     "name": "YuChaYuan",
     "prefix": "YCY",
@@ -7,7 +7,7 @@
     "raidShort": "TNA",
     "color": "#2ca089"
   },
-  "online": 4,
+  "online": 5,
   "memberCount": 96,
   "members": {
     "0aef2f69-7099-4658-ba4a-c8227e3ee974": {
@@ -1042,7 +1042,7 @@
       "baselineTna": 4,
       "baselineTs": "2026-07-24T13:40:33.852Z",
       "gained": 103,
-      "lastSeen": "2026-11-08T10:55:25.131Z",
+      "lastSeen": "2026-11-08T11:00:48.504Z",
       "lastRaid": "2026-11-08T05:20:31.166Z",
       "byDay": {
         "2026-09-09": 16,
@@ -3372,7 +3372,7 @@
       "baselineTna": 1,
       "baselineTs": "2026-09-18T15:20:46.123Z",
       "gained": 18,
-      "lastSeen": "2026-11-08T10:55:25.131Z",
+      "lastSeen": "2026-11-08T11:00:48.504Z",
       "lastRaid": "2026-10-15T16:01:01.074Z",
       "byDay": {
         "2026-09-18": 1,
@@ -3566,7 +3566,7 @@
       "baselineTna": 5,
       "baselineTs": "2026-10-08T15:40:36.192Z",
       "gained": 29,
-      "lastSeen": "2026-11-08T10:55:25.131Z",
+      "lastSeen": "2026-11-08T11:00:48.504Z",
       "lastRaid": "2026-11-04T13:15:37.040Z",
       "byDay": {
         "2026-10-08": 5,
@@ -3606,13 +3606,13 @@
     "bdf4d139-41bb-41f7-a20e-6411f840eab4": {
       "username": "StopRain",
       "rank": "recruit",
-      "online": false,
-      "server": null,
+      "online": true,
+      "server": "AS14",
       "tna": 28,
       "baselineTna": 26,
       "baselineTs": "2026-09-18T07:45:37.390Z",
       "gained": 2,
-      "lastSeen": "2026-11-08T10:50:34.945Z",
+      "lastSeen": "2026-11-08T11:00:48.504Z",
       "lastRaid": "2026-10-07T10:50:44.314Z",
       "byDay": {
         "2026-09-18": 26,
@@ -4659,7 +4659,7 @@
       "baselineTna": 1,
       "baselineTs": "2026-11-03T15:55:30.803Z",
       "gained": 0,
-      "lastSeen": "2026-11-08T10:55:25.131Z",
+      "lastSeen": "2026-11-08T11:00:48.504Z",
       "lastRaid": null,
       "byDay": {
         "2026-11-03": 1,
