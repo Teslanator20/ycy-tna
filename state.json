@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-09T02:25:25.193Z",
+  "updated": "2026-11-09T02:30:44.272Z",
   "guild": {
     "name": "YuChaYuan",
     "prefix": "YCY",
@@ -1254,12 +1254,12 @@
       "username": "Nightstar_TW",
       "rank": "captain",
       "online": true,
-      "server": "NA7",
+      "server": "NA5",
       "tna": 42,
       "baselineTna": 42,
       "baselineTs": "2026-06-06T18:47:42.183Z",
       "gained": 0,
-      "lastSeen": "2026-11-09T02:25:25.193Z",
+      "lastSeen": "2026-11-09T02:30:44.272Z",
       "lastRaid": null,
       "byDay": {
         "2026-09-10": 42,
