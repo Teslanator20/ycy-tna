@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-09T17:20:31.530Z",
+  "updated": "2026-11-09T17:25:27.088Z",
   "guild": {
     "name": "YuChaYuan",
     "prefix": "YCY",
@@ -7,7 +7,7 @@
     "raidShort": "TNA",
     "color": "#2ca089"
   },
-  "online": 4,
+  "online": 5,
   "memberCount": 97,
   "members": {
     "0aef2f69-7099-4658-ba4a-c8227e3ee974": {
@@ -1044,7 +1044,7 @@
       "baselineTna": 4,
       "baselineTs": "2026-07-24T13:40:33.852Z",
       "gained": 108,
-      "lastSeen": "2026-11-09T17:20:31.530Z",
+      "lastSeen": "2026-11-09T17:25:27.088Z",
       "lastRaid": "2026-11-09T16:55:25.851Z",
       "byDay": {
         "2026-09-10": 16,
@@ -3572,7 +3572,7 @@
       "baselineTna": 5,
       "baselineTs": "2026-10-08T15:40:36.192Z",
       "gained": 29,
-      "lastSeen": "2026-11-09T17:20:31.530Z",
+      "lastSeen": "2026-11-09T17:25:27.088Z",
       "lastRaid": "2026-11-04T13:15:37.040Z",
       "byDay": {
         "2026-10-08": 5,
@@ -3619,7 +3619,7 @@
       "baselineTna": 26,
       "baselineTs": "2026-09-18T07:45:37.390Z",
       "gained": 2,
-      "lastSeen": "2026-11-09T17:20:31.530Z",
+      "lastSeen": "2026-11-09T17:25:27.088Z",
       "lastRaid": "2026-10-07T10:50:44.314Z",
       "byDay": {
         "2026-09-18": 26,
@@ -4338,13 +4338,13 @@
     "415b7101-6d90-4d17-ab5c-a92856b645ac": {
       "username": "ShurenChangTW",
       "rank": "recruit",
-      "online": false,
-      "server": null,
+      "online": true,
+      "server": "AS3",
       "tna": null,
       "baselineTna": null,
       "baselineTs": null,
       "gained": 0,
-      "lastSeen": "2026-11-09T15:50:34.716Z",
+      "lastSeen": "2026-11-09T17:25:27.088Z",
       "lastRaid": null,
       "byDay": {}
     },
@@ -4656,12 +4656,12 @@
       "rank": "recruit",
       "online": true,
       "server": "AS3",
-      "tna": 89,
+      "tna": 90,
       "baselineTna": 84,
       "baselineTs": "2026-10-30T13:45:37.782Z",
-      "gained": 5,
-      "lastSeen": "2026-11-09T17:20:31.530Z",
-      "lastRaid": "2026-11-04T19:10:32.095Z",
+      "gained": 6,
+      "lastSeen": "2026-11-09T17:25:27.088Z",
+      "lastRaid": "2026-11-09T17:25:27.088Z",
       "byDay": {
         "2026-10-30": 87,
         "2026-10-31": 87,
@@ -4673,7 +4673,7 @@
         "2026-11-06": 89,
         "2026-11-07": 89,
         "2026-11-08": 89,
-        "2026-11-09": 89
+        "2026-11-09": 90
       }
     },
     "165f669c-74c9-44ca-b0ac-4afcdcc1a4d3": {
