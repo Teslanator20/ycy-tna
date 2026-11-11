@@ -1,24 +1,6 @@
 {
   "runs": [
     {
-      "ts": "2026-10-12T09:40:37.068Z",
-      "server": "AS7",
-      "confirmed": true,
-      "crowded": false,
-      "players": [
-        {
-          "uuid": "0aef2f69-7099-4658-ba4a-c8227e3ee974",
-          "username": "NOT_Joker",
-          "delta": 3
-        },
-        {
-          "uuid": "e1c4ea28-f56d-4c80-aa39-847334e10832",
-          "username": "allenYue",
-          "delta": 3
-        }
-      ]
-    },
-    {
       "ts": "2026-10-15T16:01:01.074Z",
       "server": "AS18",
       "confirmed": true,
@@ -96,5 +78,5 @@
       ]
     }
   ],
-  "updated": "2026-11-11T09:40:32.858Z"
+  "updated": "2026-11-11T09:45:31.714Z"
 }
