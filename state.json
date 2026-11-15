@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-15T16:45:32.152Z",
+  "updated": "2026-11-15T16:50:33.362Z",
   "guild": {
     "name": "YuChaYuan",
     "prefix": "YCY",
@@ -4276,7 +4276,7 @@
       "baselineTna": 3,
       "baselineTs": "2026-11-15T11:00:51.471Z",
       "gained": 0,
-      "lastSeen": "2026-11-15T16:45:32.152Z",
+      "lastSeen": "2026-11-15T16:50:33.362Z",
       "lastRaid": null,
       "byDay": {
         "2026-11-15": 3
@@ -4291,7 +4291,7 @@
       "baselineTna": null,
       "baselineTs": null,
       "gained": 0,
-      "lastSeen": "2026-11-15T16:45:32.152Z",
+      "lastSeen": "2026-11-15T16:50:33.362Z",
       "lastRaid": null,
       "byDay": {}
     },
@@ -4634,12 +4634,12 @@
       "username": "CC_KayOWO",
       "rank": "recruit",
       "online": true,
-      "server": "AS6",
+      "server": "AS9",
       "tna": 10,
       "baselineTna": 10,
       "baselineTs": "2026-11-04T04:15:37.820Z",
       "gained": 0,
-      "lastSeen": "2026-11-15T16:45:32.152Z",
+      "lastSeen": "2026-11-15T16:50:33.362Z",
       "lastRaid": null,
       "byDay": {
         "2026-11-04": 10,
