@@ -3978,10 +3978,10 @@
     "415b7101-6d90-4d17-ab5c-a92856b645ac|4791eb57-3607-4647-8d4f-59aaa879c5a4": {
       "a": "415b7101-6d90-4d17-ab5c-a92856b645ac",
       "b": "4791eb57-3607-4647-8d4f-59aaa879c5a4",
-      "samples": 61,
+      "samples": 62,
       "usernameA": "ShurenChangTW",
       "usernameB": "0110jimmy",
-      "lastTs": "2026-11-15T14:15:33.360Z"
+      "lastTs": "2026-11-15T14:20:33.049Z"
     },
     "4791eb57-3607-4647-8d4f-59aaa879c5a4|9ae6255e-35dd-4c80-9808-3985ddcb8fcc": {
       "a": "4791eb57-3607-4647-8d4f-59aaa879c5a4",
@@ -4466,11 +4466,11 @@
     "365cbbc3-e56a-42f1-8f7c-4eb9914512bf|72a0d7d4-13c8-49c6-8296-2a699fabd89a": {
       "a": "365cbbc3-e56a-42f1-8f7c-4eb9914512bf",
       "b": "72a0d7d4-13c8-49c6-8296-2a699fabd89a",
-      "samples": 2,
+      "samples": 3,
       "usernameA": "UUUUUZii_",
       "usernameB": "MinerBlackcat",
-      "lastTs": "2026-11-15T14:15:33.360Z"
+      "lastTs": "2026-11-15T14:20:33.049Z"
     }
   },
-  "updated": "2026-11-15T14:15:33.360Z"
+  "updated": "2026-11-15T14:20:33.049Z"
 }
