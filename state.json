@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-16T13:45:31.905Z",
+  "updated": "2026-11-16T13:50:33.130Z",
   "guild": {
     "name": "YuChaYuan",
     "prefix": "YCY",
@@ -2021,19 +2021,6 @@
         "2026-11-16": 6
       }
     },
-    "fb41e523-edef-4b0b-ac32-d96139f8e64e": {
-      "username": "Smellybird_",
-      "rank": "captain",
-      "online": false,
-      "server": null,
-      "tna": null,
-      "baselineTna": null,
-      "baselineTs": null,
-      "gained": 0,
-      "lastSeen": "2026-08-20T07:10:35.836Z",
-      "lastRaid": null,
-      "byDay": {}
-    },
     "ff4ab2eb-5610-4160-a64a-eee42bd7fa47": {
       "username": "TNTLoveMe",
       "rank": "captain",
@@ -2108,6 +2095,19 @@
         "2026-11-15": 942,
         "2026-11-16": 942
       }
+    },
+    "fb41e523-edef-4b0b-ac32-d96139f8e64e": {
+      "username": "Smellybird_",
+      "rank": "captain",
+      "online": false,
+      "server": null,
+      "tna": null,
+      "baselineTna": null,
+      "baselineTs": null,
+      "gained": 0,
+      "lastSeen": "2026-08-20T07:10:35.836Z",
+      "lastRaid": null,
+      "byDay": {}
     },
     "657bf211-002f-4f67-baa8-993c272b9208": {
       "username": "Totaliu",
@@ -4594,7 +4594,7 @@
       "baselineTna": 84,
       "baselineTs": "2026-10-30T13:45:37.782Z",
       "gained": 6,
-      "lastSeen": "2026-11-16T13:45:31.905Z",
+      "lastSeen": "2026-11-16T13:50:33.130Z",
       "lastRaid": "2026-11-09T17:25:27.088Z",
       "byDay": {
         "2026-10-30": 87,
