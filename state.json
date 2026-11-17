@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-17T00:30:44.299Z",
+  "updated": "2026-11-17T00:35:26.783Z",
   "guild": {
     "name": "YuChaYuan",
     "prefix": "YCY",
@@ -822,7 +822,7 @@
       "baselineTna": 55,
       "baselineTs": "2026-06-06T18:47:42.183Z",
       "gained": 0,
-      "lastSeen": "2026-11-17T00:30:44.299Z",
+      "lastSeen": "2026-11-17T00:35:26.783Z",
       "lastRaid": null,
       "byDay": {
         "2026-09-18": 55,
@@ -4300,7 +4300,7 @@
       "baselineTna": 3,
       "baselineTs": "2026-11-15T11:00:51.471Z",
       "gained": 0,
-      "lastSeen": "2026-11-17T00:30:44.299Z",
+      "lastSeen": "2026-11-17T00:35:26.783Z",
       "lastRaid": null,
       "byDay": {
         "2026-11-15": 3,
