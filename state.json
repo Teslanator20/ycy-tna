@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-17T01:10:32.014Z",
+  "updated": "2026-11-17T01:15:39.566Z",
   "guild": {
     "name": "YuChaYuan",
     "prefix": "YCY",
@@ -7,7 +7,7 @@
     "raidShort": "TNA",
     "color": "#2ca089"
   },
-  "online": 2,
+  "online": 3,
   "memberCount": 90,
   "members": {
     "0aef2f69-7099-4658-ba4a-c8227e3ee974": {
@@ -817,12 +817,12 @@
       "username": "Aye_OwO",
       "rank": "strategist",
       "online": true,
-      "server": "NA20",
+      "server": "NA5",
       "tna": 55,
       "baselineTna": 55,
       "baselineTs": "2026-06-06T18:47:42.183Z",
       "gained": 0,
-      "lastSeen": "2026-11-17T01:10:32.014Z",
+      "lastSeen": "2026-11-17T01:15:39.566Z",
       "lastRaid": null,
       "byDay": {
         "2026-09-18": 55,
@@ -1116,8 +1116,8 @@
     "e1c4ea28-f56d-4c80-aa39-847334e10832": {
       "username": "allenYue",
       "rank": "captain",
-      "online": true,
-      "server": "AS7",
+      "online": false,
+      "server": null,
       "tna": 58,
       "baselineTna": 3,
       "baselineTs": "2026-09-20T08:05:31.932Z",
@@ -3380,13 +3380,13 @@
     "35a6a719-027c-4c77-b7be-1ecc7458b8bd": {
       "username": "Tomzd90",
       "rank": "recruit",
-      "online": false,
-      "server": null,
+      "online": true,
+      "server": "AS7",
       "tna": 19,
       "baselineTna": 1,
       "baselineTs": "2026-09-18T15:20:46.123Z",
       "gained": 18,
-      "lastSeen": "2026-11-16T16:35:25.364Z",
+      "lastSeen": "2026-11-17T01:15:39.566Z",
       "lastRaid": "2026-10-15T16:01:01.074Z",
       "byDay": {
         "2026-09-18": 1,
@@ -4294,13 +4294,13 @@
     "365cbbc3-e56a-42f1-8f7c-4eb9914512bf": {
       "username": "UUUUUZii_",
       "rank": "recruit",
-      "online": false,
-      "server": null,
+      "online": true,
+      "server": "AS2",
       "tna": 3,
       "baselineTna": 3,
       "baselineTs": "2026-11-15T11:00:51.471Z",
       "gained": 0,
-      "lastSeen": "2026-11-17T00:55:30.854Z",
+      "lastSeen": "2026-11-17T01:15:39.566Z",
       "lastRaid": null,
       "byDay": {
         "2026-11-15": 3,
