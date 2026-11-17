@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-17T05:45:31.860Z",
+  "updated": "2026-11-17T05:50:32.719Z",
   "guild": {
     "name": "YuChaYuan",
     "prefix": "YCY",
@@ -817,12 +817,12 @@
       "username": "Aye_OwO",
       "rank": "strategist",
       "online": true,
-      "server": "AS3",
+      "server": "NA27",
       "tna": 55,
       "baselineTna": 55,
       "baselineTs": "2026-06-06T18:47:42.183Z",
       "gained": 0,
-      "lastSeen": "2026-11-17T05:45:31.860Z",
+      "lastSeen": "2026-11-17T05:50:32.719Z",
       "lastRaid": null,
       "byDay": {
         "2026-09-18": 55,
@@ -4607,7 +4607,7 @@
       "baselineTna": 84,
       "baselineTs": "2026-10-30T13:45:37.782Z",
       "gained": 8,
-      "lastSeen": "2026-11-17T05:45:31.860Z",
+      "lastSeen": "2026-11-17T05:50:32.719Z",
       "lastRaid": "2026-11-16T15:55:27.367Z",
       "byDay": {
         "2026-10-30": 87,
