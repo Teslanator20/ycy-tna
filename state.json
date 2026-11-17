@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-17T12:35:24.518Z",
+  "updated": "2026-11-17T12:40:31.986Z",
   "guild": {
     "name": "YuChaYuan",
     "prefix": "YCY",
@@ -14,12 +14,12 @@
       "username": "NOT_Joker",
       "rank": "owner",
       "online": true,
-      "server": "EU22",
+      "server": "EU21",
       "tna": 2317,
       "baselineTna": 2303,
       "baselineTs": "2026-09-24T02:25:30.754Z",
       "gained": 14,
-      "lastSeen": "2026-11-17T12:35:24.518Z",
+      "lastSeen": "2026-11-17T12:40:31.986Z",
       "lastRaid": "2026-11-10T12:50:32.615Z",
       "byDay": {
         "2026-09-24": 2303,
@@ -4640,7 +4640,7 @@
       "baselineTna": 1,
       "baselineTs": "2026-11-03T15:55:30.803Z",
       "gained": 0,
-      "lastSeen": "2026-11-17T12:35:24.518Z",
+      "lastSeen": "2026-11-17T12:40:31.986Z",
       "lastRaid": null,
       "byDay": {
         "2026-11-03": 1,
@@ -4669,7 +4669,7 @@
       "baselineTna": 10,
       "baselineTs": "2026-11-04T04:15:37.820Z",
       "gained": 0,
-      "lastSeen": "2026-11-17T12:35:24.518Z",
+      "lastSeen": "2026-11-17T12:40:31.986Z",
       "lastRaid": null,
       "byDay": {
         "2026-11-04": 10,
