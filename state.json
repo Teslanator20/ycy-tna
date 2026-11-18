@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-18T06:45:30.438Z",
+  "updated": "2026-11-18T06:50:37.595Z",
   "guild": {
     "name": "YuChaYuan",
     "prefix": "YCY",
@@ -7,7 +7,7 @@
     "raidShort": "TNA",
     "color": "#2ca089"
   },
-  "online": 0,
+  "online": 1,
   "memberCount": 90,
   "members": {
     "0aef2f69-7099-4658-ba4a-c8227e3ee974": {
@@ -559,13 +559,13 @@
     "2f160f8d-dbaa-456d-b40d-78cbbd5bd0b8": {
       "username": "WD69",
       "rank": "chief",
-      "online": false,
-      "server": null,
+      "online": true,
+      "server": "AS9",
       "tna": 307,
       "baselineTna": 307,
       "baselineTs": "2026-06-06T18:47:42.183Z",
       "gained": 0,
-      "lastSeen": null,
+      "lastSeen": "2026-11-18T06:50:37.595Z",
       "lastRaid": null,
       "byDay": {
         "2026-09-19": 307,
