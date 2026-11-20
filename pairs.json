@@ -4526,7 +4526,15 @@
       "usernameA": "o0Amy0o",
       "usernameB": "MH8",
       "lastTs": "2026-11-19T14:25:25.230Z"
+    },
+    "17fce807-2718-4cb8-b0b9-c6464725dcf5|b0458dac-f293-4f08-9757-4044a41f86b8": {
+      "a": "17fce807-2718-4cb8-b0b9-c6464725dcf5",
+      "b": "b0458dac-f293-4f08-9757-4044a41f86b8",
+      "samples": 1,
+      "usernameA": "MH8",
+      "usernameB": "CC_KayOWO",
+      "lastTs": "2026-11-20T00:00:48.812Z"
     }
   },
-  "updated": "2026-11-19T23:55:25.726Z"
+  "updated": "2026-11-20T00:00:48.812Z"
 }
