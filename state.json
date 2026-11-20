@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-20T11:55:28.246Z",
+  "updated": "2026-11-20T12:00:55.040Z",
   "guild": {
     "name": "YuChaYuan",
     "prefix": "YCY",
@@ -3302,16 +3302,16 @@
       "rank": "recruiter",
       "online": true,
       "server": "NA8",
-      "tna": 6,
+      "tna": 7,
       "baselineTna": 4,
       "baselineTs": "2026-11-18T07:20:30.285Z",
-      "gained": 2,
-      "lastSeen": "2026-11-20T11:55:28.246Z",
-      "lastRaid": "2026-11-19T12:55:25.840Z",
+      "gained": 3,
+      "lastSeen": "2026-11-20T12:00:55.040Z",
+      "lastRaid": "2026-11-20T12:00:55.040Z",
       "byDay": {
         "2026-11-18": 5,
         "2026-11-19": 6,
-        "2026-11-20": 6
+        "2026-11-20": 7
       }
     },
     "563b1bac-17e9-4ce9-95b1-3504cb9525ec": {
@@ -3411,7 +3411,7 @@
       "baselineTna": 1,
       "baselineTs": "2026-09-18T15:20:46.123Z",
       "gained": 18,
-      "lastSeen": "2026-11-20T11:55:28.246Z",
+      "lastSeen": "2026-11-20T12:00:55.040Z",
       "lastRaid": "2026-10-15T16:01:01.074Z",
       "byDay": {
         "2026-09-21": 4,
@@ -4722,7 +4722,7 @@
       "baselineTna": 10,
       "baselineTs": "2026-11-04T04:15:37.820Z",
       "gained": 0,
-      "lastSeen": "2026-11-20T11:55:28.246Z",
+      "lastSeen": "2026-11-20T12:00:55.040Z",
       "lastRaid": null,
       "byDay": {
         "2026-11-04": 10,
