@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-21T01:30:41.551Z",
+  "updated": "2026-11-21T01:35:25.123Z",
   "guild": {
     "name": "YuChaYuan",
     "prefix": "YCY",
@@ -7,7 +7,7 @@
     "raidShort": "TNA",
     "color": "#2ca089"
   },
-  "online": 1,
+  "online": 0,
   "memberCount": 91,
   "members": {
     "0aef2f69-7099-4658-ba4a-c8227e3ee974": {
@@ -236,8 +236,8 @@
     "497f4a05-e2e7-4e0b-97f5-bc1fdf4c7522": {
       "username": "MrMud8033112",
       "rank": "chief",
-      "online": true,
-      "server": "AS2",
+      "online": false,
+      "server": null,
       "tna": 242,
       "baselineTna": 242,
       "baselineTs": "2026-06-06T18:47:42.183Z",
