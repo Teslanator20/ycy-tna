@@ -4582,7 +4582,15 @@
       "usernameA": "MH8",
       "usernameB": "Ivan1119",
       "lastTs": "2026-11-22T12:40:36.601Z"
+    },
+    "72a0d7d4-13c8-49c6-8296-2a699fabd89a|e4a23668-57d7-4f17-b58f-4a0fd17870ec": {
+      "a": "72a0d7d4-13c8-49c6-8296-2a699fabd89a",
+      "b": "e4a23668-57d7-4f17-b58f-4a0fd17870ec",
+      "samples": 1,
+      "usernameA": "MinerBlackcat",
+      "usernameB": "woody123_is_god",
+      "lastTs": "2026-11-22T15:25:27.171Z"
     }
   },
-  "updated": "2026-11-22T15:20:35.645Z"
+  "updated": "2026-11-22T15:25:27.171Z"
 }
