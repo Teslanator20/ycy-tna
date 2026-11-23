@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-23T12:35:26.729Z",
+  "updated": "2026-11-23T12:40:38.519Z",
   "guild": {
     "name": "YuChaYuan",
     "prefix": "YCY",
@@ -7,7 +7,7 @@
     "raidShort": "TNA",
     "color": "#2ca089"
   },
-  "online": 6,
+  "online": 4,
   "memberCount": 91,
   "members": {
     "0aef2f69-7099-4658-ba4a-c8227e3ee974": {
@@ -828,8 +828,8 @@
     "1977ba0b-2c0c-4274-bf99-5d51519f06f4": {
       "username": "Aye_OwO",
       "rank": "strategist",
-      "online": true,
-      "server": "AS2",
+      "online": false,
+      "server": null,
       "tna": 55,
       "baselineTna": 55,
       "baselineTs": "2026-06-06T18:47:42.183Z",
@@ -3299,7 +3299,7 @@
       "baselineTna": 4,
       "baselineTs": "2026-11-18T07:20:30.285Z",
       "gained": 6,
-      "lastSeen": "2026-11-23T12:35:26.729Z",
+      "lastSeen": "2026-11-23T12:40:38.519Z",
       "lastRaid": "2026-11-22T12:50:35.615Z",
       "byDay": {
         "2026-11-18": 5,
@@ -3420,7 +3420,7 @@
       "baselineTna": 1,
       "baselineTs": "2026-09-18T15:20:46.123Z",
       "gained": 18,
-      "lastSeen": "2026-11-23T12:35:26.729Z",
+      "lastSeen": "2026-11-23T12:40:38.519Z",
       "lastRaid": "2026-10-15T16:01:01.074Z",
       "byDay": {
         "2026-09-24": 6,
@@ -3645,7 +3645,7 @@
       "baselineTna": 5,
       "baselineTs": "2026-10-08T15:40:36.192Z",
       "gained": 48,
-      "lastSeen": "2026-11-23T12:35:26.729Z",
+      "lastSeen": "2026-11-23T12:40:38.519Z",
       "lastRaid": "2026-11-18T19:35:25.635Z",
       "byDay": {
         "2026-10-08": 5,
@@ -4366,7 +4366,7 @@
       "baselineTna": 3,
       "baselineTs": "2026-11-15T11:00:51.471Z",
       "gained": 17,
-      "lastSeen": "2026-11-23T12:35:26.729Z",
+      "lastSeen": "2026-11-23T12:40:38.519Z",
       "lastRaid": "2026-11-23T02:45:32.741Z",
       "byDay": {
         "2026-11-15": 3,
@@ -4747,8 +4747,8 @@
     "b0458dac-f293-4f08-9757-4044a41f86b8": {
       "username": "CC_KayOWO",
       "rank": "recruit",
-      "online": true,
-      "server": "AS11",
+      "online": false,
+      "server": null,
       "tna": 10,
       "baselineTna": 10,
       "baselineTs": "2026-11-04T04:15:37.820Z",
