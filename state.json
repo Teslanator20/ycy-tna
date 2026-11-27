@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-27T15:35:29.616Z",
+  "updated": "2026-11-27T15:40:37.518Z",
   "guild": {
     "name": "YuChaYuan",
     "prefix": "YCY",
@@ -7,7 +7,7 @@
     "raidShort": "TNA",
     "color": "#2ca089"
   },
-  "online": 0,
+  "online": 1,
   "memberCount": 90,
   "members": {
     "0aef2f69-7099-4658-ba4a-c8227e3ee974": {
@@ -1344,13 +1344,13 @@
     "d3062613-f674-46dd-b5d7-9e75c39d8f31": {
       "username": "Coffee96357412",
       "rank": "captain",
-      "online": false,
-      "server": null,
+      "online": true,
+      "server": "AS15",
       "tna": 2,
       "baselineTna": 2,
       "baselineTs": "2026-06-13T10:50:26.428Z",
       "gained": 0,
-      "lastSeen": "2026-11-27T11:45:33.148Z",
+      "lastSeen": "2026-11-27T15:40:37.518Z",
       "lastRaid": null,
       "byDay": {
         "2026-09-28": 2,
