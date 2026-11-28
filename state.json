@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-28T01:50:37.498Z",
+  "updated": "2026-11-28T01:55:27.204Z",
   "guild": {
     "name": "YuChaYuan",
     "prefix": "YCY",
@@ -4779,12 +4779,12 @@
       "username": "CC_KayOWO",
       "rank": "recruit",
       "online": true,
-      "server": "NA8",
+      "server": "NA5",
       "tna": 10,
       "baselineTna": 10,
       "baselineTs": "2026-11-04T04:15:37.820Z",
       "gained": 0,
-      "lastSeen": "2026-11-28T01:50:37.498Z",
+      "lastSeen": "2026-11-28T01:55:27.204Z",
       "lastRaid": null,
       "byDay": {
         "2026-11-04": 10,
